@@ -8,7 +8,7 @@
   "path": "/argentina/",
   "dek": "Buenos Aires Observatorio, WMO 87585. Patagonia is not this table.",
   "paragraphs": [
-    "The reference station is Buenos Aires Observatorio, WMO 87585, height 25 m. Aeroparque and Ezeiza have separate files and were not averaged in. The seasons are reversed from the northern hemisphere: January is midsummer. No driving statute or tourism-office tipping page was opened on this pass.",
+    "The reference station is Buenos Aires Observatorio, WMO 87585, height 25 m. Aeroparque and Ezeiza have separate files and were not averaged in. The seasons are reversed from the northern hemisphere: January is midsummer. No official driving-side source was found on this pass.",
     "The highest average high in the table is 30.1 °C, in January. The lowest average low is 7.5 °C, in July. The wettest month by the precipitation column is January, at 134.4 mm, and the driest is June, at 61.5 mm."
   ],
   "climate": {
@@ -121,7 +121,14 @@
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
   "driving": null,
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not obligatory; about 10% is usual",
+    "detail": "Argentina.travel, the national tourism promotion institute's site, in a 5 October 2026 note on bars and restaurants, says a tip is not obligatory, that the usual amount is 10% of the bill, and that it can be left in cash, by card, or by transfer.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Argentina.travel (INPROTUR), cuánta propina hay que dejar en un bar o restaurante",
+    "sourceUrl": "https://www.argentina.travel/novedades/cuanta-propina-hay-que-dejar-en-un-bar-o-restaurante-en-argentina"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

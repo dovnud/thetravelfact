@@ -8,7 +8,7 @@
   "path": "/peru/",
   "dek": "Granja Kcayra, at 3,214 m in the Cusco region. Lima is not in the file set.",
   "paragraphs": [
-    "Lima has no file in the Peruvian 1991–2020 submission. The reference station is Granja Kcayra, number 34001 in the file, height 3214 m, position 13°33′24″S, 71°52′31″W, in the Cusco region. It is a highland table; the coast is not this. No driving statute or tourism-office tipping page was opened on this pass.",
+    "Lima has no file in the Peruvian 1991–2020 submission. The reference station is Granja Kcayra, number 34001 in the file, height 3214 m, position 13°33′24″S, 71°52′31″W, in the Cusco region. It is a highland table; the coast is not this. No official driving-side source was found on this pass.",
     "The highest average high in the table is 22.2 °C, in November. The lowest average low is -1.3 °C, in July. The wettest month by the precipitation column is January, at 145.8 mm, and the driest is June, at 3.7 mm."
   ],
   "climate": {
@@ -121,7 +121,14 @@
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
   "driving": null,
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "About 10% in restaurants, no set amount",
+    "detail": "PROMPERÚ's Peru.travel travel tips say there is no pre-established amount for gratuities and that, generally, 10% of the check is considered adequate.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Peru.travel (PROMPERÚ), travel tips",
+    "sourceUrl": "https://www.peru.travel/yourperfectperu/about-peru/travel-tips"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

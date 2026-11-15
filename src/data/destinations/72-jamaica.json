@@ -8,7 +8,7 @@
   "path": "/jamaica/",
   "dek": "Kingston Norman Manley, WMO 78397, at 3 m.",
   "paragraphs": [
-    "The reference station is Kingston Norman Manley, WMO 78397, height 3 m. Montego Bay Sangster is the other file in the Jamaican submission and was not averaged in. No driving statute or tourism-office tipping page was opened for Jamaica on this pass, so those lines are missing.",
+    "The reference station is Kingston Norman Manley, WMO 78397, height 3 m. Montego Bay Sangster is the other file in the Jamaican submission and was not averaged in. Jamaica drives on the left. No official tipping guidance was found, so that line is missing.",
     "The highest average high in the table is 33.1 °C, in July and August. The lowest average low is 22.8 °C, in February. The wettest month by the precipitation column is September, at 184.7 mm, and the driest is February, at 8.8 mm."
   ],
   "climate": {
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Jamaica Tourist Board's Visit Jamaica FAQ says: \"Here on the island, we drive on the left side of the road.\"",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit Jamaica, frequently asked questions",
+    "sourceUrl": "https://www.visitjamaica.com/plan-your-adventure/travel-tips/faq/"
+  },
   "tipping": null,
   "water": {
     "label": "Tap water",

@@ -9,7 +9,7 @@
   "dek": "El Dorado CATAM (AUT), Bogotá, at 2,547 m. Not the Caribbean coast.",
   "paragraphs": [
     "The reference station is El Dorado CATAM (AUT), number 21205791 in the file's station field, height 2547 m. Bogotá sits high, so it is cool all year; Cartagena and the coast are not this table. The Colombian submission has hundreds of stations, and none were averaged.",
-    "The highest average high in the table is 20.18 °C, in February. The lowest average low is 6.41 °C, in January. The wettest month by the precipitation column is April, at 116.71 mm, and the driest is January, at 32.89 mm. No tourism-office tipping page was opened for Colombia on this pass."
+    "The highest average high in the table is 20.18 °C, in February. The lowest average low is 6.41 °C, in January. The wettest month by the precipitation column is April, at 116.71 mm, and the driest is January, at 32.89 mm."
   ],
   "climate": {
     "caption": "Reference station: El Dorado CATAM (AUT), Bogotá. Not the coast and not a national average.",
@@ -128,7 +128,14 @@
     "sourceTitle": "Ley 769 de 2002, artículo 68, Secretaría del Senado",
     "sourceUrl": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0769_2002_pr001.html"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Voluntary; a suggested tip is at most 10%",
+    "detail": "The Superintendencia de Industria y Comercio says tipping is voluntary, that an establishment may suggest a tip of no more than 10% of the value of the service, and that it must ask the customer before including it in the bill.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Superintendencia de Industria y Comercio, instrucciones sobre propinas",
+    "sourceUrl": "https://sedeelectronica.sic.gov.co/noticias/superindustria-actualiza-las-instrucciones-sobre-propinas-en-colombia"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

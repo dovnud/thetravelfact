@@ -8,7 +8,7 @@
   "path": "/panama/",
   "dek": "No climate table yet. The facts below are sourced; the months are blank.",
   "paragraphs": [
-    "Panama is not in the NOAA NCEI 1991–2020 collection, and no 1991–2020 monthly normal from the national met institute was found on this pass, so the climate cells are blank. ISO 4217 lists two currencies for Panama, the Balboa and the US Dollar, and both are printed. No driving statute or tourism-office tipping page was opened on this pass."
+    "Panama is not in the NOAA NCEI 1991–2020 collection, and no 1991–2020 monthly normal from the national met institute was found on this pass, so the climate cells are blank. ISO 4217 lists two currencies for Panama, the Balboa and the US Dollar, and both are printed. No official driving-side source was found on this pass."
   ],
   "climate": {
     "caption": "No 1991–2020 month table is printed for Panama.",
@@ -120,7 +120,14 @@
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
   "driving": null,
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Voluntary; cannot be charged unless agreed",
+    "detail": "Panama's government procedures portal, on the consumer agency ACODECO's tip complaint, says a tip is voluntary and cannot be added as a charge unless the service was contracted in advance; it may be suggested if the invoice shows the total. It gives no percentage.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Panamá Digital (ACODECO), denuncia por propina",
+    "sourceUrl": "https://www.panamadigital.gob.pa/InformacionTramite/denuncia-por-propina"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

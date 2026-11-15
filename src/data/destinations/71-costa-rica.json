@@ -8,7 +8,7 @@
   "path": "/costa-rica/",
   "dek": "Juan Santamaría International Airport, WMO 78762, in the Central Valley.",
   "paragraphs": [
-    "The reference station is Juan Santamaría International Airport, WMO 78762, height 913 m. The Costa Rican submission also has Tobías Bolaños, Daniel Oduber (Liberia), and Puerto Limón; none were averaged in. The precipitation row counts 29 years. No driving statute was opened for Costa Rica on this pass.",
+    "The reference station is Juan Santamaría International Airport, WMO 78762, height 913 m. The Costa Rican submission also has Tobías Bolaños, Daniel Oduber (Liberia), and Puerto Limón; none were averaged in. The precipitation row counts 29 years. The highs were checked against the Instituto Meteorológico Nacional's own airport climatology and agree within about half a degree. No official driving-side source for Costa Rica was found on this pass.",
     "The highest average high in the table is 33.1 °C, in April. The lowest average low is 15.0 °C, in January and February. The wettest month by the precipitation column is September, at 320.0 mm, and the driest is January, at 7.9 mm."
   ],
   "climate": {
@@ -106,7 +106,7 @@
         "precip": null
       }
     ],
-    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. The file prints the position to the minute only, 09°59′N and 084°10′W. Its precipitation number-of-years row reads 29.",
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. The file prints the position to the minute only, 09°59′N and 084°10′W. Its precipitation number-of-years row reads 29. The highs were checked against the Instituto Meteorológico Nacional's aeronautical climatology for the airport (2010–2025 daily data), whose average maximums run 29.9–33.1 °C, also peaking at 33.1 °C in April; that table covers a different period and was not mixed in.",
     "sourceTitle": "WMO climate normals 1991-2020, Juan Santamaría International Airport (78762)",
     "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/CostaRica/CSV/JuanSantamariaInternationalAirport_78762.csv",
     "asOf": "2026-11-15"

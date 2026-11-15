@@ -8,7 +8,7 @@
   "path": "/bahamas/",
   "dek": "Lynden Pindling International Airport, WMO 78073, Nassau.",
   "paragraphs": [
-    "The only station in the Bahamas submission is Lynden Pindling International Airport, WMO 78073, height 8 m, on New Providence. The Out Islands are not in the file. No driving statute was opened for the Bahamas on this pass.",
+    "The only station in the Bahamas submission is Lynden Pindling International Airport, WMO 78073, height 8 m, on New Providence. The Out Islands are not in the file. The Bahamas drives on the left.",
     "The highest average high in the table is 32.8 °C, in August. The lowest average low is 18.2 °C, in January. The wettest month by the precipitation column is June, at 220.0 mm, and the driest is December, at 43.2 mm."
   ],
   "climate": {
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Bahamas Ministry of Tourism FAQ says UK rules apply in The Bahamas, \"so please drive on the left and be very careful on the roundabouts.\"",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Bahamas.com, island FAQ",
+    "sourceUrl": "https://www.bahamas.com/plan-your-trip/island-faq"
+  },
   "tipping": {
     "label": "Tipping",
     "value": "15% for most servers; check the bill",
