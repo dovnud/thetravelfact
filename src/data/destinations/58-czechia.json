@@ -1,0 +1,178 @@
+{
+  "order": 58,
+  "id": "czechia",
+  "kind": "country",
+  "name": "Czechia",
+  "countrySlug": "czechia",
+  "countryName": "Czechia",
+  "path": "/czechia/",
+  "dek": "Praha/Libuš, WMO 11520. The file says CZECH_REPUBLIC. Not Ruzyně, and not a national average.",
+  "paragraphs": [
+    "The table is Praha/Libuš, WMO 11520, height 302.04 m. The submission's country name is CZECH_REPUBLIC. Praha/Ruzyně, WMO 11518, is the airport file. Praha/Kbely, WMO 11567, is another Prague file. Neither was averaged with Libuš. Brno, Ostrava, and the other Czech stations are not this table.",
+    "July and August tie for the highest average high. February is the lightest precipitation month. The IEC line uses the name Czech Republic for the same plug standard. The zone row is shared with Slovakia in zone1970.tab, and the sheet says so."
+  ],
+  "climate": {
+    "caption": "Reference station: Praha/Libuš, WMO 11520. The file's country name is CZECH_REPUBLIC. Not a national average.",
+    "stationName": "Praha/Libuš",
+    "stationId": "WMO 11520",
+    "period": "1991-2020",
+    "elevation": "302.04 m",
+    "latitude": "50|00|28|N",
+    "longitude": "014|26|49|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "2.7",
+        "low": "-2.4",
+        "rain": "25.4",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "4.7",
+        "low": "-1.9",
+        "rain": "21.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "9.3",
+        "low": "0.9",
+        "rain": "31",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "15.4",
+        "low": "4.6",
+        "rain": "26.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "20.1",
+        "low": "8.9",
+        "rain": "67",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "23.5",
+        "low": "12.5",
+        "rain": "77.7",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "25.7",
+        "low": "14.2",
+        "rain": "74.9",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "25.7",
+        "low": "13.8",
+        "rain": "76.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "20.1",
+        "low": "9.9",
+        "rain": "41.8",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "13.9",
+        "low": "5.8",
+        "rain": "36",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "7.4",
+        "low": "2",
+        "rain": "30.2",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "3.5",
+        "low": "-1.2",
+        "rain": "28.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed. Praha/Ruzyně (WMO 11518) and Praha/Kbely (WMO 11567) are separate Prague files and were not averaged with Libuš.",
+    "sourceTitle": "WMO climate normals 1991-2020, Praha/Libus (11520)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/CzechRepublic/CSV/PrahaLibus_11520.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and E, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows the Czech Republic at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read. The IEC country name on that line is Czech Republic. This sheet uses Czechia for the place and does not treat the two names as two plug standards.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Section 11(1) of Act No. 361/2000 Coll., on road traffic, in the consolidated text on Zákony pro lidi, says traffic on a road keeps to the right and, unless special circumstances prevent it and unless a rule provides otherwise, at the right edge of the carriageway. The site is a consolidation, not the official collection. The sentence is the one printed there for § 11(1).",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Act No. 361/2000 Coll., § 11, Zákony pro lidi",
+    "sourceUrl": "https://www.zakonyprolidi.cz/cs/2000-361#p11"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Czechia, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Czechia",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/czechia"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Czech Koruna (CZK)",
+    "detail": "ISO 4217 lists the currency name Czech Koruna and the code CZK for Czechia.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Prague",
+    "detail": "IANA's zone.tab gives Czechia one row, Europe/Prague. zone1970.tab puts Czechia on the same row as Slovakia, named Europe/Prague. The backward file links Europe/Bratislava to Europe/Prague. Czechia has no second row. The shared row is not a description of Prague as Bratislava.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs of the Czech Republic",
+    "url": "https://mzv.gov.cz/jnp/en/information_for_aliens/index.html",
+    "note": "The foreign ministry's entry and residence page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

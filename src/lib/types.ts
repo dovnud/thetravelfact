@@ -62,7 +62,7 @@ export interface Destination {
   climate: Climate;
   season: string[];
   plugs: Fact;
-  driving: Fact;
+  driving: Fact | null;
   tipping: Fact | null;
   water: Fact;
   currency: Fact;

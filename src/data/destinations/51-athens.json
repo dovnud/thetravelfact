@@ -1,0 +1,166 @@
+{
+  "order": 51,
+  "id": "athens",
+  "kind": "city",
+  "name": "Athens",
+  "countrySlug": "greece",
+  "countryName": "Greece",
+  "path": "/greece/athens/",
+  "dek": "The 1991–2020 table was not copied. Hellinikon's older page is a different period.",
+  "paragraphs": [
+    "Athens does not have a station file in the NOAA NCEI 1991–2020 set, because Greece has no folder there. The HNMS city climatology that was opened for Elliniko states the period 1955–2010 and an altitude of 43 m. Those numbers are not a 1991–2020 normal, so the cells stay blank. The observatory's 2021 article describes Thissio and prints a table as an image. It was not transcribed, for the reason on the country sheet.",
+    "Europe/Athens is the only Greek zone in the IANA files, and it covers this city. The sheet does not invent a driving side or a tip. The foreign ministry's visa section is linked and not rewritten."
+  ],
+  "climate": {
+    "caption": "No 1991–2020 month table is printed for Athens. The observatory image was not transcribed, and the 1955–2010 Hellinikon page is a different period.",
+    "stationName": "Not printed",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      }
+    ],
+    "note": "Greece has no folder in the NOAA NCEI Region VI 1991–2020 collection, version 6.6. The HNMS city page that was opened for Elliniko gives 1955–2010, which is not this period, so those figures are not printed. The National Observatory of Athens published a 1991–2020 table for Athens as an image in its February 2021 magazine. A check of the 1961–1990 row in that image against the same institute's HTML table for 1961–1990 did not agree to the tenth of a degree, so the 1991–2020 row was not transcribed. Santorini was not given Athens's numbers.",
+    "sourceTitle": "WMO 1991-2020 Region VI directory (no Greece folder)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Greece at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Greece, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Greece",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/greece"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Greece.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Athens",
+    "detail": "IANA's zone.tab and zone1970.tab each give Greece one row, Europe/Athens. Athens and Santorini are both on that row. There is no second Greek zone in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs of Greece",
+    "url": "https://www.mfa.gr/en/visas/visas-for-foreigners-traveling-to-greece/",
+    "note": "The foreign ministry's visas section, for foreigners traveling to Greece. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

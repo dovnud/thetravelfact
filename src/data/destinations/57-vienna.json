@@ -1,0 +1,173 @@
+{
+  "order": 57,
+  "id": "vienna",
+  "kind": "city",
+  "name": "Vienna",
+  "countrySlug": "austria",
+  "countryName": "Austria",
+  "path": "/austria/vienna/",
+  "dek": "Hohe Warte, the only Vienna station in the Austrian submission.",
+  "paragraphs": [
+    "Wien Hohe Warte is WMO 11035, height 198 m, position 48°14′55″N, 16°21′23″E. The country sheet uses the same file. There is no second Vienna station in the submission to reject or to merge.",
+    "February is not the coldest month in the average-low column; January is lower. The water column does not collapse in summer the way a Mediterranean table does. The currency, the plug, and Europe/Vienna are the national lines."
+  ],
+  "climate": {
+    "caption": "Station: Wien Hohe Warte, WMO 11035. The only Vienna station in the submission.",
+    "stationName": "Wien Hohe Warte",
+    "stationId": "WMO 11035",
+    "period": "1991-2020",
+    "elevation": "198 m",
+    "latitude": "48|14|55|N",
+    "longitude": "16|21|23|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "3.5",
+        "low": "-1.3",
+        "rain": "42.1",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "6.5",
+        "low": "-0.5",
+        "rain": "38.1",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "10.7",
+        "low": "2.6",
+        "rain": "51.6",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "17.2",
+        "low": "6.7",
+        "rain": "41.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "20.7",
+        "low": "10.7",
+        "rain": "78.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "25.1",
+        "low": "14.7",
+        "rain": "70",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "26.4",
+        "low": "15.9",
+        "rain": "77.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "26.1",
+        "low": "15.6",
+        "rain": "69.1",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "21.1",
+        "low": "12",
+        "rain": "64.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "14.3",
+        "low": "7.3",
+        "rain": "46.9",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "8.8",
+        "low": "3.7",
+        "rain": "46",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "4",
+        "low": "-0.4",
+        "rain": "46.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed. Wien Hohe Warte is the only Vienna station in the Austrian submission. Graz, Innsbruck, Salzburg, Klagenfurt, and the mountain stations are separate files and were not averaged with it.",
+    "sourceTitle": "WMO climate normals 1991-2020, Wien Hohe Warte (11035)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Austria/CSV/Wien_Hohe_Warte_11035.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Austria at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Section 7(1) of the Straßenverkehrsordnung 1960, in the consolidated text current on 15 November 2026, says the driver of a vehicle must drive as far to the right as is reasonable given the ease and flow of traffic, and as is possible without endangering, obstructing, or annoying other road users, without endangering themselves, and without damaging property, unless the act provides otherwise. Later paragraphs of the same section cover when the driver must be at the right edge, and when a driver on a road with at least two lanes in that direction may drive beside another vehicle.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Straßenverkehrsordnung 1960, § 7, RIS",
+    "sourceUrl": "https://www.ris.bka.gv.at/eli/bgbl/1960/159/P7/NOR40245666"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Austria, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Austria",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/austria"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Austria.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Vienna",
+    "detail": "IANA's zone.tab and zone1970.tab each give Austria one row, Europe/Vienna. There is no second Austrian zone in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Federal Ministry for European and International Affairs",
+    "url": "https://www.bmeia.gv.at/en/entry-and-residence/visa",
+    "note": "The foreign ministry's visa page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

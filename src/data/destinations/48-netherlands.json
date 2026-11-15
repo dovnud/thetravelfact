@@ -1,0 +1,178 @@
+{
+  "order": 48,
+  "id": "netherlands",
+  "kind": "country",
+  "name": "Netherlands",
+  "countrySlug": "netherlands",
+  "countryName": "Netherlands",
+  "path": "/netherlands/",
+  "dek": "Schiphol's 1991–2020 normal, below sea level. Not De Bilt, and not a national average.",
+  "paragraphs": [
+    "The table is Amsterdam Schiphol, WMO 06240. The file prints the station height as -3.87 m. De Bilt, WMO 06260, height 1.90 m, is the other well-known Dutch file and was not averaged with the airport. Rotterdam, Groningen, Maastricht, and the rest of the submission are not this table.",
+    "The average highs reach the low twenties in July, and August is the heaviest month in the water column. The time-zone files disagree about the name: zone.tab says Europe/Amsterdam, and zone1970.tab folds the Netherlands into the Europe/Brussels row. Both are cited. The sheet prints Europe/Amsterdam."
+  ],
+  "climate": {
+    "caption": "Reference station: Amsterdam Schiphol, WMO 06240. The airport, not a national average.",
+    "stationName": "Amsterdam Schiphol",
+    "stationId": "WMO 06240",
+    "period": "1991-2020",
+    "elevation": "-3.87 m",
+    "latitude": "52|19|02|N",
+    "longitude": "04|47|23|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "6.2",
+        "low": "1.2",
+        "rain": "66.5",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "6.9",
+        "low": "1.0",
+        "rain": "54.7",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "10.1",
+        "low": "2.8",
+        "rain": "51.8",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "14.3",
+        "low": "5.2",
+        "rain": "39.6",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "17.8",
+        "low": "8.6",
+        "rain": "53.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "20.3",
+        "low": "11.3",
+        "rain": "64.8",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "22.5",
+        "low": "13.5",
+        "rain": "82.3",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "22.4",
+        "low": "13.4",
+        "rain": "98.6",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.2",
+        "low": "11.0",
+        "rain": "84.4",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "14.7",
+        "low": "7.7",
+        "rain": "86.7",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "10.0",
+        "low": "4.5",
+        "rain": "85.3",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "6.9",
+        "low": "1.9",
+        "rain": "81.7",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed. The file prints the height as -3.87. De Bilt (WMO 06260, height 1.90 m) is a separate complete file and was not averaged with Schiphol.",
+    "sourceTitle": "WMO climate normals 1991-2020, Amsterdam Schiphol (06240)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Netherlands/CSV/AmsterdamSchipholAp_06240.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows the Netherlands at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 3(1) of the Reglement verkeersregels en verkeerstekens 1990 says drivers are required to keep to the right as far as possible. Article 3(2) says cyclists may ride two abreast, and that this does not apply to snorfietsers. Later articles in the same regulation set out when that rightward rule gives way, including when positioning to turn.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "RVV 1990, artikel 3, wetten.overheid.nl",
+    "sourceUrl": "https://wetten.overheid.nl/BWBR0004825/2024-07-01"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for the Netherlands, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, the Netherlands",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/netherlands"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for the Netherlands. The country name in that list is NETHERLANDS (THE).",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Amsterdam",
+    "detail": "IANA's zone.tab names the Netherlands Europe/Amsterdam. zone1970.tab, whose header note is dated 15 May 2025, puts the Netherlands on one row with Belgium and Luxembourg, and the zone name on that row is Europe/Brussels. The backward file links the name Europe/Amsterdam to Europe/Brussels. The clocks match. This sheet prints Europe/Amsterdam, which is the name zone.tab gives the Netherlands.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Government of the Netherlands",
+    "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands",
+    "note": "The government's page for whether a visa is required. It is a questionnaire, and the page says the result is not legally binding. We do not restate a rule.",
+    "asOf": "2026-11-15"
+  }
+}

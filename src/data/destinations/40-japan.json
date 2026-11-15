@@ -8,8 +8,8 @@
   "path": "/japan/",
   "dek": "Tokyo's 1991–2020 normal. Not a national average. Sapporo and Naha are other files, and they are not this table.",
   "paragraphs": [
-    "The table is Tokyo, WMO 47662, height 25.2 m, position 35°41′30″N, 139°45′0″E. Japan's submission also includes Sapporo, Osaka, Fukuoka, Naha, and others. None of those is averaged with Tokyo. There is no city sheet for them yet, and this page does not preview their numbers.",
-    "Tokyo's average high runs from a cool January to a hot August, and the precipitation peaks in September and October rather than in a single summer month. The plug line lists both 50 hertz and 60 hertz because that is what the IEC country line says, and it does not assign a frequency to a city."
+    "The table is Tokyo, WMO 47662, height 25.2 m, position 35°41′30″N, 139°45′0″E. Japan's submission also includes Sapporo, Osaka, Fukuoka, Naha, and others. None of those is averaged with Tokyo. Tokyo and Osaka now have their own sheets. Kyoto is not in the submission, so its sheet uses the Japan Meteorological Agency normal and says so.",
+    "Tokyo's average high runs from a cool January to a hot August, and the precipitation peaks in September and October rather than in a single summer month. The plug line lists both 50 hertz and 60 hertz because that is what the IEC country line says, and it does not assign a frequency to a city. The city sheets repeat that national line."
   ],
   "climate": {
     "caption": "Reference station: Tokyo, WMO 47662. Not a national average.",
