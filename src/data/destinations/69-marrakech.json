@@ -1,0 +1,173 @@
+{
+  "order": 69,
+  "id": "marrakech",
+  "kind": "city",
+  "name": "Marrakech",
+  "countrySlug": "morocco",
+  "countryName": "Morocco",
+  "path": "/morocco/marrakech/",
+  "dek": "Marrakech, WMO 60230. December in this file is a 29-year count.",
+  "paragraphs": [
+    "Marrakech is WMO 60230, height 464 m. The number-of-years row is 29 for May precipitation, December precipitation, the December maximum, and the December minimum. The other months print 30. Rabat-Salé is the station on the Morocco sheet and was not averaged with this one.",
+    "The plug lists both Moroccan voltages and does not assign one to Marrakech, so this sheet does not either. No tourism-office tipping sentence was opened. The road rule is the national decree."
+  ],
+  "climate": {
+    "caption": "Station: Marrakech, WMO 60230. Not Rabat-Salé.",
+    "stationName": "Marrakech",
+    "stationId": "WMO 60230",
+    "period": "1991-2020",
+    "elevation": "464 m",
+    "latitude": "31|36|40|N",
+    "longitude": "008|01|43|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "19.1",
+        "low": "5.9",
+        "rain": "25.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "20.7",
+        "low": "7.6",
+        "rain": "25.7",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "23.6",
+        "low": "10.3",
+        "rain": "35.2",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "25.7",
+        "low": "12.4",
+        "rain": "26.3",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "29.4",
+        "low": "15.2",
+        "rain": "10.5",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "33.6",
+        "low": "17.9",
+        "rain": "3.1",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "37.7",
+        "low": "20.6",
+        "rain": "2.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "37.4",
+        "low": "21.1",
+        "rain": "4.7",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "32.5",
+        "low": "18.6",
+        "rain": "15.2",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "28.5",
+        "low": "15.7",
+        "rain": "19.1",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "23.1",
+        "low": "10.7",
+        "rain": "29.8",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "20.1",
+        "low": "7.3",
+        "rain": "24.2",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed. The number-of-years row prints 29 for May precipitation, December precipitation, the December maximum, and the December minimum. The other months of those rows print 30. Rabat-Salé was not averaged with Marrakech.",
+    "sourceTitle": "WMO climate normals 1991-2020, Marrakech (60230)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-1-WMO-Normals-9120/Morocco/CSV/MARRAKECH_60230.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and E, 127 V and 220 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Morocco at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read. The line lists both 127 volts and 220 volts and does not assign a voltage to a city, so this sheet does not pick one.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Article 3 of Decree 2.10.420 of 29 September 2010, applying Law 52.05 on the rules of the road, says that in ordinary travel every driver must keep the vehicle beside the right-hand edge of the roadway in the direction of travel, even if the road is empty. The PDF on the Ministry of Justice legal portal prints the Official Gazette citation, issue 5878 of 30 September 2010, page 4433.",
+    "sourceTitle": "Decree 2.10.420, article 3, adala.justice.gov.ma",
+    "sourceUrl": "https://adala.justice.gov.ma/api/uploads/2024/04/24/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D9%85%D8%AF%D9%88%D9%86%D8%A9%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%B7%D8%B1%D9%82%20%D8%A8%D8%B4%D8%A3%D9%86%20%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%B7%D8%B1%D9%82-1713969196625.pdf"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Morocco, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Morocco",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/morocco"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Moroccan dirham (MAD)",
+    "detail": "ISO 4217 lists the currency name Moroccan Dirham and the code MAD for Morocco. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Africa/Casablanca",
+    "detail": "IANA's zone.tab and zone1970.tab each give Morocco one row, Africa/Casablanca. There is no second Morocco zone in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates",
+    "url": "https://diplomatie.ma/fr/visiter-le-maroc",
+    "note": "The foreign ministry's page titled Visiter le Maroc. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

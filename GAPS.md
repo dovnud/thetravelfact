@@ -52,6 +52,24 @@ Checked 14 November 2026. A line here is a fact we would not print because the s
 - **Tap water.** CDC's Ireland page, reviewed 25 August 2026, says standards are similar to the United States and then warns about unregulated rural wells. It is quoted, and it is not upgraded to a yes for every tap. The other new countries' CDC pages, also reviewed 25 August 2026, do not give a yes or a no.
 - **Time zones.** zone1970.tab, header note dated 15 May 2025, folds the Netherlands into the Europe/Brussels row, Iceland into the Africa/Abidjan row, and Croatia into the Europe/Belgrade row. zone.tab still names Europe/Amsterdam, Atlantic/Reykjavik, and Europe/Zagreb, and the backward file links the old names to the merged ones. The sheets print the zone.tab names and cite all three files. Portugal's three rows, mainland, Madeira, and Azores, are named and not collapsed.
 
+## Checked 15 November 2026, places 61–80
+
+- **Dubrovnik** is not in the Croatian NOAA submission. The DHMZ city page that was opened is labelled 1961–2024 and gives a mean and absolute extremes, not an average daily high and low. The climate-atlas PDF prints 1961–1990 and 1971–2000. The sheet uses 1971–2000 lowercase tmax, tmin, and precipitation R. The 1961–1990 block was not averaged in. The atlas sheet does not print a height or a WMO number.
+- **Aruba** has no NCEI folder. The Departamento Meteorológico Aruba 1991–2020 summary does not name a station, so the sheet does not. Curaçao and Sint Maarten were not substituted.
+- **Panama** has no NCEI folder. The Tocumen table that was opened is headed 1977–2010. November's maximum is printed as 33, February's rain as 10, and May's rain as 233. The nearby sentences write 33.0, 10.0, and 233.0. The cells follow the table. Hato Pintado was not merged in. No 1991–2020 station normal was opened.
+- **Peru.** The Region III folder has 141 files and no station named Lima, Callao, or Jorge Chávez. A SENAMHI normals page returned an error. Campo de Marte bulletins that were opened use 2001–2015 or 2006–2019 and were not combined. The month cells are blank.
+- **Istanbul.** The Turkish submission has no station named Istanbul. The sheet uses Florya, WMO 17636. Sarıyer was not averaged with it. The file does not name a district, and the sheet does not add one.
+- **Ankara** December mean daily minimum is written “-.3” in the file. The sheet prints -0.3.
+- **Cairo (A.P.)** prints latitude “30 08” and longitude “31 24” without a hemisphere letter. The sheet does not add one. The file has no number-of-years row.
+- **Rabat-Salé** January precipitation is a 29-year count. **Marrakech** May precipitation, December precipitation, and the December maximum and minimum are 29-year counts. **Juan Santamaría** precipitation is 29 years in every month. **Kingston / Norman Manley** precipitation is 27 years in January and 28 otherwise. **Brasília** September precipitation and the September temperatures, and the June maximum, are 29-year counts.
+- **El Dorado.** The WMO_Number field prints 21205791, the code in the filename, not a five-digit WMO index.
+- **Plugs, 15 November, this batch.** The live IEC page returned 403. The archive of 16 August 2026 was read again. Morocco lists 127 V and 220 V. Brazil lists 127 V and 220 V. Jamaica lists 50 Hz. None of those was chosen or corrected.
+- **Tipping.** No tourism-office sentence stating a practice was opened for Morocco, Egypt, Panama, or Chile. Chile.travel says to carry cash for tips and does not say whether a tip is expected or how much. Turkey's opened sentence is about an esnaf lokantası. Jamaica's is about an all-inclusive package. Colombia's is about a guide and says the gratuity is not obligatory.
+- **Egypt driving.** The Interior page lists failure to keep to the right as an infraction and does not print the statute number on the page that loaded. Traffic Law No. 66 was not opened.
+- **Chile driving.** The Library of Congress page for article 120 prints a version line of 7 November 2009. A later amendment, if one exists beyond that line, was not the text opened.
+- **Time zones.** zone1970.tab folds the Bahamas into the America/Toronto row and Aruba into the America/Puerto_Rico row. zone.tab still names America/Nassau and America/Aruba, and the backward file links them. The sheets print the zone.tab names. Panama shares America/Panama with a Canada comment that is not printed as a description of Panama. Brazil has sixteen rows and Argentina twelve. The capital-station row is printed and the others are named, not collapsed. Chile's four rows are named the same way.
+- **ISO 4217**, list published 17 September 2026. Chile's CLF and Colombia's COU are marked as funds and are not printed as the currency. Panama lists both the balboa and the US dollar, and both are printed.
+
 ## Not on the site yet
 
 - Viator, Expedia, Booking.com, and Travelpayouts IDs are empty. Those slots are not links.

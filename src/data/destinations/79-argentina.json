@@ -1,0 +1,180 @@
+{
+  "order": 79,
+  "id": "argentina",
+  "kind": "country",
+  "name": "Argentina",
+  "countrySlug": "argentina",
+  "countryName": "Argentina",
+  "path": "/argentina/",
+  "dek": "Buenos Aires Observatorio, WMO 87585. Ezeiza and Aeroparque are not in this table.",
+  "paragraphs": [
+    "The table is Buenos Aires Observatorio, WMO 87585, height 25 m. Precipitation and both temperatures are 30-year counts for every month. Aeroparque, WMO 87582, and Ezeiza, WMO 87576, are separate files and were not averaged with the observatory.",
+    "The Visit Argentina page of 5 October 2026 says a tip is not obligatory and that 10 percent is usual. IANA gives Argentina twelve zone rows. This sheet prints America/Argentina/Buenos_Aires, the row commented BA and CF, and names the others without moving them."
+  ],
+  "climate": {
+    "caption": "Reference station: Buenos Aires Observatorio, WMO 87585. The observatory in the file, not Ezeiza and not Aeroparque.",
+    "stationName": "Buenos Aires Observatorio",
+    "stationId": "WMO 87585",
+    "period": "1991-2020",
+    "elevation": "25 m",
+    "latitude": "34|35|24|S",
+    "longitude": "58|29|02|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.1",
+        "low": "20.2",
+        "rain": "134.4",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "28.9",
+        "low": "19.4",
+        "rain": "129.3",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "27.0",
+        "low": "17.7",
+        "rain": "120.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "23.2",
+        "low": "14.1",
+        "rain": "130.3",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "19.4",
+        "low": "11.1",
+        "rain": "93.5",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "16.4",
+        "low": "8.4",
+        "rain": "61.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "15.5",
+        "low": "7.5",
+        "rain": "74.4",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "17.9",
+        "low": "8.9",
+        "rain": "70.3",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.7",
+        "low": "10.6",
+        "rain": "80.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "22.6",
+        "low": "13.4",
+        "rain": "122.9",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "26.0",
+        "low": "16.1",
+        "rain": "117.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "29.0",
+        "low": "18.5",
+        "rain": "122.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed. The number-of-years rows for precipitation and for both temperatures print 30 for every month. Aeroparque, WMO 87582, and Ezeiza, WMO 87576, are separate files and were not averaged with the observatory.",
+    "sourceTitle": "WMO climate normals 1991-2020, Buenos Aires Observatorio (87585)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-3-WMO-Normals-9120/Argentina/CSV/BUENOS_AIRES_OBSERVATORIO_87585.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type I, 220 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Argentina at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Article 39 of Law 24.449, sanctioned 23 December 1994, says drivers shall use only the carriageway, on the right and in the signed direction. The text opened is the InfoLEG consolidated text.",
+    "sourceTitle": "Ley 24.449, artículo 39, InfoLEG",
+    "sourceUrl": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/818/texact.htm"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not obligatory; 10% is usual",
+    "asOf": "2026-11-15",
+    "detail": "Visit Argentina's page dated 5 October 2026 says a tip in Argentina is not obligatory, that it is a widespread custom, and that the usual amount is 10 percent of the bill.",
+    "sourceTitle": "Visit Argentina, tipping in a bar or restaurant",
+    "sourceUrl": "https://www.argentina.travel/novedades/cuanta-propina-hay-que-dejar-en-un-bar-o-restaurante-en-argentina"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Argentina, last reviewed 3 September 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Argentina",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/argentina"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Argentine peso (ARS)",
+    "detail": "ISO 4217 lists the currency name Argentine Peso and the code ARS for Argentina. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Argentina/Buenos_Aires",
+    "detail": "IANA's zone1970.tab and zone.tab give Argentina twelve rows. America/Argentina/Buenos_Aires is commented Buenos Aires (BA, CF). The other rows are America/Argentina/Cordoba, Salta, Jujuy, Tucuman, Catamarca, La_Rioja, San_Juan, Mendoza, San_Luis, Rio_Gallegos, and Ushuaia, each with the province comment printed in the file. The climate station on this page is Buenos Aires Observatorio, so the sheet prints the Buenos Aires name. It does not move the other provinces onto that name. zone.tab's Cordoba comment says “Argentina (most areas)” and lists province codes. zone1970.tab's Cordoba comment says “most areas” and lists the same codes. Those comments are the files'.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Dirección Nacional de Migraciones",
+    "url": "https://www.argentina.gob.ar/interior/migraciones",
+    "note": "The national migrations page on argentina.gob.ar. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

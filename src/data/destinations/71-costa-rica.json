@@ -1,0 +1,194 @@
+{
+  "order": 71,
+  "id": "costa-rica",
+  "kind": "country",
+  "name": "Costa Rica",
+  "countrySlug": "costa-rica",
+  "countryName": "Costa Rica",
+  "path": "/costa-rica/",
+  "dek": "Juan Santamaría International Airport, WMO 78762. Precipitation in this file is a 29-year count.",
+  "paragraphs": [
+    "The table is Juan Santamaría International Airport, WMO 78762, height 913 m. The file leaves the seconds of the position blank. Precipitation is calculated on 29 years. Temperature is 30. Daniel Oduber, Puerto Limón, and Tobías Bolaños Palma are the other Costa Rica files and were not averaged in.",
+    "The Visit Costa Rica page says the 10 percent tip and the 13 percent tax are in the restaurant and hotel price, and it says tap water is potable with a rural caveat. CDC does not say yes or no. Both sentences are on the page, and neither is upgraded."
+  ],
+  "climate": {
+    "caption": "Reference station: Juan Santamaría International Airport, WMO 78762. The name in the file. Not Liberia, not Limón, and not Tobías Bolaños.",
+    "stationName": "Juan Santamaría International Airport",
+    "stationId": "WMO 78762",
+    "period": "1991-2020",
+    "elevation": "913 m",
+    "latitude": "09|59| |N",
+    "longitude": "084|10| |W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.7",
+        "low": "15.0",
+        "rain": "7.9",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "32.0",
+        "low": "15.0",
+        "rain": "10.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "32.9",
+        "low": "15.6",
+        "rain": "17.3",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "33.1",
+        "low": "16.2",
+        "rain": "80.6",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "31.9",
+        "low": "16.7",
+        "rain": "261.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "31.2",
+        "low": "17.0",
+        "rain": "235.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "31.1",
+        "low": "16.7",
+        "rain": "167.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.2",
+        "low": "16.5",
+        "rain": "224.3",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.1",
+        "low": "16.3",
+        "rain": "320.0",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "30.5",
+        "low": "16.2",
+        "rain": "317.0",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.3",
+        "low": "15.5",
+        "rain": "165.8",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.6",
+        "low": "15.4",
+        "rain": "31.0",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed. Latitude and longitude in the file leave the seconds field blank, printed as 09|59| |N and 084|10| |W. The precipitation number-of-years row is 29 for every month. The temperature rows are 30. Daniel Oduber, Puerto Limón, and Tobías Bolaños Palma were not averaged with this station.",
+    "sourceTitle": "WMO climate normals 1991-2020, Juan Santamaría International Airport (78762)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/CostaRica/CSV/JuanSantamariaInternationalAirport_78762.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November.",
+    "The same page says the Atlantic basin includes the Caribbean Sea.",
+    "The same page says the eastern Pacific hurricane season runs from 15 May to 30 November. It says the eastern Pacific basin extends from Mexico and Central America westward to 140°W."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Costa Rica at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Article 100 of Law 9078, the law on transit on public land routes and road safety, says vehicles must be driven in the right-hand lane of the road, and then lists exceptions. The Costa Rican Legal Information System page that was opened is version 29 of 29, dated 10 March 2025, in force from 26 October 2012.",
+    "sourceTitle": "Ley N.º 9078, artículo 100, Sistema Costarricense de Información Jurídica",
+    "sourceUrl": "http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=73504&nValor3=145516&param1=NRTC&strTipM=TC"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "10% included, with 13% VAT",
+    "asOf": "2026-11-15",
+    "detail": "The Visit Costa Rica planning page says that in restaurants and hotels, 13 percent value-added tax and a 10 percent tip are included in the final price, and that an extra tip is welcome if the service was exceptionally good. The sentence is that page's.",
+    "sourceTitle": "Visit Costa Rica, planning tips",
+    "sourceUrl": "https://es.visitcostarica.com/planning-your-trip/tips"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Tourism board: potable, with a rural caveat",
+    "detail": "CDC's traveler page for Costa Rica, last reviewed 18 September 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice. Separately, the Visit Costa Rica planning page says tap water is completely potable and recommends bottled water only for some rural areas. This page repeats that sentence and does not add medical advice.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "Visit Costa Rica, planning tips",
+        "sourceUrl": "https://es.visitcostarica.com/planning-your-trip/tips",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "CDC Travelers' Health, Costa Rica",
+        "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/costa-rica",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Costa Rican colón (CRC)",
+    "detail": "ISO 4217 lists the currency name Costa Rican Colon and the code CRC for Costa Rica. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Costa_Rica",
+    "detail": "IANA's zone.tab and zone1970.tab each give Costa Rica one row, America/Costa_Rica. There is no second Costa Rica zone in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Dirección General de Migración y Extranjería, in La Gaceta",
+    "url": "https://www.icoder.go.cr/fileadmin/documentos/tramites/visas/Directrices-Generales-de-Visas-Noviembre-2025-Alcance-148-Gaceta-N_-216-17-11-2025.pdf",
+    "note": "The migration directorate's general visa guidelines, AJ-484-11-2025, as published in La Gaceta, Alcance 148 to issue 216 of 17 November 2025. The copy opened is the one hosted with the sports institute's visa documents. The migracion.go.cr home page did not return the text. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

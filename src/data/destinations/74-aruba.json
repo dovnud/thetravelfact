@@ -1,0 +1,188 @@
+{
+  "order": 74,
+  "id": "aruba",
+  "kind": "country",
+  "name": "Aruba",
+  "countrySlug": "aruba",
+  "countryName": "Aruba",
+  "path": "/aruba/",
+  "dek": "The meteorological service's 1991–2020 summary. The sheet does not name a station.",
+  "paragraphs": [
+    "Aruba is not in the NOAA NCEI collection. Curaçao and Sint Maarten are a different folder and were not borrowed. The table is the Departamento Meteorológico Aruba summary for 1991–2020. The rows are the average maximum, the average minimum, and monthly rainfall. The summary does not name a station, so the caption does not invent one.",
+    "The traffic decree that was opened says a driver keeps to the right. The tourism page says a tip is not mandatory. CDC does not say whether tap water is safe. The time-zone name printed is America/Aruba, which is the name in zone.tab."
+  ],
+  "climate": {
+    "caption": "Departamento Meteorológico Aruba, summary climatological normals, 1991–2020. The summary does not name a station.",
+    "stationName": "Not named on the summary",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.3",
+        "low": "24.8",
+        "rain": "44.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "30.6",
+        "low": "24.8",
+        "rain": "19.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "31.1",
+        "low": "25.3",
+        "rain": "10.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "31.9",
+        "low": "26.0",
+        "rain": "8.6",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "32.0",
+        "low": "26.7",
+        "rain": "14.1",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "32.5",
+        "low": "26.9",
+        "rain": "17.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "32.4",
+        "low": "26.7",
+        "rain": "31.4",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "33.2",
+        "low": "27.2",
+        "rain": "19.6",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "33.2",
+        "low": "27.3",
+        "rain": "42.9",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "32.4",
+        "low": "26.7",
+        "rain": "76.5",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "31.5",
+        "low": "26.0",
+        "rain": "87.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.7",
+        "low": "25.3",
+        "rain": "80.1",
+        "precip": null
+      }
+    ],
+    "note": "Aruba has no folder in the NOAA NCEI Region IV 1991–2020 collection. Curaçao and Sint Maarten are a separate folder and were not used. This table is the Meteorologische Dienst Aruba summary for 1991–2020. The rows used are average maximum temperature, average minimum temperature, and monthly rainfall. The summary does not print a station name, a height, or a position, so those cells are empty. Absolute extremes on the same sheet are not printed as the daily high and low.",
+    "sourceTitle": "Departamento Meteorológico Aruba, climatological normals 1991–2020",
+    "sourceUrl": "https://www.meteo.aw/files/Download/climatnormals19912020.pdf",
+    "asOf": "2026-11-15"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November.",
+    "The same page says the Atlantic basin includes the Caribbean Sea."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A, B, and F, 127 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Aruba at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Article 18(1) of the Landsbesluit verkeersregels, AB 1999 no. 39, says a driver keeps as far to the right as possible on a road. The decree applies article 8 of the Landsverordening wegverkeer, AB 1997 no. 18. The PDF linked from the Gobierno di Aruba law-texts page is the central-register text dated 4 November 2013, with amendments through AB 2013 no. 48.",
+    "sourceTitle": "Landsbesluit verkeersregels, artikel 18, AB 1999 no. 39",
+    "sourceUrl": "https://cuatro.sim-cdn.nl/arubaoverheid2858bd/uploads/0901ab99.039.pdf"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not mandatory; some group bills add about 15%",
+    "asOf": "2026-11-15",
+    "detail": "The Aruba Tourism Authority tipping page says a tip is not mandatory but is appreciated. It also says some restaurants and bars add a service charge of more or less 15 percent to the bill for groups.",
+    "sourceTitle": "Aruba.com, tipping",
+    "sourceUrl": "https://www.aruba.com/us/plan-your-visit/tips-for-visitors/tipping"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Aruba, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Aruba",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/aruba"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Aruban florin (AWG)",
+    "detail": "ISO 4217 lists the currency name Aruban Florin and the code AWG for Aruba. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Aruba",
+    "detail": "IANA's zone.tab names Aruba America/Aruba. zone1970.tab puts Aruba on the America/Puerto_Rico row with Puerto Rico and several other Caribbean codes. The comment on that row is about Atlantic Standard Time in Quebec. The file's header says a comment is useful only for a country with more than one zone. Aruba has one row in zone.tab, so that comment is not printed as a description of Aruba. The backward file links America/Aruba to America/Puerto_Rico. This sheet prints America/Aruba.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Gobierno di Aruba",
+    "url": "https://www.gobierno.aw/nl/visumplicht",
+    "note": "The government's page on who needs a visa. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

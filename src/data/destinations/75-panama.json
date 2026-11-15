@@ -1,0 +1,177 @@
+{
+  "order": 75,
+  "id": "panama",
+  "kind": "country",
+  "name": "Panama",
+  "countrySlug": "panama",
+  "countryName": "Panama",
+  "path": "/panama/",
+  "dek": "Tocumen, 1977–2010, from the ETESA table now on the IMHPA site. Not a 1991–2020 normal.",
+  "paragraphs": [
+    "Panama is not in the NOAA NCEI collection. The table is the Tocumen block headed 1977–2010 in the climate characterization written by ETESA's hydrometeorology office and hosted by IMHPA. Average daily maximum, average daily minimum, and average precipitation are the rows. Hato Pintado is named in the same document and is not in the table. The table does not print a height or a position.",
+    "November's maximum is printed as 33, February's rain as 10, and May's rain as 233. The narrative next to the table writes 33.0, 10.0, and 233.0. The cells follow the table. No tourism-board tipping sentence was opened. ISO lists both the balboa and the US dollar."
+  ],
+  "climate": {
+    "caption": "Station: Tocumen. Period printed on the table: 1977–2010. Not a 1991–2020 normal. Panama is not in the NCEI collection.",
+    "stationName": "Tocumen",
+    "stationId": null,
+    "period": "1977-2010",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "33.6",
+        "low": "19.5",
+        "rain": "26.4",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "34.2",
+        "low": "19.4",
+        "rain": "10",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "34.8",
+        "low": "19.5",
+        "rain": "15.2",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "35.3",
+        "low": "20.4",
+        "rain": "69.6",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "34.6",
+        "low": "21.6",
+        "rain": "233",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "33.9",
+        "low": "21.9",
+        "rain": "238.2",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "33.9",
+        "low": "21.5",
+        "rain": "176.6",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "34.1",
+        "low": "21.6",
+        "rain": "220.1",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "33.3",
+        "low": "21.5",
+        "rain": "247.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "32.6",
+        "low": "21.5",
+        "rain": "329.6",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "33",
+        "low": "21.1",
+        "rain": "252.4",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "33.2",
+        "low": "20.1",
+        "rain": "99.2",
+        "precip": null
+      }
+    ],
+    "note": "Panama has no folder in the NOAA NCEI Region IV 1991–2020 collection. This table is the Tocumen summary in the ETESA climate-and-health characterization now hosted by IMHPA. The heading is “Valores promedio período 1977-2010.” The rows used are average daily maximum temperature, average daily minimum temperature, and average precipitation. November's maximum is printed as 33 in the table. February's precipitation is printed as 10, and May's as 233. The November narrative on the same document says 33.0 ºC, and the February and May narratives say 10.0 mm and 233.0 mm. The table figures are the ones printed. Hato Pintado is named in the document and is not this table. The table does not print a height or a position.",
+    "sourceTitle": "ETESA / IMHPA, Tocumen averages, 1977–2010",
+    "sourceUrl": "https://www.imhpa.gob.pa/uploads/documentos/caracterizacin_del_clima_en_el_distrito_de_panam.pdf",
+    "asOf": "2026-11-15"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November.",
+    "The same page says the Atlantic basin includes the Caribbean Sea.",
+    "The same page says the eastern Pacific hurricane season runs from 15 May to 30 November. It says the eastern Pacific basin extends from Mexico and Central America westward to 140°W."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 110 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Panama at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Article 155 of Executive Decree 640 of 27 December 2006, the vehicle traffic regulation, says overtaking is on the left and that the overtaking vehicle returns to its right. Article 150(a) says the left, or speed, lane is used only to overtake another vehicle. The decree was published in Gaceta Oficial 25701 of 29 December 2006.",
+    "sourceTitle": "Decreto Ejecutivo N.º 640 de 2006, artículos 150 y 155, Gaceta Oficial 25701",
+    "sourceUrl": "https://www.gacetaoficial.gob.pa/storage/gacetas/2006/12/25701/GacetaNo_25701_20061229.pdf"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Panama, last reviewed 10 November 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Panama",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/panama"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Balboa (PAB) and US dollar (USD)",
+    "detail": "ISO 4217 lists two currencies for Panama: Balboa, code PAB, and US Dollar, code USD. Neither row is marked as a fund code. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Panama",
+    "detail": "IANA's zone.tab gives Panama one row, America/Panama. zone1970.tab puts Panama on the America/Panama row with Canada and the Cayman Islands. The comment on that row is “EST - ON (Atikokan), NU (Coral H).” The file's header says a comment is useful only for a country with more than one zone. Panama has one row, so that comment is not printed as a description of Panama.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Servicio Nacional de Migración",
+    "url": "https://www.migracion.gob.pa/preguntas-frecuentes/",
+    "note": "The migration service's frequently asked questions. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

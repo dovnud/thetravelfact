@@ -1,0 +1,188 @@
+{
+  "order": 73,
+  "id": "bahamas",
+  "kind": "country",
+  "name": "Bahamas",
+  "countrySlug": "bahamas",
+  "countryName": "Bahamas",
+  "path": "/bahamas/",
+  "dek": "Lynden Pindling International Airport, WMO 78073. The only station in the submission.",
+  "paragraphs": [
+    "The table is Lynden Pindling International Airport, WMO 78073, height 8 m. The file leaves the seconds of the position blank. It is the only Bahamas station in the NCEI collection. The year-count rows under the temperature and precipitation print 30, and they are numbered 10 in the file.",
+    "The tourism site states a 15 percent tip and also says the gratuity is often already on the bill. The traffic regulation that was opened is the left side. CDC does not say whether tap water is safe."
+  ],
+  "climate": {
+    "caption": "Reference station: Lynden Pindling International Airport, WMO 78073. The only station in the Bahamas submission.",
+    "stationName": "Lynden Pindling International Airport",
+    "stationId": "WMO 78073",
+    "period": "1991-2020",
+    "elevation": "8 m",
+    "latitude": "25|03| |N",
+    "longitude": "77|28| |W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "26.1",
+        "low": "18.2",
+        "rain": "44.7",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "26.6",
+        "low": "18.5",
+        "rain": "48.3",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "27.2",
+        "low": "19.1",
+        "rain": "54.1",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "28.7",
+        "low": "21.0",
+        "rain": "73.9",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.2",
+        "low": "22.4",
+        "rain": "139.2",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "31.8",
+        "low": "24.2",
+        "rain": "220.0",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "32.7",
+        "low": "25.0",
+        "rain": "158.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "32.8",
+        "low": "25.0",
+        "rain": "211.1",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "32.2",
+        "low": "24.7",
+        "rain": "195.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "30.6",
+        "low": "23.6",
+        "rain": "150.6",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "28.3",
+        "low": "21.2",
+        "rain": "86.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "26.8",
+        "low": "19.6",
+        "rain": "43.2",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed. Latitude and longitude in the file leave the seconds field blank, printed as 25|03| |N and 77|28| |W. The year-count row under precipitation and under each temperature prints 30 for every month. In the file that row is numbered 10, and its annual cell is blank. There is no second Bahamas station in the collection.",
+    "sourceTitle": "WMO climate normals 1991-2020, Lynden Pindling International Airport (78073)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/Bahamas/CSV/LyndenPindlingIntlAirport_78073.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November.",
+    "The same page says the Atlantic basin includes the Caribbean Sea."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows the Bahamas at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "asOf": "2026-11-15",
+    "detail": "Regulation 22(1)(a) of the Road Traffic Regulations, made under section 92 of the Road Traffic Act, says a driver shall keep to the left side of the place or street at all times, except when turning into a place on the right or when overtaking, which is done on the right before returning to the left. The regulations print a commencement date of 28 November 1959. The PDF is the one on laws.bahamas.gov.bs.",
+    "sourceTitle": "Road Traffic Regulations, regulation 22, Laws of The Bahamas",
+    "sourceUrl": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1959/1959-0253/1959-0253.pdf"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Often 15%, sometimes already on the bill",
+    "asOf": "2026-11-15",
+    "detail": "The Bahamas tourism site says tipping is customary and should follow the quality of service, that bellboys and porters usually receive 1 dollar per bag, and that most other servers, including waiters and taxis, receive 15 percent. It also says many establishments include the gratuity in the total.",
+    "sourceTitle": "The Islands of The Bahamas, entry requirements and practical notes",
+    "sourceUrl": "https://www.bahamas.com/plan-your-trip/island-faq/entry-requirements"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for the Bahamas, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, the Bahamas",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/the-bahamas"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Bahamian dollar (BSD)",
+    "detail": "ISO 4217 lists the currency name Bahamian Dollar and the code BSD for the Bahamas. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Nassau",
+    "detail": "IANA's zone.tab names the Bahamas America/Nassau. zone1970.tab puts the Bahamas on the America/Toronto row with Canada. The comment on that row is “Eastern - ON & QC (most areas).” The file's header says a comment is useful only for a country with more than one zone. The Bahamas has one row in zone.tab, so that comment is not printed as a description of the Bahamas. The backward file links America/Nassau to America/Toronto. This sheet prints America/Nassau.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Bahamas Immigration Department",
+    "url": "https://www.immigration.gov.bs/entry-requirements/before-your-arrival/",
+    "note": "The immigration department's before-you-arrive page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "order": 64,
+  "id": "poland",
+  "kind": "country",
+  "name": "Poland",
+  "countrySlug": "poland",
+  "countryName": "Poland",
+  "path": "/poland/",
+  "dek": "Warszawa-Okęcie, WMO 12375. Kraków-Balice is a different station.",
+  "paragraphs": [
+    "The table is Warszawa-Okęcie, WMO 12375. The file prints the height as 106.000000, and the caption uses 106 m. The file does not call the station an airport, and this sheet does not add the word. Kraków-Balice has its own sheet and was not averaged in.",
+    "The average low is below zero in January, February, and December. The heaviest and lightest months are restated from the table by the lines above it. The road rule is the 2024 uniform text of the traffic law. The tipping line is the Poland Tourism page that states one."
+  ],
+  "climate": {
+    "caption": "Reference station: Warszawa-Okęcie, WMO 12375. The name in the file. Not Kraków, and not a national average.",
+    "stationName": "Warszawa-Okęcie",
+    "stationId": "WMO 12375",
+    "period": "1991-2020",
+    "elevation": "106 m",
+    "latitude": "52|05|41|N",
+    "longitude": "020|34|26|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "1.0",
+        "low": "-4.0",
+        "rain": "31.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "2.6",
+        "low": "-3.3",
+        "rain": "29.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "7.4",
+        "low": "-0.6",
+        "rain": "29.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "14.5",
+        "low": "4.0",
+        "rain": "35.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "19.8",
+        "low": "8.8",
+        "rain": "55.5",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "23.1",
+        "low": "12.4",
+        "rain": "63.9",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "25.2",
+        "low": "14.5",
+        "rain": "82.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "24.7",
+        "low": "13.8",
+        "rain": "60.6",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.1",
+        "low": "9.5",
+        "rain": "50.4",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "12.9",
+        "low": "5.0",
+        "rain": "40.2",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "6.5",
+        "low": "1.3",
+        "rain": "36.0",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "2.3",
+        "low": "-2.5",
+        "rain": "36.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed. The height in the file is printed as 106.000000. This caption uses 106 m. The file does not add the word airport, and neither does this sheet. Kraków-Balice was not averaged with Okęcie.",
+    "sourceTitle": "WMO climate normals 1991-2020, Warszawa-Okęcie (12375)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Poland/CSV/WarszawaOkecie_12375.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and E, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Poland at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Article 16(1) of the Road Traffic Law, in the uniform text announced on 21 June 2024 (Journal of Laws 2024, item 1251) and opened on the Sejm legal-acts service, says right-hand traffic applies to the driver of a vehicle. Article 16(4) of that text says the driver must keep as close as possible to the right edge of the roadway. Later amending acts listed in the catalogue were not opened, so the quote is that uniform text.",
+    "sourceTitle": "Prawo o ruchu drogowym, art. 16, uniform text Dz.U. 2024 poz. 1251",
+    "sourceUrl": "https://api.sejm.gov.pl/eli/acts/DU/2024/1251/text.html"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "About 10%, not expected",
+    "asOf": "2026-11-15",
+    "detail": "A Poland Tourism page on the poland.travel host says tipping of about 10 percent in restaurants is appreciated but not expected. The separate practical-information page on poland.travel does not state a tipping practice. No date is printed on the page that does.",
+    "sourceTitle": "Poland.travel, travel tips for Poland",
+    "sourceUrl": "https://herway.poland.travel/travel-tips-for-poland/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Poland, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Poland",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/poland"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Zloty (PLN)",
+    "detail": "ISO 4217 lists the currency name Zloty and the code PLN for Poland. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Warsaw",
+    "detail": "IANA's zone.tab and zone1970.tab each give Poland one row, Europe/Warsaw. There is no second Poland zone in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of the Interior and Administration",
+    "url": "https://www.gov.pl/web/mswia-en/entry-and-residence-conditions-for-foreign-nationals-in-poland",
+    "note": "The interior ministry's page on entry and residence conditions for foreign nationals. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "order": 76,
+  "id": "colombia",
+  "kind": "country",
+  "name": "Colombia",
+  "countrySlug": "colombia",
+  "countryName": "Colombia",
+  "path": "/colombia/",
+  "dek": "The El Dorado file in the Colombian submission. The WMO column prints the national code 21205791.",
+  "paragraphs": [
+    "The table is the station whose file name is El_Dorado_Catam__AUT__21205791. The WMO_Number field prints that same code, not a five-digit WMO index. The position is 04|42|20|N, 074|09|02|W, and the height is 2547 m. Every precipitation and temperature month is a 30-year count. No other Colombian station was averaged in.",
+    "The tipping sentence that was opened is about a guide's gratuity, and it says the gratuity is not obligatory. The currency page on colombia.travel does not state a practice. CDC does not say whether tap water is safe. ISO also lists a fund code, COU, which is not the peso printed here."
+  ],
+  "climate": {
+    "caption": "Station named in the file: El_Dorado_Catam__AUT__21205791. The number in the WMO column is that same code.",
+    "stationName": "El Dorado",
+    "stationId": "21205791",
+    "period": "1991-2020",
+    "elevation": "2547 m",
+    "latitude": "04|42|20|N",
+    "longitude": "074|09|02|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "20.14",
+        "low": "6.41",
+        "rain": "32.89",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "20.18",
+        "low": "7.62",
+        "rain": "51.38",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "19.79",
+        "low": "8.58",
+        "rain": "83.39",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "19.55",
+        "low": "9.56",
+        "rain": "116.71",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "19.36",
+        "low": "9.6",
+        "rain": "109.03",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "18.94",
+        "low": "9.06",
+        "rain": "57.43",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "18.54",
+        "low": "8.57",
+        "rain": "48.56",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "18.77",
+        "low": "8.38",
+        "rain": "44.33",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.21",
+        "low": "7.78",
+        "rain": "56.73",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "19.42",
+        "low": "8.3",
+        "rain": "108.22",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "19.41",
+        "low": "8.61",
+        "rain": "107.22",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "19.77",
+        "low": "7.53",
+        "rain": "61.37",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed. The station name in the file is El_Dorado_Catam__AUT__21205791, and the WMO_Number field prints 21205791, the code in the filename, not a five-digit WMO index. The position is 04|42|20|N, 074|09|02|W, and the height is 2547, with a leading space in the file. The number-of-years rows for precipitation and for both temperatures print 30 for every month. No other Colombian file was averaged with this one.",
+    "sourceTitle": "WMO climate normals 1991-2020, El Dorado (file code 21205791)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-3-WMO-Normals-9120/Colombia/CSV/El_Dorado_Catam__AUT__21205791.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November.",
+    "The same page says the Atlantic basin includes the Caribbean Sea."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 110 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Colombia at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Article 68 of Law 769 of 2002, the national land-traffic code, says that on a two-way, two-lane road a driver uses the lane to the right, and uses the lane to the left with caution only to overtake. The text opened is the Diario Oficial 44893 of 6 August 2002 on the Senate secretariat site.",
+    "sourceTitle": "Ley 769 de 2002, artículo 68, Diario Oficial 44893",
+    "sourceUrl": "http://www.secretariasenado.gov.co/LEYES/Secsenado_Actual/Diarios/448931.htm"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not obligatory for a guide",
+    "asOf": "2026-11-15",
+    "detail": "The Colombia.travel currency page does not state a tipping practice. A tourism-board training document for guides says the gratuity is not obligatory, is not automatic even after good work, and depends on the client and on how satisfied the client is. No restaurant percent was on the pages that were opened, so none is printed.",
+    "sourceTitle": "Colombia.travel, the guide and the visitor's experience",
+    "sourceUrl": "https://empresarios.colombia.travel/sites/default/files/el_guia_de_turismo_en_la_gestion_de_la_experiencia_del_visitante.pdf"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Colombia, last reviewed 10 November 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Colombia",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/colombia"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Colombian peso (COP)",
+    "detail": "ISO 4217 lists the currency name Colombian Peso and the code COP for Colombia. The same country has a second row, Unidad de Valor Real, code COU, marked as a fund. This sheet prints the peso. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Bogota",
+    "detail": "IANA's zone.tab and zone1970.tab each give Colombia one row, America/Bogota. There is no second Colombia zone in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Migración Colombia",
+    "url": "https://www.migracioncolombia.gov.co/tramites-y-servicios/instructivos/requisitos-de-entrada-y-salida-del-pais",
+    "note": "The migration agency's page on entry and exit requirements. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

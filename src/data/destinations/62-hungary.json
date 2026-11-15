@@ -1,0 +1,180 @@
+{
+  "order": 62,
+  "id": "hungary",
+  "kind": "country",
+  "name": "Hungary",
+  "countrySlug": "hungary",
+  "countryName": "Hungary",
+  "path": "/hungary/",
+  "dek": "Budapest-Belterület, WMO 12840. Pestszentlőrinc is a second Budapest station and is not in this table.",
+  "paragraphs": [
+    "The table is Budapest-Belterület, WMO 12840, height 153 m, the station the file names as the inner area. Budapest-Pestszentlőrinc, WMO 12843, is also in the Hungarian submission. It was not averaged with Belterület, and its numbers are not previewed here.",
+    "The Budapest sheet uses this same station. The average low goes below zero in January and in December. That is the table, not a ranking of months. The road rule and the Visit Hungary tipping note are national."
+  ],
+  "climate": {
+    "caption": "Reference station: Budapest-Belterület, WMO 12840. The inner-city station in the file, not Pestszentlőrinc, and not a national average.",
+    "stationName": "Budapest-Belterület",
+    "stationId": "WMO 12840",
+    "period": "1991-2020",
+    "elevation": "153 m",
+    "latitude": "47|30|40|N",
+    "longitude": "19|01|41|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "4.7",
+        "low": "-1.2",
+        "rain": "33",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "7.1",
+        "low": "0.1",
+        "rain": "30.2",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "12.3",
+        "low": "3.9",
+        "rain": "31.2",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "18.8",
+        "low": "9.1",
+        "rain": "32.5",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "23.1",
+        "low": "12.8",
+        "rain": "57.3",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "26.8",
+        "low": "16.3",
+        "rain": "60",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "28.8",
+        "low": "18",
+        "rain": "53.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "28.9",
+        "low": "17.7",
+        "rain": "54.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "23.1",
+        "low": "13.3",
+        "rain": "46.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "17.2",
+        "low": "8.7",
+        "rain": "44.1",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "10.6",
+        "low": "4.3",
+        "rain": "46.2",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "5.1",
+        "low": "-0.2",
+        "rain": "37.7",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed. Budapest-Pestszentlőrinc, WMO 12843, is a second Budapest station in the Hungarian submission. It was not averaged with Belterület.",
+    "sourceTitle": "WMO climate normals 1991-2020, Budapest-Belterület (12840)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Hungary/CSV/BudapestBelterulet_12840.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Hungary at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Section 25(2) of the joint KPM–BM decree 1/1975, in the National Legal Repository text that prints 2026.01.01 under the title, says a vehicle on the carriageway must travel on the right-hand side in the direction of travel, keeping to the right as far as the road and traffic conditions allow, except when overtaking or passing.",
+    "sourceTitle": "1/1975. (II. 5.) KPM–BM együttes rendelet, 25. § (2), Nemzeti Jogszabálytár",
+    "sourceUrl": "https://njt.hu/jogszabaly/1975-1-20-24"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Usually about 10%",
+    "asOf": "2026-11-15",
+    "detail": "Visit Hungary's money page says the usual amount of a tip is 10 percent, for cabs and restaurants among other places, and that if a card is used the staff prefers the tip in cash. The same page says a 10 to 15 percent service charge added to the bill is just starting to spread, and that if it is included you do not need to tip. No date is printed on the page.",
+    "sourceTitle": "Visit Hungary, money",
+    "sourceUrl": "https://visithungary.com/articles/money"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Hungary, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Hungary",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/hungary"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Forint (HUF)",
+    "detail": "ISO 4217 lists the currency name Forint and the code HUF for Hungary. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Budapest",
+    "detail": "IANA's zone.tab and zone1970.tab each give Hungary one row, Europe/Budapest. There is no second Hungary zone in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs and Trade, consular information",
+    "url": "https://konzinfo.mfa.gov.hu/en/visa-free-travel-hungary",
+    "note": "The ministry's consular page on visa-free travel to Hungary. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "order": 66,
+  "id": "turkey",
+  "kind": "country",
+  "name": "Turkey",
+  "countrySlug": "turkey",
+  "countryName": "Turkey",
+  "path": "/turkey/",
+  "dek": "Ankara Bölge, WMO 17130. The submission has no station named Istanbul.",
+  "paragraphs": [
+    "The table is Ankara Bölge, WMO 17130, height 891 m. The December mean daily minimum is written “-.3” in the file and is printed here as -0.3. The Turkish submission does not contain a station named Istanbul. Florya is the station on the Istanbul sheet. It was not averaged with Ankara.",
+    "July and August share the highest average high in this table. The plug line in the IEC archive uses the name Turkey and 220 volts. The ISO list and the foreign ministry use Türkiye. The road rule is article 46 of the highway traffic law."
+  ],
+  "climate": {
+    "caption": "Reference station: Ankara Bölge, WMO 17130. The capital station in the file. Not Florya, and not a national average.",
+    "stationName": "Ankara Bölge",
+    "stationId": "WMO 17130",
+    "period": "1991-2020",
+    "elevation": "891 m",
+    "latitude": "39|58|22|N",
+    "longitude": "32|51|49|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "4.7",
+        "low": "-2.2",
+        "rain": "38.65",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "7.4",
+        "low": "-1.2",
+        "rain": "36.6",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "12.2",
+        "low": "1.9",
+        "rain": "46.8",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "17.5",
+        "low": "6.0",
+        "rain": "44.55",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "22.8",
+        "low": "10.5",
+        "rain": "50.98",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "27.3",
+        "low": "14.1",
+        "rain": "40.23",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "31.0",
+        "low": "17.2",
+        "rain": "14.26",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.0",
+        "low": "17.4",
+        "rain": "13.99",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "26.5",
+        "low": "13.1",
+        "rain": "17.29",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "20.3",
+        "low": "8.4",
+        "rain": "33.42",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "13.0",
+        "low": "2.7",
+        "rain": "31.88",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "6.7",
+        "low": "-0.3",
+        "rain": "43.19",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed. The December mean daily minimum is written “-.3” in the file. This sheet prints -0.3, which is that figure. There is no station named Istanbul in the submission. Florya and Sarıyer were not averaged with Ankara.",
+    "sourceTitle": "WMO climate normals 1991-2020, Ankara Bölge (17130)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Turkiye/CSV/Ankara_Bolge_17130.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 220 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Turkey at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read. The country name on that line is Turkey. This sheet uses Turkey for the place. The ISO currency list spells the country Türkiye, and the foreign ministry page uses Türkiye. Those are not treated as two plug standards.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Article 46 of the Highway Traffic Law, Law No. 2918, on mevzuat.gov.tr, says traffic on the highways flows on the right. The same article says that, unless a sign says otherwise, drivers drive their vehicles on the right side of the road according to the direction of travel. The page header gives the acceptance date as 13 October 1983 and the Official Gazette date as 18 October 1983.",
+    "sourceTitle": "Karayolları Trafik Kanunu, Kanun No. 2918, madde 46, mevzuat.gov.tr",
+    "sourceUrl": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2918.htm"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not expected at an esnaf lokantası",
+    "asOf": "2026-11-15",
+    "detail": "GoTürkiye's Turkish-cuisine page, writing about an esnaf lokantası, says bread is usually free of extra charge, there is no service fee, and you are not expected to pay a tip, though it is appreciated if you do. That sentence is about that kind of place. The page does not give a national restaurant percent, and this sheet does not invent one.",
+    "sourceTitle": "GoTürkiye, Turkish cuisine",
+    "sourceUrl": "https://goturkiye.com/gastronomy/turkish-cuisine"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Türkiye (Turkey), last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Türkiye (Turkey)",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/turkey"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Turkish lira (TRY)",
+    "detail": "ISO 4217 lists the currency name Turkish Lira and the code TRY. The country name on that row is Türkiye. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Istanbul",
+    "detail": "IANA's zone.tab and zone1970.tab each give Turkey one row, Europe/Istanbul. There is no second Turkey zone in either file. The country code on both rows is TR.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Republic of Türkiye Ministry of Foreign Affairs",
+    "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+    "note": "The foreign ministry's visa information for foreigners. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

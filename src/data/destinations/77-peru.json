@@ -1,0 +1,190 @@
+{
+  "order": 77,
+  "id": "peru",
+  "kind": "country",
+  "name": "Peru",
+  "countrySlug": "peru",
+  "countryName": "Peru",
+  "path": "/peru/",
+  "dek": "No 1991–2020 month table. Lima is not in the NCEI Peru folder, and the bulletins that were opened are a different period.",
+  "paragraphs": [
+    "The Region III Peru directory has 141 station files, and none of the names is Lima, Callao, or Jorge Chávez. The SENAMHI normals page that was requested did not return a table. Campo de Marte bulletins that were opened are single months, and the normals printed on them are 2001–2015 or 2006–2019. Those periods were not stitched into a 1991–2020 year. The cells are blank.",
+    "The PromPerú page says there is no set tip and calls 10 percent adequate, and it says to drink bottled or previously treated water. CDC does not give a yes or a no. The traffic rule that was opened is the right-hand lane on a two-way road."
+  ],
+  "climate": {
+    "caption": "No 1991–2020 month table is printed. Lima is not among the station names in the Peru folder.",
+    "stationName": "Not printed",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      }
+    ],
+    "note": "The Region III Peru folder in the NOAA NCEI 1991–2020 collection, version 6.6, has 141 station files. None of the station names is Lima, Callao, or Jorge Chávez. A SENAMHI station-normals page that was requested returned an error. Monthly Campo de Marte bulletins that were opened use 2001–2015 or 2006–2019, which are not this period, and they were not combined into a 12-month normal. The cells are blank.",
+    "sourceTitle": "WMO 1991-2020 Region III Peru directory (no Lima station)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-3-WMO-Normals-9120/Peru/CSV/",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A, B, and C, 220 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Peru at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Article 135 of the consolidated national traffic regulation, Supreme Decree 016-2009-MTC, says that on a two-lane, two-way carriageway vehicles travel in the right-hand lane, except in the cases the article lists, which include overtaking and an obstacle that forces travel on the left. The PDF that was opened is the copy on the Lima tax agency site. The El Peruano text was not opened separately.",
+    "sourceTitle": "Decreto Supremo N.º 016-2009-MTC, artículo 135",
+    "sourceUrl": "https://www.sat.gob.pe/transparenciav2/Normas/descargar/DECRETO%20SUPREMO%20N%20016-2009-MTC.pdf"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "No set amount; 10% is called adequate",
+    "asOf": "2026-11-15",
+    "detail": "The PromPerú travel-tips page says there is no pre-established amount for gratuities, that it depends on how satisfied you are with the service, and that 10 percent of the check is generally considered adequate.",
+    "sourceTitle": "Peru.travel, travel tips",
+    "sourceUrl": "https://peru.travel/yourperfectperu/about-peru/travel-tips"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Tourism board: bottled or treated",
+    "detail": "CDC's traveler page for Peru, last reviewed 10 November 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice. Separately, the PromPerú travel-tips page says to drink using only bottled or previously treated water. This page repeats that sentence and does not add medical advice.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "Peru.travel, travel tips",
+        "sourceUrl": "https://peru.travel/yourperfectperu/about-peru/travel-tips",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "CDC Travelers' Health, Peru",
+        "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/peru",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Sol (PEN)",
+    "detail": "ISO 4217 lists the currency name Sol and the code PEN for Peru. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Lima",
+    "detail": "IANA's zone.tab and zone1970.tab each give Peru one row, America/Lima. There is no second Peru zone in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Superintendencia Nacional de Migraciones",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/7563355/6423571-m01drcmptl001-exigencias-para-el-control-migratorio-de-ingreso-o-salida-nacionales-y-extranjeros.pdf",
+    "note": "The migration authority's protocol on entry and exit control, in the copy opened on gob.pe. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

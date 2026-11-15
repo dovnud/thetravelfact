@@ -1,0 +1,180 @@
+{
+  "order": 78,
+  "id": "brazil",
+  "kind": "country",
+  "name": "Brazil",
+  "countrySlug": "brazil",
+  "countryName": "Brazil",
+  "path": "/brazil/",
+  "dek": "Brasília, WMO 83377. September in this file is not a full 30-year count.",
+  "paragraphs": [
+    "The table is Brasília, WMO 83377, height 1161.42 m. September precipitation, the June maximum, and the September maximum and minimum are 29-year counts. The other months of those rows are 30. The WIGOS identifier in the file is 0-20000-0-83377.",
+    "The IEC line lists 127 volts and 220 volts and does not assign a city, so this sheet does not. IANA gives Brazil sixteen zone rows. America/Sao_Paulo is the row whose comment names DF. The other fifteen are named on the time-zone line and are not collapsed into it."
+  ],
+  "climate": {
+    "caption": "Reference station: Brasília, WMO 83377. The capital station named in the file. Not a national average.",
+    "stationName": "Brasília",
+    "stationId": "WMO 83377",
+    "period": "1991-2020",
+    "elevation": "1161.42 m",
+    "latitude": "15|47|23|S",
+    "longitude": "47|55|33|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "26.9",
+        "low": "18.3",
+        "rain": "206.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "27.2",
+        "low": "18.2",
+        "rain": "179.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "27.0",
+        "low": "18.2",
+        "rain": "226.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "26.8",
+        "low": "17.7",
+        "rain": "145.2",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "26.0",
+        "low": "15.6",
+        "rain": "26.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "25.3",
+        "low": "14.2",
+        "rain": "3.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "25.6",
+        "low": "13.9",
+        "rain": "1.5",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "27.4",
+        "low": "15.3",
+        "rain": "16.3",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "29.1",
+        "low": "17.6",
+        "rain": "38.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "29.0",
+        "low": "18.5",
+        "rain": "141.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "27.0",
+        "low": "18.1",
+        "rain": "253.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "26.8",
+        "low": "18.3",
+        "rain": "241.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed. The number-of-years row prints 29 for September precipitation, for the June and September maximum, and for the September minimum. The other months of those rows print 30. The WIGOS identifier in the file is 0-20000-0-83377.",
+    "sourceTitle": "WMO climate normals 1991-2020, Brasília (83377)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-3-WMO-Normals-9120/Brazil/CSV/BRASILIA_83377.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and N, 127 V and 220 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Brazil at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read. The line lists both 127 volts and 220 volts and does not assign a voltage to a city, so this sheet does not pick one.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "asOf": "2026-11-15",
+    "detail": "Article 29, item I, of Law 9.503 of 23 September 1997, the Brazilian Traffic Code, says traffic shall keep to the right side of the road, except for exceptions that are properly signed. The text opened is the compilation on the Presidency site.",
+    "sourceTitle": "Lei n.º 9.503, de 1997, art. 29, I, Planalto",
+    "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not mandatory; about 10% where it is not already included",
+    "asOf": "2026-11-15",
+    "detail": "Visit Brasil says tips are not mandatory but are appreciated, and that in restaurants, bars, and similar services it is common to leave a tip of approximately 10 percent of the total where it is not already included in the service price.",
+    "sourceTitle": "Visit Brasil, taxes and tips",
+    "sourceUrl": "https://www.visitbrasil.com/en/info/taxes-and-tips/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Brazil, last reviewed 3 September 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Brazil",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/brazil"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Brazilian real (BRL)",
+    "detail": "ISO 4217 lists the currency name Brazilian Real and the code BRL for Brazil. The list's published date, in the Pblshd attribute, is 17 September 2026.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX), published 17 September 2026",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Sao_Paulo, and other rows",
+    "detail": "IANA's zone1970.tab and zone.tab give Brazil sixteen rows. America/Sao_Paulo is commented as the southeast, and the comment names GO, DF, MG, ES, RJ, SP, PR, SC, and RS. The other rows, with the comments in the file, are America/Noronha (Atlantic islands), America/Belem (Pará east and Amapá), America/Fortaleza (the northeast states named there), America/Recife (Pernambuco), America/Araguaina (Tocantins), America/Maceio (Alagoas and Sergipe), America/Bahia (Bahia), America/Campo_Grande (Mato Grosso do Sul), America/Cuiaba (Mato Grosso), America/Santarem (Pará west), America/Porto_Velho (Rondônia), America/Boa_Vista (Roraima), America/Manaus (Amazonas east), America/Eirunepe (Amazonas west), and America/Rio_Branco (Acre). The climate station on this page is named BRASILIA. The comment names DF. This sheet does not move the other rows onto America/Sao_Paulo.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs",
+    "url": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/quadro-geral-de-regime-de-vistos-para-entrada-de-estrangeiros-no-brasil",
+    "note": "The foreign ministry's table of visa regimes for foreigners entering Brazil. The page prints an update date of 9 October 2026. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}
