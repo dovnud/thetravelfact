@@ -69,6 +69,9 @@ export interface Destination {
   currency: Fact;
   timeZone: Fact;
   entry: EntryLink;
+  advisory?: Fact | null;
+  health?: Fact | null;
+  emergency?: Fact | null;
 }
 
 export function factSources(fact: Fact): SourceRef[] {

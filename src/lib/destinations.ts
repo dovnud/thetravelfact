@@ -1,9 +1,16 @@
-import type { ClimateMonth, Destination } from "./types";
+import type { ClimateMonth, Destination, Fact } from "./types";
+import safety from "../data/safety.json";
+
+const safetyBySlug = safety as Record<string, { advisory?: Fact; health?: Fact; emergency?: Fact }>;
 
 const modules = import.meta.glob("../data/destinations/*.json", { eager: true });
 
 export const destinations: Destination[] = Object.values(modules)
   .map((mod) => (mod as { default: Destination }).default)
+  .map((d) => {
+    const s = safetyBySlug[d.countrySlug] ?? {};
+    return { ...d, advisory: s.advisory ?? null, health: s.health ?? null, emergency: s.emergency ?? null };
+  })
   .sort((a, b) => a.order - b.order);
 
 export function getDestination(country: string, city?: string) {
