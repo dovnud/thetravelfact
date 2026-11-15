@@ -8,8 +8,8 @@
   "path": "/indonesia/",
   "dek": "Kemayoran, Jakarta, WMO 96745. Bali has its own sheet.",
   "paragraphs": [
-    "The reference station is Stasiun Meteorologi Kemayoran, Jakarta, WMO 96745, height 4 m. The Indonesian submission has more than a hundred station files; none were averaged. Jakarta is on Asia/Jakarta time; Bali is on Asia/Makassar. No official driving-side or tipping source for Indonesia was found on this pass, so those lines are missing.",
-    "The highest average high in the table is 33.4 °C, in September and October. The lowest average low is 25.2 °C, in January and February. The wettest month by the precipitation column is February, at 381.4 mm, and the driest is August, at 51.5 mm."
+    "The reference station is Stasiun Meteorologi Kemayoran, Jakarta, WMO 96745, height 4 m. The Indonesian submission has more than a hundred station files; none were averaged. Jakarta is on Asia/Jakarta time; Bali is on Asia/Makassar.",
+    "The highest average high in the table is 33.4 °C, in September and October. The lowest average low is 25.2 °C, in January and February. The wettest month by the precipitation column is February, at 381.4 mm, and the driest is August, at 51.5 mm. No official tipping source was found on this pass, so that line is missing."
   ],
   "climate": {
     "caption": "Reference station: Kemayoran, Jakarta, WMO 96745. Not Bali and not a national average.",
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "Law 22 of 2009 on Road Traffic and Transport, Article 108(1), says road users must use the left lane of the road; the right lane is for overtaking or when directed by police.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "UU No. 22 Tahun 2009 (BPK JDIH)",
+    "sourceUrl": "https://peraturan.bpk.go.id/Download/27961/UU%20Nomor%2022%20Tahun%202009.pdf"
+  },
   "tipping": null,
   "water": {
     "label": "Tap water",

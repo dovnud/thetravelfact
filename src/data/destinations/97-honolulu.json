@@ -8,7 +8,7 @@
   "path": "/hawaii/honolulu/",
   "dek": "Honolulu International Airport, WMO 91182, on Oʻahu.",
   "paragraphs": [
-    "The station is Honolulu International Airport, WMO 91182, height 2 m, position 21°19′26″N, 157°55′46″W. Maui has its own sheet with Kahului. No tipping or tap-water source was opened for US sheets on this pass.",
+    "The station is Honolulu International Airport, WMO 91182, height 2 m, position 21°19′26″N, 157°55′46″W. Maui has its own sheet with Kahului.",
     "The highest average high in the table is 31.5 °C, in August. The lowest average low is 19.3 °C, in January. The wettest month by the precipitation column is March, at 59.8 mm, and the driest is June, at 12.6 mm."
   ],
   "climate": {
@@ -128,8 +128,22 @@
     "sourceTitle": "Hawaii Revised Statutes 291C-41, Hawaii State Legislature",
     "sourceUrl": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0041.htm"
   },
-  "tipping": null,
-  "water": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "15–20% at sit-down meals",
+    "detail": "Visit The USA, run by Brand USA, says diners usually tip 15–20% for a sit-down meal and 10% at a buffet, and that some restaurants add a gratuity for parties of six or more. Its same answer gives bartenders $1 a drink or 15–20%, taxis 10–18%, bell staff $1–2 a bag, housekeeping $2–5 a night, and tour guides 10–20%. It is guidance, not a law.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit The USA (Brand USA), Travel Trade FAQ",
+    "sourceUrl": "https://www.visittheusa.com/travel-trade/faq/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Safe to drink, per Visit The USA",
+    "detail": "Visit The USA, run by Brand USA, says: \"Protected by federal law, water in the United States is safe to drink.\" This is the tourism body's line, not a CDC or EPA statement, and local advisories can still apply.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit The USA (Brand USA), Travel Trade FAQ",
+    "sourceUrl": "https://www.visittheusa.com/travel-trade/faq/"
+  },
   "currency": {
     "label": "Currency",
     "value": "US Dollar (USD)",

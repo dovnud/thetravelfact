@@ -91,3 +91,18 @@ Checked 14 November 2026. A line here is a fact we would not print because the s
 - Viator, Expedia, Booking.com, and Travelpayouts IDs are empty. Those slots are not links.
 - No display-ad script.
 - No visa matrix, no converters, no airport pages, no park guide.
+
+## Second gap fill, 15 November 2026
+
+Filled, official sources only:
+
+- Driving: Thailand, Bangkok, Singapore, South Korea, Seoul, India, Indonesia, Bali, Vietnam, Puerto Rico (Discover Puerto Rico says only "same side as the mainland"), New York, Peru, Panama, Argentina. Peru and Panama amendments after the decrees read were not checked.
+- Tipping: all US sheets (Visit The USA, Brand USA), South Korea and Seoul (VisitKorea), Turkey and Istanbul (Go Türkiye, esnaf lokantası only). Japan sheets already had JNTO tipping.
+- US tap water: Visit The USA's sentence, attributed to it, not to CDC or EPA.
+- Climate: Vietnam (Da Nang) and Bali (Denpasar) precipitation from JMA ClimatView 1991–2020 normals; mean temperatures in the text. No normal highs or lows.
+
+Still open:
+
+- Driving: Dubai/UAE (Federal Law 21/1995 superseded by Decree-Law 14/2024; no keep-right rule found), Morocco, Egypt, Costa Rica (pgrweb.go.cr returned 500), Aruba.
+- Tipping: Australia and Sydney (australia.com page renders no text), Thailand, Bangkok, Singapore, Vietnam, Indonesia, Bali, India, Dubai (cookie wall), Morocco, Egypt, Jamaica, Puerto Rico.
+- Climate: Hanoi and Ho Chi Minh City normals; Vietnam's national service and BMKG tables not found; Panama.

@@ -8,7 +8,7 @@
   "path": "/panama/",
   "dek": "No climate table yet. The facts below are sourced; the months are blank.",
   "paragraphs": [
-    "Panama is not in the NOAA NCEI 1991–2020 collection, and no 1991–2020 monthly normal from the national met institute was found on this pass, so the climate cells are blank. ISO 4217 lists two currencies for Panama, the Balboa and the US Dollar, and both are printed. No official driving-side source was found on this pass."
+    "Panama is not in the NOAA NCEI 1991–2020 collection, and no 1991–2020 monthly normal from the national met institute was found on this pass, so the climate cells are blank. ISO 4217 lists two currencies for Panama, the Balboa and the US Dollar, and both are printed."
   ],
   "climate": {
     "caption": "No 1991–2020 month table is printed for Panama.",
@@ -119,7 +119,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Executive Decree 640 of 2006, the vehicle traffic regulation, article 149(b), says that on highways and expressways vehicles travel in the right lane, with stated exceptions, and article 155(i) allows passing on the right only exceptionally. The copy read is hosted by the Judicial Branch; later amendments were not checked.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Decreto Ejecutivo 640 de 2006 (Órgano Judicial copy)",
+    "sourceUrl": "https://www.organojudicial.gob.pa/uploads/wp_repo/blogs.dir/cendoj/CIVIL/decreto_ejecutivo_640_de_2006_reglamento_de_transito_vehicular.pdf"
+  },
   "tipping": {
     "label": "Tipping",
     "value": "Voluntary; cannot be charged unless agreed",

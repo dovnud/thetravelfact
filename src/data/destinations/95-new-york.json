@@ -8,7 +8,7 @@
   "path": "/united-states/new-york/",
   "dek": "Central Park, WMO 72506, in Manhattan. Not JFK or LaGuardia.",
   "paragraphs": [
-    "The station is New York Central Park, WMO 72506, height 40 m, position 40°46′44″N, 73°58′09″W. JFK (74486) and LaGuardia (72503) have their own files and were not averaged in. The New York State traffic statute did not load on this pass, so there is no driving line. No tipping or tap-water source was opened for US sheets on this pass.",
+    "The station is New York Central Park, WMO 72506, height 40 m, position 40°46′44″N, 73°58′09″W. JFK (74486) and LaGuardia (72503) have their own files and were not averaged in.",
     "The highest average high in the table is 29.4 °C, in July. The lowest average low is -2.3 °C, in January. The wettest month by the precipitation column is July, at 116.9 mm, and the driest is February, at 81.0 mm."
   ],
   "climate": {
@@ -120,9 +120,30 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
-  "tipping": null,
-  "water": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "The New York State DMV Driver's Manual, chapter 6, says: \"The law requires that we drive on the right side of the road,\" and that drivers usually pass on the left.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "NYS DMV Driver's Manual, Chapter 6: Passing",
+    "sourceUrl": "https://dmv.ny.gov/new-york-state-drivers-manual-and-practice-tests/chapter-6-passing"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "15–20% at sit-down meals",
+    "detail": "Visit The USA, run by Brand USA, says diners usually tip 15–20% for a sit-down meal and 10% at a buffet, and that some restaurants add a gratuity for parties of six or more. Its same answer gives bartenders $1 a drink or 15–20%, taxis 10–18%, bell staff $1–2 a bag, housekeeping $2–5 a night, and tour guides 10–20%. It is guidance, not a law.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit The USA (Brand USA), Travel Trade FAQ",
+    "sourceUrl": "https://www.visittheusa.com/travel-trade/faq/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Safe to drink, per Visit The USA",
+    "detail": "Visit The USA, run by Brand USA, says: \"Protected by federal law, water in the United States is safe to drink.\" This is the tourism body's line, not a CDC or EPA statement, and local advisories can still apply.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit The USA (Brand USA), Travel Trade FAQ",
+    "sourceUrl": "https://www.visittheusa.com/travel-trade/faq/"
+  },
   "currency": {
     "label": "Currency",
     "value": "US Dollar (USD)",

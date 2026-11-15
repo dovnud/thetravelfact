@@ -8,7 +8,7 @@
   "path": "/united-states/los-angeles/",
   "dek": "Los Angeles International Airport, WMO 72295, by the coast.",
   "paragraphs": [
-    "The station is Los Angeles International Airport, WMO 72295, height 30 m, position 33°56′17″N, 118°23′20″W. It sits near the ocean, so inland valleys run hotter in summer. No tipping or tap-water source was opened for US sheets on this pass.",
+    "The station is Los Angeles International Airport, WMO 72295, height 30 m, position 33°56′17″N, 118°23′20″W. It sits near the ocean, so inland valleys run hotter in summer.",
     "The highest average high in the table is 24.8 °C, in August. The lowest average low is 9.5 °C, in December. The wettest month by the precipitation column is February, at 76.0 mm, and the driest is August, at 0.1 mm."
   ],
   "climate": {
@@ -128,8 +128,22 @@
     "sourceTitle": "California Vehicle Code 21650, California Legislative Information",
     "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21650"
   },
-  "tipping": null,
-  "water": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "15–20% at sit-down meals",
+    "detail": "Visit The USA, run by Brand USA, says diners usually tip 15–20% for a sit-down meal and 10% at a buffet, and that some restaurants add a gratuity for parties of six or more. Its same answer gives bartenders $1 a drink or 15–20%, taxis 10–18%, bell staff $1–2 a bag, housekeeping $2–5 a night, and tour guides 10–20%. It is guidance, not a law.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit The USA (Brand USA), Travel Trade FAQ",
+    "sourceUrl": "https://www.visittheusa.com/travel-trade/faq/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Safe to drink, per Visit The USA",
+    "detail": "Visit The USA, run by Brand USA, says: \"Protected by federal law, water in the United States is safe to drink.\" This is the tourism body's line, not a CDC or EPA statement, and local advisories can still apply.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit The USA (Brand USA), Travel Trade FAQ",
+    "sourceUrl": "https://www.visittheusa.com/travel-trade/faq/"
+  },
   "currency": {
     "label": "Currency",
     "value": "US Dollar (USD)",

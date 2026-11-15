@@ -128,7 +128,14 @@
     "sourceTitle": "Karayolları Trafik Kanunu No. 2918, Madde 46, mevzuat.gov.tr",
     "sourceUrl": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.2918.pdf"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not expected at esnaf lokantası",
+    "detail": "Go Türkiye, the official tourism site, says that at an esnaf lokantası (a tradesmen's restaurant) there is no service fee and you are not expected to tip, though a tip is appreciated. It does not cover other restaurants, hotels, or taxis.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Go Türkiye, Turkish Cuisine",
+    "sourceUrl": "https://goturkiye.com/gastronomy/turkish-cuisine"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

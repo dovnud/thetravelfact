@@ -6,109 +6,109 @@
   "countrySlug": "indonesia",
   "countryName": "Indonesia",
   "path": "/indonesia/bali/",
-  "dek": "No climate table yet. Both Bali files in the collection print no monthly values.",
+  "dek": "Precipitation only, from the Japan Meteorological Agency's 1991–2020 normal for Denpasar.",
   "paragraphs": [
-    "The Indonesian 1991–2020 submission has two Bali files, Stasiun Meteorologi I Gusti Ngurah Rai (97230) and Stasiun Geofisika Denpasar (97232). Neither prints monthly temperature or precipitation values, so the cells are blank and Jakarta was not copied in. Bali keeps a different time zone from Jakarta.",
-    "The plug, currency, and entry lines are national and repeat the Indonesia sheet."
+    "The Indonesian 1991–2020 submission in the NOAA NCEI collection has two Bali files, Stasiun Meteorologi I Gusti Ngurah Rai (97230) and Stasiun Geofisika Denpasar (97232), and neither prints monthly values. The rain column is the Japan Meteorological Agency's 1991–2020 normal for station 97230, listed as Denpasar (8.75°S, 115.17°E, 1 m), computed from the CLIMAT reports BMKG sends through the WMO. January is the wettest month, at 350.7 mm, and July the driest, at 27.6 mm. Bali keeps a different time zone from Jakarta. The same JMA page gives the 1991–2020 normal monthly mean temperature in °C as Jan 27.9, Feb 28.0, Mar 28.0, Apr 28.1, May 27.8, Jun 27.2, Jul 26.5, Aug 26.3, Sep 26.8, Oct 27.6, Nov 28.2, Dec 28.0; the table has no column for a mean, so those figures are printed here.",
+    "The plug, currency, and entry lines are national and repeat the Indonesia sheet. No official tipping source was found on this pass, so that line is missing."
   ],
   "climate": {
-    "caption": "No 1991–2020 month table is printed for Bali.",
-    "stationName": "Not printed",
-    "stationId": null,
-    "period": "a period we could not source",
-    "elevation": null,
-    "latitude": null,
-    "longitude": null,
+    "caption": "Station: Denpasar, WMO 97230. Precipitation only.",
+    "stationName": "Denpasar",
+    "stationId": "JMA ClimatView 97230",
+    "period": "1991–2020",
+    "elevation": "1 m",
+    "latitude": "-8.75",
+    "longitude": "115.17",
     "columnRain": "Precipitation (mm)",
     "months": [
       {
         "month": "January",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "350.7",
         "precip": null
       },
       {
         "month": "February",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "289.8",
         "precip": null
       },
       {
         "month": "March",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "231.1",
         "precip": null
       },
       {
         "month": "April",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "107.4",
         "precip": null
       },
       {
         "month": "May",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "94.7",
         "precip": null
       },
       {
         "month": "June",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "67.9",
         "precip": null
       },
       {
         "month": "July",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "27.6",
         "precip": null
       },
       {
         "month": "August",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "36.4",
         "precip": null
       },
       {
         "month": "September",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "59.4",
         "precip": null
       },
       {
         "month": "October",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "64.4",
         "precip": null
       },
       {
         "month": "November",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "131.2",
         "precip": null
       },
       {
         "month": "December",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "327.4",
         "precip": null
       }
     ],
-    "note": "The Indonesian submission to the WMO 1991–2020 collection distributed by NOAA NCEI has I Gusti Ngurah Rai (97230) and Denpasar (97232). Neither file prints monthly values for mean daily maximum, mean daily minimum, or precipitation. The cells are blank rather than borrowed from Jakarta.",
-    "sourceTitle": "WMO climate normals 1991-2020, I Gusti Ngurah Rai (97230), no monthly values",
-    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/Indonesia/CSV/StasiunMeteorologiIGustiNgurahRai_97230.csv",
+    "note": "Normals from the Japan Meteorological Agency (JMA) ClimatView tool, which computes 1991–2020 normals from the CLIMAT reports national services send through the WMO. ClimatView gives a normal for monthly mean temperature and precipitation only; it has no normal daily maximum or minimum, so the high and low cells are blank. BMKG publishes the underlying observations, but a BMKG 1991–2020 monthly table for Bali was not found on this pass, and the BMKG files in the NOAA NCEI collection print no Bali values.",
+    "sourceTitle": "Japan Meteorological Agency, ClimatView monthly statistics, station 97230",
+    "sourceUrl": "https://www.data.jma.go.jp/cpd/monitor/climatview/graph_mkhtml.php?m=9&n=97230",
     "asOf": "2026-11-15"
   },
   "season": [],
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "Law 22 of 2009 on Road Traffic and Transport, Article 108(1), says road users must use the left lane of the road; the right lane is for overtaking or when directed by police.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "UU No. 22 Tahun 2009 (BPK JDIH)",
+    "sourceUrl": "https://peraturan.bpk.go.id/Download/27961/UU%20Nomor%2022%20Tahun%202009.pdf"
+  },
   "tipping": null,
   "water": {
     "label": "Tap water",

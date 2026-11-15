@@ -8,7 +8,7 @@
   "path": "/south-korea/",
   "dek": "Seoul, WMO 47108. Cold, dry winters; a wet July and August.",
   "paragraphs": [
-    "The reference station is Seoul, WMO 47108, height 85 m. Busan and Jeju are not this table; the Korean submission has many station files, and none were averaged. No official driving-side or tipping source for South Korea was found on this pass, so those lines are missing.",
+    "The reference station is Seoul, WMO 47108, height 85 m. Busan and Jeju are not this table; the Korean submission has many station files, and none were averaged.",
     "The highest average high in the table is 30 °C, in August. The lowest average low is -5.5 °C, in January. The wettest month by the precipitation column is July, at 414.4 mm, and the driest is January, at 16.8 mm."
   ],
   "climate": {
@@ -120,8 +120,22 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
-  "tipping": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "The Korea Tourism Organization guide says Korea practices right-hand traffic: stay on the right side of the road, and the driver's seat is on the left.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "VisitKorea, Your Guide to Driving in Korea",
+    "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=251489"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not required or expected",
+    "detail": "The Korea Tourism Organization's food guide says: \"Tipping is not required or expected in Korea.\"",
+    "asOf": "2026-11-15",
+    "sourceTitle": "VisitKorea, About Korean Food",
+    "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140727"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",
