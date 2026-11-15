@@ -37,6 +37,21 @@ Checked 14 November 2026. A line here is a fact we would not print because the s
 - **Frankfurt/Main** is the only Frankfurt station in the German submission. The file's name is used. The sheet does not add the word airport.
 - **Nice** is the station named NICE in the French file, at 2 m. The sheet does not add a label the file does not use.
 
+## Checked 15 November 2026, places 41–60
+
+- **Kyoto** is not in the NOAA NCEI Japan submission, version 6.6. The sheet uses the Japan Meteorological Agency monthly normal for block 47759. Position and height are the OSCAR/Surface record for WIGOS 0-20000-0-47759, not figures printed on the JMA normals page.
+- **Portugal** has no folder in the Region VI collection. IPMA's 1991–2020 fiche for Lisboa / Instituto Geofísico (station 535, version 1.0 of 2024) says the series is hybrid: observed data plus WRF-modelled values. The numbers are printed with that caveat. Gago Coutinho and Tapada are separate hybrid fiches and were not averaged with Geofísico.
+- **Greece** has no folder in the Region VI collection. The HNMS Elliniko page that was opened is labelled 1955–2010 and was not relabelled as 1991–2020. The National Observatory of Athens published a 1991–2020 temperature table as an image (magazine article, 26 February 2021). The 1961–1990 row of that image did not match the institute's HTML table for 1961–1990 to the tenth of a degree, so the 1991–2020 row was not transcribed. Athens and Santorini have blank climate cells. Santorini was not given Athens's numbers.
+- **Zürich/Fluntern (WMO 06660)** prints a mean or a sum for every month and does not print a number-of-years row. The values are printed. Kloten was not averaged in.
+- **Dublin Airport** header field prints 3969. The filename is 03969. Same station. Casement Aerodrome was not averaged with it.
+- **Reykjavík** header prints 04030 and the data rows print 4030. Same station. Keflavík was not substituted.
+- **Schiphol** height is printed as -3.87. De Bilt was not averaged with it.
+- **Plugs, later on 15 November.** A direct download of iec.ch/world-plugs failed again. The lines for Ireland (230 V, 50 Hz, G), Portugal, the Netherlands, Greece, Iceland, Austria, and Croatia (230 V, 50 Hz, C and F), Switzerland (230 V, 50 Hz, C and J), and the Czech Republic (230 V, 50 Hz, C and E) were read from the Internet Archive copy of that page captured on 16 August 2026. Japan's line in that copy matches the line already on the Japan sheet.
+- **Driving.** No statute text was opened for Greece or for Iceland. Those sheets do not name a side. Switzerland's parent sentence in the Road Traffic Act, Article 34(1), is cited by the ordinance and was not itself opened, so it is not quoted. The ordinance articles that were opened are quoted.
+- **Tipping.** No tourism-office page stating a practice was opened for Ireland, the Netherlands, Greece, Iceland, Switzerland, Austria, Czechia, or Croatia. Those sheets omit tipping. Portugal uses the Visit Portugal practical page, which carries a 2013 copyright line.
+- **Tap water.** CDC's Ireland page, reviewed 25 August 2026, says standards are similar to the United States and then warns about unregulated rural wells. It is quoted, and it is not upgraded to a yes for every tap. The other new countries' CDC pages, also reviewed 25 August 2026, do not give a yes or a no.
+- **Time zones.** zone1970.tab, header note dated 15 May 2025, folds the Netherlands into the Europe/Brussels row, Iceland into the Africa/Abidjan row, and Croatia into the Europe/Belgrade row. zone.tab still names Europe/Amsterdam, Atlantic/Reykjavik, and Europe/Zagreb, and the backward file links the old names to the merged ones. The sheets print the zone.tab names and cite all three files. Portugal's three rows, mainland, Madeira, and Azores, are named and not collapsed.
+
 ## Not on the site yet
 
 - Viator, Expedia, Booking.com, and Travelpayouts IDs are empty. Those slots are not links.

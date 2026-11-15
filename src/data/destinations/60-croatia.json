@@ -1,0 +1,178 @@
+{
+  "order": 60,
+  "id": "croatia",
+  "kind": "country",
+  "name": "Croatia",
+  "countrySlug": "croatia",
+  "countryName": "Croatia",
+  "path": "/croatia/",
+  "dek": "Zagreb-Maksimir, WMO 14240. One of two stations in the submission. Not the coast.",
+  "paragraphs": [
+    "The table is Zagreb-Maksimir, WMO 14240, height 123 m. The other station in the Croatian submission is Split-Marjan, WMO 14445. It was not averaged with Zagreb, and its numbers are not previewed here. Dubrovnik is not in the submission. A coastal climate is not this table.",
+    "July and August tie for the highest average high, and September is the heaviest precipitation month. The winters go below zero in the average low. The time-zone files disagree about the name: zone.tab says Europe/Zagreb, and zone1970.tab folds Croatia into the Europe/Belgrade row. The sheet prints Europe/Zagreb and cites both."
+  ],
+  "climate": {
+    "caption": "Reference station: Zagreb-Maksimir, WMO 14240. Not the coast, and not a national average.",
+    "stationName": "Zagreb-Maksimir",
+    "stationId": "WMO 14240",
+    "period": "1991-2020",
+    "elevation": "123 m",
+    "latitude": "45|49|19|N",
+    "longitude": "16|2|1|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "5.0",
+        "low": "-2.0",
+        "rain": "45.7",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "7.8",
+        "low": "-1.2",
+        "rain": "45.0",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "13.0",
+        "low": "2.5",
+        "rain": "48.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "18.0",
+        "low": "6.6",
+        "rain": "60.6",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "22.4",
+        "low": "11.0",
+        "rain": "76.5",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "26.2",
+        "low": "14.7",
+        "rain": "90.8",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "28.1",
+        "low": "16.2",
+        "rain": "80.4",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "28.1",
+        "low": "16.0",
+        "rain": "85.6",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "22.6",
+        "low": "11.8",
+        "rain": "103.8",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "17.0",
+        "low": "7.5",
+        "rain": "88.5",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "10.7",
+        "low": "3.4",
+        "rain": "87.4",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "5.3",
+        "low": "-1.1",
+        "rain": "61.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed. The Croatian submission in this collection has two stations, Zagreb-Maksimir and Split-Marjan. Split was not averaged with Zagreb. Dubrovnik is not in the submission.",
+    "sourceTitle": "WMO climate normals 1991-2020, Zagreb-Maksimir (14240)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Croatia/CSV/ZagrebMaksimir_14240.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Croatia at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 47(1) of the Road Traffic Safety Act, in the consolidation on zakon.hr, says a vehicle moves on the right side of the carriageway, or on a cycle track or lane along the right edge of the carriageway or road in the direction of travel, and on a track marked for two-way bicycle traffic, on the right side of that track in the direction of travel. The article is marked with the amendment in Narodne novine 114/22. The site is a consolidation. The official gazette text of that amendment was not opened separately.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Zakon o sigurnosti prometa na cestama, članak 47, zakon.hr",
+    "sourceUrl": "https://www.zakon.hr/z/78/Zakon-o-sigurnosti-prometa-na-cestama"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Croatia, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Croatia",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/croatia"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Croatia.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Zagreb",
+    "detail": "IANA's zone.tab names Croatia Europe/Zagreb. zone1970.tab puts Croatia on one row with Serbia, Bosnia and Herzegovina, Montenegro, North Macedonia, and Slovenia, and the zone name on that row is Europe/Belgrade. The backward file links Europe/Zagreb to Europe/Belgrade. This sheet prints Europe/Zagreb, which is the name zone.tab gives Croatia.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign and European Affairs of Croatia",
+    "url": "https://mvep.gov.hr/services-for-citizens/consular-information-22802/visas-22807/22807",
+    "note": "The foreign ministry's visas page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

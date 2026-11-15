@@ -37,7 +37,7 @@ const facts: Fact[] = [
   destination.currency,
   destination.timeZone,
   ...(destination.tipping ? [destination.tipping] : []),
-];
+].filter((fact): fact is Fact => fact != null);
 
 const sources: SourceRef[] = [
   {

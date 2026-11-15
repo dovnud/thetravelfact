@@ -1,0 +1,171 @@
+{
+  "order": 53,
+  "id": "iceland",
+  "kind": "country",
+  "name": "Iceland",
+  "countrySlug": "iceland",
+  "countryName": "Iceland",
+  "path": "/iceland/",
+  "dek": "Reykjavík's 1991–2020 normal. Not Keflavík, and not a national average.",
+  "paragraphs": [
+    "The table is Reykjavík, header number 04030, and the data rows print 4030. The height in the file is 52 m. Keflavík, filename 04018, is the airport file and was not substituted. Akureyri and the other Icelandic stations in the submission are not this table.",
+    "The average high in July is the warmest cell, and it is still a cool summer. December is the heaviest precipitation month in the file. No driving statute was opened, so the side of the road is not printed. No tourism-office tipping line was opened either."
+  ],
+  "climate": {
+    "caption": "Reference station: Reykjavík, WMO 04030. The header prints 04030 and the data rows print 4030. Not a national average.",
+    "stationName": "Reykjavík",
+    "stationId": "WMO 04030",
+    "period": "1991-2020",
+    "elevation": "52 m",
+    "latitude": "64|07|39|N",
+    "longitude": "21|54|10|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "3.2",
+        "low": "-1.7",
+        "rain": "87.1",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "3.3",
+        "low": "-1.9",
+        "rain": "90.6",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "4.2",
+        "low": "-1.3",
+        "rain": "80.7",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "6.9",
+        "low": "1.0",
+        "rain": "59.0",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "10.1",
+        "low": "4.0",
+        "rain": "52.6",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "13.0",
+        "low": "7.2",
+        "rain": "43.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "14.9",
+        "low": "9.1",
+        "rain": "49.9",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "14.1",
+        "low": "8.6",
+        "rain": "64.5",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "11.4",
+        "low": "6.2",
+        "rain": "87.0",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "7.6",
+        "low": "2.7",
+        "rain": "79.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "4.7",
+        "low": "-0.1",
+        "rain": "86.5",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "3.3",
+        "low": "-1.6",
+        "rain": "94.9",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed. The header number is 04030 and the data rows print 4030. Those are the same station. Keflavík (filename 04018) is a separate airport file and was not substituted.",
+    "sourceTitle": "WMO climate normals 1991-2020, Reykjavík (04030)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Iceland/CSV/Reykjavik_04030.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Iceland at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Iceland, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Iceland",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/iceland"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Iceland Krona (ISK)",
+    "detail": "ISO 4217 lists the currency name Iceland Krona and the code ISK for Iceland.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Atlantic/Reykjavik",
+    "detail": "IANA's zone.tab names Iceland Atlantic/Reykjavik. zone1970.tab puts Iceland on one row with several countries whose civil time has agreed since 1970, and the zone name on that row is Africa/Abidjan. The backward file links Atlantic/Reykjavik to Africa/Abidjan. This sheet prints Atlantic/Reykjavik, which is the name zone.tab gives Iceland.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Útlendingastofnun",
+    "url": "https://island.is/s/utlendingastofnun",
+    "note": "The Directorate of Immigration's service page on island.is. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

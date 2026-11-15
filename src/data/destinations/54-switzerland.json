@@ -1,0 +1,173 @@
+{
+  "order": 54,
+  "id": "switzerland",
+  "kind": "country",
+  "name": "Switzerland",
+  "countrySlug": "switzerland",
+  "countryName": "Switzerland",
+  "path": "/switzerland/",
+  "dek": "Zürich/Fluntern, WMO 06660. Not the airport, and not a national average. The file has no year-count row.",
+  "paragraphs": [
+    "The table is Zürich/Fluntern, WMO 06660, height 556 m. The file spells the name ZUERICH / FLUNTERN. Zürich/Kloten, WMO 06670, height 426 m, is the airport and was not averaged with Fluntern. Geneva, Basel, Lugano, and the Alpine stations are other files.",
+    "The Swiss file prints a value for every month and does not print how many years went into the normal. The sheet does not invent a 30. July is the warmest average high, and May is the heaviest precipitation month. The plug is type J as well as type C, which is not the German type-F line."
+  ],
+  "climate": {
+    "caption": "Reference station: Zürich/Fluntern, WMO 06660. Not Kloten, and not a national average.",
+    "stationName": "Zürich/Fluntern",
+    "stationId": "WMO 06660",
+    "period": "1991-2020",
+    "elevation": "556 m",
+    "latitude": "47|22|41|N",
+    "longitude": "08|33|57|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "3.5",
+        "low": "-1.4",
+        "rain": "63.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "5.2",
+        "low": "-1.2",
+        "rain": "60.3",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "10.2",
+        "low": "1.9",
+        "rain": "71.2",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "14.8",
+        "low": "5.1",
+        "rain": "80.4",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "18.8",
+        "low": "9.0",
+        "rain": "128.2",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "22.4",
+        "low": "12.6",
+        "rain": "127.6",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "24.3",
+        "low": "14.4",
+        "rain": "126.0",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "23.9",
+        "low": "14.3",
+        "rain": "119.1",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.1",
+        "low": "10.7",
+        "rain": "87.4",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "13.8",
+        "low": "7.1",
+        "rain": "85.2",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "7.6",
+        "low": "2.5",
+        "rain": "76.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "4.0",
+        "low": "-0.5",
+        "rain": "83.4",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed. This Swiss file has mean and sum rows for every month and does not include a number-of-years row, so the sheet cannot confirm 30 years from the file itself. The file is the 1991–2020 submission. Zürich/Kloten (WMO 06670, height 426 m) is the airport file and was not averaged with Fluntern.",
+    "sourceTitle": "WMO climate normals 1991-2020, Zuerich/Fluntern (06660)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Switzerland/CSV/ZuerichFluntern_06660.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and J, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Switzerland at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 8(1) of the Verkehrsregelnverordnung says that on roads with several lanes in the same direction, the outermost lane on the right is the one to use. That does not apply when overtaking, when moving into position, when driving in parallel columns, or inside a built-up area. Article 7 is headed Rechtsfahren. It says traffic islands, barred areas, and obstacles in the middle of the carriageway are passed on the right, with an exception for a driver turning left at an island in the middle of a junction. The article cites Article 34(1) of the Road Traffic Act as its parent. The text of that parent article was not opened on this pass, so it is not quoted.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Verkehrsregelnverordnung, Art. 7 and 8, Fedlex",
+    "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/de"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Switzerland, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Switzerland",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/switzerland"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Swiss Franc (CHF)",
+    "detail": "ISO 4217 lists the currency name Swiss Franc and the code CHF for Switzerland. The same country block also lists WIR Euro (CHE) and WIR Franc (CHW). This sheet names the franc.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Zurich",
+    "detail": "IANA's zone.tab gives Switzerland one row, Europe/Zurich. zone1970.tab puts Switzerland on the same row as Germany and Liechtenstein, named Europe/Zurich, with the comment Büsingen. The file's header says that comment is useful only for Germany, because Switzerland and Liechtenstein have no other zone. The comment is not printed as a description of Zurich.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "State Secretariat for Migration",
+    "url": "https://www.sem.admin.ch/en/entering-switzerland",
+    "note": "The migration secretariat's page on entering Switzerland. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

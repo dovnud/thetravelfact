@@ -1,0 +1,180 @@
+{
+  "order": 47,
+  "id": "lisbon",
+  "kind": "city",
+  "name": "Lisbon",
+  "countrySlug": "portugal",
+  "countryName": "Portugal",
+  "path": "/portugal/lisbon/",
+  "dek": "Instituto Geofísico, IPMA station 535. A hybrid 1991–2020 series, not the airport fiche.",
+  "paragraphs": [
+    "Lisboa / Instituto Geofísico is station 535, height 77.0 m. The country sheet uses the same fiche and says so. Gago Coutinho, station 579, is the airport-area fiche. Tapada is station 762. Both are marked hybrid, and neither was merged with Geofísico. The dry summer and the wet November are in this fiche. They are not borrowed from another city's table.",
+    "The page says the series includes modelled values. Read the numbers with that sentence. The time zone for this city is Europe/Lisbon, the mainland row. Madeira and the Azores are the other two Portuguese rows."
+  ],
+  "climate": {
+    "period": "1991-2020",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "15.1",
+        "low": "8.6",
+        "rain": "103.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "16.4",
+        "low": "9.1",
+        "rain": "77.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "18.9",
+        "low": "11.0",
+        "rain": "68.7",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "20.4",
+        "low": "12.3",
+        "rain": "71.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "23.1",
+        "low": "14.4",
+        "rain": "57.8",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "26.1",
+        "low": "16.8",
+        "rain": "14.1",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "28.2",
+        "low": "18.2",
+        "rain": "2.6",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "28.8",
+        "low": "18.8",
+        "rain": "5.4",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "26.6",
+        "low": "17.6",
+        "rain": "38.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "22.8",
+        "low": "15.3",
+        "rain": "110.6",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "18.1",
+        "low": "11.8",
+        "rain": "133.9",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "15.4",
+        "low": "9.4",
+        "rain": "108.5",
+        "precip": null
+      }
+    ],
+    "asOf": "2026-11-15",
+    "caption": "Station: Lisboa / Instituto Geofísico, IPMA 535. Hybrid series. Not Gago Coutinho and not Tapada.",
+    "stationName": "Lisboa / Instituto Geofísico",
+    "stationId": "IPMA 535",
+    "elevation": "77.0 m",
+    "latitude": "38.7191N",
+    "longitude": "9.1497W",
+    "note": "IPMA normal climatológica 1991–2020, Lisboa / Instituto Geofísico, station 535, version 1.0 of 2024. The fiche labels the series hybrid. The legend says the series is observed data from classical and automatic stations plus values modelled with WRF at local scale. Portugal has no folder in the NOAA NCEI Region VI 1991–2020 collection, version 6.6. Gago Coutinho and Tapada are separate Lisbon fiches, also marked hybrid, and were not averaged with this one.",
+    "sourceTitle": "IPMA normal climatológica 1991-2020, Lisboa / Instituto Geofísico",
+    "sourceUrl": "https://www.ipma.pt/bin/file.data/climate-normal/cn_91-20_LISBOA_GEOFISICO.pdf"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Portugal at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 13 of the Código da Estrada, in the consolidated text of Decree-Law 114/94 kept by the Lisbon public prosecutor's office, says the driving position is on the right side of the carriageway, keeping enough distance from the verges or pavements to avoid accidents. The left side may be used when needed to overtake or to change direction. Where two or more lanes run in the same direction, traffic uses the rightmost lane, and may use another if there is no room in that one, or to overtake or change direction.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Código da Estrada, artigo 13.º, PGDL",
+    "sourceUrl": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0013&nid=349&tabela=leis&ficha=1&pagina=1&nversao="
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Service included; about 5–10% is usual",
+    "detail": "Visit Portugal's practical-information page says restaurant service is included in the bill, and that it is usual to leave a tip of about 5 to 10 percent of the price of the meal. The same page says a taxi tip is voluntary and that about 5 to 10 percent, or rounding up, is usual. The print carries a 2013 Turismo de Portugal copyright line. The percentages are that page's, not a newer regulation we opened.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit Portugal, practical information",
+    "sourceUrl": "https://www.visitportugal.com/pt-pt/print/sobre-portugal/info-util"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Portugal, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Portugal",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/portugal"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Portugal.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Lisbon",
+    "detail": "Lisbon is the mainland. IANA's zone1970.tab and zone.tab comment Europe/Lisbon as Portugal (mainland). Atlantic/Madeira and Atlantic/Azores are the other Portuguese rows. This city is not on either of those.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas, via gov.pt",
+    "url": "https://www.gov.pt/servicos/pedir-um-visto-schengen-de-curta-duracao",
+    "note": "The government services page for a short-stay Schengen visa. The page says it was updated on 21 May 2026. We do not restate the rule.",
+    "asOf": "2026-11-15"
+  }
+}
