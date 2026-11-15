@@ -1,0 +1,166 @@
+{
+  "order": 96,
+  "id": "miami",
+  "kind": "city",
+  "name": "Miami",
+  "countrySlug": "united-states",
+  "countryName": "United States",
+  "path": "/united-states/miami/",
+  "dek": "Miami International Airport, WMO 72202. Wet from May through October.",
+  "paragraphs": [
+    "The station is Miami International Airport, WMO 72202, height 9 m, position 25°47′26″N, 80°18′59″W. Miami Beach is not a separate file in this collection. No tipping or tap-water source was opened for US sheets on this pass.",
+    "The highest average high in the table is 32.6 °C, in July and August. The lowest average low is 16.1 °C, in January. The wettest month by the precipitation column is June, at 266.9 mm, and the driest is January, at 46.6 mm."
+  ],
+  "climate": {
+    "caption": "Station: Miami International Airport, WMO 72202.",
+    "stationName": "Miami International Airport",
+    "stationId": "WMO 72202",
+    "period": "1991-2020",
+    "elevation": "9 m",
+    "latitude": "25|47|26|N",
+    "longitude": "080|18|59|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "24.6",
+        "low": "16.1",
+        "rain": "46.6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "25.7",
+        "low": "17.3",
+        "rain": "54.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "27.0",
+        "low": "18.7",
+        "rain": "62.5",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "28.7",
+        "low": "21.0",
+        "rain": "85.5",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.4",
+        "low": "23.0",
+        "rain": "160.6",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "31.8",
+        "low": "24.6",
+        "rain": "266.9",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "32.6",
+        "low": "25.3",
+        "rain": "187.0",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "32.6",
+        "low": "25.4",
+        "rain": "243.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.7",
+        "low": "24.9",
+        "rain": "259.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "30.0",
+        "low": "23.4",
+        "rain": "194.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "27.4",
+        "low": "20.2",
+        "rain": "89.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "25.6",
+        "low": "17.9",
+        "rain": "62.0",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Miami International Airport (72202)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/UnitedStates/CSV/MIAMI_INTL_AP_72202.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows United States at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Section 316.081(1) of the Florida Statutes, on the Florida Senate site, says that on all roadways of sufficient width a vehicle shall be driven on the right half of the roadway, with exceptions such as overtaking, obstructions, three-lane roads, and one-way roads.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Florida Statutes 316.081 (2025), Florida Senate",
+    "sourceUrl": "https://www.flsenate.gov/Laws/Statutes/2025/316.081"
+  },
+  "tipping": null,
+  "water": null,
+  "currency": {
+    "label": "Currency",
+    "value": "US Dollar (USD)",
+    "detail": "ISO 4217 lists the US Dollar, code USD, for the United States of America. It also lists US Dollar (Next day), code USN, a funds code, which is not printed as the currency.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/New_York",
+    "detail": "IANA's zone.tab gives the United States 29 rows. America/New_York is commented Eastern (most areas). The other US rows are not collapsed into it.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "U.S. Customs and Border Protection",
+    "url": "https://www.cbp.gov/travel/international-visitors",
+    "note": "CBP's page for international visitors. It applies to travelers arriving from outside the United States. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

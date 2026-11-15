@@ -1,0 +1,180 @@
+{
+  "order": 91,
+  "id": "new-zealand",
+  "kind": "country",
+  "name": "New Zealand",
+  "countrySlug": "new-zealand",
+  "countryName": "New Zealand",
+  "path": "/new-zealand/",
+  "dek": "Wellington Aero AWS, WMO 93439. The capital, on Cook Strait.",
+  "paragraphs": [
+    "The reference station is Wellington Aero AWS, WMO 93439, height 4 m. Auckland Aero (93110) is a separate file and was not averaged in, and the South Island is not this table. January is midsummer.",
+    "The highest average high in the table is 21.2 °C, in February. The lowest average low is 7.1 °C, in July. The wettest month by the precipitation column is July, at 109.7 mm, and the driest is January, at 60.0 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Wellington Aero AWS, WMO 93439. Not Auckland and not a national average.",
+    "stationName": "Wellington Aero AWS",
+    "stationId": "WMO 93439",
+    "period": "1991-2020",
+    "elevation": "4 m",
+    "latitude": "41|19|52|S",
+    "longitude": "174|48|20|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "21.0",
+        "low": "14.6",
+        "rain": "60.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "21.2",
+        "low": "14.8",
+        "rain": "60.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "19.7",
+        "low": "13.5",
+        "rain": "66.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "17.3",
+        "low": "11.7",
+        "rain": "79.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "15.4",
+        "low": "10.1",
+        "rain": "88.4",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "13.2",
+        "low": "8.0",
+        "rain": "102.6",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "12.5",
+        "low": "7.1",
+        "rain": "109.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "13.0",
+        "low": "7.6",
+        "rain": "94.1",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "14.4",
+        "low": "8.9",
+        "rain": "79.9",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "15.8",
+        "low": "10.1",
+        "rain": "90.9",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "17.4",
+        "low": "11.4",
+        "rain": "74.7",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "19.6",
+        "low": "13.5",
+        "rain": "67.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Wellington Aero AWS (93439)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/NewZealand/CSV/Wellington_Aero_AWS_93439.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type I, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows New Zealand at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "Tourism New Zealand's driving page says: \"we drive on the left side of the road in New Zealand.\"",
+    "asOf": "2026-11-15",
+    "sourceTitle": "NewZealand.com (Tourism New Zealand), driving in New Zealand",
+    "sourceUrl": "https://www.newzealand.com/us/feature/driving-in-new-zealand/"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not obligatory; no service charge added",
+    "detail": "Tourism New Zealand's currency and costs page says tipping is not obligatory, even in restaurants and bars, that tipping for good service is at the visitor's discretion, and that hotels and restaurants do not add service charges to their bills.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "NewZealand.com (Tourism New Zealand), currency and costs",
+    "sourceUrl": "https://www.newzealand.com/nz/feature/new-zealand-currency/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for New Zealand, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, New Zealand",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/new-zealand"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "New Zealand Dollar (NZD)",
+    "detail": "ISO 4217 lists the currency name New Zealand Dollar and the code NZD for New Zealand. It lists the same currency for several Pacific territories.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Pacific/Auckland for most of the country; 2 zones",
+    "detail": "IANA's zone.tab gives New Zealand two rows: Pacific/Auckland, commented most of New Zealand, and Pacific/Chatham for the Chatham Islands.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Immigration New Zealand",
+    "url": "https://www.immigration.govt.nz/",
+    "note": "Immigration New Zealand's site. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

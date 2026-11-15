@@ -1,0 +1,166 @@
+{
+  "order": 83,
+  "id": "south-korea",
+  "kind": "country",
+  "name": "South Korea",
+  "countrySlug": "south-korea",
+  "countryName": "South Korea",
+  "path": "/south-korea/",
+  "dek": "Seoul, WMO 47108. Cold, dry winters; a wet July and August.",
+  "paragraphs": [
+    "The reference station is Seoul, WMO 47108, height 85 m. Busan and Jeju are not this table; the Korean submission has many station files, and none were averaged. No official driving-side or tipping source for South Korea was found on this pass, so those lines are missing.",
+    "The highest average high in the table is 30 °C, in August. The lowest average low is -5.5 °C, in January. The wettest month by the precipitation column is July, at 414.4 mm, and the driest is January, at 16.8 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Seoul, WMO 47108. Not a national average.",
+    "stationName": "Seoul",
+    "stationId": "WMO 47108",
+    "period": "1991-2020",
+    "elevation": "85 m",
+    "latitude": "37|34|17|N",
+    "longitude": "126|57|56|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "2.1",
+        "low": "-5.5",
+        "rain": "16.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "5.1",
+        "low": "-3.2",
+        "rain": "28.2",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "11",
+        "low": "1.9",
+        "rain": "36.9",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "17.9",
+        "low": "8",
+        "rain": "72.9",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "23.6",
+        "low": "13.5",
+        "rain": "103.6",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "27.6",
+        "low": "18.7",
+        "rain": "129.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "29",
+        "low": "22.3",
+        "rain": "414.4",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30",
+        "low": "22.9",
+        "rain": "348.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "26.2",
+        "low": "17.7",
+        "rain": "141.5",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "20.2",
+        "low": "10.6",
+        "rain": "52.2",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "11.9",
+        "low": "3.5",
+        "rain": "51.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "4.2",
+        "low": "-3.4",
+        "rain": "22.6",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Some values are printed without a decimal place, such as 11, and are shown that way.",
+    "sourceTitle": "WMO climate normals 1991-2020, Seoul (47108)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/Korea/CSV/Seoul_47108.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 220 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows the Republic of Korea at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for South Korea, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, South Korea",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/south-korea"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Won (KRW)",
+    "detail": "ISO 4217 lists the currency name Won and the code KRW under the country name Korea (the Republic of).",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Seoul",
+    "detail": "IANA's zone.tab and zone1970.tab each give South Korea one row, Asia/Seoul. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Justice of Korea, K-ETA",
+    "url": "https://www.k-eta.go.kr/",
+    "note": "The official Korea Electronic Travel Authorization site. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

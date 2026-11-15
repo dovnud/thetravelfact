@@ -1,0 +1,165 @@
+{
+  "order": 85,
+  "id": "vietnam",
+  "kind": "country",
+  "name": "Vietnam",
+  "countrySlug": "vietnam",
+  "countryName": "Vietnam",
+  "path": "/vietnam/",
+  "dek": "No climate table yet. The facts below are sourced; the months are blank.",
+  "paragraphs": [
+    "Vietnam has no folder in the Region II collection of the WMO 1991–2020 normals distributed by NOAA NCEI, and no 1991–2020 monthly normal from Vietnam's national hydro-meteorological service was found on this pass, so the climate cells are blank. No official driving-side or tipping source for Vietnam was found, so those lines are missing."
+  ],
+  "climate": {
+    "caption": "No 1991–2020 month table is printed for Vietnam.",
+    "stationName": "Not printed",
+    "stationId": null,
+    "period": "a period we could not source",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      }
+    ],
+    "note": "Vietnam has no folder in the Region II collection of the WMO 1991–2020 normals distributed by NOAA NCEI, version 6.6. A national 1991–2020 monthly normal was not found on this pass. The cells are blank rather than borrowed from another country.",
+    "sourceTitle": "WMO 1991-2020 Region II directory (no Vietnam folder)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A, B and C, 220 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Vietnam at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Vietnam, last reviewed November 10, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Vietnam",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/vietnam"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Dong (VND)",
+    "detail": "ISO 4217 lists the currency name Dong and the code VND under the country name Viet Nam.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Ho_Chi_Minh",
+    "detail": "IANA's zone.tab gives Vietnam one row, Asia/Ho_Chi_Minh. zone1970.tab splits it: Asia/Ho_Chi_Minh is commented south Vietnam, and north Vietnam is listed on the Asia/Bangkok row. The two zones currently keep the same offset in the data, but the files are not collapsed here.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Vietnam Immigration Department",
+    "url": "https://xuatnhapcanh.gov.vn/",
+    "note": "The immigration department's site. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

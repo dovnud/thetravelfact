@@ -1,0 +1,166 @@
+{
+  "order": 98,
+  "id": "maui",
+  "kind": "city",
+  "name": "Maui",
+  "countrySlug": "hawaii",
+  "countryName": "Hawaii",
+  "path": "/hawaii/maui/",
+  "dek": "Kahului Airport, WMO 91190, on Maui's north shore.",
+  "paragraphs": [
+    "The station is Kahului Airport, WMO 91190, height 16 m, position 20°53′59″N, 156°25′43″W. It is one airport on the island; upcountry Maui and Haleakalā are cooler and are not this table. No tipping or tap-water source was opened for US sheets on this pass.",
+    "The highest average high in the table is 32.2 °C, in August and September. The lowest average low is 17.6 °C, in January. The wettest month by the precipitation column is December, at 71.1 mm, and the driest is June, at 4.3 mm."
+  ],
+  "climate": {
+    "caption": "Station: Kahului Airport, WMO 91190. Not upcountry.",
+    "stationName": "Kahului Airport",
+    "stationId": "WMO 91190",
+    "period": "1991-2020",
+    "elevation": "16 m",
+    "latitude": "20|53|59|N",
+    "longitude": "156|25|43|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "27.9",
+        "low": "17.6",
+        "rain": "61.5",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "27.9",
+        "low": "17.7",
+        "rain": "50.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "28.3",
+        "low": "18.4",
+        "rain": "67.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "29.1",
+        "low": "19.2",
+        "rain": "33.5",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.3",
+        "low": "19.8",
+        "rain": "18.0",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "31.3",
+        "low": "21.3",
+        "rain": "4.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "31.8",
+        "low": "22.1",
+        "rain": "13.5",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "32.2",
+        "low": "22.4",
+        "rain": "13.5",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "32.2",
+        "low": "21.8",
+        "rain": "11.3",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "31.5",
+        "low": "21.1",
+        "rain": "21.1",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "29.9",
+        "low": "20.2",
+        "rain": "46.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "28.5",
+        "low": "18.8",
+        "rain": "71.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Kahului Airport (91190)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/UnitedStates/CSV/KAHULUI_AP_91190.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows United States at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Section 291C-41 of the Hawaii Revised Statutes, on the Legislature's site, says that on all roadways of sufficient width a vehicle shall be driven on the right half of the roadway, with exceptions such as overtaking, obstructions, three-lane roads, and one-way roads.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Hawaii Revised Statutes 291C-41, Hawaii State Legislature",
+    "sourceUrl": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0041.htm"
+  },
+  "tipping": null,
+  "water": null,
+  "currency": {
+    "label": "Currency",
+    "value": "US Dollar (USD)",
+    "detail": "ISO 4217 lists the US Dollar, code USD, for the United States of America. It also lists US Dollar (Next day), code USN, a funds code, which is not printed as the currency.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Pacific/Honolulu",
+    "detail": "IANA's zone.tab gives the United States 29 rows. Pacific/Honolulu is commented Hawaii. The other US rows are not collapsed into it.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "U.S. Customs and Border Protection",
+    "url": "https://www.cbp.gov/travel/international-visitors",
+    "note": "CBP's page for international visitors. It applies to travelers arriving from outside the United States. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

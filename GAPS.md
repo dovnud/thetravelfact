@@ -72,6 +72,20 @@ Checked 14 November 2026. A line here is a fact we would not print because the s
 - **Time zones.** zone1970.tab folds the Bahamas into America/Toronto and Aruba into America/Puerto_Rico; the sheets print zone.tab's America/Nassau and America/Aruba and cite backward. Brazil (16 rows), Argentina (12), and Chile (4) are not collapsed.
 - **Entry.** Costa Rica's immigration site refused automated requests; the sheet links the tourism board's entry-requirements page instead.
 
+## Checked 15 November 2026, places 81–100, Hawaii, and Puerto Rico
+
+- **Naming.** Per the SEO roadmap, the sheet is "New York", not "New York City", and the United Arab Emirates slot is a Dubai city sheet at `/united-arab-emirates/dubai/`. There is no UAE or United States country sheet yet; the index lists those cities under an unlinked heading. Hawaii (`/hawaii/`, a US state sheet) is the hub for Honolulu and Maui; Puerto Rico (`/puerto-rico/`) is a US territory sheet.
+- **Vietnam** has no folder in the NCEI Region II collection, and no national 1991–2020 table was found. All climate cells are blank.
+- **Bali**: I Gusti Ngurah Rai (97230) and Denpasar (97232) print no monthly values. All climate cells are blank; Jakarta was not copied in.
+- **South Africa**: no Pretoria or Johannesburg file. Cape Town International Airport (68816) is used and the sheet says so.
+- **Thailand/Bangkok** both use Bangkok Metropolis (48455); **South Korea/Seoul** both use Seoul (47108); **Hawaii/Honolulu** both use Honolulu International Airport (91182). Thai, Korean, and Indian files print some values without a decimal place (such as 33 or 30); they are shown as printed. New Delhi (Safdarjung) counts 26–28 years in several months.
+- **Australia** uses Canberra Airport (94926); **Sydney** uses Observatory Hill (94768). **New Zealand** uses Wellington Aero AWS (93439). **Indonesia** uses Kemayoran (96745).
+- **Driving.** Sourced: Australia (Australia.com road safety), New Zealand (NewZealand.com driving), South Africa (SouthAfrica.net, by car), Miami (Florida Statutes 316.081), Los Angeles and San Francisco (California Vehicle Code 21650), Hawaii, Honolulu, and Maui (HRS 291C-41). Not found or not loaded: Thailand, South Korea, Vietnam, Indonesia, Singapore, India, UAE/Dubai, Puerto Rico, and New York (the NY Senate statute page refused automated requests and timed out; a third-party copy was not used).
+- **Tipping.** Sourced: New Zealand (NewZealand.com currency and costs), South Africa (SouthAfrica.net know before you go, UK edition). Not found or blocked: Thailand, South Korea, Vietnam, Indonesia, Singapore, Australia (the australia.com tipping page rendered without its text), India, Dubai (visitdubai.com refused automated requests), all US sheets (the city and state tourism pages tried were blocked or moved), and Puerto Rico.
+- **Tap water.** CDC pages for the ten countries and Puerto Rico (reviewed 25 Aug – 10 Nov 2026) give no yes or no. The US mainland and Hawaii sheets have no tap-water line; no source was opened.
+- **Time zones.** Vietnam: zone.tab gives one row, Asia/Ho_Chi_Minh; zone1970.tab puts north Vietnam on the Asia/Bangkok row. Both are described, not collapsed. Bali is Asia/Makassar, not Jakarta's zone. Australia (12 rows), Indonesia (4), New Zealand (2), and the United States (29) are not collapsed.
+- **Entry.** Vietnam's e-visa site timed out; the sheet links the Immigration Department's site. US and Puerto Rico sheets link CBP's international-visitors page.
+
 ## Not on the site yet
 
 - Viator, Expedia, Booking.com, and Travelpayouts IDs are empty. Those slots are not links.

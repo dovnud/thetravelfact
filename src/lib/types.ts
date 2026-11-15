@@ -53,6 +53,7 @@ export interface Destination {
   order: number;
   id: string;
   kind: "country" | "city";
+  sheetLabel?: string;
   name: string;
   countrySlug: string;
   countryName: string;
@@ -64,7 +65,7 @@ export interface Destination {
   plugs: Fact;
   driving: Fact | null;
   tipping: Fact | null;
-  water: Fact;
+  water: Fact | null;
   currency: Fact;
   timeZone: Fact;
   entry: EntryLink;

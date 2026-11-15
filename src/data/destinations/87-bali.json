@@ -1,0 +1,166 @@
+{
+  "order": 87,
+  "id": "bali",
+  "kind": "city",
+  "name": "Bali",
+  "countrySlug": "indonesia",
+  "countryName": "Indonesia",
+  "path": "/indonesia/bali/",
+  "dek": "No climate table yet. Both Bali files in the collection print no monthly values.",
+  "paragraphs": [
+    "The Indonesian 1991–2020 submission has two Bali files, Stasiun Meteorologi I Gusti Ngurah Rai (97230) and Stasiun Geofisika Denpasar (97232). Neither prints monthly temperature or precipitation values, so the cells are blank and Jakarta was not copied in. Bali keeps a different time zone from Jakarta.",
+    "The plug, currency, and entry lines are national and repeat the Indonesia sheet."
+  ],
+  "climate": {
+    "caption": "No 1991–2020 month table is printed for Bali.",
+    "stationName": "Not printed",
+    "stationId": null,
+    "period": "a period we could not source",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      }
+    ],
+    "note": "The Indonesian submission to the WMO 1991–2020 collection distributed by NOAA NCEI has I Gusti Ngurah Rai (97230) and Denpasar (97232). Neither file prints monthly values for mean daily maximum, mean daily minimum, or precipitation. The cells are blank rather than borrowed from Jakarta.",
+    "sourceTitle": "WMO climate normals 1991-2020, I Gusti Ngurah Rai (97230), no monthly values",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/Indonesia/CSV/StasiunMeteorologiIGustiNgurahRai_97230.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 220 V and 110 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Indonesia at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read. The line lists two voltages and does not say where each is used, so this sheet does not either.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Indonesia, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Indonesia",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/indonesia"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Rupiah (IDR)",
+    "detail": "ISO 4217 lists the currency name Rupiah and the code IDR for Indonesia.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Makassar",
+    "detail": "IANA's zone.tab and zone1970.tab put Bali on the Asia/Makassar row, commented east and south Borneo, Sulawesi/Celebes, Bali, Nusa Tengarra, and west Timor. Jakarta is on Asia/Jakarta, a different zone.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Directorate General of Immigration, Indonesia",
+    "url": "https://evisa.imigrasi.go.id/",
+    "note": "The official e-Visa site of the immigration directorate. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

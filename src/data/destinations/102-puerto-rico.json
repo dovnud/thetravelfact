@@ -1,0 +1,167 @@
+{
+  "order": 102,
+  "id": "puerto-rico",
+  "kind": "country",
+  "sheetLabel": "US territory sheet",
+  "name": "Puerto Rico",
+  "countrySlug": "puerto-rico",
+  "countryName": "Puerto Rico",
+  "path": "/puerto-rico/",
+  "dek": "A US territory. San Juan Luis Muñoz Marín Airport, WMO 78526.",
+  "paragraphs": [
+    "Puerto Rico is a US territory; this is its own sheet. The reference station is San Juan Luis Muñoz Marín International Airport, WMO 78526, height 3 m, position 18°25′57″N, 66°00′39″W. No official driving-side or tipping source for Puerto Rico was found on this pass, so those lines are missing.",
+    "The highest average high in the table is 31.8 °C, in September. The lowest average low is 22.1 °C, in February. The wettest month by the precipitation column is November, at 187.1 mm, and the driest is March, at 55.4 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: San Juan Luis Muñoz Marín Airport, WMO 78526.",
+    "stationName": "San Juan Luis Muñoz Marín Airport",
+    "stationId": "WMO 78526",
+    "period": "1991-2020",
+    "elevation": "3 m",
+    "latitude": "18|25|57|N",
+    "longitude": "066|00|39|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "28.5",
+        "low": "22.2",
+        "rain": "103.3",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "28.8",
+        "low": "22.1",
+        "rain": "65.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "29.3",
+        "low": "22.4",
+        "rain": "55.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "30.1",
+        "low": "23.3",
+        "rain": "116.9",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.8",
+        "low": "24.3",
+        "rain": "140.6",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "31.7",
+        "low": "25.1",
+        "rain": "118.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "31.5",
+        "low": "25.3",
+        "rain": "152.8",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.7",
+        "low": "25.4",
+        "rain": "159.9",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.8",
+        "low": "25.3",
+        "rain": "165.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "31.5",
+        "low": "24.8",
+        "rain": "132.4",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.0",
+        "low": "23.9",
+        "rain": "187.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "29.0",
+        "low": "22.9",
+        "rain": "123.3",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, San Juan Luis Muñoz Marín Airport (78526)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/UnitedStates/CSV/SAN_JUAN_L_M_MARIN_AP_78526.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Puerto Rico at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Puerto Rico, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Puerto Rico",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/puerto-rico"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "US Dollar (USD)",
+    "detail": "ISO 4217 lists the US Dollar, code USD, under its own entry for Puerto Rico.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Puerto_Rico",
+    "detail": "IANA's zone.tab gives Puerto Rico one row, America/Puerto_Rico. zone1970.tab lists the same zone on a row shared with Canada (Lower North Shore of Quebec) and many Caribbean territories.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "U.S. Customs and Border Protection",
+    "url": "https://www.cbp.gov/travel/international-visitors",
+    "note": "CBP's page for international visitors. Puerto Rico is a US territory. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

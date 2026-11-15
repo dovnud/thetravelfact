@@ -1,0 +1,166 @@
+{
+  "order": 100,
+  "id": "san-francisco",
+  "kind": "city",
+  "name": "San Francisco",
+  "countrySlug": "united-states",
+  "countryName": "United States",
+  "path": "/united-states/san-francisco/",
+  "dek": "San Francisco International Airport, WMO 72494. South of the city, on the bay.",
+  "paragraphs": [
+    "The station is San Francisco International Airport, WMO 72494, height 2 m, position 37°37′11″N, 122°21′53″W. The airport is south of the city on the bay; the city itself is often cooler and foggier in summer, and it is not this table. No tipping or tap-water source was opened for US sheets on this pass.",
+    "The highest average high in the table is 23.8 °C, in September. The lowest average low is 7.0 °C, in January and December. The wettest month by the precipitation column is December, at 105.1 mm, and the driest is July, at 0.0 mm."
+  ],
+  "climate": {
+    "caption": "Station: San Francisco International Airport, WMO 72494. Not downtown.",
+    "stationName": "San Francisco International Airport",
+    "stationId": "WMO 72494",
+    "period": "1991-2020",
+    "elevation": "2 m",
+    "latitude": "37|37|11|N",
+    "longitude": "122|21|53|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "14.5",
+        "low": "7.0",
+        "rain": "98.9",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "16.0",
+        "low": "7.9",
+        "rain": "100.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "17.4",
+        "low": "8.6",
+        "rain": "69.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "18.7",
+        "low": "9.5",
+        "rain": "34.6",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "20.2",
+        "low": "10.9",
+        "rain": "12.1",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "21.9",
+        "low": "12.0",
+        "rain": "3.6",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "22.6",
+        "low": "13.0",
+        "rain": "0.0",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "23.0",
+        "low": "13.5",
+        "rain": "1.0",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "23.8",
+        "low": "13.3",
+        "rain": "1.9",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "22.4",
+        "low": "11.9",
+        "rain": "20.2",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "18.0",
+        "low": "9.2",
+        "rain": "51.8",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "14.5",
+        "low": "7.0",
+        "rain": "105.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, San Francisco International Airport (72494)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/UnitedStates/CSV/SAN_FRANCISCO_INTL_AP_72494.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows United States at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Section 21650 of the California Vehicle Code, on the Legislature's site, says that on all highways a vehicle shall be driven on the right half of the roadway, with exceptions such as overtaking, left turns, closures, and one-way roads.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "California Vehicle Code 21650, California Legislative Information",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21650"
+  },
+  "tipping": null,
+  "water": null,
+  "currency": {
+    "label": "Currency",
+    "value": "US Dollar (USD)",
+    "detail": "ISO 4217 lists the US Dollar, code USD, for the United States of America. It also lists US Dollar (Next day), code USN, a funds code, which is not printed as the currency.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Los_Angeles",
+    "detail": "IANA's zone.tab gives the United States 29 rows. America/Los_Angeles is commented Pacific. The other US rows are not collapsed into it.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "U.S. Customs and Border Protection",
+    "url": "https://www.cbp.gov/travel/international-visitors",
+    "note": "CBP's page for international visitors. It applies to travelers arriving from outside the United States. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

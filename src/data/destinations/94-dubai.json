@@ -1,0 +1,166 @@
+{
+  "order": 94,
+  "id": "dubai",
+  "kind": "city",
+  "name": "Dubai",
+  "countrySlug": "united-arab-emirates",
+  "countryName": "United Arab Emirates",
+  "path": "/united-arab-emirates/dubai/",
+  "dek": "Dubai International Airport, WMO 41194. Highs above 40 °C in mid-summer.",
+  "paragraphs": [
+    "Dubai International Airport is WMO 41194, height 8 m, position 25°15′N, 55°20′E. Abu Dhabi, Sharjah, and the other emirates have their own files and were not averaged in. There is no United Arab Emirates country sheet; the plug, currency, time-zone, and water lines below are national. No official driving-side or tipping source was found on this pass, so those lines are missing.",
+    "The highest average high in the table is 41.9 °C, in August. The lowest average low is 15.3 °C, in January. The wettest month by the precipitation column is March, at 21.7 mm, and the driest is August, at 0.003 mm."
+  ],
+  "climate": {
+    "caption": "Station: Dubai International Airport, WMO 41194.",
+    "stationName": "Dubai International Airport",
+    "stationId": "WMO 41194",
+    "period": "1991-2020",
+    "elevation": "8 m",
+    "latitude": "25|15|00|N",
+    "longitude": "055|20|00|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "24.4",
+        "low": "15.3",
+        "rain": "20.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "26.1",
+        "low": "16.4",
+        "rain": "9.9",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "28.9",
+        "low": "18.6",
+        "rain": "21.7",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "33.7",
+        "low": "22.3",
+        "rain": "3.3",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "38.2",
+        "low": "26.1",
+        "rain": "0.1",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "40.3",
+        "low": "28.6",
+        "rain": "0.02",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "41.5",
+        "low": "31.2",
+        "rain": "1.1",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "41.9",
+        "low": "31.5",
+        "rain": "0.003",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "39.5",
+        "low": "28.9",
+        "rain": "0.04",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "35.9",
+        "low": "25.4",
+        "rain": "1.5",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.7",
+        "low": "21.1",
+        "rain": "5.9",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "26.5",
+        "low": "17.3",
+        "rain": "14.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Dubai International Airport (41194)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/UAE/CSV/DubaiIntlAirport_41194.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type G and M, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows the United Arab Emirates at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for the United Arab Emirates, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, the United Arab Emirates",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/united-arab-emirates"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "UAE Dirham (AED)",
+    "detail": "ISO 4217 lists the currency name UAE Dirham and the code AED under the country name United Arab Emirates (The).",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Dubai",
+    "detail": "IANA's zone.tab gives the United Arab Emirates one row, Asia/Dubai. zone1970.tab lists that zone on a row it shares with Oman, Réunion, Seychelles, and the French Southern Territories; the zone name is the same in both files.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "General Directorate of Residency and Foreigners Affairs, Dubai (GDRFA)",
+    "url": "https://gdrfad.gov.ae/en",
+    "note": "GDRFA Dubai's site. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}
