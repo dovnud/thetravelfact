@@ -8,7 +8,7 @@
   "path": "/chile/",
   "dek": "Quinta Normal, Santiago, WMO 85577. A long country; this is the capital.",
   "paragraphs": [
-    "The reference station is Quinta Normal Santiago, WMO 85577, height 520 m. Pudahuel, the airport file, prints no monthly values for temperature or precipitation in this collection, so it was not used. January is midsummer. No tourism-office tipping page was opened on this pass.",
+    "The reference station is Quinta Normal Santiago, WMO 85577, height 520 m. Pudahuel, the airport file, prints no monthly values for temperature or precipitation in this collection, so it was not used. January is midsummer.",
     "The highest average high in the table is 30.4 °C, in January. The lowest average low is 3.8 °C, in July. The wettest month by the precipitation column is June, at 80.4 mm, and the driest is January, at 0.6 mm."
   ],
   "climate": {
@@ -128,7 +128,14 @@
     "sourceTitle": "Ley de Tránsito (DFL 1, 2007), artículo 116, BCN Ley Chile",
     "sourceUrl": "https://www.bcn.cl/leychile/navegar?idNorma=1007469"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "At least 10% suggested on the bill; you may decline",
+    "detail": "The Dirección del Trabajo says that under article 64 of the Labour Code (Ley 20.729) restaurants and similar businesses must suggest a tip of at least 10% of each bill, which the customer pays unless they say otherwise. SERNAC, the consumer agency, says there is no legal obligation to pay it.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Dirección del Trabajo, propina; SERNAC on propina",
+    "sourceUrl": "https://www.dt.gob.cl/portal/1628/w3-article-109452.html"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

@@ -8,7 +8,7 @@
   "path": "/brazil/",
   "dek": "Brasília, WMO 83377, at 1,161 m. Rio de Janeiro is not in the file set.",
   "paragraphs": [
-    "The reference station is Brasília, WMO 83377, height 1161.42 m. The Brazilian 1991–2020 submission has no Rio de Janeiro or São Paulo city file, so neither is shown. The capital has a wet summer and a dry winter. No tourism-office tipping page was opened on this pass.",
+    "The reference station is Brasília, WMO 83377, height 1161.42 m. The Brazilian 1991–2020 submission has no Rio de Janeiro or São Paulo city file, so neither is shown. The capital has a wet summer and a dry winter.",
     "The highest average high in the table is 29.1 °C, in September. The lowest average low is 13.9 °C, in July. The wettest month by the precipitation column is November, at 253.1 mm, and the driest is July, at 1.5 mm."
   ],
   "climate": {
@@ -128,7 +128,14 @@
     "sourceTitle": "Lei nº 9.503/1997, art. 29, Planalto",
     "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not obligatory; about 10% in restaurants",
+    "detail": "Visit Brasil, the national tourism site, says tips are not obligatory but appreciated, and that in restaurants, bars, and similar services it is common to leave about 10% of the total where it is not already included in the price.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit Brasil, impostos e gorjetas",
+    "sourceUrl": "https://visitbrasil.com/info/impostos-e-gorjetas/"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

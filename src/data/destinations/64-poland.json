@@ -9,7 +9,7 @@
   "dek": "Warszawa-Okęcie, WMO 12375. The capital's airport station, not the whole country.",
   "paragraphs": [
     "The reference station is Warszawa-Okęcie, WMO 12375, height 106 m. The Polish submission has more than fifty station files. They were not averaged. Kraków has its own sheet with its own station.",
-    "The highest average high in the table is 25.2 °C, in July. The lowest average low is -4.0 °C, in January. The wettest month by the precipitation column is July, at 82.2 mm, and the driest is March, at 29.0 mm. No driving statute was opened for Poland on this pass, so the sheet has no driving line."
+    "The highest average high in the table is 25.2 °C, in July. The lowest average low is -4.0 °C, in January. The wettest month by the precipitation column is July, at 82.2 mm, and the driest is March, at 29.0 mm."
   ],
   "climate": {
     "caption": "Reference station: Warszawa-Okęcie, WMO 12375. Not a national average.",
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 16(1) of the Road Traffic Act (Prawo o ruchu drogowym), in the consolidated text Dz.U. 2024 poz. 1251 from the Sejm legal-acts service, says right-hand traffic applies to drivers (\"Kierującego pojazdem obowiązuje ruch prawostronny\"). Amendments after that consolidated text were not checked for this line.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Prawo o ruchu drogowym, art. 16 ust. 1, Dz.U. 2024 poz. 1251 (Sejm ELI)",
+    "sourceUrl": "https://api.sejm.gov.pl/eli/acts/DU/2024/1251/text.pdf"
+  },
   "tipping": {
     "label": "Tipping",
     "value": "About 10% in restaurants, not expected",

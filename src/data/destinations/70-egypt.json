@@ -8,7 +8,7 @@
   "path": "/egypt/",
   "dek": "Cairo (A.P.), WMO 62366. Rain is close to zero most months.",
   "paragraphs": [
-    "The reference station is Cairo (A.P.), WMO 62366, height 64.12 m. The Egyptian submission also has Luxor, Aswan, Hurghada, Sharm El Sheikh, and Alexandria; none were averaged in. The file prints values to two decimals, and they are shown that way. No driving statute or tourism-office tipping page was opened for Egypt on this pass.",
+    "The reference station is Cairo (A.P.), WMO 62366, height 64.12 m. The Egyptian submission also has Luxor, Aswan, Hurghada, Sharm El Sheikh, and Alexandria; none were averaged in. The file prints values to two decimals, and they are shown that way. No official driving-side or tipping source for Egypt was found on this pass, so those lines are missing.",
     "The highest average high in the table is 35 °C, in July. The lowest average low is 10.08 °C, in January. The wettest month by the precipitation column is March, at 6.28 mm, and the driest is June, July, August, and September, at 0 mm."
   ],
   "climate": {
