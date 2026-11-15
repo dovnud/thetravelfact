@@ -1,0 +1,71 @@
+---
+import Base from "../layouts/Base.astro";
+import type { Hub } from "../lib/destinations";
+import { extreme, joinMonths } from "../lib/destinations";
+
+interface Props {
+  hub: Hub;
+}
+const { hub } = Astro.props;
+const canonical = new URL(hub.path, "https://thetravelfact.com").href;
+const names = hub.cities.map((c) => c.name);
+const listed = names.length > 1 ? `${names.slice(0, -1).join(", ")} and ${names[names.length - 1]}` : names[0];
+const description = `There is no ${hub.countryName} country sheet yet. This page lists the city sheets filed under it: ${listed}.`;
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      name: `${hub.countryName}: city sheets`,
+      description,
+      url: canonical,
+    },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: "https://thetravelfact.com/" },
+        { "@type": "ListItem", position: 2, name: hub.countryName, item: canonical },
+      ],
+    },
+  ],
+};
+---
+
+<Base title={`${hub.countryName}: city sheets`} description={description} jsonLd={jsonLd}>
+  <article class="shell hub" data-pagefind-body data-pagefind-meta="country:List of city sheets">
+    <header>
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true"> / </span><span>{hub.countryName}</span></nav>
+      <p class="kicker">City list</p>
+      <h1 data-pagefind-meta="title" data-pagefind-weight="10">{hub.countryName}</h1>
+      <p class="dek">{description}</p>
+    </header>
+    <div class="prose">
+      <p>
+        A country sheet needs one representative climate station and national lines for plugs, driving, tipping, water, currency, time, and entry.
+        We have not written one for {hub.countryName}, so this page is only a list. Each city sheet below carries its own station and its own sources.
+      </p>
+      <h2>City sheets</h2>
+      <ul>
+        {hub.cities.map((city) => {
+          const hot = extreme(city.climate.months, "high", "max");
+          return (
+            <li>
+              <a href={city.path}>{city.name}</a>, {city.climate.stationName}
+              {hot && <>: highest average high {hot.value}°C in {joinMonths(hot.months)}</>}.
+            </li>
+          );
+        })}
+      </ul>
+      {hub.related.length > 0 && (
+        <>
+          <h2>Other {hub.countryName} sheets</h2>
+          <ul>
+            {hub.related.map((d) => (
+              <li><a href={d.path}>{d.name}</a> ({d.sheetLabel?.toLowerCase()}).</li>
+            ))}
+          </ul>
+        </>
+      )}
+    </div>
+  </article>
+</Base>

@@ -1,0 +1,14 @@
+---
+interface Props {
+  id: string;
+  size?: "small" | "large";
+  value?: string;
+}
+const { id, size = "small", value = "" } = Astro.props;
+---
+
+<form class={`search-form search-${size}`} action="/search/" method="get" role="search">
+  <label class="sr-only" for={id}>Search the sheets</label>
+  <input id={id} type="search" name="q" value={value} placeholder={size === "large" ? "Search a country or city, e.g. Tokyo" : "Search"} autocomplete="off" enterkeyhint="search" />
+  <button type="submit">Search</button>
+</form>

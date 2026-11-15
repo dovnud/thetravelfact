@@ -1,6 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
-import { destinations } from "../lib/destinations";
+import { destinations, hubs } from "../lib/destinations";
+import SearchForm from "../components/SearchForm.astro";
 import { photos } from "../data/photos";
 
 const countries = destinations.filter((d) => d.kind === "country");
@@ -9,7 +10,7 @@ const orphanGroups = [...new Set(destinations.filter((d) => d.kind === "city" &&
   .map((slug) => destinations.filter((d) => d.kind === "city" && d.countrySlug === slug));
 const groups = [
   ...countries.map((country) => ({ head: country, rows: [country, ...destinations.filter((d) => d.kind === "city" && d.countrySlug === country.countrySlug)] })),
-  ...orphanGroups.map((rows) => ({ head: null, name: rows[0].countryName, rows })),
+  ...orphanGroups.map((rows) => ({ head: null, name: rows[0].countryName, hub: hubs.find((h) => h.countrySlug === rows[0].countrySlug), rows })),
 ].sort((a, b) => a.rows[0].order - b.rows[0].order);
 const jsonLd = {
   "@context": "https://schema.org",
@@ -50,6 +51,10 @@ const jsonLd = {
       </span>
     </figcaption>
   </figure>
+  <section class="hero-search shell">
+    <h2 class="hero-search-title">Find a sheet</h2>
+    <SearchForm id="q-hero" size="large" />
+  </section>
   <section class="deck">
     <div class="deck-kicker">102 sheets</div>
     <p>
@@ -74,7 +79,7 @@ const jsonLd = {
           return (
             <>
               <tr class="group-row">
-                <td colspan="3">{group.head ? <a href={group.head.path}>{group.head.name}</a> : group.name}</td>
+                <td colspan="3">{group.head ? <a href={group.head.path}>{group.head.name}</a> : group.hub ? <a href={group.hub.path}>{group.name}</a> : group.name}</td>
               </tr>
               {rows.map((place) => (
                 <tr>

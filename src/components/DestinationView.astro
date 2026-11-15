@@ -3,7 +3,7 @@ import Base from "../layouts/Base.astro";
 import FactsCard from "./FactsCard.astro";
 import ClimatePanel from "./ClimatePanel.astro";
 import Affiliates from "./Affiliates.astro";
-import { citiesIn, countryOf, extreme, joinMonths } from "../lib/destinations";
+import { citiesIn, countryOf, extreme, hubOf, joinMonths } from "../lib/destinations";
 import { factSources, type Destination, type Fact, type SourceRef } from "../lib/types";
 import { photos } from "../data/photos";
 
@@ -27,6 +27,9 @@ const crumbs = [
   ...(destination.kind === "city" && country
     ? [{ name: country.name, url: new URL(country.path, "https://thetravelfact.com").href }]
     : []),
+  ...(destination.kind === "city" && !country && hubOf(destination)
+    ? [{ name: destination.countryName, url: new URL(hubOf(destination)!.path, "https://thetravelfact.com").href }]
+    : []),
   { name: destination.name, url: canonical },
 ];
 
@@ -38,6 +41,29 @@ const facts: Fact[] = [
   destination.timeZone,
   ...(destination.tipping ? [destination.tipping] : []),
 ].filter((fact): fact is Fact => fact != null);
+
+const anchorFor: Record<string, string> = {
+  "Plugs and voltage": "plugs",
+  "Driving side": "driving",
+  Tipping: "tipping",
+  "Tap water": "water",
+  Currency: "money",
+  "Time zone": "time",
+};
+const hasClimate = destination.climate.months.some((m) => m.high != null || m.low != null || m.rain != null);
+const jumps = [
+  ...(hasClimate ? [{ id: "weather", label: "Weather by month" }] : []),
+  ...[
+    { id: "plugs", label: "Plugs" },
+    { id: "driving", label: "Driving" },
+    { id: "tipping", label: "Tipping" },
+    { id: "water", label: "Water" },
+    { id: "money", label: "Money" },
+    { id: "time", label: "Time" },
+  ].filter((j) => facts.some((f) => anchorFor[f.label] === j.id)),
+  { id: "entry", label: "Entry" },
+];
+const kicker = destination.sheetLabel ?? (destination.kind === "country" ? "Country sheet" : destination.countryName);
 
 const sources: SourceRef[] = [
   {
@@ -108,7 +134,7 @@ const jsonLd = {
       </span>
     </figcaption>
   </figure>
-  <article class="shell">
+  <article class="shell" data-pagefind-body data-pagefind-meta={`country:${destination.kind === "country" ? (destination.sheetLabel ?? "Country sheet") : destination.countryName}`}>
     <header>
       <nav class="crumbs" aria-label="Breadcrumb">
         {crumbs.map((crumb, index) => (
@@ -121,18 +147,23 @@ const jsonLd = {
       <div class="nameplate">
         <span class="no">{String(destination.order).padStart(2, "0")}</span>
         <div>
-          <p class="kicker">{destination.sheetLabel ?? (destination.kind === "country" ? "Country sheet" : destination.countryName)}</p>
-          <h1>{destination.name}</h1>
+          <p class="kicker">{kicker}</p>
+          <h1 data-pagefind-meta="title" data-pagefind-weight="10">{destination.name}</h1>
         </div>
       </div>
       <p class="dek">{destination.dek}</p>
       <p class="byline">TheTravelFact Editors · checked {checked}</p>
+      <nav class="jumps" aria-label="On this sheet" data-pagefind-ignore>
+        <ul>
+          {jumps.map((j) => <li><a href={`#${j.id}`}>{j.label}</a></li>)}
+        </ul>
+      </nav>
     </header>
     <FactsCard destination={destination} />
     <div class="prose">
       {destination.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
     </div>
-    <ClimatePanel climate={destination.climate} />
+    <div id="weather"><ClimatePanel climate={destination.climate} /></div>
         {destination.season.length > 0 && (
           <section class="prose">
             <h2>Storm season, from the hurricane center</h2>
@@ -144,7 +175,7 @@ const jsonLd = {
           <h2>The facts, in sentences</h2>
           {facts.map((fact) => (
             <>
-              <h3>{fact.label}</h3>
+              <h3 id={anchorFor[fact.label]}>{fact.label}</h3>
               <p>{fact.detail}</p>
               <p class="note">
                 {factSources(fact).map((source, index) => (
@@ -157,7 +188,7 @@ const jsonLd = {
               </p>
             </>
           ))}
-          <h3>Entry requirements</h3>
+          <h3 id="entry">Entry requirements</h3>
           <p>
             {destination.entry.note}{" "}
             <a href={destination.entry.url}>{destination.entry.publisher}: {destination.entry.label}</a>.
@@ -182,8 +213,8 @@ const jsonLd = {
             </ul>
           </section>
         )}
-    <Affiliates place={destination.name} plugValue={destination.plugs.value} />
-    <section class="prose">
+    <div data-pagefind-ignore><Affiliates place={destination.name} plugValue={destination.plugs.value} /></div>
+    <section class="prose" data-pagefind-ignore>
       <h2>Sources on this page</h2>
       <ul>
         {uniqueSources.map((source) => (
