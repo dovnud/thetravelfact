@@ -1,0 +1,165 @@
+{
+  "order": 75,
+  "id": "panama",
+  "kind": "country",
+  "name": "Panama",
+  "countrySlug": "panama",
+  "countryName": "Panama",
+  "path": "/panama/",
+  "dek": "No climate table yet. The facts below are sourced; the months are blank.",
+  "paragraphs": [
+    "Panama is not in the NOAA NCEI 1991–2020 collection, and no 1991–2020 monthly normal from the national met institute was found on this pass, so the climate cells are blank. ISO 4217 lists two currencies for Panama, the Balboa and the US Dollar, and both are printed. No driving statute or tourism-office tipping page was opened on this pass."
+  ],
+  "climate": {
+    "caption": "No 1991–2020 month table is printed for Panama.",
+    "stationName": "Not printed",
+    "stationId": null,
+    "period": "a period we could not source",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      }
+    ],
+    "note": "Panama has no folder in the Region IV collection of the WMO 1991–2020 normals distributed by NOAA NCEI, version 6.6. A 1991–2020 monthly normal from Panama's Instituto de Meteorología e Hidrología was not found on this pass. The cells are blank rather than borrowed from another country.",
+    "sourceTitle": "WMO 1991-2020 Region IV directory (no Panama folder)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 110 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Panama at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Panama, last reviewed November 10, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Panama",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/panama"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Balboa (PAB) and US Dollar (USD)",
+    "detail": "ISO 4217 lists two currencies for Panama: Balboa, code PAB, and US Dollar, code USD. Both are printed.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Panama",
+    "detail": "IANA's zone.tab and zone1970.tab each give Panama one row, America/Panama. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Servicio Nacional de Migración de Panamá",
+    "url": "https://www.migracion.gob.pa/",
+    "note": "The national immigration service's site. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

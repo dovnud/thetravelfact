@@ -1,0 +1,166 @@
+{
+  "order": 79,
+  "id": "argentina",
+  "kind": "country",
+  "name": "Argentina",
+  "countrySlug": "argentina",
+  "countryName": "Argentina",
+  "path": "/argentina/",
+  "dek": "Buenos Aires Observatorio, WMO 87585. Patagonia is not this table.",
+  "paragraphs": [
+    "The reference station is Buenos Aires Observatorio, WMO 87585, height 25 m. Aeroparque and Ezeiza have separate files and were not averaged in. The seasons are reversed from the northern hemisphere: January is midsummer. No driving statute or tourism-office tipping page was opened on this pass.",
+    "The highest average high in the table is 30.1 °C, in January. The lowest average low is 7.5 °C, in July. The wettest month by the precipitation column is January, at 134.4 mm, and the driest is June, at 61.5 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Buenos Aires Observatorio, WMO 87585. Not Patagonia and not a national average.",
+    "stationName": "Buenos Aires Observatorio",
+    "stationId": "WMO 87585",
+    "period": "1991-2020",
+    "elevation": "25 m",
+    "latitude": "34|35|24|S",
+    "longitude": "58|29|02|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.1",
+        "low": "20.2",
+        "rain": "134.4",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "28.9",
+        "low": "19.4",
+        "rain": "129.3",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "27.0",
+        "low": "17.7",
+        "rain": "120.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "23.2",
+        "low": "14.1",
+        "rain": "130.3",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "19.4",
+        "low": "11.1",
+        "rain": "93.5",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "16.4",
+        "low": "8.4",
+        "rain": "61.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "15.5",
+        "low": "7.5",
+        "rain": "74.4",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "17.9",
+        "low": "8.9",
+        "rain": "70.3",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.7",
+        "low": "10.6",
+        "rain": "80.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "22.6",
+        "low": "13.4",
+        "rain": "122.9",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "26.0",
+        "low": "16.1",
+        "rain": "117.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "29.0",
+        "low": "18.5",
+        "rain": "122.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Aeroparque (87582) and Ezeiza (87576) were not averaged with the Observatorio.",
+    "sourceTitle": "WMO climate normals 1991-2020, Buenos Aires Observatorio (87585)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-3-WMO-Normals-9120/Argentina/CSV/BUENOS_AIRES_OBSERVATORIO_87585.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type I, 220 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Argentina at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Argentina, last reviewed September 3, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Argentina",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/argentina"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Argentine Peso (ARS)",
+    "detail": "ISO 4217 lists the currency name Argentine Peso and the code ARS for Argentina.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Argentina/Buenos_Aires for Buenos Aires; 12 zones in all",
+    "detail": "IANA's zone.tab and zone1970.tab each give Argentina 12 rows. America/Argentina/Buenos_Aires is commented Buenos Aires (BA, CF). The other provinces are split across 11 more rows, such as America/Argentina/Cordoba for most areas, Mendoza, and Ushuaia. They are not collapsed into one.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Dirección Nacional de Migraciones",
+    "url": "https://www.argentina.gob.ar/interior/migraciones",
+    "note": "The national migration directorate's page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

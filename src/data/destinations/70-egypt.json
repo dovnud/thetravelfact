@@ -1,0 +1,166 @@
+{
+  "order": 70,
+  "id": "egypt",
+  "kind": "country",
+  "name": "Egypt",
+  "countrySlug": "egypt",
+  "countryName": "Egypt",
+  "path": "/egypt/",
+  "dek": "Cairo (A.P.), WMO 62366. Rain is close to zero most months.",
+  "paragraphs": [
+    "The reference station is Cairo (A.P.), WMO 62366, height 64.12 m. The Egyptian submission also has Luxor, Aswan, Hurghada, Sharm El Sheikh, and Alexandria; none were averaged in. The file prints values to two decimals, and they are shown that way. No driving statute or tourism-office tipping page was opened for Egypt on this pass.",
+    "The highest average high in the table is 35 °C, in July. The lowest average low is 10.08 °C, in January. The wettest month by the precipitation column is March, at 6.28 mm, and the driest is June, July, August, and September, at 0 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Cairo (A.P.), WMO 62366. Not a national average.",
+    "stationName": "Cairo (A.P.)",
+    "stationId": "WMO 62366",
+    "period": "1991-2020",
+    "elevation": "64.12 m",
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "18.93",
+        "low": "10.08",
+        "rain": "4.77",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "20.53",
+        "low": "10.99",
+        "rain": "3.75",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "23.81",
+        "low": "13.16",
+        "rain": "6.28",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "28.11",
+        "low": "15.92",
+        "rain": "1.34",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "32.19",
+        "low": "19.31",
+        "rain": "0.21",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "34.62",
+        "low": "22.2",
+        "rain": "0",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "35",
+        "low": "23.79",
+        "rain": "0",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "34.93",
+        "low": "24.27",
+        "rain": "0",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "33.36",
+        "low": "22.72",
+        "rain": "0",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "29.98",
+        "low": "19.95",
+        "rain": "0.73",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "24.93",
+        "low": "15.6",
+        "rain": "4.29",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "20.52",
+        "low": "11.7",
+        "rain": "3.4",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. The file prints the position as 30 08 and 31 24 without hemisphere letters, so the position is not printed here.",
+    "sourceTitle": "WMO climate normals 1991-2020, Cairo (A.P.) (62366)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/CairoAP_62366.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 220 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Egypt at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Egypt, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Egypt",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/egypt"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Egyptian Pound (EGP)",
+    "detail": "ISO 4217 lists the currency name Egyptian Pound and the code EGP for Egypt.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Africa/Cairo",
+    "detail": "IANA's zone.tab and zone1970.tab each give Egypt one row, Africa/Cairo. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Government of Egypt, official e-Visa portal",
+    "url": "https://visa2egypt.gov.eg/",
+    "note": "The government's e-Visa portal. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

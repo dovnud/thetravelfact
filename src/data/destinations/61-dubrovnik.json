@@ -1,0 +1,185 @@
+{
+  "order": 61,
+  "id": "dubrovnik",
+  "kind": "city",
+  "name": "Dubrovnik",
+  "countrySlug": "croatia",
+  "countryName": "Croatia",
+  "path": "/croatia/dubrovnik/",
+  "dek": "The DHMZ Dubrovnik table, 1961–2024. Rain is printed; highs and lows are not on the page.",
+  "paragraphs": [
+    "Dubrovnik is not in the Croatian NOAA NCEI file set, which has Zagreb-Maksimir and Split-Marjan. The Croatian Meteorological and Hydrological Service publishes a Dubrovnik page for 1961–2024. That page gives a mean air temperature for each month, from 9.2 °C in January to 25.4 °C in August, but not average highs or lows, so those cells are blank. Zagreb was not copied here.",
+    "The wettest month by the precipitation column is November, at 142.8 mm, and the driest is July, at 32.0 mm. The plug, driving, tipping, currency, time-zone, and entry lines are national and repeat the Croatia sheet."
+  ],
+  "climate": {
+    "caption": "Station: Dubrovnik, Croatian Meteorological and Hydrological Service (DHMZ). Precipitation only; the page prints mean temperature, not average highs and lows.",
+    "stationName": "Dubrovnik (DHMZ)",
+    "stationId": null,
+    "period": "1961-2024",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": null,
+        "low": null,
+        "rain": "120.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": null,
+        "low": null,
+        "rain": "109.2",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": null,
+        "low": null,
+        "rain": "102.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": null,
+        "low": null,
+        "rain": "87.5",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": null,
+        "low": null,
+        "rain": "66.7",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": null,
+        "low": null,
+        "rain": "55.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": null,
+        "low": null,
+        "rain": "32.0",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": null,
+        "low": null,
+        "rain": "65.0",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": null,
+        "low": null,
+        "rain": "96.2",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": null,
+        "low": null,
+        "rain": "125.2",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": null,
+        "low": null,
+        "rain": "142.8",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": null,
+        "low": null,
+        "rain": "138.8",
+        "precip": null
+      }
+    ],
+    "note": "Dubrovnik is not in the Croatian submission to the WMO 1991–2020 collection distributed by NOAA NCEI. The DHMZ climate-data page for Dubrovnik prints monthly values for 1961–2024, which is not a 1991–2020 normal. It gives mean air temperature, not mean daily maximum and minimum, so the high and low cells are blank. The precipitation column is the page's monthly amount (količina oborine).",
+    "sourceTitle": "DHMZ, klimatološki podaci, Dubrovnik (1961–2024)",
+    "sourceUrl": "https://meteo.hr/klima.php?section=klima_podaci&param=k1&Grad=dubrovnik",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Croatia at the voltage, frequency, and plug types in the figure. A direct download of the live page on 15 November 2026 did not return the list. The archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 47(1) of the Road Traffic Safety Act, in the consolidation on zakon.hr, says a vehicle moves on the right side of the carriageway, or on a cycle track or lane along the right edge of the carriageway or road in the direction of travel, and on a track marked for two-way bicycle traffic, on the right side of that track in the direction of travel. The article is marked with the amendment in Narodne novine 114/22. The site is a consolidation. The official gazette text of that amendment was not opened separately.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Zakon o sigurnosti prometa na cestama, članak 47, zakon.hr",
+    "sourceUrl": "https://www.zakon.hr/z/78/Zakon-o-sigurnosti-prometa-na-cestama"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not mandatory; at least 10–15% in restaurants",
+    "detail": "Croatia.hr says a tip is a sign of respect and is not mandatory, that Croatia charges no special service fee, and that prices listed in cafés, restaurants, hotels, and other hospitality places are final. If you are happy with the service, the page recommends rounding smaller café and bar amounts up to at least the nearest whole number, and leaving at least 10–15% of the total for larger amounts or in restaurants. Helpful hotel staff can be thanked with at least 3 to 5 euro. The page calls these recommendations.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Croatia.hr, tipping",
+    "sourceUrl": "https://croatia.hr/en-gb/money/tipping"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Croatia, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Croatia",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/croatia"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Croatia.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Zagreb",
+    "detail": "IANA's zone.tab names Croatia Europe/Zagreb. zone1970.tab puts Croatia on one row with Serbia, Bosnia and Herzegovina, Montenegro, North Macedonia, and Slovenia, and the zone name on that row is Europe/Belgrade. The backward file links Europe/Zagreb to Europe/Belgrade. This sheet prints Europe/Zagreb, which is the name zone.tab gives Croatia.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign and European Affairs of Croatia",
+    "url": "https://mvep.gov.hr/services-for-citizens/consular-information-22802/visas-22807/22807",
+    "note": "The foreign ministry's visas page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "order": 72,
+  "id": "jamaica",
+  "kind": "country",
+  "name": "Jamaica",
+  "countrySlug": "jamaica",
+  "countryName": "Jamaica",
+  "path": "/jamaica/",
+  "dek": "Kingston Norman Manley, WMO 78397, at 3 m.",
+  "paragraphs": [
+    "The reference station is Kingston Norman Manley, WMO 78397, height 3 m. Montego Bay Sangster is the other file in the Jamaican submission and was not averaged in. No driving statute or tourism-office tipping page was opened for Jamaica on this pass, so those lines are missing.",
+    "The highest average high in the table is 33.1 °C, in July and August. The lowest average low is 22.8 °C, in February. The wettest month by the precipitation column is September, at 184.7 mm, and the driest is February, at 8.8 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Kingston Norman Manley, WMO 78397. Not Montego Bay.",
+    "stationName": "Kingston Norman Manley",
+    "stationId": "WMO 78397",
+    "period": "1991-2020",
+    "elevation": "3 m",
+    "latitude": "17|56|00|N",
+    "longitude": "76|47|00|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.9",
+        "low": "22.9",
+        "rain": "14.6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "30.9",
+        "low": "22.8",
+        "rain": "8.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "30.9",
+        "low": "23.3",
+        "rain": "24.8",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "31.5",
+        "low": "24.2",
+        "rain": "27.9",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "31.9",
+        "low": "25.1",
+        "rain": "98.6",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "32.6",
+        "low": "25.9",
+        "rain": "65.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "33.1",
+        "low": "26.0",
+        "rain": "56.0",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "33.1",
+        "low": "25.9",
+        "rain": "102.0",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "32.9",
+        "low": "25.7",
+        "rain": "184.7",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "32.3",
+        "low": "25.1",
+        "rain": "161.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "31.9",
+        "low": "24.4",
+        "rain": "88.3",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "31.4",
+        "low": "23.5",
+        "rain": "40.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Some months in this file count 27 or 28 years rather than 30.",
+    "sourceTitle": "WMO climate normals 1991-2020, Kingston Norman Manley (78397)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/Jamaica/CSV/KingstonNormanManley_78397.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 110 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Jamaica at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Jamaica, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Jamaica",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/jamaica"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Jamaican Dollar (JMD)",
+    "detail": "ISO 4217 lists the currency name Jamaican Dollar and the code JMD for Jamaica.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Jamaica",
+    "detail": "IANA's zone.tab and zone1970.tab each give Jamaica one row, America/Jamaica. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Passport, Immigration and Citizenship Agency (PICA)",
+    "url": "https://www.pica.gov.jm/",
+    "note": "The immigration agency's site. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "order": 67,
+  "id": "istanbul",
+  "kind": "city",
+  "name": "Istanbul",
+  "countrySlug": "turkey",
+  "countryName": "Turkey",
+  "path": "/turkey/istanbul/",
+  "dek": "Florya, WMO 17636, on the European side by the Sea of Marmara.",
+  "paragraphs": [
+    "Florya is WMO 17636, height 37 m, position 40°58′33″N, 28°47′11″E. The Turkish submission also has Sarıyer (17061) and Sarıyer Kumköy Kilyos (17059) on the Black Sea side. They were not averaged with Florya.",
+    "The highest average high in the table is 29.7 °C, in August. The lowest average low is 3.7 °C, in January and February. The wettest month by the precipitation column is December, at 87.7 mm, and the driest is July, at 19.36 mm."
+  ],
+  "climate": {
+    "caption": "Station: Florya, WMO 17636. Not Sarıyer.",
+    "stationName": "Florya",
+    "stationId": "WMO 17636",
+    "period": "1991-2020",
+    "elevation": "37 m",
+    "latitude": "40|58|33|N",
+    "longitude": "28|47|11|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "9.2",
+        "low": "3.7",
+        "rain": "74.37",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "9.8",
+        "low": "3.7",
+        "rain": "77.06",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "12.4",
+        "low": "5.3",
+        "rain": "60.53",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "17.1",
+        "low": "8.6",
+        "rain": "47.24",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "22.2",
+        "low": "13.4",
+        "rain": "33.14",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "26.9",
+        "low": "17.9",
+        "rain": "31.02",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "29.5",
+        "low": "20.5",
+        "rain": "19.36",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "29.7",
+        "low": "21.1",
+        "rain": "22.91",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "25.8",
+        "low": "17.4",
+        "rain": "42.51",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "20.8",
+        "low": "13.6",
+        "rain": "75.12",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "15.8",
+        "low": "9.3",
+        "rain": "70.41",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "11.1",
+        "low": "5.7",
+        "rain": "87.7",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Sarıyer (17061) and Sarıyer Kumköy Kilyos (17059) are separate Istanbul-area files and were not averaged with Florya.",
+    "sourceTitle": "WMO climate normals 1991-2020, Florya (17636)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Turkiye/CSV/Florya_17636.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 220 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Turkey at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read. The IEC line prints 220 V for Turkey, and that is the figure shown.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 46 of the Highway Traffic Law No. 2918, in the text on the official Mevzuat legislation portal, says traffic on highways flows on the right, and that unless a sign says otherwise drivers keep to the right of the road in their direction of travel, or on multi-lane roads to the lane their speed requires.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Karayolları Trafik Kanunu No. 2918, Madde 46, mevzuat.gov.tr",
+    "sourceUrl": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.2918.pdf"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Turkey, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Turkey",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/turkey"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Turkish Lira (TRY)",
+    "detail": "ISO 4217 lists the currency name Turkish Lira and the code TRY under the country name Türkiye.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Istanbul",
+    "detail": "IANA's zone.tab and zone1970.tab each give Türkiye one row, Europe/Istanbul. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs of the Republic of Türkiye",
+    "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+    "note": "The foreign ministry's visa information for foreigners. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

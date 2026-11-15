@@ -1,0 +1,173 @@
+{
+  "order": 76,
+  "id": "colombia",
+  "kind": "country",
+  "name": "Colombia",
+  "countrySlug": "colombia",
+  "countryName": "Colombia",
+  "path": "/colombia/",
+  "dek": "El Dorado CATAM (AUT), Bogotá, at 2,547 m. Not the Caribbean coast.",
+  "paragraphs": [
+    "The reference station is El Dorado CATAM (AUT), number 21205791 in the file's station field, height 2547 m. Bogotá sits high, so it is cool all year; Cartagena and the coast are not this table. The Colombian submission has hundreds of stations, and none were averaged.",
+    "The highest average high in the table is 20.18 °C, in February. The lowest average low is 6.41 °C, in January. The wettest month by the precipitation column is April, at 116.71 mm, and the driest is January, at 32.89 mm. No tourism-office tipping page was opened for Colombia on this pass."
+  ],
+  "climate": {
+    "caption": "Reference station: El Dorado CATAM (AUT), Bogotá. Not the coast and not a national average.",
+    "stationName": "El Dorado CATAM (AUT)",
+    "stationId": "21205791",
+    "period": "1991-2020",
+    "elevation": "2547 m",
+    "latitude": "04|42|20|N",
+    "longitude": "074|09|02|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "20.14",
+        "low": "6.41",
+        "rain": "32.89",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "20.18",
+        "low": "7.62",
+        "rain": "51.38",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "19.79",
+        "low": "8.58",
+        "rain": "83.39",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "19.55",
+        "low": "9.56",
+        "rain": "116.71",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "19.36",
+        "low": "9.6",
+        "rain": "109.03",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "18.94",
+        "low": "9.06",
+        "rain": "57.43",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "18.54",
+        "low": "8.57",
+        "rain": "48.56",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "18.77",
+        "low": "8.38",
+        "rain": "44.33",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.21",
+        "low": "7.78",
+        "rain": "56.73",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "19.42",
+        "low": "8.3",
+        "rain": "108.22",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "19.41",
+        "low": "8.61",
+        "rain": "107.22",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "19.77",
+        "low": "7.53",
+        "rain": "61.37",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. The station number is the one printed in the file's WMO_Number field.",
+    "sourceTitle": "WMO climate normals 1991-2020, El Dorado CATAM (AUT) (21205791)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-3-WMO-Normals-9120/Colombia/CSV/El_Dorado_Catam__AUT__21205791.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 110 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Colombia at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 68 of Law 769 of 2002, the national traffic code, in the Senate's consolidated text, says that on two-way roads with two lanes vehicles use the lane on their right and use the left lane with caution for overtaking, and that on one-way roads without lane speed rules vehicles keep to the right lane.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Ley 769 de 2002, artículo 68, Secretaría del Senado",
+    "sourceUrl": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0769_2002_pr001.html"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Colombia, last reviewed November 10, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Colombia",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/colombia"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Colombian Peso (COP)",
+    "detail": "ISO 4217 lists the Colombian Peso, code COP, for Colombia. It also lists Unidad de Valor Real, code COU, a unit of account, which is not printed as the currency.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Bogota",
+    "detail": "IANA's zone.tab and zone1970.tab each give Colombia one row, America/Bogota. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Migración Colombia",
+    "url": "https://www.migracioncolombia.gov.co/",
+    "note": "The migration authority's site. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

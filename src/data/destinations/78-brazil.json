@@ -1,0 +1,173 @@
+{
+  "order": 78,
+  "id": "brazil",
+  "kind": "country",
+  "name": "Brazil",
+  "countrySlug": "brazil",
+  "countryName": "Brazil",
+  "path": "/brazil/",
+  "dek": "Brasília, WMO 83377, at 1,161 m. Rio de Janeiro is not in the file set.",
+  "paragraphs": [
+    "The reference station is Brasília, WMO 83377, height 1161.42 m. The Brazilian 1991–2020 submission has no Rio de Janeiro or São Paulo city file, so neither is shown. The capital has a wet summer and a dry winter. No tourism-office tipping page was opened on this pass.",
+    "The highest average high in the table is 29.1 °C, in September. The lowest average low is 13.9 °C, in July. The wettest month by the precipitation column is November, at 253.1 mm, and the driest is July, at 1.5 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Brasília, WMO 83377. Not Rio and not a national average.",
+    "stationName": "Brasília",
+    "stationId": "WMO 83377",
+    "period": "1991-2020",
+    "elevation": "1161.42 m",
+    "latitude": "15|47|23|S",
+    "longitude": "47|55|33|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "26.9",
+        "low": "18.3",
+        "rain": "206.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "27.2",
+        "low": "18.2",
+        "rain": "179.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "27.0",
+        "low": "18.2",
+        "rain": "226.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "26.8",
+        "low": "17.7",
+        "rain": "145.2",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "26.0",
+        "low": "15.6",
+        "rain": "26.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "25.3",
+        "low": "14.2",
+        "rain": "3.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "25.6",
+        "low": "13.9",
+        "rain": "1.5",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "27.4",
+        "low": "15.3",
+        "rain": "16.3",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "29.1",
+        "low": "17.6",
+        "rain": "38.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "29.0",
+        "low": "18.5",
+        "rain": "141.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "27.0",
+        "low": "18.1",
+        "rain": "253.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "26.8",
+        "low": "18.3",
+        "rain": "241.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. The Brazilian submission has no Rio de Janeiro or São Paulo city file.",
+    "sourceTitle": "WMO climate normals 1991-2020, Brasília (83377)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-3-WMO-Normals-9120/Brazil/CSV/BRASILIA_83377.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and N, 127 V and 220 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Brazil at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read. The line lists two voltages and does not say which city uses which, so this sheet does not either.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 29, item I, of Law 9,503 of 1997, the Brazilian Traffic Code, in the consolidated text on the Planalto site, says circulation is on the right side of the road, with exceptions where signed.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Lei nº 9.503/1997, art. 29, Planalto",
+    "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Brazil, last reviewed September 3, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Brazil",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/brazil"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Brazilian Real (BRL)",
+    "detail": "ISO 4217 lists the currency name Brazilian Real and the code BRL for Brazil.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Sao_Paulo for the southeast; 16 zones in all",
+    "detail": "IANA's zone.tab and zone1970.tab each give Brazil 16 rows. The America/Sao_Paulo row is commented southeast: GO, DF, MG, ES, RJ, SP, PR, SC, RS, which covers Brasília and Rio de Janeiro. The other 15, from America/Noronha for the Atlantic islands to America/Rio_Branco for Acre, are not collapsed into it.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs of Brazil (Itamaraty)",
+    "url": "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos",
+    "note": "The foreign ministry's visas page, in Portuguese. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "order": 62,
+  "id": "hungary",
+  "kind": "country",
+  "name": "Hungary",
+  "countrySlug": "hungary",
+  "countryName": "Hungary",
+  "path": "/hungary/",
+  "dek": "Budapest Belterület, WMO 12840. The capital, not a national average.",
+  "paragraphs": [
+    "The reference station is Budapest Belterület, WMO 12840, height 153 m, in the Hungarian 1991–2020 submission. Budapest Pestszentlőrinc is a second Budapest file and was not blended in. The table is one station, not the whole country.",
+    "The highest average high in the table is 28.9 °C, in August. The lowest average low is -1.2 °C, in January. The wettest month by the precipitation column is June, at 60 mm, and the driest is February, at 30.2 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Budapest Belterület, WMO 12840. Not a national average.",
+    "stationName": "Budapest Belterület",
+    "stationId": "WMO 12840",
+    "period": "1991-2020",
+    "elevation": "153 m",
+    "latitude": "47|30|40|N",
+    "longitude": "19|01|41|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "4.7",
+        "low": "-1.2",
+        "rain": "33",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "7.1",
+        "low": "0.1",
+        "rain": "30.2",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "12.3",
+        "low": "3.9",
+        "rain": "31.2",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "18.8",
+        "low": "9.1",
+        "rain": "32.5",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "23.1",
+        "low": "12.8",
+        "rain": "57.3",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "26.8",
+        "low": "16.3",
+        "rain": "60",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "28.8",
+        "low": "18",
+        "rain": "53.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "28.9",
+        "low": "17.7",
+        "rain": "54.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "23.1",
+        "low": "13.3",
+        "rain": "46.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "17.2",
+        "low": "8.7",
+        "rain": "44.1",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "10.6",
+        "low": "4.3",
+        "rain": "46.2",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "5.1",
+        "low": "-0.2",
+        "rain": "37.7",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Budapest Pestszentlőrinc (WMO 12843) is a separate Budapest file and was not averaged with Belterület.",
+    "sourceTitle": "WMO climate normals 1991-2020, Budapest Belterület (12840)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Hungary/CSV/BudapestBelterulet_12840.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Hungary at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Section 25(2) of the Hungarian highway code, Decree 1/1975 (II. 5.) KPM-BM (KRESZ), in the consolidated text on Nemzeti Jogtár, says a vehicle travels on the carriageway on the right-hand side in its direction of travel, keeping as far to the right as road and traffic conditions allow, except when overtaking or passing an obstacle. Nemzeti Jogtár is a commercial consolidation, not the official gazette.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "KRESZ, 25. §, Nemzeti Jogtár",
+    "sourceUrl": "https://net.jogtar.hu/jogszabaly?docid=97500001.kpm"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Usually 10%",
+    "detail": "Visit Hungary says the usual amount of a tip is 10%, for cabs, restaurants, and so on, and that staff prefer a cash tip when you pay by card. It says a 10–15% service charge added to the bill is starting to spread, and that if it is included you do not need to tip.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit Hungary, money",
+    "sourceUrl": "https://visithungary.com/articles/money"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Hungary, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Hungary",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/hungary"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Forint (HUF)",
+    "detail": "ISO 4217 lists the currency name Forint and the code HUF for Hungary.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Budapest",
+    "detail": "IANA's zone.tab and zone1970.tab each give Hungary one row, Europe/Budapest. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs and Trade of Hungary, consular service",
+    "url": "https://konzuliszolgalat.kormany.hu/en",
+    "note": "The foreign ministry's consular information site. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

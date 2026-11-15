@@ -1,0 +1,166 @@
+{
+  "order": 77,
+  "id": "peru",
+  "kind": "country",
+  "name": "Peru",
+  "countrySlug": "peru",
+  "countryName": "Peru",
+  "path": "/peru/",
+  "dek": "Granja Kcayra, at 3,214 m in the Cusco region. Lima is not in the file set.",
+  "paragraphs": [
+    "Lima has no file in the Peruvian 1991–2020 submission. The reference station is Granja Kcayra, number 34001 in the file, height 3214 m, position 13°33′24″S, 71°52′31″W, in the Cusco region. It is a highland table; the coast is not this. No driving statute or tourism-office tipping page was opened on this pass.",
+    "The highest average high in the table is 22.2 °C, in November. The lowest average low is -1.3 °C, in July. The wettest month by the precipitation column is January, at 145.8 mm, and the driest is June, at 3.7 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Granja Kcayra, highland Cusco region. Not Lima and not a national average.",
+    "stationName": "Granja Kcayra",
+    "stationId": "34001",
+    "period": "1991-2020",
+    "elevation": "3214 m",
+    "latitude": "13|33|24|S",
+    "longitude": "71|52|31|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "20.2",
+        "low": "7.4",
+        "rain": "145.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "20.2",
+        "low": "7.5",
+        "rain": "126.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "20.4",
+        "low": "6.8",
+        "rain": "97.3",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "20.9",
+        "low": "4.4",
+        "rain": "33.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "21.3",
+        "low": "1",
+        "rain": "6.3",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "20.9",
+        "low": "-0.8",
+        "rain": "3.7",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "20.8",
+        "low": "-1.3",
+        "rain": "4.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "21.5",
+        "low": "0.5",
+        "rain": "5.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "21.9",
+        "low": "3.3",
+        "rain": "14.5",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "21.9",
+        "low": "5.4",
+        "rain": "43.6",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "22.2",
+        "low": "6.3",
+        "rain": "71.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "20.9",
+        "low": "6.9",
+        "rain": "114.9",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Lima is not in the Peruvian submission. Some months count 28 or 29 years. The station number is the one printed in the file.",
+    "sourceTitle": "WMO climate normals 1991-2020, Granja Kcayra (34001)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-3-WMO-Normals-9120/Peru/CSV/GranjaKcayra_34001.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A, B and C, 220 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Peru at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Peru, last reviewed November 10, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Peru",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/peru"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Sol (PEN)",
+    "detail": "ISO 4217 lists the currency name Sol and the code PEN for Peru.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Lima",
+    "detail": "IANA's zone.tab and zone1970.tab each give Peru one row, America/Lima. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Superintendencia Nacional de Migraciones",
+    "url": "https://www.gob.pe/migraciones",
+    "note": "The migration authority's page on the government portal. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}
