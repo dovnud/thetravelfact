@@ -6,6 +6,7 @@ import Affiliates from "./Affiliates.astro";
 import { citiesIn, countryOf, extreme, hubOf, joinMonths } from "../lib/destinations";
 import { factSources, type Destination, type Fact, type SourceRef } from "../lib/types";
 import { photos } from "../data/photos";
+import { MONTHS, monthPath, qualifyingMonths } from "../lib/months";
 
 interface Props {
   destination: Destination;
@@ -72,6 +73,7 @@ const jumps = [
   ].filter((j) => facts.some((f) => anchorFor[f.label] === j.id)),
   { id: "entry", label: "Entry" },
 ];
+const goodMonths = qualifyingMonths(destination);
 const kicker = destination.sheetLabel ?? (destination.kind === "country" ? "Country sheet" : destination.countryName);
 
 const sources: SourceRef[] = [
@@ -173,6 +175,15 @@ const jsonLd = {
       {destination.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
     </div>
     <div id="weather"><ClimatePanel climate={destination.climate} /></div>
+    <nav class="prose month-hub-links" aria-label="Month lists" data-pagefind-ignore>
+      <p>
+        {goodMonths.length > 0
+          ? <>By our <a href={monthPath(goodMonths[0])}>month-list rule</a> (average high 20–30 °C, under 100 mm), {destination.name} is listed in {goodMonths.map((m, i) => <>{i > 0 && (i === goodMonths.length - 1 ? " and " : ", ")}<a href={monthPath(m)}>{m}</a></>)}.</>
+          : <>{destination.name} is not on any of our month lists, which need an average high of 20–30 °C and under 100 mm in this table.</>}
+        {" "}All months:{" "}
+        {MONTHS.map((m, i) => <>{i > 0 && " · "}<a href={monthPath(m)}>{m.slice(0, 3)}</a></>)}
+      </p>
+    </nav>
         {destination.season.length > 0 && (
           <section class="prose">
             <h2>Storm season, from the hurricane center</h2>
@@ -187,6 +198,7 @@ const jsonLd = {
               <h3 id={anchorFor[fact.label]}>{fact.label}</h3>
               {["advisory", "health", "emergency"].includes(anchorFor[fact.label]) && <p><strong>{fact.value}</strong></p>}
               <p>{fact.detail}</p>
+              {anchorFor[fact.label] === "driving" && <p class="note"><a href="/countries-that-drive-on-the-left/">Countries that drive on the left</a>, with sources.</p>}
               <p class="note">
                 {factSources(fact).map((source, index) => (
                   <>
