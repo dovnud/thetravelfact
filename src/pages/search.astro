@@ -1,0 +1,47 @@
+---
+import Base from "../layouts/Base.astro";
+import SearchForm from "../components/SearchForm.astro";
+---
+
+<Base title="Search" description="Search the destination sheets by country or city.">
+  <section class="shell search-page">
+    <h1>Search</h1>
+    <SearchForm id="q-page" size="large" />
+    <p class="note" id="search-status" role="status" aria-live="polite">Type a country or city name, then press Enter.</p>
+    <ol class="search-results" id="search-results"></ol>
+    <noscript><p class="note">Search needs JavaScript. The <a href="/#index">index</a> lists every sheet.</p></noscript>
+  </section>
+  <script is:inline type="module">
+    const input = document.getElementById("q-page");
+    const status = document.getElementById("search-status");
+    const list = document.getElementById("search-results");
+    const params = new URLSearchParams(location.search);
+    const initial = (params.get("q") || "").trim();
+    if (initial) input.value = initial;
+    let pagefind;
+    let seq = 0;
+    const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+    async function run(q) {
+      const mine = ++seq;
+      if (!q) { list.innerHTML = ""; status.textContent = "Type a country or city name, then press Enter."; return; }
+      status.textContent = "Searching…";
+      pagefind ??= await import("/pagefind/pagefind.js");
+      const res = await pagefind.debouncedSearch(q, {}, 150);
+      if (res === null || mine !== seq) return;
+      const data = await Promise.all(res.results.slice(0, 20).map((r) => r.data()));
+      if (mine !== seq) return;
+      list.innerHTML = data.map((d) =>
+        `<li><a href="${esc(d.url)}"><span class="sr-name">${esc(d.meta.title || d.url)}</span> <span class="sr-country">${esc(d.meta.country || "")}</span></a></li>`
+      ).join("");
+      status.textContent = data.length ? `${res.results.length} sheet${res.results.length === 1 ? "" : "s"} for “${q}”.` : `No sheet matches “${q}”. The index lists every sheet.`;
+    }
+    input.addEventListener("input", () => run(input.value.trim()));
+    input.form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const q = input.value.trim();
+      history.replaceState(null, "", q ? `?q=${encodeURIComponent(q)}` : location.pathname);
+      run(q).then(() => { const first = list.querySelector("a"); if (first && q) first.focus(); });
+    });
+    if (initial) run(initial);
+  </script>
+</Base>

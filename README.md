@@ -29,3 +29,5 @@ Black, white, and a signal red. Masthead, photograph, then timetable tables. Typ
 ## Data
 
 Structured sheets live in `src/data/destinations/`. One template renders all of them. Affiliate IDs for Viator, Expedia, Booking.com, and Travelpayouts are empty in `src/config/affiliates.ts`. The Amazon adapter link uses tag `thetravelfact-20`.
+
+Search is [Pagefind](https://pagefind.app/). `npm run build` runs `astro build` and then `pagefind --site dist`, which writes the static index to `dist/pagefind/`. Only sheet and hub articles (`data-pagefind-body`) are indexed. The search page is `/search/?q=…`; the header and home forms are plain GET forms to it.

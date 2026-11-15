@@ -42,3 +42,31 @@ export function joinMonths(months: string[]) {
   if (months.length === 2) return `${months[0]} and ${months[1]}`;
   return `${months.slice(0, -1).join(", ")}, and ${months.at(-1)}`;
 }
+
+/** Country slugs that have city sheets but no country sheet of their own. They get a small hub page. */
+export interface Hub {
+  countrySlug: string;
+  countryName: string;
+  path: string;
+  cities: Destination[];
+  related: Destination[];
+}
+
+export const hubs: Hub[] = [...new Set(
+  destinations
+    .filter((d) => d.kind === "city" && !destinations.some((c) => c.kind === "country" && c.countrySlug === d.countrySlug))
+    .map((d) => d.countrySlug),
+)].map((slug) => {
+  const cities = destinations.filter((d) => d.kind === "city" && d.countrySlug === slug);
+  return {
+    countrySlug: slug,
+    countryName: cities[0].countryName,
+    path: `/${slug}/`,
+    cities,
+    related: slug === "united-states" ? destinations.filter((d) => d.kind === "country" && d.sheetLabel?.startsWith("US ")) : [],
+  };
+});
+
+export function hubOf(destination: Destination) {
+  return hubs.find((h) => h.countrySlug === destination.countrySlug);
+}

@@ -1,4 +1,5 @@
 ---
+import SearchForm from "./SearchForm.astro";
 const path = Astro.url.pathname;
 const links = [
   { href: "/#index", label: "Index" },
@@ -14,6 +15,7 @@ const links = [
       <span class="mark-block">TTF</span>
       <span class="mark-name">The Travel Fact</span>
     </a>
+    <div class="mast-search"><SearchForm id="q-header" /></div>
     <nav class="nav nav-desktop" aria-label="Primary">
       {links.map((link) => (
         <a href={link.href} aria-current={path === link.href ? "page" : undefined}>{link.label}</a>

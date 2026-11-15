@@ -1,17 +1,21 @@
 ---
 import DestinationView from "../../components/DestinationView.astro";
-import { destinations } from "../../lib/destinations";
+import HubView from "../../components/HubView.astro";
+import { destinations, hubs } from "../../lib/destinations";
 
 export function getStaticPaths() {
-  return destinations
-    .filter((destination) => destination.kind === "country")
-    .map((destination) => ({
-      params: { country: destination.countrySlug },
-      props: { destination },
-    }));
+  return [
+    ...destinations
+      .filter((destination) => destination.kind === "country")
+      .map((destination) => ({
+        params: { country: destination.countrySlug },
+        props: { destination, hub: undefined },
+      })),
+    ...hubs.map((hub) => ({ params: { country: hub.countrySlug }, props: { destination: undefined, hub } })),
+  ];
 }
 
-const { destination } = Astro.props;
+const { destination, hub } = Astro.props;
 ---
 
-<DestinationView destination={destination} />
+{destination ? <DestinationView destination={destination} /> : hub && <HubView hub={hub} />}
