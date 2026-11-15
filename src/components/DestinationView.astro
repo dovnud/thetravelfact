@@ -40,6 +40,9 @@ const facts: Fact[] = [
   destination.currency,
   destination.timeZone,
   ...(destination.tipping ? [destination.tipping] : []),
+  destination.advisory,
+  destination.health,
+  destination.emergency,
 ].filter((fact): fact is Fact => fact != null);
 
 const anchorFor: Record<string, string> = {
@@ -49,6 +52,9 @@ const anchorFor: Record<string, string> = {
   "Tap water": "water",
   Currency: "money",
   "Time zone": "time",
+  "Travel advisory": "advisory",
+  "Health and vaccines": "health",
+  "Emergency numbers": "emergency",
 };
 const hasClimate = destination.climate.months.some((m) => m.high != null || m.low != null || m.rain != null);
 const jumps = [
@@ -60,6 +66,9 @@ const jumps = [
     { id: "water", label: "Water" },
     { id: "money", label: "Money" },
     { id: "time", label: "Time" },
+    { id: "advisory", label: "Advisory" },
+    { id: "health", label: "Health" },
+    { id: "emergency", label: "Emergency" },
   ].filter((j) => facts.some((f) => anchorFor[f.label] === j.id)),
   { id: "entry", label: "Entry" },
 ];
@@ -176,6 +185,7 @@ const jsonLd = {
           {facts.map((fact) => (
             <>
               <h3 id={anchorFor[fact.label]}>{fact.label}</h3>
+              {["advisory", "health", "emergency"].includes(anchorFor[fact.label]) && <p><strong>{fact.value}</strong></p>}
               <p>{fact.detail}</p>
               <p class="note">
                 {factSources(fact).map((source, index) => (

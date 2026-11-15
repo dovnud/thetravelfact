@@ -106,3 +106,9 @@ Still open:
 - Driving: Dubai/UAE (Federal Law 21/1995 superseded by Decree-Law 14/2024; no keep-right rule found), Morocco, Egypt, Costa Rica (pgrweb.go.cr returned 500), Aruba.
 - Tipping: Australia and Sydney (australia.com page renders no text), Thailand, Bangkok, Singapore, Vietnam, Indonesia, Bali, India, Dubai (cookie wall), Morocco, Egypt, Jamaica, Puerto Rico.
 - Climate: Hanoi and Ho Chi Minh City normals; Vietnam's national service and BMKG tables not found; Panama.
+
+## Advisory, health, and emergency lines, 15 November 2026
+
+- Travel advisory: State Department feed (travel.state.gov RSS). US cities, Hawaii, and Puerto Rico print "Not applicable" because the State Department does not issue advisories for US jurisdictions. Regional levels inside a country are not tabulated; the sheet says when the advisory names areas with increased risk.
+- Health and vaccines: CDC Travelers' Health destination pages. US cities and Hawaii have no CDC destination page, so the health line is blank there. The summary keeps only the main rows (hepatitis A and B, typhoid, yellow fever, malaria, Japanese encephalitis, tick-borne encephalitis, chikungunya, polio, rabies dogs) plus listed travel health notices.
+- Emergency numbers: GOV.UK FCDO travel advice, Emergency services. United Kingdom: only the police number (999) is printed, from GOV.UK Contact the police; ambulance and fire numbers were not taken from a cited page. Puerto Rico: 9-1-1 only, from the Department of Public Safety.

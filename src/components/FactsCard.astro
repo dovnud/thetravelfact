@@ -13,6 +13,9 @@ const rows: Array<{ label: string; fact: Fact | null }> = [
   { label: "Tap water", fact: destination.water },
   { label: "Currency", fact: destination.currency },
   { label: "Time zone", fact: destination.timeZone },
+  { label: "Travel advisory", fact: destination.advisory ?? null },
+  { label: "Health and vaccines", fact: destination.health ?? null },
+  { label: "Emergency numbers", fact: destination.emergency ?? null },
 ];
 ---
 
