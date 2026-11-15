@@ -1,0 +1,23 @@
+{
+  "market": "United States, location_code 2840, language_code en, Google",
+  "pulled_timezone": "America/Los_Angeles",
+  "starting_balance_usd": 31.330428,
+  "ending_balance_usd": 29.632788,
+  "spend_usd": 1.69764,
+  "account_total_funds_usd": 51.0,
+  "started_local": "2026-11-15T08:34:43-08:00",
+  "ended_local": "2026-11-15T08:42:19-08:00",
+  "endpoints": {
+    "keyword_overview": "/dataforseo_labs/google/keyword_overview/live",
+    "keyword_suggestions": "/dataforseo_labs/google/keyword_suggestions/live",
+    "serp_paa": "/serp/google/organic/live/advanced",
+    "user_data": "/appendix/user_data"
+  },
+  "spend_by_endpoint_usd": {
+    "/dataforseo_labs/google/keyword_overview/live": 1.08828,
+    "/dataforseo_labs/google/keyword_suggestions/live": 0.56136,
+    "/serp/google/organic/live/advanced": 0.048
+  },
+  "notes": "Ending balance confirmed via /appendix/user_data after the last overview batch. Ledger sum matches the balance delta ($1.69764). SERP includes one $0.002 call whose first response was not saved after a parser error and was successfully retried.",
+  "ended_utc": "2026-11-15T16:42:19+00:00"
+}

@@ -1,0 +1,56 @@
+endpoint,cost,note,local_time,utc_time,status_code
+/dataforseo_labs/google/keyword_overview/live,0.07164,keyword_overview batch 1 n=700,2026-11-15T08:34:49-08:00,2026-11-15T16:34:49+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.07812,keyword_overview batch 2 n=700,2026-11-15T08:34:55-08:00,2026-11-15T16:34:55+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.06612,keyword_overview batch 3 n=700,2026-11-15T08:35:01-08:00,2026-11-15T16:35:01+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.07044,keyword_overview batch 4 n=700,2026-11-15T08:35:05-08:00,2026-11-15T16:35:05+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.075,keyword_overview batch 5 n=700,2026-11-15T08:35:11-08:00,2026-11-15T16:35:11+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.07416,keyword_overview batch 6 n=700,2026-11-15T08:35:16-08:00,2026-11-15T16:35:16+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.07572,keyword_overview batch 7 n=700,2026-11-15T08:35:22-08:00,2026-11-15T16:35:22+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.06984,keyword_overview batch 8 n=700,2026-11-15T08:35:27-08:00,2026-11-15T16:35:27+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.07728,keyword_overview batch 9 n=700,2026-11-15T08:35:33-08:00,2026-11-15T16:35:33+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.072,keyword_overview batch 10 n=700,2026-11-15T08:35:40-08:00,2026-11-15T16:35:40+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.07308,keyword_overview batch 11 n=700,2026-11-15T08:35:46-08:00,2026-11-15T16:35:46+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.08676,keyword_overview batch 12 n=700,2026-11-15T08:35:54-08:00,2026-11-15T16:35:54+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.03348,keyword_overview batch 13 n=244,2026-11-15T08:35:58-08:00,2026-11-15T16:35:58+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=best time to visit limit=250,2026-11-15T08:36:00-08:00,2026-11-15T16:36:00+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=where to go in limit=250,2026-11-15T08:36:03-08:00,2026-11-15T16:36:03+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=where is warm in limit=250,2026-11-15T08:36:05-08:00,2026-11-15T16:36:05+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.01584,keyword_suggestions seed=countries that drive on the left limit=250,2026-11-15T08:36:07-08:00,2026-11-15T16:36:07+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.0294,keyword_suggestions seed=type g plug limit=250,2026-11-15T08:36:09-08:00,2026-11-15T16:36:09+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=tap water safe limit=250,2026-11-15T08:36:12-08:00,2026-11-15T16:36:12+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.01656,keyword_suggestions seed=countries that use the euro limit=250,2026-11-15T08:36:14-08:00,2026-11-15T16:36:14+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.01236,keyword_suggestions seed=tipping by country limit=250,2026-11-15T08:36:15-08:00,2026-11-15T16:36:15+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.0252,keyword_suggestions seed=do i need an adapter limit=250,2026-11-15T08:36:17-08:00,2026-11-15T16:36:17+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=travel adapter limit=250,2026-11-15T08:36:19-08:00,2026-11-15T16:36:19+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=esim limit=250,2026-11-15T08:36:21-08:00,2026-11-15T16:36:21+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=emergency number limit=250,2026-11-15T08:36:24-08:00,2026-11-15T16:36:24+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=baggage allowance limit=250,2026-11-15T08:36:26-08:00,2026-11-15T16:36:26+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=carry on size limit=250,2026-11-15T08:36:28-08:00,2026-11-15T16:36:28+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=checked bag fee limit=250,2026-11-15T08:36:30-08:00,2026-11-15T16:36:30+00:00,20000
+/dataforseo_labs/google/keyword_suggestions/live,0.042,keyword_suggestions seed=personal item size limit=250,2026-11-15T08:36:32-08:00,2026-11-15T16:36:32+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Paris,2026-11-15T08:36:40-08:00,2026-11-15T16:36:40+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Paris,2026-11-15T08:37:01-08:00,2026-11-15T16:37:01+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Japan,2026-11-15T08:37:06-08:00,2026-11-15T16:37:06+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Cancun,2026-11-15T08:37:09-08:00,2026-11-15T16:37:09+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit London,2026-11-15T08:37:13-08:00,2026-11-15T16:37:13+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Rome,2026-11-15T08:37:19-08:00,2026-11-15T16:37:19+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Bali,2026-11-15T08:37:23-08:00,2026-11-15T16:37:23+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Iceland,2026-11-15T08:37:28-08:00,2026-11-15T16:37:28+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Thailand,2026-11-15T08:37:33-08:00,2026-11-15T16:37:33+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Sydney,2026-11-15T08:37:39-08:00,2026-11-15T16:37:39+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Athens,2026-11-15T08:37:43-08:00,2026-11-15T16:37:43+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Dubai,2026-11-15T08:37:47-08:00,2026-11-15T16:37:47+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Norway,2026-11-15T08:37:53-08:00,2026-11-15T16:37:53+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Philippines,2026-11-15T08:37:57-08:00,2026-11-15T16:37:57+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Cape Town,2026-11-15T08:38:02-08:00,2026-11-15T16:38:02+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=best time to visit Peru,2026-11-15T08:38:11-08:00,2026-11-15T16:38:11+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=countries that drive on the left,2026-11-15T08:38:17-08:00,2026-11-15T16:38:17+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=countries where tap water is safe,2026-11-15T08:38:21-08:00,2026-11-15T16:38:21+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=countries with type G plugs,2026-11-15T08:38:25-08:00,2026-11-15T16:38:25+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=countries that use the euro,2026-11-15T08:38:28-08:00,2026-11-15T16:38:28+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=tipping by country,2026-11-15T08:38:32-08:00,2026-11-15T16:38:32+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=do i need a travel adapter,2026-11-15T08:38:35-08:00,2026-11-15T16:38:35+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=where to go in january,2026-11-15T08:38:39-08:00,2026-11-15T16:38:39+00:00,20000
+/serp/google/organic/live/advanced,0.002,serp advanced q=airline baggage allowance,2026-11-15T08:38:44-08:00,2026-11-15T16:38:44+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.09408,keyword_overview batch 1 n=700,2026-11-15T08:41:52-08:00,2026-11-15T16:41:52+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.07056,keyword_overview batch 2 n=500,2026-11-15T08:42:19-08:00,2026-11-15T16:42:19+00:00,20000

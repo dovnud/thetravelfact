@@ -1,0 +1,45 @@
+airline,approx_unique_volume,baggage_allowance,luggage_allowance,carry_on_size,checked_bag_fee,personal_item,top_keyword,top_volume,top_kd,top_cpc
+Southwest,249300,135000,0,90500,22200,1600,southwest baggage allowance,135000,13,4.57
+American Airlines,179200,49500,0,110000,18100,1600,american airlines carry on size,110000,7,1.83
+Delta,90300,2900,0,74000,12100,1300,delta carry on size,74000,0,2.18
+United,71400,33100,0,22200,14800,1300,united baggage allowance,33100,14,2.39
+Frontier,65790,590,0,22200,33100,9900,frontier checked bag fee,33100,14,1.25
+JetBlue,37220,9900,0,22200,4400,720,jetblue carry on size,22200,9,1.28
+Alaska Airlines,32890,14800,0,14800,2900,390,alaska airlines baggage allowance,14800,34,0.22
+British Airways,15720,8100,0,6600,880,140,british airways baggage allowance,8100,13,2.61
+Spirit,13190,590,0,6600,3600,2400,spirit carry on size,6600,12,
+Air Canada,11880,1600,0,5400,4400,480,air canada carry on size,5400,14,4.3
+Hawaiian Airlines,9440,3600,0,2900,2900,40,hawaiian airlines baggage allowance,3600,3,
+Ryanair,7810,590,0,6600,480,140,ryanair carry on size,6600,2,2.05
+Lufthansa,7260,1600,0,5400,0,260,lufthansa carry on size,5400,0,3.11
+Aer Lingus,5940,2900,0,2900,0,140,aer lingus baggage allowance,2900,7,0.09
+Air France,5830,1900,0,3600,260,70,air france carry on size,3600,3,3.68
+Turkish Airlines,5340,3600,0,1600,0,140,turkish airlines baggage allowance,3600,0,1.02
+Aeromexico,5260,2900,0,1900,390,70,aeromexico baggage allowance,2900,0,
+Volaris,4330,390,0,2900,320,720,volaris carry on size,2900,0,0.34
+Japan Airlines,4220,2900,0,1300,0,20,japan airlines baggage allowance,2900,22,17.99
+KLM,4000,1900,0,1900,170,30,klm baggage allowance,1900,0,5.29
+Qatar Airways,3710,2900,0,720,0,90,qatar airways baggage allowance,2900,2,
+Iberia,3250,1900,0,1300,0,50,iberia baggage allowance,1900,0,
+WestJet,3250,1600,0,1000,480,170,westjet baggage allowance,1600,0,
+Cathay Pacific,2650,1900,0,720,0,30,cathay pacific baggage allowance,1900,0,10.38
+Virgin Atlantic,2650,1900,0,720,0,30,virgin atlantic baggage allowance,1900,0,
+Emirates,2600,1900,0,590,0,110,emirates baggage allowance,1900,14,0.01
+Singapore Airlines,2410,1900,0,480,0,30,singapore airlines baggage allowance,1900,9,
+Etihad,2320,1900,0,260,90,70,etihad baggage allowance,1900,0,
+Philippine Airlines,1930,1600,0,320,0,10,philippine airlines baggage allowance,1600,2,0.02
+Korean Air,1920,1000,0,880,0,40,korean air baggage allowance,1000,0,0.15
+TAP Air Portugal,1890,1300,0,480,90,20,tap air portugal baggage allowance,1300,5,4.37
+Avianca,1870,480,0,1300,0,90,avianca carry on size,1300,0,7.14
+Air India,1730,1600,0,110,0,20,air india baggage allowance,1600,13,
+ANA,1630,880,0,720,0,30,ana baggage allowance,880,8,
+Copa Airlines,1390,320,0,880,170,20,copa airlines carry on size,880,0,3.29
+Qantas,1330,1000,0,320,0,10,qantas baggage allowance,1000,0,
+easyJet,1260,260,210,720,210,70,easyjet carry on size,720,5,0.92
+LATAM,1070,320,0,590,140,20,latam carry on size,590,1,
+Viva Aerobus,860,70,0,590,110,90,viva aerobus carry on size,590,2,0.41
+Porter Airlines,760,480,0,210,0,70,porter airlines baggage allowance,480,0,
+Air New Zealand,700,390,0,260,0,50,air new zealand baggage allowance,390,4,19.16
+Vietnam Airlines,630,480,0,140,0,10,vietnam airlines baggage allowance,480,0,0.1
+Ethiopian Airlines,630,480,0,140,0,10,ethiopian airlines baggage allowance,480,0,6.25
+Thai Airways,540,480,0,50,0,10,thai airways baggage allowance,480,6,
