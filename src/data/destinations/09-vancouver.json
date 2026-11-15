@@ -1,0 +1,167 @@
+{
+  "order": 9,
+  "id": "vancouver",
+  "kind": "city",
+  "name": "Vancouver",
+  "countrySlug": "canada",
+  "countryName": "Canada",
+  "path": "/canada/vancouver/",
+  "dek": "The harbour composite, 2.5 metres up, rather than the airport on Sea Island.",
+  "paragraphs": [
+    "Vancouver (Harbour) is the composite, elevation 2.5 metres. Vancouver International is a separate composite and is not in this table. The harbour record is the one for the city itself.",
+    "The harbour composite publishes precipitation and does not publish a rainfall element. The water column is precipitation, snow included. The airport composite does have rainfall, and it is a different station, so it is not swapped in to fill the gap. No tipping percentage is printed: we did not open a Destination Vancouver page that states one."
+  ],
+  "climate": {
+    "caption": "Station composite: Vancouver (Harbour), 2.5 m. Not Vancouver International.",
+    "stationName": "VANCOUVER (HARBOUR)",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": "2.5 m",
+    "latitude": "49.30",
+    "longitude": "-123.12",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "7.4",
+        "low": "3.3",
+        "rain": "236.6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "8.4",
+        "low": "3.3",
+        "rain": "117.0",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "10.5",
+        "low": "4.6",
+        "rain": "162.5",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "13.9",
+        "low": "6.9",
+        "rain": "117.7",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "17.8",
+        "low": "10.2",
+        "rain": "72.6",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "20.2",
+        "low": "12.8",
+        "rain": "65.7",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "23.0",
+        "low": "14.9",
+        "rain": "43.5",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "23.0",
+        "low": "14.8",
+        "rain": "48.6",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.4",
+        "low": "12.1",
+        "rain": "71.4",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "13.9",
+        "low": "8.6",
+        "rain": "156.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "9.7",
+        "low": "5.3",
+        "rain": "245.2",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "7.1",
+        "low": "3.2",
+        "rain": "199.9",
+        "precip": null
+      }
+    ],
+    "note": "Environment and Climate Change Canada 1991–2020 climate normals for this composite station. This composite has no rainfall element in the normals file, so it is not printed. The water column is precipitation, which includes the water equivalent of snow. Quality codes: maximum temperature A, precipitation C.",
+    "sourceTitle": "ECCC Canadian Climate Normals 1991–2020, VANCOUVER (HARBOUR)",
+    "sourceUrl": "https://climate.weather.gc.ca/climate_normals/index_e.html",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows Canada at 120 volts and 60 hertz, with plug type A and B.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "The Government of Canada's settling-in page says you must drive on the right-hand side of the road. It also says traffic laws are generally similar across the country and that some rules vary by province or territory.",
+    "sourceTitle": "Immigration, Refugees and Citizenship Canada, Driving in Canada",
+    "sourceUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/driving.html",
+    "asOf": "2026-11-14"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Canada, last reviewed 8 October 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Canada",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/canada",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Canadian Dollar (CAD)",
+    "detail": "ISO 4217 lists the currency name Canadian Dollar and the code CAD for Canada.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Vancouver",
+    "detail": "IANA's zone1970.tab assigns America/Vancouver to British Columbia, most areas. The same comment prints the abbreviation MST. That abbreviation is not repeated on this page, because it is the disputed part of the comment. The zone name is the fact we print.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, America/Vancouver",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Immigration, Refugees and Citizenship Canada",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/check-visa-eta.html",
+    "note": "IRCC's own check for a visa or an eTA. We do not restate the result."
+  }
+}

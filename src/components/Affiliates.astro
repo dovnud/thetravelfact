@@ -1,0 +1,36 @@
+---
+import { adapterQuery, amazonSearch, partnerSlots } from "../config/affiliates";
+
+interface Props {
+  place: string;
+  plugValue: string;
+}
+const { place, plugValue } = Astro.props;
+const adapterHref = amazonSearch(adapterQuery(plugValue));
+---
+
+<section class="panel offers" aria-labelledby="offers-title">
+  <p class="eyebrow">Book around the dates</p>
+  <h2 id="offers-title">Hotels, tours, and a plug</h2>
+  <p>
+    Hotel and tour links stay off until a partner ID is set in the site config. They are not affiliate links today.
+    The adapter search is an Amazon link with tag <code>thetravelfact-20</code>.
+    <a href="/affiliate-disclosure/">Affiliate disclosure</a>.
+  </p>
+  <div class="offer-grid">
+    <div>
+      {partnerSlots.map((slot) => (
+        <div class="slot">
+          <strong>{slot.name}</strong>
+          <span>{slot.kind}. {slot.idSet ? "Partner ID is set." : "ID empty, so there is no outbound link."}</span>
+        </div>
+      ))}
+    </div>
+    <div>
+      <p><strong>Travel adapter for {place}</strong></p>
+      <p class="note">A search, not a product we chose. Match the plug type on this page before you buy.</p>
+      <a class="btn btn-primary" href={adapterHref} rel="sponsored nofollow noopener noreferrer">Search Amazon</a>
+    </div>
+  </div>
+  <aside class="ad-slot" data-ad-placement="destination-after-offers" aria-hidden="true"></aside>
+</section>

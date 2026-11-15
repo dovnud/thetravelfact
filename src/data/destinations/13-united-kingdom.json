@@ -1,0 +1,174 @@
+{
+  "order": 13,
+  "id": "united-kingdom",
+  "kind": "country",
+  "name": "United Kingdom",
+  "countrySlug": "united-kingdom",
+  "countryName": "United Kingdom",
+  "path": "/united-kingdom/",
+  "dek": "A UK-wide HadUK-Grid average, not London's weather, plus the practical facts for the country.",
+  "paragraphs": [
+    "The table is the UK area for 1991–2020 from the Met Office page that also prints Heathrow. The Met Office says the UK, regional, and district values are HadUK-Grid, not one station. London, Edinburgh, and Manchester have their own sheets, and they do not match this national line.",
+    "The Highway Code rule cited for driving is the Great Britain code. Northern Ireland publishes its own. The three city sheets are in England and Scotland, where this rule applies. VisitBritain's tipping notes are national and are repeated on the city sheets."
+  ],
+  "climate": {
+    "caption": "UK area average, HadUK-Grid, 1991–2020. Not a single station.",
+    "stationName": "UK (HadUK-Grid area)",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Rainfall (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "6.66",
+        "low": "1.21",
+        "rain": "121.48",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "7.16",
+        "low": "1.13",
+        "rain": "96.15",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "9.22",
+        "low": "2.19",
+        "rain": "85.06",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "12.03",
+        "low": "3.76",
+        "rain": "71.71",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "15.13",
+        "low": "6.26",
+        "rain": "70.96",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "17.68",
+        "low": "9.08",
+        "rain": "77.19",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "19.62",
+        "low": "11.02",
+        "rain": "82.46",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "19.30",
+        "low": "10.97",
+        "rain": "93.75",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "16.85",
+        "low": "9.05",
+        "rain": "90.88",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "13.08",
+        "low": "6.42",
+        "rain": "122.52",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "9.41",
+        "low": "3.56",
+        "rain": "123.34",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "7.02",
+        "low": "1.42",
+        "rain": "127.16",
+        "precip": null
+      }
+    ],
+    "note": "The UK block on the Met Office location-specific averages page. The same page says district, regional, and UK values come from the HadUK-Grid dataset, not from a single station.",
+    "sourceTitle": "UK area average, HadUK-Grid, 1991–2020. Not a single station.",
+    "sourceUrl": "https://www.metoffice.gov.uk/research/climate/maps-and-data/location-specific-long-term-averages/gcpsvg3nc",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type G, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows the United Kingdom at 230 volts and 50 hertz, with plug type G.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "Highway Code rule 160 says that once moving you should keep to the left, unless road signs or markings indicate otherwise. The exceptions named in that rule are overtaking, turning right, or passing parked vehicles or pedestrians in the road. This Highway Code applies in England, Scotland, and Wales.",
+    "sourceTitle": "The Highway Code, rules 159 to 203, GOV.UK",
+    "sourceUrl": "https://www.gov.uk/guidance/the-highway-code/using-the-road-159-to-203",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Optional, often 10–15%",
+    "detail": "VisitBritain says tipping is not expected in Britain the way it is in some other countries, staff must be paid at least the National Minimum Wage, and a tip is polite for good service rather than required. Some bills add a service charge, which you can decline. If nothing is added, VisitBritain calls 10–15 a standard restaurant tip when the service was good, and 10–15 percent a nice gesture for a taxi, or rounding the fare up to the next pound. A hotel porter is customarily about £2.",
+    "sourceTitle": "VisitBritain, useful information",
+    "sourceUrl": "https://www.visitbritain.com/en/plan-your-trip/useful-information",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for the United Kingdom, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, the United Kingdom",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/united-kingdom",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Pound Sterling (GBP)",
+    "detail": "ISO 4217 lists the currency name Pound Sterling and the code GBP for United Kingdom.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/London",
+    "detail": "IANA's zone1970.tab gives Great Britain, Guernsey, the Isle of Man, and Jersey the zone Europe/London. That is the name used for England, Scotland, and Wales on this site.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/London",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "GOV.UK",
+    "url": "https://www.gov.uk/check-uk-visa",
+    "note": "The UK government's visa check. We do not restate the result."
+  }
+}

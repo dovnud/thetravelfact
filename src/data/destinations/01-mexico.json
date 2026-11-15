@@ -1,0 +1,185 @@
+{
+  "order": 1,
+  "id": "mexico",
+  "kind": "country",
+  "name": "Mexico",
+  "countrySlug": "mexico",
+  "countryName": "Mexico",
+  "path": "/mexico/",
+  "dek": "Highland numbers from Tacubaya, and the practical facts that apply to the country. The coasts are on their own sheets.",
+  "paragraphs": [
+    "Mexico does not have one climate, and this page does not pretend it does. The table is the Tacubaya observatory in Mexico City, station 9048, at 2,308.6 metres, from the Servicio Meteorológico Nacional's 1991–2020 normal issued on 6 November 2026. It describes the central highlands. Cancún, Cabo San Lucas, Puerto Vallarta, and Guadalajara have their own stations.",
+    "Read the city sheet for the coast you are actually flying to. A dry month at Tacubaya can sit inside hurricane season on the Caribbean, and Cabo's late-summer rain is a different pattern again. This page does not name a best month. The station numbers are published so you can choose."
+  ],
+  "climate": {
+    "caption": "Reference station: Tacubaya Central (Obs), Mexico City. This is the highland station, not a national average.",
+    "stationName": "TACUBAYA CENTRAL (OBS)",
+    "stationId": "9048",
+    "period": "1991-2020",
+    "elevation": "2308.6 msnm",
+    "latitude": "19.40361111",
+    "longitude": "-99.19611111",
+    "municipality": "MIGUEL HIDALGO",
+    "state": "CIUDAD DE MÉXICO",
+    "columnRain": "Precipitation (mm)",
+    "decimals": 1,
+    "months": [
+      {
+        "month": "January",
+        "high": "22.2",
+        "low": "8.3",
+        "rain": "11.9",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "24.3",
+        "low": "9.5",
+        "rain": "5.7",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "26.2",
+        "low": "11.1",
+        "rain": "11.8",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "27.5",
+        "low": "13.1",
+        "rain": "24.2",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "27.3",
+        "low": "13.7",
+        "rain": "59.4",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "25.7",
+        "low": "13.8",
+        "rain": "132.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "24.7",
+        "low": "13",
+        "rain": "174",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "24.6",
+        "low": "13.2",
+        "rain": "175.6",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "23.7",
+        "low": "13.1",
+        "rain": "158.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "23.4",
+        "low": "11.8",
+        "rain": "71.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "22.8",
+        "low": "9.9",
+        "rain": "17.4",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "22.4",
+        "low": "8.4",
+        "rain": "5",
+        "precip": null
+      }
+    ],
+    "note": "Servicio Meteorológico Nacional normal, issued 06/11/2026. Years with data for the maximum-temperature normal: 30 to 30, depending on the month.",
+    "sourceTitle": "SMN normal climatológica 1991-2020, estación 9048 TACUBAYA CENTRAL (OBS)",
+    "sourceUrl": "https://smn.conagua.gob.mx/tools/RESOURCES/Normales_Climatologicas/Normales9120/df/nor9120_09048.txt",
+    "asOf": "2026-11-14"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November.",
+    "The National Hurricane Center says the eastern Pacific hurricane season runs from 15 May to 30 November."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 127 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows Mexico at 127 volts and 60 hertz, with plug type A and B.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right, on federal highways",
+    "detail": "Article 109 of the federal highway regulation, as published in the Diario Oficial on 22 November 2012, says vehicles are to be driven in the right-hand lane of a federal highway, except when overtaking, when the road is too narrow for two lanes, when the right side is blocked, on the three-lane case the article describes, or on a one-way road. This is the federal highway rule, not a city bylaw.",
+    "sourceTitle": "Diario Oficial de la Federación, 22 November 2012, Reglamento de Tránsito, Article 109",
+    "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5278684&fecha=22/11/2012",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Voluntary",
+    "detail": "Mexico's consumer protection agency, Profeco, says tipping is voluntary. No establishment can require it or add it without telling you first. Profeco does not publish a customary percentage, so this page does not invent one.",
+    "sourceTitle": "Profeco, consumer FAQ",
+    "sourceUrl": "https://mundialsocial.profeco.gob.mx/faq/",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Mexico, last reviewed 3 September 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Mexico",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Mexican Peso (MXN)",
+    "detail": "ISO 4217 lists the currency name Mexican Peso and the code MXN for Mexico.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Several IANA zones",
+    "detail": "The time-zone law (last reform published 29 November 2022) sets four zones by meridian: Centro at 90° west for most of the country, Pacífico at 105° west for Baja California Sur, Nayarit except the municipality of Bahía de Banderas, Sinaloa, and Sonora, Noroeste at 120° west for Baja California, and Sureste at 75° west for Quintana Roo. IANA's zone1970.tab names the zones used on the city sheets. The comment column of that file is quoted only where it names a place.",
+    "sources": [
+      {
+        "sourceTitle": "Ley de los Husos Horarios en los Estados Unidos Mexicanos",
+        "sourceUrl": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
+        "asOf": "2026-11-14"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Instituto Nacional de Migración",
+    "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
+    "note": "This is the Mexican government's page on who must apply for a visa. We do not copy that list."
+  }
+}

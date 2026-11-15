@@ -1,0 +1,184 @@
+{
+  "order": 4,
+  "id": "cabo-san-lucas",
+  "kind": "city",
+  "name": "Cabo San Lucas",
+  "countrySlug": "mexico",
+  "countryName": "Mexico",
+  "path": "/mexico/cabo-san-lucas/",
+  "dek": "A dry coast for much of the year, then a late-summer rain spike, from the Cabo San Lucas station.",
+  "paragraphs": [
+    "Station 03005, Cabo San Lucas, is in Los Cabos at 15 metres. The normal is almost rainless from winter into early summer. August and September hold most of the year's precipitation. The National Hurricane Center's eastern Pacific season runs from 15 May to 30 November, which is the window that sits over that wetter part of the table.",
+    "Nights in the cooler months drop well below the afternoon high. The minimum column is there so a 'beach in January' plan can be read against the actual night-time normal, not against the postcard."
+  ],
+  "climate": {
+    "caption": "Station: Cabo San Lucas (03005), Los Cabos, Baja California Sur, 15 m.",
+    "stationName": "CABO SAN LUCAS",
+    "stationId": "3005",
+    "period": "1991-2020",
+    "elevation": "15 msnm",
+    "latitude": "22.88194444",
+    "longitude": "-109.9125",
+    "municipality": "LOS CABOS",
+    "state": "BAJA CALIFORNIA SUR",
+    "columnRain": "Precipitation (mm)",
+    "decimals": 1,
+    "months": [
+      {
+        "month": "January",
+        "high": "26.6",
+        "low": "12.8",
+        "rain": "6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "27",
+        "low": "12.9",
+        "rain": "4.7",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "28.5",
+        "low": "13.9",
+        "rain": "1.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "30.1",
+        "low": "15.4",
+        "rain": "0",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "32.1",
+        "low": "16.5",
+        "rain": "0.1",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "32.6",
+        "low": "18.5",
+        "rain": "0.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "34.4",
+        "low": "22.5",
+        "rain": "7.8",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "34.7",
+        "low": "23.8",
+        "rain": "85.1",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "33.7",
+        "low": "23.3",
+        "rain": "110",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "33.4",
+        "low": "21.2",
+        "rain": "25.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.4",
+        "low": "17.5",
+        "rain": "16.9",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "27.4",
+        "low": "14",
+        "rain": "7.3",
+        "precip": null
+      }
+    ],
+    "note": "Servicio Meteorológico Nacional normal, issued 06/11/2026. Years with data for the maximum-temperature normal: 27 to 30, depending on the month.",
+    "sourceTitle": "SMN normal climatológica 1991-2020, estación 3005 CABO SAN LUCAS",
+    "sourceUrl": "https://smn.conagua.gob.mx/tools/RESOURCES/Normales_Climatologicas/Normales9120/bcs/nor9120_03005.txt",
+    "asOf": "2026-11-14"
+  },
+  "season": [
+    "The National Hurricane Center says the eastern Pacific hurricane season runs from 15 May to 30 November."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 127 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows Mexico at 127 volts and 60 hertz, with plug type A and B.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right, on federal highways",
+    "detail": "Article 109 of the federal highway regulation, as published in the Diario Oficial on 22 November 2012, says vehicles are to be driven in the right-hand lane of a federal highway, except when overtaking, when the road is too narrow for two lanes, when the right side is blocked, on the three-lane case the article describes, or on a one-way road. This is the federal highway rule, not a city bylaw.",
+    "sourceTitle": "Diario Oficial de la Federación, 22 November 2012, Reglamento de Tránsito, Article 109",
+    "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5278684&fecha=22/11/2012",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Voluntary",
+    "detail": "Mexico's consumer protection agency, Profeco, says tipping is voluntary. No establishment can require it or add it without telling you first. Profeco does not publish a customary percentage, so this page does not invent one.",
+    "sourceTitle": "Profeco, consumer FAQ",
+    "sourceUrl": "https://mundialsocial.profeco.gob.mx/faq/",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Mexico, last reviewed 3 September 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Mexico",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Mexican Peso (MXN)",
+    "detail": "ISO 4217 lists the currency name Mexican Peso and the code MXN for Mexico.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Mazatlan",
+    "detail": "Baja California Sur is in the Zona Pacífico of the time-zone law, meridian 105° west, together with Sinaloa, Sonora, and Nayarit except Bahía de Banderas. IANA's zone1970.tab comment for America/Mazatlan names Baja California Sur, Nayarit (most areas), and Sinaloa. Sonora is a separate IANA name, America/Hermosillo, and is not this city's zone.",
+    "sources": [
+      {
+        "sourceTitle": "Ley de los Husos Horarios, artículo 3 fracción II",
+        "sourceUrl": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
+        "asOf": "2026-11-14"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, America/Mazatlan",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Instituto Nacional de Migración",
+    "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
+    "note": "This is the Mexican government's page on who must apply for a visa. We do not copy that list."
+  }
+}

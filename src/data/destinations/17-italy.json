@@ -1,0 +1,174 @@
+{
+  "order": 17,
+  "id": "italy",
+  "kind": "country",
+  "name": "Italy",
+  "countrySlug": "italy",
+  "countryName": "Italy",
+  "path": "/italy/",
+  "dek": "Rome's airport station as the capital reference. Florence and Venice are not this climate.",
+  "paragraphs": [
+    "The table is Roma Fiumicino, WMO 16242, the coastal airport station, from Italy's 1991–2020 submission in the WMO normals distributed by NOAA NCEI. Roma Ciampino is closer to the city and its temperature normal is complete, but its precipitation normal is blank for June, July, and August. We do not fill those months. Fiumicino is the station with a full precipitation row, and the caption says it is the airport.",
+    "Florence and Venice have their own stations. A summer plan for Rome is not a summer plan for Venice, where the March maximum in the Tessera file is blank and is left blank. Italia.it's tipping note and the Codice della Strada rule are national and are repeated on the city sheets."
+  ],
+  "climate": {
+    "caption": "Reference station: Roma Fiumicino (WMO 16242), the airport. Not a national average, and not Ciampino.",
+    "stationName": "Roma Fiumicino",
+    "stationId": "WMO 16242",
+    "period": "1991-2020",
+    "elevation": "5 m",
+    "latitude": "41|48|36|N",
+    "longitude": "12|15|9|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "13.23",
+        "low": "3.43",
+        "rain": "53.84",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "13.93",
+        "low": "3.71",
+        "rain": "57.90",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "16.10",
+        "low": "5.71",
+        "rain": "51.50",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "18.89",
+        "low": "8.20",
+        "rain": "46.72",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "22.98",
+        "low": "11.80",
+        "rain": "37.09",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "27.09",
+        "low": "15.86",
+        "rain": "18.66",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "29.56",
+        "low": "18.42",
+        "rain": "12.31",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30.02",
+        "low": "18.89",
+        "rain": "23.33",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "26.43",
+        "low": "15.99",
+        "rain": "59.79",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "22.43",
+        "low": "12.33",
+        "rain": "89.97",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "17.83",
+        "low": "8.52",
+        "rain": "98.93",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "14.11",
+        "low": "4.85",
+        "rain": "72.61",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, submitted for Italy and distributed by NOAA NCEI.",
+    "sourceTitle": "WMO climate normals 1991-2020, Roma Fiumicino (16242)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Italy/CSV/Roma_Fiumicino_16242.csv",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C, F, and L, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows Italy at 230 volts and 50 hertz, with plug type C, F, and L.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 143 of the Codice della Strada says vehicles must travel on the right side of the carriageway and close to its right edge, even when the road is clear.",
+    "sourceTitle": "Codice della Strada, d.lgs. 285/1992, articolo 143, Normattiva",
+    "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art143",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not required, about 10% if you do",
+    "detail": "The national tourism site Italia.it says tipping is not compulsory and there are no established rules, but it is customary to leave an amount close to 10% of the bill when you are satisfied with the service.",
+    "sourceTitle": "Italia.it, money, payments and tipping",
+    "sourceUrl": "https://www.italia.it/en/italy/practical-information/money-payments-and-tipping-in-italy",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Italy, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Italy",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/italy",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Italy.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Rome",
+    "detail": "IANA's zone1970.tab assigns Italy, San Marino, and Vatican City the zone Europe/Rome.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Rome",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministero degli Affari Esteri",
+    "url": "https://www.esteri.it/en/ministero/sportello_info/domandefrequenti/sezione_visti_entrare_in_italia/",
+    "note": "The foreign ministry's entry page, which sends you to the Visa for Italy database. We do not restate a visa rule."
+  }
+}

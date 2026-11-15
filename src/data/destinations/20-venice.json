@@ -1,0 +1,174 @@
+{
+  "order": 20,
+  "id": "venice",
+  "kind": "city",
+  "name": "Venice",
+  "countrySlug": "italy",
+  "countryName": "Italy",
+  "path": "/italy/venice/",
+  "dek": "Tessera, the airport on the mainland. March's average high is blank in the source, and it stays blank here.",
+  "paragraphs": [
+    "Venezia Tessera is WMO 16105, the airport station on the mainland, not a gauge on the Riva. The WMO file leaves the March mean daily maximum blank even though it prints a year-count for that month. We do not calculate a replacement. The cell is empty, and the strip skips it.",
+    "The rest of the year is in the file: a cool winter, a warm summer, and precipitation that does not collapse into one peak the way a Mexican summer does. Acqua alta is a tide, not a row in this normals file, so it is not given a season on this page."
+  ],
+  "climate": {
+    "caption": "Station: Venezia Tessera, WMO 16105. March maximum temperature is blank in the source.",
+    "stationName": "Venezia Tessera",
+    "stationId": "WMO 16105",
+    "period": "1991-2020",
+    "elevation": "2 m",
+    "latitude": "45|30|19|N",
+    "longitude": "12|21|7|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "7.66",
+        "low": "0.23",
+        "rain": "40.21",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "9.34",
+        "low": "0.90",
+        "rain": "56.50",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": null,
+        "low": "4.36",
+        "rain": "60.48",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "17.60",
+        "low": "8.84",
+        "rain": "70.48",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "22.22",
+        "low": "13.49",
+        "rain": "80.15",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "26.36",
+        "low": "17.51",
+        "rain": "64.24",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "29.02",
+        "low": "19.40",
+        "rain": "57.88",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "28.64",
+        "low": "18.76",
+        "rain": "65.76",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "24.17",
+        "low": "14.89",
+        "rain": "73.26",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "18.71",
+        "low": "10.36",
+        "rain": "71.96",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "13.13",
+        "low": "5.73",
+        "rain": "71.52",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "8.44",
+        "low": "1.10",
+        "rain": "49.82",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, submitted for Italy and distributed by NOAA NCEI. Blank months are blank in the source file and are left blank here: March.",
+    "sourceTitle": "WMO climate normals 1991-2020, Venezia Tessera (16105)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Italy/CSV/Venezia_Tessera_16105.csv",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C, F, and L, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows Italy at 230 volts and 50 hertz, with plug type C, F, and L.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 143 of the Codice della Strada says vehicles must travel on the right side of the carriageway and close to its right edge, even when the road is clear.",
+    "sourceTitle": "Codice della Strada, d.lgs. 285/1992, articolo 143, Normattiva",
+    "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art143",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not required, about 10% if you do",
+    "detail": "The national tourism site Italia.it says tipping is not compulsory and there are no established rules, but it is customary to leave an amount close to 10% of the bill when you are satisfied with the service.",
+    "sourceTitle": "Italia.it, money, payments and tipping",
+    "sourceUrl": "https://www.italia.it/en/italy/practical-information/money-payments-and-tipping-in-italy",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Italy, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Italy",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/italy",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Italy.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Rome",
+    "detail": "Venice is in Italy, which IANA places in Europe/Rome.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Rome",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministero degli Affari Esteri",
+    "url": "https://www.esteri.it/en/ministero/sportello_info/domandefrequenti/sezione_visti_entrare_in_italia/",
+    "note": "The foreign ministry's entry page, which sends you to the Visa for Italy database. We do not restate a visa rule."
+  }
+}

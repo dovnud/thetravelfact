@@ -1,0 +1,184 @@
+{
+  "order": 5,
+  "id": "puerto-vallarta",
+  "kind": "city",
+  "name": "Puerto Vallarta",
+  "countrySlug": "mexico",
+  "countryName": "Mexico",
+  "path": "/mexico/puerto-vallarta/",
+  "dek": "The 1991–2020 normal is El Cuale, in the municipality, because the older Puerto Vallarta station has no current normal.",
+  "paragraphs": [
+    "SMN's catalogue still lists Puerto Vallarta station 14116, and it is marked suspended, with no 1991–2020 normal. The station that does have that normal, and is still operating, is El Cuale, 14339, in the same municipality, at 53 metres. This table is El Cuale. It is not a sensor on the malecón, and it is not mixed with the old station.",
+    "The shape of the year is a dry winter and spring and a very wet late summer. The eastern Pacific hurricane season, 15 May to 30 November, is the National Hurricane Center's dates for this coast. Puerto Vallarta the city is in Jalisco, so the time-zone section follows the Zona Centro rule rather than Nayarit."
+  ],
+  "climate": {
+    "caption": "Station: El Cuale (14339), municipality of Puerto Vallarta, 53 m. Not station 14116.",
+    "stationName": "EL CUALE",
+    "stationId": "14339",
+    "period": "1991-2020",
+    "elevation": "53 msnm",
+    "latitude": "20.59638889",
+    "longitude": "-105.22",
+    "municipality": "PUERTO VALLARTA",
+    "state": "JALISCO",
+    "columnRain": "Precipitation (mm)",
+    "decimals": 1,
+    "months": [
+      {
+        "month": "January",
+        "high": "26.7",
+        "low": "13.7",
+        "rain": "30.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "26.9",
+        "low": "13.9",
+        "rain": "22.6",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "27.3",
+        "low": "14.2",
+        "rain": "11.8",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "28.3",
+        "low": "15.5",
+        "rain": "3.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "29.6",
+        "low": "18.2",
+        "rain": "13.3",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "30.3",
+        "low": "21.6",
+        "rain": "243.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "31.1",
+        "low": "21.6",
+        "rain": "392.6",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.5",
+        "low": "21.6",
+        "rain": "427.3",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.2",
+        "low": "21.6",
+        "rain": "438",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "31.3",
+        "low": "20.7",
+        "rain": "135.6",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "29.9",
+        "low": "17.6",
+        "rain": "30.2",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "27.4",
+        "low": "14.9",
+        "rain": "27.9",
+        "precip": null
+      }
+    ],
+    "note": "Servicio Meteorológico Nacional normal, issued 06/11/2026. Years with data for the maximum-temperature normal: 30 to 30, depending on the month.",
+    "sourceTitle": "SMN normal climatológica 1991-2020, estación 14339 EL CUALE",
+    "sourceUrl": "https://smn.conagua.gob.mx/tools/RESOURCES/Normales_Climatologicas/Normales9120/jal/nor9120_14339.txt",
+    "asOf": "2026-11-14"
+  },
+  "season": [
+    "The National Hurricane Center says the eastern Pacific hurricane season runs from 15 May to 30 November."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 127 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows Mexico at 127 volts and 60 hertz, with plug type A and B.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right, on federal highways",
+    "detail": "Article 109 of the federal highway regulation, as published in the Diario Oficial on 22 November 2012, says vehicles are to be driven in the right-hand lane of a federal highway, except when overtaking, when the road is too narrow for two lanes, when the right side is blocked, on the three-lane case the article describes, or on a one-way road. This is the federal highway rule, not a city bylaw.",
+    "sourceTitle": "Diario Oficial de la Federación, 22 November 2012, Reglamento de Tránsito, Article 109",
+    "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5278684&fecha=22/11/2012",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Voluntary",
+    "detail": "Mexico's consumer protection agency, Profeco, says tipping is voluntary. No establishment can require it or add it without telling you first. Profeco does not publish a customary percentage, so this page does not invent one.",
+    "sourceTitle": "Profeco, consumer FAQ",
+    "sourceUrl": "https://mundialsocial.profeco.gob.mx/faq/",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Mexico, last reviewed 3 September 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Mexico",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Mexican Peso (MXN)",
+    "detail": "ISO 4217 lists the currency name Mexican Peso and the code MXN for Mexico.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Mexico_City",
+    "detail": "Puerto Vallarta is in Jalisco. Jalisco is not one of the states the time-zone law assigns to Pacífico, Noroeste, or Sureste, so it stays in Zona Centro, meridian 90° west. The neighbouring Nayarit municipality of Bahía de Banderas is also placed in Zona Centro by an explicit exception. IANA's name for central Mexico is America/Mexico_City. America/Bahia_Banderas is the IANA name for Bahía de Banderas, not for this city.",
+    "sources": [
+      {
+        "sourceTitle": "Ley de los Husos Horarios, artículo 3",
+        "sourceUrl": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
+        "asOf": "2026-11-14"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Instituto Nacional de Migración",
+    "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
+    "note": "This is the Mexican government's page on who must apply for a visa. We do not copy that list."
+  }
+}

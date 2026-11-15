@@ -1,0 +1,182 @@
+{
+  "order": 6,
+  "id": "guadalajara",
+  "kind": "city",
+  "name": "Guadalajara",
+  "countrySlug": "mexico",
+  "countryName": "Mexico",
+  "path": "/mexico/guadalajara/",
+  "dek": "The observatory normal at 1,551 metres. A second SMN station exists and is not averaged in.",
+  "paragraphs": [
+    "This table is Guadalajara (Obs), station 14065, at 1,551 metres. SMN also publishes a 1991–2020 normal for Guadalajara (DGE), station 14066. They are not the same series, and this page does not average them. The University of Guadalajara keeps its own Minerva record. That is a third series, and it is not used here.",
+    "The observatory reads as a highland city: cool nights in the dry months, warmer afternoons, and the rain pushed into summer. Compare it with Tacubaya if you want to see two highland stations, and with Puerto Vallarta if you are deciding between the city and the coast."
+  ],
+  "climate": {
+    "caption": "Station: Guadalajara (Obs), 14065, 1,551 m. Guadalajara (DGE) is a different station and is not included.",
+    "stationName": "GUADALAJARA (OBS)",
+    "stationId": "14065",
+    "period": "1991-2020",
+    "elevation": "1551 msnm",
+    "latitude": "20.70638889",
+    "longitude": "-103.3922222",
+    "municipality": "GUADALAJARA",
+    "state": "JALISCO",
+    "columnRain": "Precipitation (mm)",
+    "decimals": 1,
+    "months": [
+      {
+        "month": "January",
+        "high": "24.7",
+        "low": "6.7",
+        "rain": "17.9",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "27",
+        "low": "7.9",
+        "rain": "12.6",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "29.7",
+        "low": "9.2",
+        "rain": "5",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "32.1",
+        "low": "11.4",
+        "rain": "3.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "33.4",
+        "low": "14.2",
+        "rain": "23.2",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "31",
+        "low": "16.7",
+        "rain": "172.2",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "28.3",
+        "low": "16.3",
+        "rain": "240.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "28.3",
+        "low": "16.3",
+        "rain": "217.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "27.8",
+        "low": "16.3",
+        "rain": "183",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "27.6",
+        "low": "13.9",
+        "rain": "55.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "26.3",
+        "low": "9.7",
+        "rain": "11.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "25",
+        "low": "7.5",
+        "rain": "7.7",
+        "precip": null
+      }
+    ],
+    "note": "Servicio Meteorológico Nacional normal, issued 06/11/2026. Years with data for the maximum-temperature normal: 30 to 30, depending on the month.",
+    "sourceTitle": "SMN normal climatológica 1991-2020, estación 14065 GUADALAJARA (OBS)",
+    "sourceUrl": "https://smn.conagua.gob.mx/tools/RESOURCES/Normales_Climatologicas/Normales9120/jal/nor9120_14065.txt",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 127 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows Mexico at 127 volts and 60 hertz, with plug type A and B.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right, on federal highways",
+    "detail": "Article 109 of the federal highway regulation, as published in the Diario Oficial on 22 November 2012, says vehicles are to be driven in the right-hand lane of a federal highway, except when overtaking, when the road is too narrow for two lanes, when the right side is blocked, on the three-lane case the article describes, or on a one-way road. This is the federal highway rule, not a city bylaw.",
+    "sourceTitle": "Diario Oficial de la Federación, 22 November 2012, Reglamento de Tránsito, Article 109",
+    "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5278684&fecha=22/11/2012",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Voluntary",
+    "detail": "Mexico's consumer protection agency, Profeco, says tipping is voluntary. No establishment can require it or add it without telling you first. Profeco does not publish a customary percentage, so this page does not invent one.",
+    "sourceTitle": "Profeco, consumer FAQ",
+    "sourceUrl": "https://mundialsocial.profeco.gob.mx/faq/",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Mexico, last reviewed 3 September 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Mexico",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Mexican Peso (MXN)",
+    "detail": "ISO 4217 lists the currency name Mexican Peso and the code MXN for Mexico.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Mexico_City",
+    "detail": "Jalisco is not listed in the Pacífico, Noroeste, or Sureste fractions of the time-zone law, so it is in Zona Centro, meridian 90° west. IANA's name for central Mexico is America/Mexico_City.",
+    "sources": [
+      {
+        "sourceTitle": "Ley de los Husos Horarios, artículo 3 fracción I",
+        "sourceUrl": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
+        "asOf": "2026-11-14"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, America/Mexico_City",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Instituto Nacional de Migración",
+    "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
+    "note": "This is the Mexican government's page on who must apply for a visa. We do not copy that list."
+  }
+}

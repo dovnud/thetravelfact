@@ -1,0 +1,86 @@
+---
+import Base from "../layouts/Base.astro";
+import { destinations } from "../lib/destinations";
+
+const countries = destinations.filter((d) => d.kind === "country");
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      name: "TheTravelFact",
+      url: "https://thetravelfact.com/",
+      description: "Sourced destination sheets: climate, plugs, driving, tipping, water, currency, and time zone.",
+    },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://thetravelfact.com/" }],
+    },
+  ],
+};
+---
+
+<Base
+  title="TheTravelFact"
+  description="Sourced destination sheets for Mexico, Canada, the United Kingdom, and Italy. Every climate number has a station, a source, and a date."
+  jsonLd={jsonLd}
+>
+  <section class="hero">
+    <div class="shell hero-grid">
+      <div>
+        <p class="eyebrow">Phase 1 · 20 places</p>
+        <h1 class="display">The fact, with the <em>date</em> beside it.</h1>
+        <p class="lead">
+          A destination sheet is one URL. It holds the month-by-month climate of a named station, then the plug, the side of the road, tipping, tap water, the currency, and the time zone. If a number has no source, it is not on the page.
+        </p>
+        <div class="actions">
+          <a class="btn btn-primary" href="#places">See the 20 places</a>
+          <a class="btn btn-quiet" href="/sources/">How a number gets on the page</a>
+        </div>
+      </div>
+      <svg class="ornament" viewBox="0 0 240 240" aria-hidden="true">
+        <circle cx="120" cy="120" r="92" fill="none" stroke="currentColor" stroke-width="1.2" />
+        <circle cx="120" cy="120" r="64" fill="none" stroke="currentColor" stroke-width="1" />
+        <path d="M120 28v184M28 120h184" stroke="currentColor" stroke-width="1" />
+        <path d="M120 48l14 56h-28z" fill="#9a3412" />
+        <path d="M120 192l-10-40h20z" fill="#1b4336" />
+      </svg>
+    </div>
+  </section>
+
+  <section class="section" id="places">
+    <div class="shell">
+      <h2>First twenty sheets</h2>
+      <p class="lead">The order is the launch list: the places US outbound travel actually concentrates on, then the cities inside them. One URL each. No month has its own page.</p>
+      {countries.map((country) => {
+        const cities = destinations.filter((d) => d.kind === "city" && d.countrySlug === country.countrySlug);
+        return (
+          <div class="country-block">
+            <h3><a href={country.path}>{country.name}</a></h3>
+            <p class="note">{country.climate.stationName}. {country.dek}</p>
+            <div class="sheet-list">
+              <a class="panel sheet" href={country.path}>
+                <span class="num">{String(country.order).padStart(2, "0")}</span>
+                <span>
+                  <b>{country.name}</b>
+                  <p>Country sheet</p>
+                </span>
+                <span class="arrow" aria-hidden="true">→</span>
+              </a>
+              {cities.map((city) => (
+                <a class="panel sheet" href={city.path}>
+                  <span class="num">{String(city.order).padStart(2, "0")}</span>
+                  <span>
+                    <b>{city.name}</b>
+                    <p>{city.climate.stationName}</p>
+                  </span>
+                  <span class="arrow" aria-hidden="true">→</span>
+                </a>
+              ))}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+</Base>

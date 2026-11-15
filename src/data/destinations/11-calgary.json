@@ -1,0 +1,174 @@
+{
+  "order": 11,
+  "id": "calgary",
+  "kind": "city",
+  "name": "Calgary",
+  "countrySlug": "canada",
+  "countryName": "Canada",
+  "path": "/canada/calgary/",
+  "dek": "The airport composite on the prairie, with Tourism Calgary's tipping line.",
+  "paragraphs": [
+    "Calgary (Airport) is the composite. The inventory elevations for its member stations are 1,084.1 and 1,099.1 metres. Banff is the mountain station, and it is a different sheet. Chinook lore is not a column in the normals file, so it is not a sentence here.",
+    "Tourism Calgary says a tip of about 15–20% of the bill before tax is customary, and that groups of six or more may see 15–18% added. Winter lows at the airport are the number to read before you treat a chinook story as the climate."
+  ],
+  "climate": {
+    "caption": "Station composite: Calgary (Airport), about 1,084–1,099 m.",
+    "stationName": "CALGARY (AIRPORT)",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": "1,084.1–1,099.1 m across stations in the composite",
+    "latitude": "51.11",
+    "longitude": "-114.02",
+    "columnRain": "Rainfall (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "-1.5",
+        "low": "-13.5",
+        "rain": "0.1",
+        "precip": "10.0"
+      },
+      {
+        "month": "February",
+        "high": "0.1",
+        "low": "-11.8",
+        "rain": "0.1",
+        "precip": "11.8"
+      },
+      {
+        "month": "March",
+        "high": "3.8",
+        "low": "-8.1",
+        "rain": "1.1",
+        "precip": "17.7"
+      },
+      {
+        "month": "April",
+        "high": "10.8",
+        "low": "-1.9",
+        "rain": "12.6",
+        "precip": "29.6"
+      },
+      {
+        "month": "May",
+        "high": "16.4",
+        "low": "3.4",
+        "rain": "52.5",
+        "precip": "61.1"
+      },
+      {
+        "month": "June",
+        "high": "19.7",
+        "low": "7.7",
+        "rain": "112.5",
+        "precip": "112.7"
+      },
+      {
+        "month": "July",
+        "high": "23.5",
+        "low": "10.2",
+        "rain": "65.7",
+        "precip": "65.7"
+      },
+      {
+        "month": "August",
+        "high": "23.1",
+        "low": "9.2",
+        "rain": "53.5",
+        "precip": "53.8"
+      },
+      {
+        "month": "September",
+        "high": "18.3",
+        "low": "4.7",
+        "rain": "33.8",
+        "precip": "37.1"
+      },
+      {
+        "month": "October",
+        "high": "11.1",
+        "low": "-1.3",
+        "rain": "8.3",
+        "precip": "17.1"
+      },
+      {
+        "month": "November",
+        "high": "4.1",
+        "low": "-7.5",
+        "rain": "1.7",
+        "precip": "16.3"
+      },
+      {
+        "month": "December",
+        "high": "-0.4",
+        "low": "-12.1",
+        "rain": "0.3",
+        "precip": "12.5"
+      }
+    ],
+    "note": "Environment and Climate Change Canada 1991–2020 climate normals for this composite station. Rainfall is the rainfall element. Precipitation, which includes the water equivalent of snow, is the second water column. Quality codes: maximum temperature C, rainfall C, precipitation C.",
+    "sourceTitle": "ECCC Canadian Climate Normals 1991–2020, CALGARY (AIRPORT)",
+    "sourceUrl": "https://climate.weather.gc.ca/climate_normals/index_e.html",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows Canada at 120 volts and 60 hertz, with plug type A and B.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "The Government of Canada's settling-in page says you must drive on the right-hand side of the road. It also says traffic laws are generally similar across the country and that some rules vary by province or territory.",
+    "sourceTitle": "Immigration, Refugees and Citizenship Canada, Driving in Canada",
+    "sourceUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/driving.html",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "About 15–20% before tax",
+    "detail": "Tourism Calgary says gratuities are rarely included for restaurants and tour operators, and that tipping approximately 15–20% of the total bill before tax is customary, depending on the service. It also says many restaurants may add 15–18% for groups of six or more.",
+    "sourceTitle": "Tourism Calgary, know before you go",
+    "sourceUrl": "https://www.visitcalgary.com/plan-and-stay/know-before-you-go",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Canada, last reviewed 8 October 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Canada",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/canada",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Canadian Dollar (CAD)",
+    "detail": "ISO 4217 lists the currency name Canadian Dollar and the code CAD for Canada.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Edmonton",
+    "detail": "IANA's zone1970.tab comment for America/Edmonton covers Alberta, among other areas. The same comment prints the abbreviation CST, which is not repeated here. Calgary is in Alberta, so the zone name on this page is America/Edmonton.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, America/Edmonton",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Immigration, Refugees and Citizenship Canada",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/check-visa-eta.html",
+    "note": "IRCC's own check for a visa or an eTA. We do not restate the result."
+  }
+}

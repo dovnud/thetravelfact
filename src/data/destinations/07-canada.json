@@ -1,0 +1,167 @@
+{
+  "order": 7,
+  "id": "canada",
+  "kind": "country",
+  "name": "Canada",
+  "countrySlug": "canada",
+  "countryName": "Canada",
+  "path": "/canada/",
+  "dek": "Ottawa's city composite as a capital reference, not a national climate, plus the facts that really are national.",
+  "paragraphs": [
+    "The table is Ottawa (City) in Environment and Climate Change Canada's 1991–2020 normals, elevation 79.2 metres. It is the capital composite, not an average of Canada. Toronto, Vancouver, Montreal, Calgary, and Banff are separate stations. A winter low in Ottawa is not a winter low in Vancouver.",
+    "Plugs, voltage, and the side of the road are cited from national pages and repeated on the city sheets. Tipping is not national in the sources we opened. Tourisme Montréal publishes 15% before tax. Tourism Calgary publishes about 15–20% before tax. Toronto, Vancouver, and Banff do not have a figure on this site until their own tourism offices are cited. We do not average the two that exist."
+  ],
+  "climate": {
+    "caption": "Reference station: Ottawa (City). The capital composite, not a Canadian average.",
+    "stationName": "OTTAWA (CITY)",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": "79.2 m",
+    "latitude": "45.38",
+    "longitude": "-75.72",
+    "columnRain": "Rainfall (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "-5.2",
+        "low": "-14.0",
+        "rain": "27.0",
+        "precip": "65.2"
+      },
+      {
+        "month": "February",
+        "high": "-3.3",
+        "low": "-12.9",
+        "rain": "17.0",
+        "precip": "52.4"
+      },
+      {
+        "month": "March",
+        "high": "2.5",
+        "low": "-6.9",
+        "rain": "32.5",
+        "precip": "61.6"
+      },
+      {
+        "month": "April",
+        "high": "11.2",
+        "low": "1.1",
+        "rain": "72.2",
+        "precip": "81.3"
+      },
+      {
+        "month": "May",
+        "high": "19.4",
+        "low": "8.0",
+        "rain": "80.0",
+        "precip": "80.1"
+      },
+      {
+        "month": "June",
+        "high": "24.2",
+        "low": "13.3",
+        "rain": "95.1",
+        "precip": "95.1"
+      },
+      {
+        "month": "July",
+        "high": "26.7",
+        "low": "15.8",
+        "rain": "92.3",
+        "precip": "92.3"
+      },
+      {
+        "month": "August",
+        "high": "25.6",
+        "low": "14.6",
+        "rain": "87.4",
+        "precip": "87.4"
+      },
+      {
+        "month": "September",
+        "high": "21.1",
+        "low": "10.1",
+        "rain": "87.0",
+        "precip": "87.0"
+      },
+      {
+        "month": "October",
+        "high": "13.3",
+        "low": "4.1",
+        "rain": "88.6",
+        "precip": "90.2"
+      },
+      {
+        "month": "November",
+        "high": "5.8",
+        "low": "-1.8",
+        "rain": "57.1",
+        "precip": "72.0"
+      },
+      {
+        "month": "December",
+        "high": "-1.5",
+        "low": "-8.7",
+        "rain": "35.3",
+        "precip": "73.6"
+      }
+    ],
+    "note": "Environment and Climate Change Canada 1991–2020 climate normals for this composite station. Rainfall is the rainfall element. Precipitation, which includes the water equivalent of snow, is the second water column. Quality codes: maximum temperature A, rainfall A, precipitation A.",
+    "sourceTitle": "ECCC Canadian Climate Normals 1991–2020, OTTAWA (CITY)",
+    "sourceUrl": "https://climate.weather.gc.ca/climate_normals/index_e.html",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows Canada at 120 volts and 60 hertz, with plug type A and B.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "The Government of Canada's settling-in page says you must drive on the right-hand side of the road. It also says traffic laws are generally similar across the country and that some rules vary by province or territory.",
+    "sourceTitle": "Immigration, Refugees and Citizenship Canada, Driving in Canada",
+    "sourceUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/driving.html",
+    "asOf": "2026-11-14"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Canada, last reviewed 8 October 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Canada",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/canada",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Canadian Dollar (CAD)",
+    "detail": "ISO 4217 lists the currency name Canadian Dollar and the code CAD for Canada.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Several IANA zones",
+    "detail": "IANA's zone1970.tab gives Canada more than one zone. The city sheets name the zone whose comment covers that place: America/Toronto for Ontario and Quebec (most areas), America/Vancouver for British Columbia (most areas), and America/Edmonton for Alberta. The file's comment column also prints time abbreviations that do not match the usual standard-time names of those zones, so those abbreviations are not repeated here. The zone name is.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Immigration, Refugees and Citizenship Canada",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/check-visa-eta.html",
+    "note": "IRCC's own check for a visa or an eTA. We do not restate the result."
+  }
+}

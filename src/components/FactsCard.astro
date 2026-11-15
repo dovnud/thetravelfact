@@ -1,0 +1,45 @@
+---
+import type { Destination, Fact } from "../lib/types";
+import { factSources } from "../lib/types";
+
+interface Props {
+  destination: Destination;
+}
+const { destination } = Astro.props;
+const rows: Array<Fact | null> = [
+  destination.plugs,
+  destination.driving,
+  destination.tipping,
+  destination.water,
+  destination.currency,
+  destination.timeZone,
+];
+---
+
+<aside class="panel facts" aria-labelledby="glance-title">
+  <p class="eyebrow">At a glance</p>
+  <h2 id="glance-title">Before you go</h2>
+  <dl>
+    {rows.map((fact) => (
+      <div class="fact-row">
+        <dt>{fact ? fact.label : "Tipping"}</dt>
+        <dd>
+          {fact ? (
+            <>
+              {fact.value}
+              {factSources(fact)[0] && (
+                <>
+                  {" "}
+                  <a href={factSources(fact)[0].sourceUrl}>source</a>
+                </>
+              )}
+            </>
+          ) : (
+            <span class="omitted">Not printed. No source we could cite. <a href="/sources/#gaps">Why</a></span>
+          )}
+        </dd>
+      </div>
+    ))}
+  </dl>
+  <p class="note">Checked 14 November 2026. The sentence under each fact is on the page below.</p>
+</aside>

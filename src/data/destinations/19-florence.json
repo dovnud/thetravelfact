@@ -1,0 +1,174 @@
+{
+  "order": 19,
+  "id": "florence",
+  "kind": "city",
+  "name": "Florence",
+  "countrySlug": "italy",
+  "countryName": "Italy",
+  "path": "/italy/florence/",
+  "dek": "Peretola, the airport station west of the centre, with a complete 1991–2020 normal.",
+  "paragraphs": [
+    "Firenze Peretola is WMO 16170, the airport station. The centre of the city is a short distance east, in the valley, and this file does not separate the two. The normal is complete for temperature and precipitation, which is why Peretola is usable as the sheet's only station.",
+    "The July maximum at this station is higher than the July maximum at both Roma Fiumicino and Venezia Tessera. Winter nights are the cool end of the minimum column. Italia.it's note that a tip near 10% is customary, and not required, is the national line and is not a Florence-only rule."
+  ],
+  "climate": {
+    "caption": "Station: Firenze Peretola, WMO 16170, the airport west of the centre.",
+    "stationName": "Firenze Peretola",
+    "stationId": "WMO 16170",
+    "period": "1991-2020",
+    "elevation": "44 m",
+    "latitude": "43|48|31|N",
+    "longitude": "11|12|10|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "11.19",
+        "low": "2.06",
+        "rain": "58.06",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "12.68",
+        "low": "2.54",
+        "rain": "63.78",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "16.20",
+        "low": "5.07",
+        "rain": "61.42",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "20.00",
+        "low": "8.05",
+        "rain": "67.17",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "24.34",
+        "low": "11.90",
+        "rain": "63.01",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "29.05",
+        "low": "16.01",
+        "rain": "44.80",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "32.27",
+        "low": "18.44",
+        "rain": "24.62",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "32.42",
+        "low": "18.45",
+        "rain": "36.46",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "27.32",
+        "low": "14.98",
+        "rain": "66.76",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "21.53",
+        "low": "10.90",
+        "rain": "105.10",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "15.60",
+        "low": "6.43",
+        "rain": "115.25",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "11.38",
+        "low": "2.61",
+        "rain": "81.36",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, submitted for Italy and distributed by NOAA NCEI.",
+    "sourceTitle": "WMO climate normals 1991-2020, Firenze Peretola (16170)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Italy/CSV/Firenze_Peretola_16170.csv",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C, F, and L, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows Italy at 230 volts and 50 hertz, with plug type C, F, and L.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 143 of the Codice della Strada says vehicles must travel on the right side of the carriageway and close to its right edge, even when the road is clear.",
+    "sourceTitle": "Codice della Strada, d.lgs. 285/1992, articolo 143, Normattiva",
+    "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art143",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not required, about 10% if you do",
+    "detail": "The national tourism site Italia.it says tipping is not compulsory and there are no established rules, but it is customary to leave an amount close to 10% of the bill when you are satisfied with the service.",
+    "sourceTitle": "Italia.it, money, payments and tipping",
+    "sourceUrl": "https://www.italia.it/en/italy/practical-information/money-payments-and-tipping-in-italy",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Italy, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Italy",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/italy",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Italy.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Rome",
+    "detail": "Florence is in Italy, which IANA places in Europe/Rome.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Rome",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministero degli Affari Esteri",
+    "url": "https://www.esteri.it/en/ministero/sportello_info/domandefrequenti/sezione_visti_entrare_in_italia/",
+    "note": "The foreign ministry's entry page, which sends you to the Visa for Italy database. We do not restate a visa rule."
+  }
+}

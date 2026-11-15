@@ -1,0 +1,83 @@
+---
+import type { Climate } from "../lib/types";
+import { extreme, joinMonths } from "../lib/destinations";
+
+interface Props {
+  climate: Climate;
+}
+const { climate } = Astro.props;
+const highs = climate.months.map((m) => (m.high == null ? null : Number(m.high)));
+const numericHighs = highs.filter((n): n is number => n != null);
+const minH = Math.min(...numericHighs);
+const maxH = Math.max(...numericHighs);
+const rains = climate.months.map((m) => (m.rain == null ? 0 : Number(m.rain)));
+const maxR = Math.max(...rains, 1);
+const showPrecip = climate.months.some((m) => m.precip != null);
+const hottest = extreme(climate.months, "high", "max");
+const coldest = extreme(climate.months, "low", "min");
+const wettest = extreme(climate.months, "rain", "max");
+const driest = extreme(climate.months, "rain", "min");
+
+function tone(high: string | null) {
+  if (high == null || maxH === minH) return "var(--mist)";
+  const t = (Number(high) - minH) / (maxH - minH);
+  const cool = [213, 227, 234];
+  const warm = [232, 168, 122];
+  const rgb = cool.map((c, i) => Math.round(c + (warm[i] - c) * t));
+  return `rgb(${rgb.join(" ")})`;
+}
+---
+
+<section class="panel climate" aria-labelledby="climate-title">
+  <p class="eyebrow">1991–2020</p>
+  <h2 id="climate-title">Month by month</h2>
+  <p>
+    {hottest && <>The highest average daily high is {hottest.value}°C in {joinMonths(hottest.months)}. </>}
+    {coldest && <>The lowest average daily low is {coldest.value}°C in {joinMonths(coldest.months)}. </>}
+    {wettest && driest && (
+      <>
+        The {climate.columnRain.toLowerCase().startsWith("rain") ? "wettest" : "heaviest"} month in the water column is {joinMonths(wettest.months)} at {wettest.value} mm, and the lightest is {joinMonths(driest.months)} at {driest.value} mm.
+      </>
+    )}
+    {" "}These sentences only restate the table. They are not a ranking of the best month to go.
+  </p>
+  <div class="strip" role="list">
+    {climate.months.map((month) => (
+      <div class:list={["cell", { missing: month.high == null }]} role="listitem" style={`background:${tone(month.high)}`}>
+        <span class="mo">{month.month.slice(0, 3)}</span>
+        {month.high == null ? <span class="hi">—</span> : <span class="hi">{month.high}°</span>}
+        <span class="lo">{month.low == null ? "Low —" : `Low ${month.low}°`}</span>
+        <div class="bar" aria-hidden="true"><span style={`width:${Math.max(6, (Number(month.rain ?? 0) / maxR) * 100)}%`}></span></div>
+        <span class="lo">{month.rain == null ? "Water —" : `${month.rain} mm`}</span>
+      </div>
+    ))}
+  </div>
+  <div class="table-wrap">
+    <table>
+      <caption>
+        {climate.caption}{" "}Averages for {climate.period}.{climate.elevation ? ` Elevation: ${climate.elevation}.` : ""}{" "}Color tracks the average high at this station only. The bar tracks the water column.
+      </caption>
+      <thead>
+        <tr>
+          <th scope="col">Month</th>
+          <th scope="col">Avg high °C</th>
+          <th scope="col">Avg low °C</th>
+          <th scope="col">{climate.columnRain}</th>
+          {showPrecip && <th scope="col">Precipitation (mm)</th>}
+        </tr>
+      </thead>
+      <tbody>
+        {climate.months.map((month) => (
+          <tr>
+            <th scope="row">{month.month}</th>
+            <td>{month.high ?? "—"}</td>
+            <td>{month.low ?? "—"}</td>
+            <td>{month.rain ?? "—"}</td>
+            {showPrecip && <td>{month.precip ?? "—"}</td>}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="note">{climate.note} Source: <a href={climate.sourceUrl}>{climate.sourceTitle}</a>. As of {climate.asOf}.</p>
+</section>

@@ -1,0 +1,174 @@
+{
+  "order": 16,
+  "id": "manchester",
+  "kind": "city",
+  "name": "Manchester",
+  "countrySlug": "united-kingdom",
+  "countryName": "United Kingdom",
+  "path": "/united-kingdom/manchester/",
+  "dek": "Woodford's 1991–2020 average. The airport's old Ringway record stops in 2004, so it is not this table.",
+  "paragraphs": [
+    "The Met Office historic file for Ringway, the old Manchester Airport station, ends in 2004 with the words site closed. Fourteen years is not a 1991–2020 normal, so Ringway is not averaged into this page. The station the Met Office does publish a 1991–2020 average for, and the nearest one in that location-specific set, is Woodford.",
+    "Woodford is not the city centre and it is not the airport. The caption says so. Rain is spread through the year in this normal, and the summers are cooler than Heathrow's. Put the two high columns side by side if you are choosing between the cities. No month is named the best one."
+  ],
+  "climate": {
+    "caption": "Station: Woodford, 1991–2020. Nearest published Met Office climate station to Manchester Airport, not the city centre.",
+    "stationName": "Woodford",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Rainfall (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "7.11",
+        "low": "1.07",
+        "rain": "77.00",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "7.92",
+        "low": "1.40",
+        "rain": "60.48",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "10.13",
+        "low": "2.42",
+        "rain": "52.53",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "13.01",
+        "low": "4.13",
+        "rain": "55.81",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "16.25",
+        "low": "7.05",
+        "rain": "56.21",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "18.93",
+        "low": "9.55",
+        "rain": "64.61",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "20.66",
+        "low": "11.81",
+        "rain": "80.19",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "20.24",
+        "low": "11.64",
+        "rain": "79.73",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "17.56",
+        "low": "9.51",
+        "rain": "76.09",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "13.84",
+        "low": "6.78",
+        "rain": "91.69",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "9.96",
+        "low": "3.35",
+        "rain": "77.08",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "7.47",
+        "low": "1.15",
+        "rain": "96.98",
+        "precip": null
+      }
+    ],
+    "note": "Met Office location-specific long-term averages for 1991–2020. The Met Office says these station averages are a sample for general interest, and that where a station record is incomplete, values for missing months may be estimated from well-correlated stations. Ringway, the former airport station, closed in 2004 and is not used.",
+    "sourceTitle": "Station: Woodford, 1991–2020. Nearest published Met Office climate station to Manchester Airport, not the city centre.",
+    "sourceUrl": "https://www.metoffice.gov.uk/research/climate/maps-and-data/location-specific-long-term-averages/gcqrrn04p",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type G, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows the United Kingdom at 230 volts and 50 hertz, with plug type G.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "Highway Code rule 160 says that once moving you should keep to the left, unless road signs or markings indicate otherwise. The exceptions named in that rule are overtaking, turning right, or passing parked vehicles or pedestrians in the road. This Highway Code applies in England, Scotland, and Wales.",
+    "sourceTitle": "The Highway Code, rules 159 to 203, GOV.UK",
+    "sourceUrl": "https://www.gov.uk/guidance/the-highway-code/using-the-road-159-to-203",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Optional, often 10–15%",
+    "detail": "VisitBritain says tipping is not expected in Britain the way it is in some other countries, staff must be paid at least the National Minimum Wage, and a tip is polite for good service rather than required. Some bills add a service charge, which you can decline. If nothing is added, VisitBritain calls 10–15 a standard restaurant tip when the service was good, and 10–15 percent a nice gesture for a taxi, or rounding the fare up to the next pound. A hotel porter is customarily about £2.",
+    "sourceTitle": "VisitBritain, useful information",
+    "sourceUrl": "https://www.visitbritain.com/en/plan-your-trip/useful-information",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for the United Kingdom, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, the United Kingdom",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/united-kingdom",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Pound Sterling (GBP)",
+    "detail": "ISO 4217 lists the currency name Pound Sterling and the code GBP for United Kingdom.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/London",
+    "detail": "Manchester is in England, covered by the IANA zone Europe/London.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/London",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "GOV.UK",
+    "url": "https://www.gov.uk/check-uk-visa",
+    "note": "The UK government's visa check. We do not restate the result."
+  }
+}

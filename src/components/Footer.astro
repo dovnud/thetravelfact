@@ -1,0 +1,26 @@
+---
+const links = [
+  ["/sources/", "Sources"],
+  ["/about/", "About"],
+  ["/contact/", "Contact"],
+  ["/affiliate-disclosure/", "Affiliate disclosure"],
+  ["/privacy/", "Privacy"],
+  ["/terms/", "Terms"],
+];
+---
+
+<footer class="site-footer">
+  <div class="shell foot">
+    <div>
+      <a class="brand" href="/">The<em>Travel</em>Fact</a>
+      <p class="credit">
+        Contact <a href="mailto:contact@thetravelfact.com">contact@thetravelfact.com</a>.
+        Editorial layout adapted from <a href="https://github.com/xocothemes/quietpages">Quiet Pages</a> by Andrei Alba, MIT.
+        Newsreader is used under the SIL Open Font License. Geist is used under its bundled license.
+      </p>
+    </div>
+    <nav aria-label="Footer">
+      {links.map(([href, label]) => <a href={href}>{label}</a>)}
+    </nav>
+  </div>
+</footer>

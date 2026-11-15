@@ -1,0 +1,178 @@
+---
+import Base from "../layouts/Base.astro";
+import FactsCard from "./FactsCard.astro";
+import ClimatePanel from "./ClimatePanel.astro";
+import Affiliates from "./Affiliates.astro";
+import { citiesIn, countryOf, extreme, joinMonths } from "../lib/destinations";
+import { factSources, type Destination, type Fact, type SourceRef } from "../lib/types";
+
+interface Props {
+  destination: Destination;
+}
+const { destination } = Astro.props;
+const country = destination.kind === "city" ? countryOf(destination) : destination;
+const cities = destination.kind === "country" ? citiesIn(destination.countrySlug) : [];
+const canonical = new URL(destination.path, "https://thetravelfact.com").href;
+const crumbs = [
+  { name: "Home", url: "https://thetravelfact.com/" },
+  ...(destination.kind === "city" && country
+    ? [{ name: country.name, url: new URL(country.path, "https://thetravelfact.com").href }]
+    : []),
+  { name: destination.name, url: canonical },
+];
+
+const facts: Fact[] = [
+  destination.plugs,
+  destination.driving,
+  destination.water,
+  destination.currency,
+  destination.timeZone,
+  ...(destination.tipping ? [destination.tipping] : []),
+];
+
+const sources: SourceRef[] = [
+  {
+    sourceTitle: destination.climate.sourceTitle,
+    sourceUrl: destination.climate.sourceUrl,
+    asOf: destination.climate.asOf,
+  },
+  ...facts.flatMap(factSources),
+];
+if (destination.season.length) {
+  sources.push({
+    sourceTitle: "National Hurricane Center, tropical cyclone climatology",
+    sourceUrl: "https://www.nhc.noaa.gov/climo/",
+    asOf: "2026-11-14",
+  });
+}
+const seen = new Set<string>();
+const uniqueSources = sources.filter((source) => {
+  if (seen.has(source.sourceUrl)) return false;
+  seen.add(source.sourceUrl);
+  return true;
+});
+
+const latitude = Number(destination.climate.latitude);
+const longitude = Number(destination.climate.longitude);
+const geo = Number.isFinite(latitude) && Number.isFinite(longitude)
+  ? { "@type": "GeoCoordinates", latitude, longitude }
+  : undefined;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      headline: `${destination.name} travel facts`,
+      description: destination.dek,
+      author: { "@type": "Organization", name: "TheTravelFact Editors" },
+      publisher: { "@type": "Organization", name: "TheTravelFact", url: "https://thetravelfact.com" },
+      datePublished: "2026-11-14",
+      dateModified: "2026-11-14",
+      mainEntityOfPage: canonical,
+    },
+    {
+      "@type": "Place",
+      name: destination.name,
+      ...(geo ? { geo } : {}),
+    },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: crumbs.map((crumb, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        name: crumb.name,
+        item: crumb.url,
+      })),
+    },
+  ],
+};
+---
+
+<Base title={`${destination.name} travel facts`} description={destination.dek} jsonLd={jsonLd}>
+  <article class="shell">
+    <header class="sheet-hero">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        {crumbs.map((crumb, index) => (
+          <>
+            {index > 0 && <span aria-hidden="true">/</span>}
+            {index === crumbs.length - 1 ? <span>{crumb.name}</span> : <a href={crumb.url.replace("https://thetravelfact.com", "")}>{crumb.name}</a>}
+          </>
+        ))}
+      </nav>
+      <p class="eyebrow">{destination.kind === "country" ? "Country sheet" : destination.countryName}</p>
+      <h1>{destination.name}</h1>
+      <p class="lead">{destination.dek}</p>
+      <p class="note">By TheTravelFact Editors. Checked 14 November 2026.</p>
+    </header>
+
+    <div class="layout">
+      <div>
+        <div class="prose">
+          {destination.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+        </div>
+        <ClimatePanel climate={destination.climate} />
+        {destination.season.length > 0 && (
+          <section class="prose">
+            <h2>Storm season, from the hurricane center</h2>
+            {destination.season.map((line) => <p>{line}</p>)}
+            <p class="note">Source: <a href="https://www.nhc.noaa.gov/climo/">National Hurricane Center climatology</a>. As of 14 November 2026. This is the season window, not a forecast for a year.</p>
+          </section>
+        )}
+        <section class="prose">
+          <h2>The facts, in sentences</h2>
+          {facts.map((fact) => (
+            <>
+              <h3>{fact.label}</h3>
+              <p>{fact.detail}</p>
+              <p class="note">
+                {factSources(fact).map((source, index) => (
+                  <>
+                    {index > 0 && " · "}
+                    <a href={source.sourceUrl}>{source.sourceTitle}</a>
+                  </>
+                ))}
+                . As of 14 November 2026.
+              </p>
+            </>
+          ))}
+          <h3>Entry requirements</h3>
+          <p>
+            {destination.entry.note}{" "}
+            <a href={destination.entry.url}>{destination.entry.publisher}: {destination.entry.label}</a>.
+            Checked 14 November 2026. We do not rewrite the rule.
+          </p>
+        </section>
+        {cities.length > 0 && (
+          <section class="prose">
+            <h2>The other stations</h2>
+            <ul>
+              {cities.map((city) => {
+                const hot = extreme(city.climate.months, "high", "max");
+                const wet = extreme(city.climate.months, "rain", "max");
+                return (
+                  <li>
+                    <a href={city.path}>{city.name}</a>, {city.climate.stationName}:
+                    {hot && <> highest average high {hot.value}°C in {joinMonths(hot.months)}</>}
+                    {wet && <>; heaviest water-column month {joinMonths(wet.months)} at {wet.value} mm</>}.
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        )}
+        <Affiliates place={destination.name} plugValue={destination.plugs.value} />
+        <section class="prose">
+          <h2>Sources on this page</h2>
+          <ul class="source-list">
+            {uniqueSources.map((source) => (
+              <li><a href={source.sourceUrl}>{source.sourceTitle}</a>. As of {source.asOf}.</li>
+            ))}
+            <li><a href={destination.entry.url}>{destination.entry.publisher}</a>. As of 14 November 2026.</li>
+          </ul>
+        </section>
+      </div>
+      <FactsCard destination={destination} />
+    </div>
+  </article>
+</Base>

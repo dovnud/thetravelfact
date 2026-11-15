@@ -1,0 +1,167 @@
+{
+  "order": 8,
+  "id": "toronto",
+  "kind": "city",
+  "name": "Toronto",
+  "countrySlug": "canada",
+  "countryName": "Canada",
+  "path": "/canada/toronto/",
+  "dek": "Downtown Toronto's composite, not the airport, for 1991–2020.",
+  "paragraphs": [
+    "The composite is Toronto (City), at 43.67° N, 79.40° W, 112.5 metres. Pearson is a different composite in the same normals product and is not this table. If you are sleeping downtown, the city station is the closer description. If you are timing a connection at the airport, it is the wrong one.",
+    "The rainfall element for this composite is blank from April through October, so it is not printed. The water column is precipitation, which includes the water equivalent of snow. We did not find a Destination Toronto tipping page we could open on 14 November 2026, so there is no tipping percentage on this sheet."
+  ],
+  "climate": {
+    "caption": "Station composite: Toronto (City), 112.5 m. Not Toronto Pearson.",
+    "stationName": "TORONTO (CITY)",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": "112.5 m",
+    "latitude": "43.67",
+    "longitude": "-79.40",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "-0.3",
+        "low": "-6.7",
+        "rain": "64.6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "0.6",
+        "low": "-6.0",
+        "rain": "53.9",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "5.1",
+        "low": "-1.8",
+        "rain": "52.8",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "11.7",
+        "low": "3.9",
+        "rain": "78.0",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "18.8",
+        "low": "10.0",
+        "rain": "76.4",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "24.2",
+        "low": "15.3",
+        "rain": "81.6",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "27.0",
+        "low": "18.1",
+        "rain": "76.5",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "26.1",
+        "low": "17.7",
+        "rain": "71.9",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "22.0",
+        "low": "13.8",
+        "rain": "69.4",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "14.6",
+        "low": "7.7",
+        "rain": "69.1",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "8.1",
+        "low": "2.3",
+        "rain": "70.8",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "2.6",
+        "low": "-2.7",
+        "rain": "57.8",
+        "precip": null
+      }
+    ],
+    "note": "Environment and Climate Change Canada 1991–2020 climate normals for this composite station. The rainfall element is blank for April, May, June, July, August, September, October, so it is not printed. The water column is precipitation, which includes the water equivalent of snow. Quality codes: maximum temperature A, precipitation C.",
+    "sourceTitle": "ECCC Canadian Climate Normals 1991–2020, TORONTO (CITY)",
+    "sourceUrl": "https://climate.weather.gc.ca/climate_normals/index_e.html",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows Canada at 120 volts and 60 hertz, with plug type A and B.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "The Government of Canada's settling-in page says you must drive on the right-hand side of the road. It also says traffic laws are generally similar across the country and that some rules vary by province or territory.",
+    "sourceTitle": "Immigration, Refugees and Citizenship Canada, Driving in Canada",
+    "sourceUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/driving.html",
+    "asOf": "2026-11-14"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Canada, last reviewed 8 October 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Canada",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/canada",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Canadian Dollar (CAD)",
+    "detail": "ISO 4217 lists the currency name Canadian Dollar and the code CAD for Canada.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Toronto",
+    "detail": "IANA's zone1970.tab comment for America/Toronto is Eastern time for Ontario and Quebec, most areas. Toronto is in Ontario.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, America/Toronto",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Immigration, Refugees and Citizenship Canada",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/check-visa-eta.html",
+    "note": "IRCC's own check for a visa or an eTA. We do not restate the result."
+  }
+}

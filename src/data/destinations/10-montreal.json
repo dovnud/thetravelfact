@@ -1,0 +1,174 @@
+{
+  "order": 10,
+  "id": "montreal",
+  "kind": "city",
+  "name": "Montreal",
+  "countrySlug": "canada",
+  "countryName": "Canada",
+  "path": "/canada/montreal/",
+  "dek": "The Trudeau airport composite is the 1991–2020 station under this name, and Tourisme Montréal publishes the tip.",
+  "paragraphs": [
+    "Environment and Climate Change Canada's composite for the city in this product is Montreal Trudeau (Airport). Member stations in the inventory sit at 32.1 and 36.0 metres. There is no separate downtown composite in the file. The airport is not a balcony in the Plateau, and this page does not invent the difference.",
+    "Tourisme Montréal does publish a tipping figure, unlike some other Canadian cities on this site: 15% of the bill before tax for waiters, taxi drivers, and hairdressers, with smaller cash amounts for porters and housekeeping. The climate table is still the airport's."
+  ],
+  "climate": {
+    "caption": "Station composite: Montreal Trudeau (Airport). No separate downtown composite in this normals file.",
+    "stationName": "MONTREAL TRUDEAU (AIRPORT)",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": "32.1–36.0 m across stations in the composite",
+    "latitude": "45.47",
+    "longitude": "-73.74",
+    "columnRain": "Rainfall (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "-5.0",
+        "low": "-13.5",
+        "rain": "32.8",
+        "precip": "85.8"
+      },
+      {
+        "month": "February",
+        "high": "-3.4",
+        "low": "-12.4",
+        "rain": "16.9",
+        "precip": "65.5"
+      },
+      {
+        "month": "March",
+        "high": "2.4",
+        "low": "-6.5",
+        "rain": "37.3",
+        "precip": "77.2"
+      },
+      {
+        "month": "April",
+        "high": "11.3",
+        "low": "1.1",
+        "rain": "74.9",
+        "precip": "90.0"
+      },
+      {
+        "month": "May",
+        "high": "19.4",
+        "low": "8.3",
+        "rain": "85.6",
+        "precip": "85.6"
+      },
+      {
+        "month": "June",
+        "high": "24.2",
+        "low": "13.8",
+        "rain": "83.6",
+        "precip": "83.6"
+      },
+      {
+        "month": "July",
+        "high": "26.7",
+        "low": "16.7",
+        "rain": "91.2",
+        "precip": "91.1"
+      },
+      {
+        "month": "August",
+        "high": "25.7",
+        "low": "15.6",
+        "rain": "93.6",
+        "precip": "93.6"
+      },
+      {
+        "month": "September",
+        "high": "21.1",
+        "low": "10.9",
+        "rain": "89.2",
+        "precip": "89.2"
+      },
+      {
+        "month": "October",
+        "high": "13.2",
+        "low": "4.5",
+        "rain": "101.6",
+        "precip": "103.1"
+      },
+      {
+        "month": "November",
+        "high": "6.1",
+        "low": "-1.7",
+        "rain": "67.4",
+        "precip": "84.2"
+      },
+      {
+        "month": "December",
+        "high": "-1.2",
+        "low": "-8.7",
+        "rain": "44.2",
+        "precip": "91.9"
+      }
+    ],
+    "note": "Environment and Climate Change Canada 1991–2020 climate normals for this composite station. Rainfall is the rainfall element. Precipitation, which includes the water equivalent of snow, is the second water column. Quality codes: maximum temperature A, rainfall C, precipitation C.",
+    "sourceTitle": "ECCC Canadian Climate Normals 1991–2020, MONTREAL TRUDEAU (AIRPORT)",
+    "sourceUrl": "https://climate.weather.gc.ca/climate_normals/index_e.html",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows Canada at 120 volts and 60 hertz, with plug type A and B.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "The Government of Canada's settling-in page says you must drive on the right-hand side of the road. It also says traffic laws are generally similar across the country and that some rules vary by province or territory.",
+    "sourceTitle": "Immigration, Refugees and Citizenship Canada, Driving in Canada",
+    "sourceUrl": "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/driving.html",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "15% before tax is the office's figure",
+    "detail": "Tourisme Montréal says it is customary to tip, and recommends 15% of the bill before taxes for restaurant waiters, taxi drivers, and hairdressers. Bellhops and doormen generally receive at least $2 per suitcase or service. Housekeeping is described as $1 to $2 a day.",
+    "sourceTitle": "Tourisme Montréal, practical guide",
+    "sourceUrl": "https://www.mtl.org/en/experience/practical-guide",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Canada, last reviewed 8 October 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Canada",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/canada",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Canadian Dollar (CAD)",
+    "detail": "ISO 4217 lists the currency name Canadian Dollar and the code CAD for Canada.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Toronto",
+    "detail": "Montreal is in Quebec. IANA's comment for America/Toronto covers Ontario and Quebec, most areas. There is not a separate America/Montreal zone in zone1970.tab.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, America/Toronto",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Immigration, Refugees and Citizenship Canada",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/check-visa-eta.html",
+    "note": "IRCC's own check for a visa or an eTA. We do not restate the result."
+  }
+}

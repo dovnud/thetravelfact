@@ -1,0 +1,17 @@
+---
+import DestinationView from "../../components/DestinationView.astro";
+import { destinations } from "../../lib/destinations";
+
+export function getStaticPaths() {
+  return destinations
+    .filter((destination) => destination.kind === "country")
+    .map((destination) => ({
+      params: { country: destination.countrySlug },
+      props: { destination },
+    }));
+}
+
+const { destination } = Astro.props;
+---
+
+<DestinationView destination={destination} />

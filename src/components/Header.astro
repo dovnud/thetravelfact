@@ -1,0 +1,30 @@
+---
+const path = Astro.url.pathname;
+const links = [
+  { href: "/#places", label: "Places" },
+  { href: "/sources/", label: "Sources" },
+  { href: "/about/", label: "About" },
+  { href: "/contact/", label: "Contact" },
+];
+---
+
+<header class="site-header">
+  <div class="shell" style="display:flex;align-items:center;width:min(100% - 2.4rem, var(--measure));">
+    <a class="brand" href="/">The<em>Travel</em>Fact</a>
+    <nav class="nav nav-desktop" aria-label="Primary">
+      {links.map((link) => (
+        <a href={link.href} aria-current={path === link.href ? "page" : undefined}>{link.label}</a>
+      ))}
+    </nav>
+    <details class="menu">
+      <summary aria-label="Open menu">Menu</summary>
+      <div class="menu-panel">
+        <nav aria-label="Mobile">
+          {links.map((link) => (
+            <a href={link.href}>{link.label}</a>
+          ))}
+        </nav>
+      </div>
+    </details>
+  </div>
+</header>

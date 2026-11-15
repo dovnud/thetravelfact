@@ -1,0 +1,174 @@
+{
+  "order": 15,
+  "id": "edinburgh",
+  "kind": "city",
+  "name": "Edinburgh",
+  "countrySlug": "united-kingdom",
+  "countryName": "United Kingdom",
+  "path": "/united-kingdom/edinburgh/",
+  "dek": "Gogarbank, west of the city, is the Met Office station with a full 1991–2020 average.",
+  "paragraphs": [
+    "The station is Edinburgh, Gogarbank. It sits west of the centre, not in the Old Town. The Met Office also lists the Royal Botanic Garden. This sheet uses Gogarbank because that is the station page with the 1991–2020 average we retrieved.",
+    "It is cooler than Heathrow in the same normals period, which you can see by putting the two high columns next to each other. Rain is spread through the year. The Highway Code rule on keeping left is the Great Britain rule and applies in Scotland."
+  ],
+  "climate": {
+    "caption": "Station: Edinburgh, Gogarbank, 1991–2020.",
+    "stationName": "Edinburgh, Gogarbank",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Rainfall (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "6.90",
+        "low": "1.52",
+        "rain": "73.01",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "7.51",
+        "low": "1.62",
+        "rain": "61.07",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "9.32",
+        "low": "2.71",
+        "rain": "52.49",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "12.01",
+        "low": "4.34",
+        "rain": "45.87",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "14.86",
+        "low": "6.65",
+        "rain": "50.17",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "17.46",
+        "low": "9.38",
+        "rain": "68.77",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "19.40",
+        "low": "10.99",
+        "rain": "71.85",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "19.17",
+        "low": "10.98",
+        "rain": "74.71",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "16.87",
+        "low": "9.37",
+        "rain": "55.17",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "13.17",
+        "low": "6.49",
+        "rain": "82.66",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "9.54",
+        "low": "3.63",
+        "rain": "73.65",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "7.02",
+        "low": "1.40",
+        "rain": "74.87",
+        "precip": null
+      }
+    ],
+    "note": "Met Office location-specific long-term averages for 1991–2020. The Met Office says these station averages are a sample for general interest, and that where a station record is incomplete, values for missing months may be estimated from well-correlated stations.",
+    "sourceTitle": "Station: Edinburgh, Gogarbank, 1991–2020.",
+    "sourceUrl": "https://www.metoffice.gov.uk/research/climate/maps-and-data/location-specific-long-term-averages/gcvw5vmsn",
+    "asOf": "2026-11-14"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type G, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows the United Kingdom at 230 volts and 50 hertz, with plug type G.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "Highway Code rule 160 says that once moving you should keep to the left, unless road signs or markings indicate otherwise. The exceptions named in that rule are overtaking, turning right, or passing parked vehicles or pedestrians in the road. This Highway Code applies in England, Scotland, and Wales.",
+    "sourceTitle": "The Highway Code, rules 159 to 203, GOV.UK",
+    "sourceUrl": "https://www.gov.uk/guidance/the-highway-code/using-the-road-159-to-203",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Optional, often 10–15%",
+    "detail": "VisitBritain says tipping is not expected in Britain the way it is in some other countries, staff must be paid at least the National Minimum Wage, and a tip is polite for good service rather than required. Some bills add a service charge, which you can decline. If nothing is added, VisitBritain calls 10–15 a standard restaurant tip when the service was good, and 10–15 percent a nice gesture for a taxi, or rounding the fare up to the next pound. A hotel porter is customarily about £2.",
+    "sourceTitle": "VisitBritain, useful information",
+    "sourceUrl": "https://www.visitbritain.com/en/plan-your-trip/useful-information",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for the United Kingdom, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, the United Kingdom",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/united-kingdom",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Pound Sterling (GBP)",
+    "detail": "ISO 4217 lists the currency name Pound Sterling and the code GBP for United Kingdom.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/London",
+    "detail": "Edinburgh is in Scotland, which is covered by the IANA zone Europe/London.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/London",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "GOV.UK",
+    "url": "https://www.gov.uk/check-uk-visa",
+    "note": "The UK government's visa check. We do not restate the result."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "order": 2,
+  "id": "cancun",
+  "kind": "city",
+  "name": "Cancun",
+  "countrySlug": "mexico",
+  "countryName": "Mexico",
+  "path": "/mexico/cancun/",
+  "dek": "Caribbean coast climate from the Cancún station, plus the country practical facts.",
+  "paragraphs": [
+    "The station is Cancún, clave 23155, in Benito Juárez, 9 metres above the sea. It is the coast, not Mérida and not the inland peninsula. The National Hurricane Center's Atlantic season, 1 June through 30 November, covers the wetter half of the year on this shore.",
+    "The normal stays hot in every month. What changes is the rain. Use the strip to see the drier months and the heavy ones, and treat a monthly total as an average, not a promise about a particular week. The entry link is the immigration institute's page. This sheet does not rewrite it."
+  ],
+  "climate": {
+    "caption": "Station: Cancún (23155), Benito Juárez, Quintana Roo, 9 m.",
+    "stationName": "CANCUN",
+    "stationId": "23155",
+    "period": "1991-2020",
+    "elevation": "9 msnm",
+    "latitude": "21.15666667",
+    "longitude": "-86.82027778",
+    "municipality": "BENITO JUÁREZ",
+    "state": "QUINTANA ROO",
+    "columnRain": "Precipitation (mm)",
+    "decimals": 1,
+    "months": [
+      {
+        "month": "January",
+        "high": "28.7",
+        "low": "20",
+        "rain": "103.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "30.1",
+        "low": "20.6",
+        "rain": "59.3",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "31.5",
+        "low": "21.4",
+        "rain": "38.7",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "33.1",
+        "low": "22.9",
+        "rain": "42.3",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "34.2",
+        "low": "24.2",
+        "rain": "87",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "34",
+        "low": "24.9",
+        "rain": "184.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "34.8",
+        "low": "25",
+        "rain": "67",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "35.1",
+        "low": "25",
+        "rain": "102.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "34.2",
+        "low": "24.6",
+        "rain": "181.5",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "32.2",
+        "low": "23.7",
+        "rain": "277.1",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.3",
+        "low": "22.3",
+        "rain": "131.4",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "29.4",
+        "low": "21",
+        "rain": "96.6",
+        "precip": null
+      }
+    ],
+    "note": "Servicio Meteorológico Nacional normal, issued 06/11/2026. Years with data for the maximum-temperature normal: 28 to 29, depending on the month.",
+    "sourceTitle": "SMN normal climatológica 1991-2020, estación 23155 CANCUN",
+    "sourceUrl": "https://smn.conagua.gob.mx/tools/RESOURCES/Normales_Climatologicas/Normales9120/qroo/nor9120_23155.txt",
+    "asOf": "2026-11-14"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 127 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows Mexico at 127 volts and 60 hertz, with plug type A and B.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right, on federal highways",
+    "detail": "Article 109 of the federal highway regulation, as published in the Diario Oficial on 22 November 2012, says vehicles are to be driven in the right-hand lane of a federal highway, except when overtaking, when the road is too narrow for two lanes, when the right side is blocked, on the three-lane case the article describes, or on a one-way road. This is the federal highway rule, not a city bylaw.",
+    "sourceTitle": "Diario Oficial de la Federación, 22 November 2012, Reglamento de Tránsito, Article 109",
+    "sourceUrl": "https://www.dof.gob.mx/nota_detalle.php?codigo=5278684&fecha=22/11/2012",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Voluntary",
+    "detail": "Mexico's consumer protection agency, Profeco, says tipping is voluntary. No establishment can require it or add it without telling you first. Profeco does not publish a customary percentage, so this page does not invent one.",
+    "sourceTitle": "Profeco, consumer FAQ",
+    "sourceUrl": "https://mundialsocial.profeco.gob.mx/faq/",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Mexico, last reviewed 3 September 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Mexico",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mexico",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Mexican Peso (MXN)",
+    "detail": "ISO 4217 lists the currency name Mexican Peso and the code MXN for Mexico.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-14"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Cancun",
+    "detail": "Quintana Roo is the Sureste zone in the time-zone law, tied to the meridian 75° west. IANA names that area America/Cancun and the zone1970.tab comment says Quintana Roo.",
+    "sources": [
+      {
+        "sourceTitle": "Ley de los Husos Horarios, artículo 3 fracción IV",
+        "sourceUrl": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
+        "asOf": "2026-11-14"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, America/Cancun",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-14"
+      }
+    ],
+    "asOf": "2026-11-14"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Instituto Nacional de Migración",
+    "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
+    "note": "This is the Mexican government's page on who must apply for a visa. We do not copy that list."
+  }
+}
