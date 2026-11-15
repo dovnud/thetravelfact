@@ -1,0 +1,159 @@
+{
+  "order": 95,
+  "id": "new-york",
+  "kind": "city",
+  "name": "New York",
+  "countrySlug": "united-states",
+  "countryName": "United States",
+  "path": "/united-states/new-york/",
+  "dek": "Central Park, WMO 72506, in Manhattan. Not JFK or LaGuardia.",
+  "paragraphs": [
+    "The station is New York Central Park, WMO 72506, height 40 m, position 40°46′44″N, 73°58′09″W. JFK (74486) and LaGuardia (72503) have their own files and were not averaged in. The New York State traffic statute did not load on this pass, so there is no driving line. No tipping or tap-water source was opened for US sheets on this pass.",
+    "The highest average high in the table is 29.4 °C, in July. The lowest average low is -2.3 °C, in January. The wettest month by the precipitation column is July, at 116.9 mm, and the driest is February, at 81.0 mm."
+  ],
+  "climate": {
+    "caption": "Station: New York Central Park, WMO 72506.",
+    "stationName": "New York Central Park",
+    "stationId": "WMO 72506",
+    "period": "1991-2020",
+    "elevation": "40 m",
+    "latitude": "40|46|44|N",
+    "longitude": "073|58|09|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "4.2",
+        "low": "-2.3",
+        "rain": "92.5",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "5.7",
+        "low": "-1.4",
+        "rain": "81.0",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "9.9",
+        "low": "2.1",
+        "rain": "109.1",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "16.6",
+        "low": "7.5",
+        "rain": "104.0",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "21.9",
+        "low": "12.8",
+        "rain": "100.7",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "26.5",
+        "low": "18.0",
+        "rain": "115.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "29.4",
+        "low": "21.2",
+        "rain": "116.9",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "28.5",
+        "low": "20.5",
+        "rain": "115.7",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "24.5",
+        "low": "16.8",
+        "rain": "109.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "18.1",
+        "low": "10.8",
+        "rain": "111.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "12.2",
+        "low": "5.6",
+        "rain": "90.9",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "6.9",
+        "low": "1.0",
+        "rain": "111.2",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, New York Central Park (72506)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/UnitedStates/CSV/NEW_YORK_CNTRL_PK_TWR_72506.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows United States at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": null,
+  "currency": {
+    "label": "Currency",
+    "value": "US Dollar (USD)",
+    "detail": "ISO 4217 lists the US Dollar, code USD, for the United States of America. It also lists US Dollar (Next day), code USN, a funds code, which is not printed as the currency.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/New_York",
+    "detail": "IANA's zone.tab gives the United States 29 rows. America/New_York is commented Eastern (most areas). The other US rows are not collapsed into it.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "U.S. Customs and Border Protection",
+    "url": "https://www.cbp.gov/travel/international-visitors",
+    "note": "CBP's page for international visitors. It applies to travelers arriving from outside the United States. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "order": 92,
+  "id": "india",
+  "kind": "country",
+  "name": "India",
+  "countrySlug": "india",
+  "countryName": "India",
+  "path": "/india/",
+  "dek": "New Delhi (Safdarjung), WMO 42182. Hot before the monsoon; wet in July and August.",
+  "paragraphs": [
+    "The reference station is New Delhi (Safdarjung), WMO 42182, height 211.4 m. Palam, Ridge, and Ayanagar are other New Delhi files and were not averaged in; Mumbai, Goa, and the south are not this table. Several months in the file count 26 to 28 years rather than 30. No official driving-side or tipping source for India was found on this pass, so those lines are missing.",
+    "The highest average high in the table is 39.9 °C, in May. The lowest average low is 7.5 °C, in January. The wettest month by the precipitation column is August, at 226.8 mm, and the driest is November, at 4.1 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: New Delhi (Safdarjung), WMO 42182. Not a national average.",
+    "stationName": "New Delhi (Safdarjung)",
+    "stationId": "WMO 42182",
+    "period": "1991-2020",
+    "elevation": "211.4 m",
+    "latitude": "28|35|00|N",
+    "longitude": "77|12|00|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "20.1",
+        "low": "7.5",
+        "rain": "19.2",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "24.2",
+        "low": "10.6",
+        "rain": "21.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "29.9",
+        "low": "15.6",
+        "rain": "19.1",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "36.5",
+        "low": "21.3",
+        "rain": "12.5",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "39.9",
+        "low": "25.8",
+        "rain": "29.4",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "39",
+        "low": "27.7",
+        "rain": "80.6",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "35.6",
+        "low": "27.5",
+        "rain": "195.8",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "34.2",
+        "low": "26.7",
+        "rain": "226.8",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "34.1",
+        "low": "25",
+        "rain": "128",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "33",
+        "low": "19.5",
+        "rain": "14.1",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "28.4",
+        "low": "13",
+        "rain": "4.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "22.8",
+        "low": "8.4",
+        "rain": "8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Several months count 26 to 28 years rather than 30. Some values are printed without a decimal place and are shown that way.",
+    "sourceTitle": "WMO climate normals 1991-2020, New Delhi (Safdarjung) (42182)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/India/CSV/NEW_DELHI_SAFDARJUNG_42182.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C, D and M, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows India at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for India, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, India",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/india"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Indian Rupee (INR)",
+    "detail": "ISO 4217 lists the currency name Indian Rupee and the code INR for India.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Kolkata",
+    "detail": "IANA's zone.tab and zone1970.tab each give India one row, Asia/Kolkata. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Government of India, Indian Visa Online",
+    "url": "https://indianvisaonline.gov.in/",
+    "note": "The government's visa application portal. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

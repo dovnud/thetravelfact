@@ -1,0 +1,173 @@
+{
+  "order": 90,
+  "id": "sydney",
+  "kind": "city",
+  "name": "Sydney",
+  "countrySlug": "australia",
+  "countryName": "Australia",
+  "path": "/australia/sydney/",
+  "dek": "Sydney Observatory Hill, WMO 94768, by the harbour.",
+  "paragraphs": [
+    "Sydney Observatory Hill is WMO 94768, height 39 m, position 33°51′39″S, 151°12′18″E. Sydney Airport (94767) and Sydney Olympic Park (95765) have their own files and were not averaged in. Canberra's numbers are on the Australia sheet.",
+    "The highest average high in the table is 27.7 °C, in February. The lowest average low is 8.9 °C, in July. The wettest month by the precipitation column is June, at 143.2 mm, and the driest is September, at 63.4 mm. The plug, driving, currency, and entry lines are national and repeat the Australia sheet."
+  ],
+  "climate": {
+    "caption": "Station: Sydney Observatory Hill, WMO 94768. Not the airport.",
+    "stationName": "Sydney Observatory Hill",
+    "stationId": "WMO 94768",
+    "period": "1991-2020",
+    "elevation": "39 m",
+    "latitude": "33|51|39|S",
+    "longitude": "151|12|18|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "27.4",
+        "low": "20.0",
+        "rain": "91.1",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "27.7",
+        "low": "19.9",
+        "rain": "131.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "26.4",
+        "low": "18.4",
+        "rain": "117.5",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "24.0",
+        "low": "15.4",
+        "rain": "114.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "21.5",
+        "low": "12.4",
+        "rain": "100.8",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "18.4",
+        "low": "10.0",
+        "rain": "143.2",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "18.4",
+        "low": "8.9",
+        "rain": "80.3",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "19.7",
+        "low": "9.7",
+        "rain": "75.1",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "21.9",
+        "low": "12.3",
+        "rain": "63.4",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "23.6",
+        "low": "14.6",
+        "rain": "67.5",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "24.9",
+        "low": "16.6",
+        "rain": "90.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "26.6",
+        "low": "18.4",
+        "rain": "73.0",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Sydney Airport (94767) and Sydney Olympic Park (95765) were not averaged with Observatory Hill.",
+    "sourceTitle": "WMO climate normals 1991-2020, Sydney Observatory Hill (94768)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/Australia/CSV/SydneyObservatoryHill_94768.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type I, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Australia at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "Tourism Australia's road-safety page says Australians drive on the left side of two-way roads, and suggests asking passengers to remind you each time you set off and when turning at an intersection.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Australia.com (Tourism Australia), road safety",
+    "sourceUrl": "https://www.australia.com/en-us/facts-and-planning/health-and-safety/road-safety.html"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Australia, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Australia",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/australia"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Australian Dollar (AUD)",
+    "detail": "ISO 4217 lists the currency name Australian Dollar and the code AUD for Australia.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Australia/Sydney",
+    "detail": "IANA's zone.tab and zone1970.tab put Sydney on the Australia/Sydney row, commented New South Wales (most areas). Australia has 12 rows in all.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Department of Home Affairs, Immigration and citizenship",
+    "url": "https://immi.homeaffairs.gov.au/",
+    "note": "The Home Affairs immigration site. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

@@ -4,6 +4,13 @@ import { destinations } from "../lib/destinations";
 import { photos } from "../data/photos";
 
 const countries = destinations.filter((d) => d.kind === "country");
+// Cities whose country has no sheet of its own (for example the United States) get an unlinked group heading.
+const orphanGroups = [...new Set(destinations.filter((d) => d.kind === "city" && !countries.some((c) => c.countrySlug === d.countrySlug)).map((d) => d.countrySlug))]
+  .map((slug) => destinations.filter((d) => d.kind === "city" && d.countrySlug === slug));
+const groups = [
+  ...countries.map((country) => ({ head: country, rows: [country, ...destinations.filter((d) => d.kind === "city" && d.countrySlug === country.countrySlug)] })),
+  ...orphanGroups.map((rows) => ({ head: null, name: rows[0].countryName, rows })),
+].sort((a, b) => a.rows[0].order - b.rows[0].order);
 const jsonLd = {
   "@context": "https://schema.org",
   "@graph": [
@@ -23,7 +30,7 @@ const jsonLd = {
 
 <Base
   title="TheTravelFact"
-  description="Sourced destination sheets for Mexico, Canada, the United Kingdom, Italy, France, the Dominican Republic, Spain, Germany, Japan, Ireland, Portugal, the Netherlands, Greece, Iceland, Switzerland, Austria, Czechia, Croatia, Hungary, Poland, Turkey, Morocco, Egypt, Costa Rica, Jamaica, the Bahamas, Aruba, Panama, Colombia, Peru, Brazil, Argentina, and Chile. Every climate number has a station, a source, and a date."
+  description="Sourced destination sheets for Mexico, Canada, the United Kingdom, Italy, France, the Dominican Republic, Spain, Germany, Japan, Ireland, Portugal, the Netherlands, Greece, Iceland, Switzerland, Austria, Czechia, Croatia, Hungary, Poland, Turkey, Morocco, Egypt, Costa Rica, Jamaica, the Bahamas, Aruba, Panama, Colombia, Peru, Brazil, Argentina, Chile, Thailand, South Korea, Vietnam, Indonesia, Singapore, Australia, New Zealand, India, South Africa, Dubai, New York, Miami, Los Angeles, San Francisco, Hawaii, and Puerto Rico. Every climate number has a station, a source, and a date."
   jsonLd={jsonLd}
 >
   <figure class="photo">
@@ -44,7 +51,7 @@ const jsonLd = {
     </figcaption>
   </figure>
   <section class="deck">
-    <div class="deck-kicker">80 sheets</div>
+    <div class="deck-kicker">102 sheets</div>
     <p>
       A destination sheet is one URL. It holds the month-by-month climate of a named station, then the plug, the side of the road, tipping, tap water, the currency, and the time zone. If a number has no source, it is not on the page.
       The order below is the launch list. <a href="#index">The index</a> starts with Mexico. <a href="/sources/">The method</a> is written out.
@@ -62,13 +69,12 @@ const jsonLd = {
         </tr>
       </thead>
       <tbody>
-        {countries.map((country) => {
-          const cities = destinations.filter((d) => d.kind === "city" && d.countrySlug === country.countrySlug);
-          const rows = [country, ...cities];
+        {groups.map((group) => {
+          const rows = group.rows;
           return (
             <>
               <tr class="group-row">
-                <td colspan="3"><a href={country.path}>{country.name}</a></td>
+                <td colspan="3">{group.head ? <a href={group.head.path}>{group.head.name}</a> : group.name}</td>
               </tr>
               {rows.map((place) => (
                 <tr>

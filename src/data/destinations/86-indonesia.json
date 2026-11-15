@@ -1,0 +1,166 @@
+{
+  "order": 86,
+  "id": "indonesia",
+  "kind": "country",
+  "name": "Indonesia",
+  "countrySlug": "indonesia",
+  "countryName": "Indonesia",
+  "path": "/indonesia/",
+  "dek": "Kemayoran, Jakarta, WMO 96745. Bali has its own sheet.",
+  "paragraphs": [
+    "The reference station is Stasiun Meteorologi Kemayoran, Jakarta, WMO 96745, height 4 m. The Indonesian submission has more than a hundred station files; none were averaged. Jakarta is on Asia/Jakarta time; Bali is on Asia/Makassar. No official driving-side or tipping source for Indonesia was found on this pass, so those lines are missing.",
+    "The highest average high in the table is 33.4 °C, in September and October. The lowest average low is 25.2 °C, in January and February. The wettest month by the precipitation column is February, at 381.4 mm, and the driest is August, at 51.5 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Kemayoran, Jakarta, WMO 96745. Not Bali and not a national average.",
+    "stationName": "Stasiun Meteorologi Kemayoran",
+    "stationId": "WMO 96745",
+    "period": "1991-2020",
+    "elevation": "4 m",
+    "latitude": "06|09|20|S",
+    "longitude": "106|50|24|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "31",
+        "low": "25.2",
+        "rain": "373.3",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "30.8",
+        "low": "25.2",
+        "rain": "381.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "32.1",
+        "low": "25.5",
+        "rain": "210.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "32.8",
+        "low": "25.6",
+        "rain": "164.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "33.2",
+        "low": "25.8",
+        "rain": "103.2",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "32.9",
+        "low": "25.5",
+        "rain": "80.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "32.7",
+        "low": "25.3",
+        "rain": "77.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "33",
+        "low": "25.3",
+        "rain": "51.5",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "33.4",
+        "low": "25.5",
+        "rain": "61",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "33.4",
+        "low": "25.6",
+        "rain": "112.2",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "32.8",
+        "low": "25.6",
+        "rain": "134.8",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "32",
+        "low": "25.5",
+        "rain": "183.3",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Stasiun Meteorologi Kemayoran (96745)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/Indonesia/CSV/StasiunMeteorologiKemayoran_96745.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 220 V and 110 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Indonesia at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read. The line lists two voltages and does not say where each is used, so this sheet does not either.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Indonesia, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Indonesia",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/indonesia"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Rupiah (IDR)",
+    "detail": "ISO 4217 lists the currency name Rupiah and the code IDR for Indonesia.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Jakarta for Java and Sumatra; 4 zones in all",
+    "detail": "IANA's zone.tab and zone1970.tab each give Indonesia four rows: Asia/Jakarta for Java and Sumatra; Asia/Pontianak for west and central Borneo; Asia/Makassar for east and south Borneo, Sulawesi, Bali, Nusa Tenggara, and west Timor; and Asia/Jayapura for New Guinea and the Moluccas.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Directorate General of Immigration, Indonesia",
+    "url": "https://evisa.imigrasi.go.id/",
+    "note": "The official e-Visa site of the immigration directorate. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

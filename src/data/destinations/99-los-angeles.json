@@ -1,0 +1,166 @@
+{
+  "order": 99,
+  "id": "los-angeles",
+  "kind": "city",
+  "name": "Los Angeles",
+  "countrySlug": "united-states",
+  "countryName": "United States",
+  "path": "/united-states/los-angeles/",
+  "dek": "Los Angeles International Airport, WMO 72295, by the coast.",
+  "paragraphs": [
+    "The station is Los Angeles International Airport, WMO 72295, height 30 m, position 33°56′17″N, 118°23′20″W. It sits near the ocean, so inland valleys run hotter in summer. No tipping or tap-water source was opened for US sheets on this pass.",
+    "The highest average high in the table is 24.8 °C, in August. The lowest average low is 9.5 °C, in December. The wettest month by the precipitation column is February, at 76.0 mm, and the driest is August, at 0.1 mm."
+  ],
+  "climate": {
+    "caption": "Station: Los Angeles International Airport, WMO 72295. Not downtown.",
+    "stationName": "Los Angeles International Airport",
+    "stationId": "WMO 72295",
+    "period": "1991-2020",
+    "elevation": "30 m",
+    "latitude": "33|56|17|N",
+    "longitude": "118|23|20|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "19.1",
+        "low": "9.7",
+        "rain": "72.6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "18.7",
+        "low": "10.1",
+        "rain": "76.0",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "18.9",
+        "low": "11.2",
+        "rain": "44.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "20.1",
+        "low": "12.3",
+        "rain": "15.3",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "20.8",
+        "low": "14.2",
+        "rain": "7.2",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "22.2",
+        "low": "16.0",
+        "rain": "1.9",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "24.0",
+        "low": "17.8",
+        "rain": "1.1",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "24.8",
+        "low": "18.2",
+        "rain": "0.1",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "24.7",
+        "low": "17.6",
+        "rain": "2.7",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "23.6",
+        "low": "15.4",
+        "rain": "12.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "21.6",
+        "low": "12.0",
+        "rain": "20.9",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "19.0",
+        "low": "9.5",
+        "rain": "56.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Los Angeles International Airport (72295)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/UnitedStates/CSV/LOS_ANGELES_INTL_AP_72295.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows United States at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Section 21650 of the California Vehicle Code, on the Legislature's site, says that on all highways a vehicle shall be driven on the right half of the roadway, with exceptions such as overtaking, left turns, closures, and one-way roads.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "California Vehicle Code 21650, California Legislative Information",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21650"
+  },
+  "tipping": null,
+  "water": null,
+  "currency": {
+    "label": "Currency",
+    "value": "US Dollar (USD)",
+    "detail": "ISO 4217 lists the US Dollar, code USD, for the United States of America. It also lists US Dollar (Next day), code USN, a funds code, which is not printed as the currency.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Los_Angeles",
+    "detail": "IANA's zone.tab gives the United States 29 rows. America/Los_Angeles is commented Pacific. The other US rows are not collapsed into it.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "U.S. Customs and Border Protection",
+    "url": "https://www.cbp.gov/travel/international-visitors",
+    "note": "CBP's page for international visitors. It applies to travelers arriving from outside the United States. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

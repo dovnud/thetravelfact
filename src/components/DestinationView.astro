@@ -121,7 +121,7 @@ const jsonLd = {
       <div class="nameplate">
         <span class="no">{String(destination.order).padStart(2, "0")}</span>
         <div>
-          <p class="kicker">{destination.kind === "country" ? "Country sheet" : destination.countryName}</p>
+          <p class="kicker">{destination.sheetLabel ?? (destination.kind === "country" ? "Country sheet" : destination.countryName)}</p>
           <h1>{destination.name}</h1>
         </div>
       </div>

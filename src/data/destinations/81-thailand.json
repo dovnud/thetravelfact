@@ -1,0 +1,166 @@
+{
+  "order": 81,
+  "id": "thailand",
+  "kind": "country",
+  "name": "Thailand",
+  "countrySlug": "thailand",
+  "countryName": "Thailand",
+  "path": "/thailand/",
+  "dek": "Bangkok Metropolis, WMO 48455. The capital, not the islands.",
+  "paragraphs": [
+    "The reference station is Bangkok Metropolis, WMO 48455, height 3.01 m. Phuket, Chiang Mai, and the islands are not this table; the Thai submission has many station files, and none were averaged. No official driving-side or tipping source for Thailand was found on this pass, so those lines are missing.",
+    "The highest average high in the table is 35.7 °C, in April. The lowest average low is 23.2 °C, in December. The wettest month by the precipitation column is September, at 335.9 mm, and the driest is December, at 11.6 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Bangkok Metropolis, WMO 48455. Not a national average.",
+    "stationName": "Bangkok Metropolis",
+    "stationId": "WMO 48455",
+    "period": "1991-2020",
+    "elevation": "3.01 m",
+    "latitude": "13|43|35|N",
+    "longitude": "100|33|36|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "32.7",
+        "low": "23.4",
+        "rain": "23.6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "33.7",
+        "low": "24.8",
+        "rain": "21.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "34.7",
+        "low": "26.4",
+        "rain": "51",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "35.7",
+        "low": "27.2",
+        "rain": "93.3",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "35.1",
+        "low": "26.9",
+        "rain": "216.8",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "34.1",
+        "low": "26.4",
+        "rain": "198.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "33.5",
+        "low": "26.1",
+        "rain": "189.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "33.3",
+        "low": "25.9",
+        "rain": "227.1",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "33.2",
+        "low": "25.4",
+        "rain": "335.9",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "33",
+        "low": "25.2",
+        "rain": "288.7",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "33.1",
+        "low": "24.7",
+        "rain": "44.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "32.3",
+        "low": "23.2",
+        "rain": "11.6",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Don Muang Airport (48456) and Bangkok Port Klong Toei (48454) are separate Bangkok files and were not averaged in. Some values are printed without a decimal place, such as 33, and are shown that way.",
+    "sourceTitle": "WMO climate normals 1991-2020, Bangkok Metropolis (48455)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/Thailand/CSV/BangkokMetropolis_48455.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A, B, C, F and O, 220 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Thailand at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Thailand, last reviewed October 08, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Thailand",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/thailand"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Baht (THB)",
+    "detail": "ISO 4217 lists the currency name Baht and the code THB for Thailand.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Bangkok",
+    "detail": "IANA's zone.tab gives Thailand one row, Asia/Bangkok. zone1970.tab lists that zone on a row it shares with Christmas Island, Cambodia, Laos, and Vietnam; the zone name is the same in both files.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs of Thailand, official e-Visa site",
+    "url": "https://www.thaievisa.go.th/",
+    "note": "Thailand's official e-Visa site. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}
