@@ -8,8 +8,8 @@
   "path": "/thailand/",
   "dek": "Bangkok Metropolis, WMO 48455. The capital, not the islands.",
   "paragraphs": [
-    "The reference station is Bangkok Metropolis, WMO 48455, height 3.01 m. Phuket, Chiang Mai, and the islands are not this table; the Thai submission has many station files, and none were averaged. No official driving-side or tipping source for Thailand was found on this pass, so those lines are missing.",
-    "The highest average high in the table is 35.7 °C, in April. The lowest average low is 23.2 °C, in December. The wettest month by the precipitation column is September, at 335.9 mm, and the driest is December, at 11.6 mm."
+    "The reference station is Bangkok Metropolis, WMO 48455, height 3.01 m. Phuket, Chiang Mai, and the islands are not this table; the Thai submission has many station files, and none were averaged.",
+    "The highest average high in the table is 35.7 °C, in April. The lowest average low is 23.2 °C, in December. The wettest month by the precipitation column is September, at 335.9 mm, and the driest is December, at 11.6 mm. No official tipping source was found on this pass, so that line is missing."
   ],
   "climate": {
     "caption": "Reference station: Bangkok Metropolis, WMO 48455. Not a national average.",
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Tourism Authority of Thailand newsroom guide for tourists and foreigners says: \"Drive on the left side of the road.\"",
+    "asOf": "2026-11-15",
+    "sourceTitle": "TAT Newsroom, Driving in Thailand: Essential Guidelines for Tourists and Foreigners",
+    "sourceUrl": "https://www.tatnews.org/2024/11/driving-in-thailand-essential-guidelines-for-tourists-and-foreigners/"
+  },
   "tipping": null,
   "water": {
     "label": "Tap water",

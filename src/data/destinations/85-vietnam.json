@@ -6,108 +6,108 @@
   "countrySlug": "vietnam",
   "countryName": "Vietnam",
   "path": "/vietnam/",
-  "dek": "No climate table yet. The facts below are sourced; the months are blank.",
+  "dek": "Precipitation only, for Da Nang in central Vietnam. Hanoi and Ho Chi Minh City are not this table.",
   "paragraphs": [
-    "Vietnam has no folder in the Region II collection of the WMO 1991–2020 normals distributed by NOAA NCEI, and no 1991–2020 monthly normal from Vietnam's national hydro-meteorological service was found on this pass, so the climate cells are blank. No official driving-side or tipping source for Vietnam was found, so those lines are missing."
+    "Vietnam has no folder in the WMO 1991–2020 normals collection distributed by NOAA NCEI, and no monthly normal from Vietnam's national hydro-meteorological service was found on this pass. The rain column is the Japan Meteorological Agency's 1991–2020 normal for Da Nang (16.07°N, 108.35°E, 7 m), computed from CLIMAT reports. Hanoi has no normal in that tool and Ho Chi Minh City has no rain normal, so the north and south are not this table. October is the wettest month, at 692.5 mm, and February the driest, at 16.5 mm. The same JMA page gives the 1991–2020 normal monthly mean temperature in °C as Jan 21.7, Feb 22.6, Mar 24.4, Apr 26.6, May 28.8, Jun 30.0, Jul 29.4, Aug 29.3, Sep 27.9, Oct 26.3, Nov 24.9, Dec 22.4; the table has no column for a mean, so those figures are printed here. No official tipping source was found on this pass, so that line is missing."
   ],
   "climate": {
-    "caption": "No 1991–2020 month table is printed for Vietnam.",
-    "stationName": "Not printed",
-    "stationId": null,
-    "period": "a period we could not source",
-    "elevation": null,
-    "latitude": null,
-    "longitude": null,
+    "caption": "Station: Da Nang, central Vietnam. Precipitation only.",
+    "stationName": "Da Nang",
+    "stationId": "JMA ClimatView 48855",
+    "period": "1991–2020",
+    "elevation": "7 m",
+    "latitude": "16.07",
+    "longitude": "108.35",
     "columnRain": "Precipitation (mm)",
     "months": [
       {
         "month": "January",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "99.8",
         "precip": null
       },
       {
         "month": "February",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "16.5",
         "precip": null
       },
       {
         "month": "March",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "34.4",
         "precip": null
       },
       {
         "month": "April",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "55.0",
         "precip": null
       },
       {
         "month": "May",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "53.3",
         "precip": null
       },
       {
         "month": "June",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "55.2",
         "precip": null
       },
       {
         "month": "July",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "99.8",
         "precip": null
       },
       {
         "month": "August",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "143.1",
         "precip": null
       },
       {
         "month": "September",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "410.4",
         "precip": null
       },
       {
         "month": "October",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "692.5",
         "precip": null
       },
       {
         "month": "November",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "471.2",
         "precip": null
       },
       {
         "month": "December",
         "high": null,
         "low": null,
-        "rain": null,
+        "rain": "210.2",
         "precip": null
       }
     ],
-    "note": "Vietnam has no folder in the Region II collection of the WMO 1991–2020 normals distributed by NOAA NCEI, version 6.6. A national 1991–2020 monthly normal was not found on this pass. The cells are blank rather than borrowed from another country.",
-    "sourceTitle": "WMO 1991-2020 Region II directory (no Vietnam folder)",
-    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/",
+    "note": "Normals from the Japan Meteorological Agency (JMA) ClimatView tool, which computes 1991–2020 normals from the CLIMAT reports national services send through the WMO. ClimatView gives a normal for monthly mean temperature and precipitation only; it has no normal daily maximum or minimum, so the high and low cells are blank. Vietnam's own hydro-meteorological service normals were not found on this pass. Hanoi (48820) has no normal in ClimatView, and Ho Chi Minh City (48900) has a temperature normal but no precipitation normal, so central Da Nang is the one Vietnamese station printed.",
+    "sourceTitle": "Japan Meteorological Agency, ClimatView monthly statistics, station 48855",
+    "sourceUrl": "https://www.data.jma.go.jp/cpd/monitor/climatview/graph_mkhtml.php?m=9&n=48855",
     "asOf": "2026-11-15"
   },
   "season": [],
@@ -119,7 +119,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "The Law on Road Traffic Order and Safety, No. 36/2024/QH15, in force from 1 January 2025, Article 10(1), says road users must keep to the right in their direction of travel. The copy read is on the Quảng Trị provincial portal.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Law No. 36/2024/QH15 (Quảng Trị provincial portal copy)",
+    "sourceUrl": "https://www.quangtri.gov.vn/documents/d/quangtriportal/36-2024-qh15.pdf"
+  },
   "tipping": null,
   "water": {
     "label": "Tap water",

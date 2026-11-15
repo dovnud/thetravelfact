@@ -8,7 +8,7 @@
   "path": "/peru/",
   "dek": "Granja Kcayra, at 3,214 m in the Cusco region. Lima is not in the file set.",
   "paragraphs": [
-    "Lima has no file in the Peruvian 1991–2020 submission. The reference station is Granja Kcayra, number 34001 in the file, height 3214 m, position 13°33′24″S, 71°52′31″W, in the Cusco region. It is a highland table; the coast is not this. No official driving-side source was found on this pass.",
+    "Lima has no file in the Peruvian 1991–2020 submission. The reference station is Granja Kcayra, number 34001 in the file, height 3214 m, position 13°33′24″S, 71°52′31″W, in the Cusco region. It is a highland table; the coast is not this.",
     "The highest average high in the table is 22.2 °C, in November. The lowest average low is -1.3 °C, in July. The wettest month by the precipitation column is January, at 145.8 mm, and the driest is June, at 3.7 mm."
   ],
   "climate": {
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "The national traffic regulation, Decreto Supremo 016-2009-MTC, article 135, says that on two-lane roads with two-way traffic vehicles must use the right-hand lane. The copy read is the El Peruano publication posted on gob.pe; later amendments were not checked.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "DS 016-2009-MTC, Reglamento Nacional de Tránsito (El Peruano, via gob.pe)",
+    "sourceUrl": "https://cdn.www.gob.pe/uploads/document/file/19098/Publicaci%C3%B3n%20del%20Decreto%20Supremo%20N%C2%B0%20016-2009-MTC%20en%20el%20Diario%20Oficial%20El%20Peruano.pdf"
+  },
   "tipping": {
     "label": "Tipping",
     "value": "About 10% in restaurants, no set amount",

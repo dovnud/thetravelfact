@@ -9,7 +9,7 @@
   "dek": "Bangkok Metropolis, WMO 48455, in the city. Don Muang was not merged.",
   "paragraphs": [
     "Bangkok Metropolis is WMO 48455, height 3.01 m, position 13°43′35″N, 100°33′36″E. The Thailand sheet uses the same station. Don Muang Airport and Bangkok Port Klong Toei have their own files and were not averaged in.",
-    "The highest average high in the table is 35.7 °C, in April. The lowest average low is 23.2 °C, in December. The wettest month by the precipitation column is September, at 335.9 mm, and the driest is December, at 11.6 mm. The plug, currency, time-zone, and entry lines are national and repeat the Thailand sheet."
+    "The highest average high in the table is 35.7 °C, in April. The lowest average low is 23.2 °C, in December. The wettest month by the precipitation column is September, at 335.9 mm, and the driest is December, at 11.6 mm. The plug, currency, time-zone, and entry lines are national and repeat the Thailand sheet. No official tipping source was found on this pass, so that line is missing."
   ],
   "climate": {
     "caption": "Station: Bangkok Metropolis, WMO 48455.",
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Tourism Authority of Thailand newsroom guide for tourists and foreigners says: \"Drive on the left side of the road.\"",
+    "asOf": "2026-11-15",
+    "sourceTitle": "TAT Newsroom, Driving in Thailand: Essential Guidelines for Tourists and Foreigners",
+    "sourceUrl": "https://www.tatnews.org/2024/11/driving-in-thailand-essential-guidelines-for-tourists-and-foreigners/"
+  },
   "tipping": null,
   "water": {
     "label": "Tap water",

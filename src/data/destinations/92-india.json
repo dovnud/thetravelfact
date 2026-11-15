@@ -8,8 +8,8 @@
   "path": "/india/",
   "dek": "New Delhi (Safdarjung), WMO 42182. Hot before the monsoon; wet in July and August.",
   "paragraphs": [
-    "The reference station is New Delhi (Safdarjung), WMO 42182, height 211.4 m. Palam, Ridge, and Ayanagar are other New Delhi files and were not averaged in; Mumbai, Goa, and the south are not this table. Several months in the file count 26 to 28 years rather than 30. No official driving-side or tipping source for India was found on this pass, so those lines are missing.",
-    "The highest average high in the table is 39.9 °C, in May. The lowest average low is 7.5 °C, in January. The wettest month by the precipitation column is August, at 226.8 mm, and the driest is November, at 4.1 mm."
+    "The reference station is New Delhi (Safdarjung), WMO 42182, height 211.4 m. Palam, Ridge, and Ayanagar are other New Delhi files and were not averaged in; Mumbai, Goa, and the south are not this table. Several months in the file count 26 to 28 years rather than 30.",
+    "The highest average high in the table is 39.9 °C, in May. The lowest average low is 7.5 °C, in January. The wettest month by the precipitation column is August, at 226.8 mm, and the driest is November, at 4.1 mm. No official tipping source was found on this pass, so that line is missing."
   ],
   "climate": {
     "caption": "Reference station: New Delhi (Safdarjung), WMO 42182. Not a national average.",
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Rules of the Road Regulations, 1989, regulation 2, \"Keep Left\", require the driver to drive as close to the left side of the road as may be expedient. The copy read is the one published by the Telangana Transport Department.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Rules of the Road Regulations, 1989 (Telangana Transport Department copy)",
+    "sourceUrl": "https://transport.telangana.gov.in/html/pdf/rules_of_the_road_regulations_1989.pdf"
+  },
   "tipping": null,
   "water": {
     "label": "Tap water",

@@ -8,8 +8,8 @@
   "path": "/singapore/",
   "dek": "Changi Airport, WMO 48698. The only Singapore file.",
   "paragraphs": [
-    "The only station in the Singapore submission is Changi Airport, WMO 48698, height 14 m, at the eastern end of the island. No official driving-side or tipping source for Singapore was found on this pass, so those lines are missing.",
-    "The highest average high in the table is 32.4 °C, in April. The lowest average low is 24.3 °C, in January and December. The wettest month by the precipitation column is December, at 332.1 mm, and the driest is February, at 105.0 mm."
+    "The only station in the Singapore submission is Changi Airport, WMO 48698, height 14 m, at the eastern end of the island.",
+    "The highest average high in the table is 32.4 °C, in April. The lowest average low is 24.3 °C, in January and December. The wettest month by the precipitation column is December, at 332.1 mm, and the driest is February, at 105.0 mm. No official tipping source was found on this pass, so that line is missing."
   ],
   "climate": {
     "caption": "Reference station: Changi Airport, WMO 48698.",
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Highway Code under the Road Traffic Act, paragraph 50, tells drivers to keep well to the left and as near as practicable to the edge of the road.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Singapore Statutes Online, Road Traffic Act, Highway Code (R11)",
+    "sourceUrl": "https://sso.agc.gov.sg/SL/RTA1961-R11?ProvIds=P1IV-"
+  },
   "tipping": null,
   "water": {
     "label": "Tap water",

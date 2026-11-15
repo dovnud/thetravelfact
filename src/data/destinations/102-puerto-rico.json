@@ -9,8 +9,8 @@
   "path": "/puerto-rico/",
   "dek": "A US territory. San Juan Luis Muñoz Marín Airport, WMO 78526.",
   "paragraphs": [
-    "Puerto Rico is a US territory; this is its own sheet. The reference station is San Juan Luis Muñoz Marín International Airport, WMO 78526, height 3 m, position 18°25′57″N, 66°00′39″W. No official driving-side or tipping source for Puerto Rico was found on this pass, so those lines are missing.",
-    "The highest average high in the table is 31.8 °C, in September. The lowest average low is 22.1 °C, in February. The wettest month by the precipitation column is November, at 187.1 mm, and the driest is March, at 55.4 mm."
+    "Puerto Rico is a US territory; this is its own sheet. The reference station is San Juan Luis Muñoz Marín International Airport, WMO 78526, height 3 m, position 18°25′57″N, 66°00′39″W.",
+    "The highest average high in the table is 31.8 °C, in September. The lowest average low is 22.1 °C, in February. The wettest month by the precipitation column is November, at 187.1 mm, and the driest is March, at 55.4 mm. No official tipping source was found on this pass, so that line is missing."
   ],
   "climate": {
     "caption": "Reference station: San Juan Luis Muñoz Marín Airport, WMO 78526.",
@@ -121,7 +121,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Same side as the US mainland",
+    "detail": "Discover Puerto Rico, the island's official destination marketing site, says: \"Driving here is on the same side of the road as the mainland as well.\" The page does not use the word \"right\"; on the US mainland traffic keeps right.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Discover Puerto Rico, Car Rental",
+    "sourceUrl": "https://www.discoverpuertorico.com/transportation/car-rental"
+  },
   "tipping": null,
   "water": {
     "label": "Tap water",

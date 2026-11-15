@@ -120,8 +120,22 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
-  "tipping": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "The Korea Tourism Organization guide says Korea practices right-hand traffic: stay on the right side of the road, and the driver's seat is on the left.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "VisitKorea, Your Guide to Driving in Korea",
+    "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=251489"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not required or expected",
+    "detail": "The Korea Tourism Organization's food guide says: \"Tipping is not required or expected in Korea.\"",
+    "asOf": "2026-11-15",
+    "sourceTitle": "VisitKorea, About Korean Food",
+    "sourceUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140727"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

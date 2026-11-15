@@ -8,7 +8,7 @@
   "path": "/hawaii/maui/",
   "dek": "Kahului Airport, WMO 91190, on Maui's north shore.",
   "paragraphs": [
-    "The station is Kahului Airport, WMO 91190, height 16 m, position 20°53′59″N, 156°25′43″W. It is one airport on the island; upcountry Maui and Haleakalā are cooler and are not this table. No tipping or tap-water source was opened for US sheets on this pass.",
+    "The station is Kahului Airport, WMO 91190, height 16 m, position 20°53′59″N, 156°25′43″W. It is one airport on the island; upcountry Maui and Haleakalā are cooler and are not this table.",
     "The highest average high in the table is 32.2 °C, in August and September. The lowest average low is 17.6 °C, in January. The wettest month by the precipitation column is December, at 71.1 mm, and the driest is June, at 4.3 mm."
   ],
   "climate": {
@@ -128,8 +128,22 @@
     "sourceTitle": "Hawaii Revised Statutes 291C-41, Hawaii State Legislature",
     "sourceUrl": "https://www.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0041.htm"
   },
-  "tipping": null,
-  "water": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "15–20% at sit-down meals",
+    "detail": "Visit The USA, run by Brand USA, says diners usually tip 15–20% for a sit-down meal and 10% at a buffet, and that some restaurants add a gratuity for parties of six or more. Its same answer gives bartenders $1 a drink or 15–20%, taxis 10–18%, bell staff $1–2 a bag, housekeeping $2–5 a night, and tour guides 10–20%. It is guidance, not a law.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit The USA (Brand USA), Travel Trade FAQ",
+    "sourceUrl": "https://www.visittheusa.com/travel-trade/faq/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Safe to drink, per Visit The USA",
+    "detail": "Visit The USA, run by Brand USA, says: \"Protected by federal law, water in the United States is safe to drink.\" This is the tourism body's line, not a CDC or EPA statement, and local advisories can still apply.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit The USA (Brand USA), Travel Trade FAQ",
+    "sourceUrl": "https://www.visittheusa.com/travel-trade/faq/"
+  },
   "currency": {
     "label": "Currency",
     "value": "US Dollar (USD)",
