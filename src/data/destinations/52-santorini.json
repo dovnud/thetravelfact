@@ -6,16 +6,16 @@
   "countrySlug": "greece",
   "countryName": "Greece",
   "path": "/greece/santorini/",
-  "dek": "No 1991–2020 station file. Athens was not used in its place.",
+  "dek": "No Santorini climate file was opened. Elliniko's Athens table is not used here.",
   "paragraphs": [
-    "Santorini has no row in a Greek 1991–2020 submission, because that submission is not in the NOAA collection. The Athens gap is a different station even if the numbers had been copied, and they were not. A chart or a travel site that names Thira was not used.",
-    "The island is on Europe/Athens, the only Greek zone in zone.tab and zone1970.tab. Plugs, currency, and the CDC water note are the national lines. Driving and tipping are blank because no statute and no tourism-office sentence were opened."
+    "The HNMS city climatology for the South Aegean, opened on 15 November 2026, lists Naxos and Rodos. Santorini, Thira, and Fira are not in that list, and requests for those names did not return a station table. Elliniko's 1955–2010 numbers are on the Athens sheet. They are not copied here.",
+    "The island is on Europe/Athens, the only Greek zone in the IANA files. The traffic code's right-hand rule and Visit Greece's tipping line are national and are repeated here. The climate cells stay blank."
   ],
   "climate": {
     "caption": "No 1991–2020 month table is printed for Santorini. Athens was not substituted.",
     "stationName": "Not printed",
     "stationId": null,
-    "period": "1991-2020",
+    "period": "a period we could not source",
     "elevation": null,
     "latitude": null,
     "longitude": null,
@@ -120,8 +120,22 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
-  "tipping": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 20(1) of Law 5209/2025, the Road Traffic Code, published in Government Gazette A 100 of 13 June 2025, says right-hand traffic applies on the country's road network. The same paragraph says the driver of every vehicle drives near the right edge of the carriageway even if the whole carriageway is free, subject to Article 16(1) and Article 21(6).",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Law 5209/2025, Article 20, Government Gazette A 100/13.06.2025",
+    "sourceUrl": "https://api.et.gr/apiLAW/1/2025/5209/pdf"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not mandatory; 5–10% is appreciated",
+    "detail": "Visit Greece's English page of quick travel tips says tipping is not mandatory, but a 5–10% tip is appreciated in restaurants for good service.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit Greece, did you know",
+    "sourceUrl": "https://www.visitgreece.gr/en/did-you-know"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

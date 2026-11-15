@@ -128,7 +128,26 @@
     "sourceTitle": "Verkehrsregelnverordnung, Art. 7 and 8, Fedlex",
     "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/de"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not obligatory; about 10% or round up",
+    "detail": "Switzerland Tourism's tipping page says the guest is not obliged to tip, and that in many restaurants it is customary to pay a tip of approximately 10 percent, or to round up to a round amount. The same office's food-and-drink page says you never have to worry about tipping because tips are included in the price, and that rounding up to the nearest franc is a way to acknowledge good service. Those two pages are not averaged. This sheet uses the tipping page.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Switzerland Tourism, tipping",
+    "sourceUrl": "https://www.myswitzerland.com/en-us/planning/about-switzerland/general-facts/money-and-shopping/tipping/",
+    "sources": [
+      {
+        "sourceTitle": "Switzerland Tourism, tipping",
+        "sourceUrl": "https://www.myswitzerland.com/en-us/planning/about-switzerland/general-facts/money-and-shopping/tipping/",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "Switzerland Tourism, food and drink",
+        "sourceUrl": "https://www.myswitzerland.com/en-us/planning/about-switzerland/general-facts/general-information/food-and-drink/",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

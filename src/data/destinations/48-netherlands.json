@@ -128,7 +128,14 @@
     "sourceTitle": "RVV 1990, artikel 3, wetten.overheid.nl",
     "sourceUrl": "https://wetten.overheid.nl/BWBR0004825/2024-07-01"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "About 10% is acceptable",
+    "detail": "Holland.com says a tip of about 10% is quite acceptable in the Netherlands, and that the amount is not set in stone. More is fine if the food, service, or overall experience was excellent, and not tipping is also a choice if the service or meal was poor, though the page says that may be considered a bit rude. It says waitstaff do not live off their tips. A debit-card payment can include the tip.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Holland.com, tipping and cash",
+    "sourceUrl": "https://www.holland.com/global/tourism/getting-around/travel-tips/tipping-and-cash"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

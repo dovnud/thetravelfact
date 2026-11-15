@@ -128,7 +128,14 @@
     "sourceTitle": "Act No. 361/2000 Coll., § 11, Zákony pro lidi",
     "sourceUrl": "https://www.zakonyprolidi.cz/cs/2000-361#p11"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Customary tips up to 10%",
+    "detail": "VisitCzechia's travel-information page places one line under restaurants and accommodation: customary tips up to 10%. The page does not say whether that is of the bill before or after tax, so this sheet does not add that.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "VisitCzechia, travel information",
+    "sourceUrl": "https://www.visitczechia.com/en-us/travel-info"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

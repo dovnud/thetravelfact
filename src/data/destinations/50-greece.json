@@ -6,109 +6,109 @@
   "countrySlug": "greece",
   "countryName": "Greece",
   "path": "/greece/",
-  "dek": "No 1991–2020 month table. Greece is missing from the NCEI collection, and the Athens image was not transcribed.",
+  "dek": "Elliniko, 1955–2010, from the Hellenic weather service. Not a 1991–2020 normal, and not Santorini.",
   "paragraphs": [
-    "The Region VI directory for the 1991–2020 normals, version 6.6, has no Greece folder. The HNMS page that was opened for Elliniko is labelled 1955–2010. That is a different period, so it is not printed and not relabelled. The National Observatory of Athens put a 1991–2020 temperature table in a February 2021 magazine article, as an image. The 1961–1990 row of that image does not match the institute's own HTML table for 1961–1990 to the tenth of a degree, so the 1991–2020 row was not copied.",
-    "Athens and Santorini therefore have no climate numbers on their sheets. Santorini was not given a borrowed Athens table. The plug, the currency, the single time zone, and the foreign-ministry link are national. No driving statute was opened, and no tourism-office tipping line was opened, so those two rows are blank."
+    "Greece has no folder in the NOAA NCEI 1991–2020 collection. The table is the Hellenic National Meteorological Service page for Elliniko, which prints the period 1955–2010, altitude 43 m, latitude 37.89, longitude 23.74. The rows are the page's own labels: maximum monthly temperature, minimum monthly temperature, and monthly mean precipitation height. Charts on that page mark the axes as temperature in C and precipitation in mm. This is the Athens-area station, not a national average.",
+    "The South Aegean list on the same service, opened the same day, names Naxos and Rodos. Santorini is not on that list, so the Santorini sheet does not borrow Elliniko. July and August share the highest maximum in this table, and December is the heaviest precipitation month. The driving rule is Article 20 of the 2025 traffic code. Visit Greece says a restaurant tip is not mandatory."
   ],
   "climate": {
-    "caption": "No 1991–2020 month table is printed. Greece is not in the NOAA NCEI collection used for the other European sheets.",
-    "stationName": "Not printed",
+    "caption": "Reference station: Elliniko, HNMS, period 1955–2010. Not a 1991–2020 normal and not a national average.",
+    "stationName": "Elliniko",
     "stationId": null,
-    "period": "1991-2020",
-    "elevation": null,
-    "latitude": null,
-    "longitude": null,
+    "period": "1955-2010",
+    "elevation": "43 m",
+    "latitude": "37.89",
+    "longitude": "23.74",
     "columnRain": "Precipitation (mm)",
     "months": [
       {
         "month": "January",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "13.6",
+        "low": "7.0",
+        "rain": "47.7",
         "precip": null
       },
       {
         "month": "February",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "14.1",
+        "low": "7.1",
+        "rain": "38.5",
         "precip": null
       },
       {
         "month": "March",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "15.9",
+        "low": "8.5",
+        "rain": "42.3",
         "precip": null
       },
       {
         "month": "April",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "19.6",
+        "low": "11.5",
+        "rain": "25.5",
         "precip": null
       },
       {
         "month": "May",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "24.4",
+        "low": "15.8",
+        "rain": "14.3",
         "precip": null
       },
       {
         "month": "June",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "29.2",
+        "low": "20.3",
+        "rain": "5.4",
         "precip": null
       },
       {
         "month": "July",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "32.2",
+        "low": "23.0",
+        "rain": "6.3",
         "precip": null
       },
       {
         "month": "August",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "32.2",
+        "low": "23.1",
+        "rain": "6.2",
         "precip": null
       },
       {
         "month": "September",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "28.3",
+        "low": "19.6",
+        "rain": "12.3",
         "precip": null
       },
       {
         "month": "October",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "23.4",
+        "low": "15.7",
+        "rain": "45.9",
         "precip": null
       },
       {
         "month": "November",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "18.8",
+        "low": "12.0",
+        "rain": "60.1",
         "precip": null
       },
       {
         "month": "December",
-        "high": null,
-        "low": null,
-        "rain": null,
+        "high": "15.1",
+        "low": "8.8",
+        "rain": "62.0",
         "precip": null
       }
     ],
-    "note": "Greece has no folder in the NOAA NCEI Region VI 1991–2020 collection, version 6.6. The HNMS city page that was opened for Elliniko gives 1955–2010, which is not this period, so those figures are not printed. The National Observatory of Athens published a 1991–2020 table for Athens as an image in its February 2021 magazine. A check of the 1961–1990 row in that image against the same institute's HTML table for 1961–1990 did not agree to the tenth of a degree, so the 1991–2020 row was not transcribed. Santorini was not given Athens's numbers.",
-    "sourceTitle": "WMO 1991-2020 Region VI directory (no Greece folder)",
-    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/",
+    "note": "Hellenic National Meteorological Service city climatology for Elliniko. The page prints Data Period: 1955-2010, longitude 23.74, latitude 37.89, altitude 43 m. The table rows used here are labelled Maximum Monthly Temperature, Minimum Monthly Temperature, and Monthly Mean Precipitation Height. Charts on the same page label the axes Temperature (C) and Precipitation (mm). This is not a 1991–2020 normal, and it is not averaged with any other Greek station. Greece has no folder in the NOAA NCEI 1991–2020 collection.",
+    "sourceTitle": "HNMS climatic data by city, Elliniko, 1955-2010",
+    "sourceUrl": "http://oldportal.emy.gr/emy/en/climatology/climatology_city?perifereia=Attiki&poli=Athens_Hellinikon",
     "asOf": "2026-11-15"
   },
   "season": [],
@@ -120,8 +120,22 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
-  "tipping": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 20(1) of Law 5209/2025, the Road Traffic Code, published in Government Gazette A 100 of 13 June 2025, says right-hand traffic applies on the country's road network. The same paragraph says the driver of every vehicle drives near the right edge of the carriageway even if the whole carriageway is free, subject to Article 16(1) and Article 21(6).",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Law 5209/2025, Article 20, Government Gazette A 100/13.06.2025",
+    "sourceUrl": "https://api.et.gr/apiLAW/1/2025/5209/pdf"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not mandatory; 5–10% is appreciated",
+    "detail": "Visit Greece's English page of quick travel tips says tipping is not mandatory, but a 5–10% tip is appreciated in restaurants for good service.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit Greece, did you know",
+    "sourceUrl": "https://www.visitgreece.gr/en/did-you-know"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

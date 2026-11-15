@@ -9,7 +9,7 @@
   "dek": "Dublin Airport's 1991–2020 normal. Not a national average. The west coast is a different file.",
   "paragraphs": [
     "The table is Dublin Airport, filename 03969, and the header prints the number as 3969. The height in the file is 71 m. Casement Aerodrome is another station in the Irish submission and was not averaged with the airport. Cork, Shannon, Belmullet, Malin Head, and Valentia are in the same submission and are not this table.",
-    "The airport's average highs stay in single digits in winter and reach the high teens in July. Rain is in every month. CDC's Ireland page is more specific about water than the pages for the other countries in this batch, and the sheet quotes it instead of turning it into a yes."
+    "The airport's average highs stay in single digits in winter and reach the high teens in July. Rain is in every month. CDC's Ireland page is more specific about water than the pages for the other countries in this batch, and the sheet quotes it instead of turning it into a yes. The tipping line is Ireland.com's taxi page only. That page does not give a restaurant percentage."
   ],
   "climate": {
     "caption": "Reference station: Dublin Airport, WMO 03969. The file prints the number as 3969. Not a national average.",
@@ -128,7 +128,14 @@
     "sourceTitle": "S.I. No. 182/1997, regulation 9, Irish Statute Book",
     "sourceUrl": "https://www.irishstatutebook.ie/eli/1997/si/182/made/en/print"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not essential for taxis; at least 10–15% if you tip",
+    "detail": "Ireland.com's taxi page, which shows a last-updated date of 14 November 2023, says it is not essential to tip a taxi driver in Ireland, and that if you choose to tip, go for at least 10–15% of the fare. The page is about taxis. It does not state a restaurant percentage, so none is printed.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Ireland.com, taxis in Ireland",
+    "sourceUrl": "https://www.ireland.com/en/plan-your-trip/travel/taxis-in-ireland/"
+  },
   "water": {
     "label": "Tap water",
     "value": "Not a blanket yes",
