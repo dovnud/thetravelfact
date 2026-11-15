@@ -9,7 +9,7 @@
   "dek": "Reykjavík's 1991–2020 normal. Not Keflavík, and not a national average.",
   "paragraphs": [
     "The table is Reykjavík, header number 04030, and the data rows print 4030. The height in the file is 52 m. Keflavík, filename 04018, is the airport file and was not substituted. Akureyri and the other Icelandic stations in the submission are not this table.",
-    "The average high in July is the warmest cell, and it is still a cool summer. December is the heaviest precipitation month in the file. No driving statute was opened, so the side of the road is not printed. No tourism-office tipping line was opened either."
+    "The average high in July is the warmest cell, and it is still a cool summer. December is the heaviest precipitation month in the file. Article 18 of the 2019 traffic act is the right-hand rule: as far to the right as possible, and the right lane when the road has lanes in the same direction. No tourism-office tipping line was opened, so tipping stays off."
   ],
   "climate": {
     "caption": "Reference station: Reykjavík, WMO 04030. The header prints 04030 and the data rows print 4030. Not a national average.",
@@ -120,7 +120,14 @@
     "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
     "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
   },
-  "driving": null,
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 18 of the Traffic Act, No. 77/2019, in the Althingi consolidation (edition 157c, the laws in force on 1 September 2026), is headed where to drive on a road. It says the driver shall keep the vehicle as far to the right as is possible given other traffic and the other circumstances. On a road divided into lanes in the same direction, drivers generally choose the right lane when they can, and use the left lane to pass another vehicle, subject to Article 23(5).",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Umferðarlög No. 77/2019, Article 18, Althingi",
+    "sourceUrl": "https://www.althingi.is/lagas/157c/2019077.html"
+  },
   "tipping": null,
   "water": {
     "label": "Tap water",

@@ -9,7 +9,7 @@
   "dek": "Dublin Airport, the only Dublin station in the Irish submission. Not the centre, and not Casement.",
   "paragraphs": [
     "Dublin Airport is the station named in the file, height 71 m, position 53°25′40″N, 6°14′27″W. The country sheet uses the same file. Casement Aerodrome, header number 3967 and height 91 m, is a separate complete file and was not folded in. There is no city-centre station in this submission.",
-    "Summers at the airport are mild rather than hot, and the driest month in the water column is still a wet month by the standard of a Mediterranean table. The driving rule is the 1997 left-hand regulation. No tourism-office tipping percentage was opened, so tipping is not printed."
+    "Summers at the airport are mild rather than hot, and the driest month in the water column is still a wet month by the standard of a Mediterranean table. The driving rule is the 1997 left-hand regulation. Tipping is the Ireland.com taxi line: not essential, and at least 10–15% of the fare if you do tip. A restaurant percentage is not on that page."
   ],
   "climate": {
     "caption": "Station: Dublin Airport, WMO 03969. The file prints the number as 3969. Not a sensor in the city centre.",
@@ -128,7 +128,14 @@
     "sourceTitle": "S.I. No. 182/1997, regulation 9, Irish Statute Book",
     "sourceUrl": "https://www.irishstatutebook.ie/eli/1997/si/182/made/en/print"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not essential for taxis; at least 10–15% if you tip",
+    "detail": "Ireland.com's taxi page, which shows a last-updated date of 14 November 2023, says it is not essential to tip a taxi driver in Ireland, and that if you choose to tip, go for at least 10–15% of the fare. The page is about taxis. It does not state a restaurant percentage, so none is printed.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Ireland.com, taxis in Ireland",
+    "sourceUrl": "https://www.ireland.com/en/plan-your-trip/travel/taxis-in-ireland/"
+  },
   "water": {
     "label": "Tap water",
     "value": "Not a blanket yes",

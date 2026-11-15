@@ -9,7 +9,7 @@
   "dek": "Schiphol, WMO 06240. The airport file. De Bilt was not substituted.",
   "paragraphs": [
     "Amsterdam Schiphol is the station the Dutch submission names for the airport, height -3.87 m, position 52°19′02″N, 4°47′23″E. The country sheet uses the same file. De Bilt is a complete station at 1.90 m and was not mixed in to make a city-centre estimate. There is no separate canal-belt station in the files that were opened.",
-    "Winter average lows stay above zero in this table. That is the airport's figure, not a promise about a night in the centre. No tourism-office tipping percentage was opened, so tipping is left off."
+    "Winter average lows stay above zero in this table. That is the airport's figure, not a promise about a night in the centre. Holland.com says a tip of about 10% is acceptable and is not a fixed rule."
   ],
   "climate": {
     "caption": "Station: Amsterdam Schiphol, WMO 06240. The airport file, not a sensor in the centre.",
@@ -128,7 +128,14 @@
     "sourceTitle": "RVV 1990, artikel 3, wetten.overheid.nl",
     "sourceUrl": "https://wetten.overheid.nl/BWBR0004825/2024-07-01"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "About 10% is acceptable",
+    "detail": "Holland.com says a tip of about 10% is quite acceptable in the Netherlands, and that the amount is not set in stone. More is fine if the food, service, or overall experience was excellent, and not tipping is also a choice if the service or meal was poor, though the page says that may be considered a bit rude. It says waitstaff do not live off their tips. A debit-card payment can include the tip.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Holland.com, tipping and cash",
+    "sourceUrl": "https://www.holland.com/global/tourism/getting-around/travel-tips/tipping-and-cash"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

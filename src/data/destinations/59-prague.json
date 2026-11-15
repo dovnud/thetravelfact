@@ -9,7 +9,7 @@
   "dek": "Libuš, in the city file. Ruzyně is the airport and was not merged.",
   "paragraphs": [
     "Praha/Libuš is WMO 11520, height 302.04 m, position 50°00′28″N, 14°26′49″E. The country sheet uses the same station. Ruzyně and Kbely have their own complete files. This page does not blend the three into one Prague climate.",
-    "The average low in January is below zero, and the two warmest average highs fall in July and August at the same printed value. Tipping is not printed. No tourism-office sentence was opened."
+    "The average low in January is below zero, and the two warmest average highs fall in July and August at the same printed value. VisitCzechia says customary tips are up to 10%, and does not say whether that is before or after tax."
   ],
   "climate": {
     "caption": "Station: Praha/Libuš, WMO 11520. Not Ruzyně and not Kbely.",
@@ -128,7 +128,14 @@
     "sourceTitle": "Act No. 361/2000 Coll., § 11, Zákony pro lidi",
     "sourceUrl": "https://www.zakonyprolidi.cz/cs/2000-361#p11"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Customary tips up to 10%",
+    "detail": "VisitCzechia's travel-information page places one line under restaurants and accommodation: customary tips up to 10%. The page does not say whether that is of the bill before or after tax, so this sheet does not add that.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "VisitCzechia, travel information",
+    "sourceUrl": "https://www.visitczechia.com/en-us/travel-info"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

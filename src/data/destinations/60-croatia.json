@@ -128,7 +128,14 @@
     "sourceTitle": "Zakon o sigurnosti prometa na cestama, članak 47, zakon.hr",
     "sourceUrl": "https://www.zakon.hr/z/78/Zakon-o-sigurnosti-prometa-na-cestama"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not mandatory; at least 10–15% in restaurants",
+    "detail": "Croatia.hr says a tip is a sign of respect and is not mandatory, that Croatia charges no special service fee, and that prices listed in cafés, restaurants, hotels, and other hospitality places are final. If you are happy with the service, the page recommends rounding smaller café and bar amounts up to at least the nearest whole number, and leaving at least 10–15% of the total for larger amounts or in restaurants. Helpful hotel staff can be thanked with at least 3 to 5 euro. The page calls these recommendations.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Croatia.hr, tipping",
+    "sourceUrl": "https://croatia.hr/en-gb/money/tipping"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",
