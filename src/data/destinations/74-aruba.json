@@ -1,0 +1,178 @@
+{
+  "order": 74,
+  "id": "aruba",
+  "kind": "country",
+  "name": "Aruba",
+  "countrySlug": "aruba",
+  "countryName": "Aruba",
+  "path": "/aruba/",
+  "dek": "The Aruba met service's own 1991–2020 summary. Dry, with the rain late in the year.",
+  "paragraphs": [
+    "Aruba is not in the NOAA NCEI 1991–2020 collection. The Meteorological Department Aruba publishes its own 1991–2020 summary, and the table uses its average maximum, average minimum, and monthly rainfall rows. The summary does not name the station. No driving statute was opened for Aruba on this pass.",
+    "The highest average high in the table is 33.2 °C, in August and September. The lowest average low is 24.8 °C, in January and February. The wettest month by the precipitation column is November, at 87.1 mm, and the driest is April, at 8.6 mm."
+  ],
+  "climate": {
+    "caption": "Meteorological Department Aruba, summary climatological normals 1991–2020. The summary does not name a station.",
+    "stationName": "Meteorological Department Aruba summary",
+    "stationId": null,
+    "period": "1991-2020",
+    "elevation": null,
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.3",
+        "low": "24.8",
+        "rain": "44.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "30.6",
+        "low": "24.8",
+        "rain": "19.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "31.1",
+        "low": "25.3",
+        "rain": "10.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "31.9",
+        "low": "26.0",
+        "rain": "8.6",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "32.0",
+        "low": "26.7",
+        "rain": "14.1",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "32.5",
+        "low": "26.9",
+        "rain": "17.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "32.4",
+        "low": "26.7",
+        "rain": "31.4",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "33.2",
+        "low": "27.2",
+        "rain": "19.6",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "33.2",
+        "low": "27.3",
+        "rain": "42.9",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "32.4",
+        "low": "26.7",
+        "rain": "76.5",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "31.5",
+        "low": "26.0",
+        "rain": "87.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.7",
+        "low": "25.3",
+        "rain": "80.1",
+        "precip": null
+      }
+    ],
+    "note": "Aruba is not in the WMO 1991–2020 collection distributed by NOAA NCEI. The Departamento Meteorologico Aruba PDF Summary Climatological Normals Period 1991-2020 is the source. Highs are its Av. max. temperature row, lows its Av. min. temperature row, and the water column its Monthly rainfall row. The PDF does not name a station or give a position.",
+    "sourceTitle": "Meteorological Department Aruba, summary climatological normals 1991-2020 (PDF)",
+    "sourceUrl": "https://www.meteo.aw/files/Download/climatnormals19912020.pdf",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A, B and F, 127 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Aruba at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not mandatory; check for a service charge",
+    "detail": "Aruba.com, the tourism authority's site, says a tip is not mandatory but very much appreciated. It says some restaurants and bars add a service charge of more or less 15% for groups, that the charge is pooled among the whole staff, and that it is not a tip for your server.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Aruba.com, tipping in Aruba",
+    "sourceUrl": "https://www.aruba.com/us/plan-your-visit/tips-for-visitors/tipping"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Aruba, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Aruba",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/aruba"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Aruban Florin (AWG)",
+    "detail": "ISO 4217 lists the currency name Aruban Florin and the code AWG for Aruba.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Aruba",
+    "detail": "IANA's zone.tab gives Aruba one row, America/Aruba. zone1970.tab puts Aruba on the America/Puerto_Rico row with other Caribbean territories, and the backward file links America/Aruba to America/Puerto_Rico. This sheet prints America/Aruba, the name zone.tab gives Aruba.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Government of Aruba, online ED card",
+    "url": "https://edcardaruba.aw/",
+    "note": "Aruba's official online embarkation-disembarkation card site, linked from Aruba.com. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

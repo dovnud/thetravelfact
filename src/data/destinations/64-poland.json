@@ -1,0 +1,173 @@
+{
+  "order": 64,
+  "id": "poland",
+  "kind": "country",
+  "name": "Poland",
+  "countrySlug": "poland",
+  "countryName": "Poland",
+  "path": "/poland/",
+  "dek": "Warszawa-Okęcie, WMO 12375. The capital's airport station, not the whole country.",
+  "paragraphs": [
+    "The reference station is Warszawa-Okęcie, WMO 12375, height 106 m. The Polish submission has more than fifty station files. They were not averaged. Kraków has its own sheet with its own station.",
+    "The highest average high in the table is 25.2 °C, in July. The lowest average low is -4.0 °C, in January. The wettest month by the precipitation column is July, at 82.2 mm, and the driest is March, at 29.0 mm. No driving statute was opened for Poland on this pass, so the sheet has no driving line."
+  ],
+  "climate": {
+    "caption": "Reference station: Warszawa-Okęcie, WMO 12375. Not a national average.",
+    "stationName": "Warszawa-Okęcie",
+    "stationId": "WMO 12375",
+    "period": "1991-2020",
+    "elevation": "106 m",
+    "latitude": "52|05|41|N",
+    "longitude": "020|34|26|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "1.0",
+        "low": "-4.0",
+        "rain": "31.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "2.6",
+        "low": "-3.3",
+        "rain": "29.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "7.4",
+        "low": "-0.6",
+        "rain": "29.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "14.5",
+        "low": "4.0",
+        "rain": "35.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "19.8",
+        "low": "8.8",
+        "rain": "55.5",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "23.1",
+        "low": "12.4",
+        "rain": "63.9",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "25.2",
+        "low": "14.5",
+        "rain": "82.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "24.7",
+        "low": "13.8",
+        "rain": "60.6",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.1",
+        "low": "9.5",
+        "rain": "50.4",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "12.9",
+        "low": "5.0",
+        "rain": "40.2",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "6.5",
+        "low": "1.3",
+        "rain": "36.0",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "2.3",
+        "low": "-2.5",
+        "rain": "36.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Warszawa-Okęcie (12375)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Poland/CSV/WarszawaOkecie_12375.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and E, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Poland at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "About 10% in restaurants, not expected",
+    "detail": "The Polish Tourism Organisation's Herway Poland travel-tips page says tipping about 10% in restaurants is appreciated but not expected.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Poland.travel (Herway Poland), travel tips",
+    "sourceUrl": "https://herway.poland.travel/travel-tips-for-poland/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Poland, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Poland",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/poland"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Zloty (PLN)",
+    "detail": "ISO 4217 lists the currency name Zloty and the code PLN for Poland.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Warsaw",
+    "detail": "IANA's zone.tab and zone1970.tab each give Poland one row, Europe/Warsaw. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs of the Republic of Poland",
+    "url": "https://www.gov.pl/web/diplomacy/visas",
+    "note": "The foreign ministry's visas page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

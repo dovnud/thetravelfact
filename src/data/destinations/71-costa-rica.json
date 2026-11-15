@@ -1,0 +1,173 @@
+{
+  "order": 71,
+  "id": "costa-rica",
+  "kind": "country",
+  "name": "Costa Rica",
+  "countrySlug": "costa-rica",
+  "countryName": "Costa Rica",
+  "path": "/costa-rica/",
+  "dek": "Juan Santamaría International Airport, WMO 78762, in the Central Valley.",
+  "paragraphs": [
+    "The reference station is Juan Santamaría International Airport, WMO 78762, height 913 m. The Costa Rican submission also has Tobías Bolaños, Daniel Oduber (Liberia), and Puerto Limón; none were averaged in. The precipitation row counts 29 years. No driving statute was opened for Costa Rica on this pass.",
+    "The highest average high in the table is 33.1 °C, in April. The lowest average low is 15.0 °C, in January and February. The wettest month by the precipitation column is September, at 320.0 mm, and the driest is January, at 7.9 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Juan Santamaría International Airport, WMO 78762. Not the coasts.",
+    "stationName": "Juan Santamaría International Airport",
+    "stationId": "WMO 78762",
+    "period": "1991-2020",
+    "elevation": "913 m",
+    "latitude": "09|59|N",
+    "longitude": "084|10|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.7",
+        "low": "15.0",
+        "rain": "7.9",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "32.0",
+        "low": "15.0",
+        "rain": "10.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "32.9",
+        "low": "15.6",
+        "rain": "17.3",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "33.1",
+        "low": "16.2",
+        "rain": "80.6",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "31.9",
+        "low": "16.7",
+        "rain": "261.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "31.2",
+        "low": "17.0",
+        "rain": "235.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "31.1",
+        "low": "16.7",
+        "rain": "167.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.2",
+        "low": "16.5",
+        "rain": "224.3",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.1",
+        "low": "16.3",
+        "rain": "320.0",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "30.5",
+        "low": "16.2",
+        "rain": "317.0",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.3",
+        "low": "15.5",
+        "rain": "165.8",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.6",
+        "low": "15.4",
+        "rain": "31.0",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. The file prints the position to the minute only, 09°59′N and 084°10′W. Its precipitation number-of-years row reads 29.",
+    "sourceTitle": "WMO climate normals 1991-2020, Juan Santamaría International Airport (78762)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/CostaRica/CSV/JuanSantamariaInternationalAirport_78762.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Costa Rica at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "10% included in restaurants",
+    "detail": "Visit Costa Rica says that in restaurants and hotels the 13% value added tax and a 10% tip are included in the final price, and that you are welcome to leave an additional gratuity if you are exceptionally happy with the service.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Visit Costa Rica, tips",
+    "sourceUrl": "https://www.visitcostarica.com/planning-your-trip/tips"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Costa Rica, last reviewed September 18, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Costa Rica",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/costa-rica"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Costa Rican Colon (CRC)",
+    "detail": "ISO 4217 lists the currency name Costa Rican Colon and the code CRC for Costa Rica.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Costa_Rica",
+    "detail": "IANA's zone.tab and zone1970.tab each give Costa Rica one row, America/Costa_Rica. There is no second zone for the country in either file.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Costa Rica Tourism Board (ICT)",
+    "url": "https://www.visitcostarica.com/planning-your-trip/entry-requirements",
+    "note": "The tourism board's entry requirements page. The immigration service's site refused an automated request on 15 November 2026. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

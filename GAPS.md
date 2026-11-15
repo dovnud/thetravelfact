@@ -53,6 +53,25 @@ Checked 14 November 2026. A line here is a fact we would not print because the s
 - **Tap water.** CDC's Ireland page, reviewed 25 August 2026, says standards are similar to the United States and then warns about unregulated rural wells. It is quoted, and it is not upgraded to a yes for every tap. The other new countries' CDC pages, also reviewed 25 August 2026, do not give a yes or a no.
 - **Time zones.** zone1970.tab, header note dated 15 May 2025, folds the Netherlands into the Europe/Brussels row, Iceland into the Africa/Abidjan row, and Croatia into the Europe/Belgrade row. zone.tab still names Europe/Amsterdam, Atlantic/Reykjavik, and Europe/Zagreb, and the backward file links the old names to the merged ones. The sheets print the zone.tab names and cite all three files. Portugal's three rows, mainland, Madeira, and Azores, are named and not collapsed.
 
+## Checked 15 November 2026, places 61–80
+
+- **Dubrovnik** is not in the Croatian NCEI submission. The DHMZ Dubrovnik page prints 1961–2024 monthly values with mean air temperature, not mean daily highs and lows. Only the precipitation column is printed; the high and low cells are blank.
+- **Panama** has no folder in the NCEI Region IV collection, and no IMHPA 1991–2020 monthly normal was found. All climate cells are blank.
+- **Aruba** is not in the NCEI collection. The Meteorological Department Aruba 1991–2020 summary PDF is used (Av. max., Av. min., Monthly rainfall rows). It does not name a station or position.
+- **Peru**: no Lima file in the submission. Granja Kcayra (34001, 3214 m, Cusco region) is used and the sheet says it is a highland table. Some months count 28–29 years.
+- **Brazil**: no Rio de Janeiro or São Paulo city file. Brasília (83377) is used.
+- **Chile**: Pudahuel (85574) has number-of-years rows but no monthly values. Quinta Normal (85577) is used.
+- **Colombia**: El Dorado CATAM (AUT); the number 21205791 is printed in the file's WMO_Number field and is shown as printed.
+- **Costa Rica**: Juan Santamaría (78762) prints average highs of 30.3–33.1 °C at 913 m. They are printed as in the file. Position is to the minute only. Precipitation counts 29 years.
+- **Egypt**: Cairo (A.P.) prints two decimals and a position without hemisphere letters; the position is not printed.
+- **Hungary/Budapest** both use Budapest Belterület (12840); Pestszentlőrinc (12843) not averaged. **Istanbul** uses Florya (17636); Sarıyer files not averaged. **Turkey** uses Ankara Bölge (17130).
+- **Plugs** are from the 16 August 2026 archive of iec.ch/world-plugs. Turkey's line prints 220 V. Morocco (127 V / 220 V) and Brazil (127 V / 220 V) do not assign voltage to a city.
+- **Driving.** Sourced: Hungary (KRESZ 25. § (2), Nemzeti Jogtár consolidation), Turkey (Law 2918 art. 46, mevzuat.gov.tr), Colombia (Law 769/2002 art. 68, Senate consolidation), Brazil (Law 9,503/1997 art. 29 I, Planalto), Chile (DFL 1/2007 art. 116, BCN). Not opened: Poland, Morocco, Egypt, Costa Rica, Jamaica, Bahamas, Aruba, Panama, Peru, Argentina. Those sheets have no driving line.
+- **Tipping.** Sourced: Hungary (Visit Hungary), Poland (Herway Poland on poland.travel), Costa Rica (Visit Costa Rica), Bahamas (Bahamas.com FAQ), Aruba (Aruba.com). Not found on this pass: Turkey, Morocco, Egypt, Jamaica, Panama, Colombia, Peru, Brazil, Argentina, Chile.
+- **Tap water.** All 15 new CDC pages (reviewed 25 Aug – 10 Nov 2026) give no yes or no.
+- **Time zones.** zone1970.tab folds the Bahamas into America/Toronto and Aruba into America/Puerto_Rico; the sheets print zone.tab's America/Nassau and America/Aruba and cite backward. Brazil (16 rows), Argentina (12), and Chile (4) are not collapsed.
+- **Entry.** Costa Rica's immigration site refused automated requests; the sheet links the tourism board's entry-requirements page instead.
+
 ## Not on the site yet
 
 - Viator, Expedia, Booking.com, and Travelpayouts IDs are empty. Those slots are not links.
