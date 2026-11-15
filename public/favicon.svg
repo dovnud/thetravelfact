@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="7" fill="#1b4336"/>
-  <path d="M16 6l3 8h-6z" fill="#f3efe6"/>
-  <path d="M16 26l-2.4-6h4.8z" fill="#e7a87a"/>
+  <rect width="32" height="32" fill="#111111"/>
+  <rect y="26" width="32" height="6" fill="#d0121a"/>
+  <text x="3" y="20" fill="#ffffff" font-family="Arial Narrow, Impact, sans-serif" font-size="13" font-weight="700">TTF</text>
 </svg>

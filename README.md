@@ -24,7 +24,7 @@ The site is a static Astro build (`trailingSlash: always`). `public/_headers` is
 
 ## Design
 
-The editorial layout is adapted from [Quiet Pages](https://github.com/xocothemes/quietpages) by Andrei Alba (MIT). Newsreader and Geist are self-hosted with their license files under `public/fonts/`.
+Black, white, and a signal red. Masthead, photograph, then timetable tables. Type is Barlow, Barlow Condensed, and IBM Plex Mono (SIL Open Font License), self-hosted under `public/fonts/`. Photographs in `public/photos/` are Wikimedia Commons files; credits live in `src/data/photos.ts`.
 
 ## Data
 

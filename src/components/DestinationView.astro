@@ -5,11 +5,13 @@ import ClimatePanel from "./ClimatePanel.astro";
 import Affiliates from "./Affiliates.astro";
 import { citiesIn, countryOf, extreme, joinMonths } from "../lib/destinations";
 import { factSources, type Destination, type Fact, type SourceRef } from "../lib/types";
+import { photos } from "../data/photos";
 
 interface Props {
   destination: Destination;
 }
 const { destination } = Astro.props;
+const photo = photos[destination.id];
 const country = destination.kind === "city" ? countryOf(destination) : destination;
 const cities = destination.kind === "country" ? citiesIn(destination.countrySlug) : [];
 const canonical = new URL(destination.path, "https://thetravelfact.com").href;
@@ -90,28 +92,40 @@ const jsonLd = {
 ---
 
 <Base title={`${destination.name} travel facts`} description={destination.dek} jsonLd={jsonLd}>
+  <figure class="photo">
+    <img src={photo.src} alt={photo.alt} width="1600" height="900" fetchpriority="high" />
+    <figcaption>
+      <span>{photo.alt}</span>
+      <span>
+        Photograph: {photo.artist}, <a href={photo.licenseUrl}>{photo.license}</a>, via <a href={photo.page}>Wikimedia Commons</a>
+      </span>
+    </figcaption>
+  </figure>
   <article class="shell">
-    <header class="sheet-hero">
+    <header>
       <nav class="crumbs" aria-label="Breadcrumb">
         {crumbs.map((crumb, index) => (
           <>
-            {index > 0 && <span aria-hidden="true">/</span>}
+            {index > 0 && <span aria-hidden="true"> / </span>}
             {index === crumbs.length - 1 ? <span>{crumb.name}</span> : <a href={crumb.url.replace("https://thetravelfact.com", "")}>{crumb.name}</a>}
           </>
         ))}
       </nav>
-      <p class="eyebrow">{destination.kind === "country" ? "Country sheet" : destination.countryName}</p>
-      <h1>{destination.name}</h1>
-      <p class="lead">{destination.dek}</p>
-      <p class="note">By TheTravelFact Editors. Checked 14 November 2026.</p>
-    </header>
-
-    <div class="layout">
-      <div>
-        <div class="prose">
-          {destination.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+      <div class="nameplate">
+        <span class="no">{String(destination.order).padStart(2, "0")}</span>
+        <div>
+          <p class="kicker">{destination.kind === "country" ? "Country sheet" : destination.countryName}</p>
+          <h1>{destination.name}</h1>
         </div>
-        <ClimatePanel climate={destination.climate} />
+      </div>
+      <p class="dek">{destination.dek}</p>
+      <p class="byline">TheTravelFact Editors · checked 14 November 2026</p>
+    </header>
+    <FactsCard destination={destination} />
+    <div class="prose">
+      {destination.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+    </div>
+    <ClimatePanel climate={destination.climate} />
         {destination.season.length > 0 && (
           <section class="prose">
             <h2>Storm season, from the hurricane center</h2>
@@ -161,18 +175,18 @@ const jsonLd = {
             </ul>
           </section>
         )}
-        <Affiliates place={destination.name} plugValue={destination.plugs.value} />
-        <section class="prose">
-          <h2>Sources on this page</h2>
-          <ul class="source-list">
-            {uniqueSources.map((source) => (
-              <li><a href={source.sourceUrl}>{source.sourceTitle}</a>. As of {source.asOf}.</li>
-            ))}
-            <li><a href={destination.entry.url}>{destination.entry.publisher}</a>. As of 14 November 2026.</li>
-          </ul>
-        </section>
-      </div>
-      <FactsCard destination={destination} />
-    </div>
+    <Affiliates place={destination.name} plugValue={destination.plugs.value} />
+    <section class="prose">
+      <h2>Sources on this page</h2>
+      <ul>
+        {uniqueSources.map((source) => (
+          <li><a href={source.sourceUrl}>{source.sourceTitle}</a>. As of {source.asOf}.</li>
+        ))}
+        <li><a href={destination.entry.url}>{destination.entry.publisher}</a>. As of 14 November 2026.</li>
+        <li>
+          Photograph: {photo.artist}, <a href={photo.licenseUrl}>{photo.license}</a>, <a href={photo.page}>Wikimedia Commons</a>.
+        </li>
+      </ul>
+    </section>
   </article>
 </Base>

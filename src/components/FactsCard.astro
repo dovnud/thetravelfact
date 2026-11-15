@@ -6,40 +6,42 @@ interface Props {
   destination: Destination;
 }
 const { destination } = Astro.props;
-const rows: Array<Fact | null> = [
-  destination.plugs,
-  destination.driving,
-  destination.tipping,
-  destination.water,
-  destination.currency,
-  destination.timeZone,
+const rows: Array<{ label: string; fact: Fact | null }> = [
+  { label: "Plugs and voltage", fact: destination.plugs },
+  { label: "Driving side", fact: destination.driving },
+  { label: "Tipping", fact: destination.tipping },
+  { label: "Tap water", fact: destination.water },
+  { label: "Currency", fact: destination.currency },
+  { label: "Time zone", fact: destination.timeZone },
 ];
 ---
 
-<aside class="panel facts" aria-labelledby="glance-title">
-  <p class="eyebrow">At a glance</p>
-  <h2 id="glance-title">Before you go</h2>
-  <dl>
-    {rows.map((fact) => (
-      <div class="fact-row">
-        <dt>{fact ? fact.label : "Tipping"}</dt>
-        <dd>
-          {fact ? (
-            <>
-              {fact.value}
-              {factSources(fact)[0] && (
-                <>
-                  {" "}
-                  <a href={factSources(fact)[0].sourceUrl}>source</a>
-                </>
-              )}
-            </>
-          ) : (
-            <span class="omitted">Not printed. No source we could cite. <a href="/sources/#gaps">Why</a></span>
-          )}
-        </dd>
-      </div>
-    ))}
-  </dl>
-  <p class="note">Checked 14 November 2026. The sentence under each fact is on the page below.</p>
-</aside>
+<table class="board">
+  <caption>Figures</caption>
+  <thead>
+    <tr>
+      <th scope="col">Field</th>
+      <th scope="col">Figure</th>
+      <th scope="col">Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    {rows.map((row) => {
+      const source = row.fact ? factSources(row.fact)[0] : undefined;
+      return (
+        <tr>
+          <th scope="row">{row.label}</th>
+          <td class="fig">{row.fact ? row.fact.value : "Not printed. No source we could cite."}</td>
+          <td class="src">
+            {source ? <a href={source.sourceUrl}>{source.sourceTitle}</a> : <a href="/sources/#gaps">Gaps</a>}
+          </td>
+        </tr>
+      );
+    })}
+    <tr>
+      <th scope="row">Entry</th>
+      <td class="fig">Link only. No visa rule is restated.</td>
+      <td class="src"><a href={destination.entry.url}>{destination.entry.publisher}</a></td>
+    </tr>
+  </tbody>
+</table>
