@@ -1,0 +1,63 @@
+keyword,pattern,search_volume,cpc,competition_level,keyword_difficulty,main_intent,keyword_info_last_updated,in_database,endpoint
+best time to visit,best_time_generic,18100,6.06,LOW,1,informational,2026-11-13 05:47:31 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+countries that drive on the left,drive_left,8100,0.01,LOW,11,informational,2026-10-19 13:29:25 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+countries that drive on the right,drive_right,8100,0.01,LOW,11,informational,2026-10-15 17:16:36 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+left hand traffic countries,drive_left_lht,8100,0.01,LOW,18,informational,2026-10-18 10:18:02 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+travel adapter,adapter_generic,8100,0.43,HIGH,9,transactional,2026-11-12 06:18:03 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+eurozone countries,eurozone,6600,,LOW,42,informational,2026-11-13 12:55:50 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use the euro,euro_countries_what,4400,,LOW,31,informational,2026-10-17 03:33:26 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+countries that use the euro,euro_countries,2900,,LOW,30,informational,2026-11-12 10:47:00 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+which countries drive on the left,drive_left_which,1600,0.01,LOW,7,informational,2026-09-16 22:40:44 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+tipping in europe,tipping_europe,480,11.82,LOW,1,informational,2026-11-13 13:00:24 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+countries with safe tap water,tap_safe_countries_alt,110,,LOW,7,informational,2026-11-13 11:59:49 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type c plug countries,plug_type_countries_alt,110,0.07,MEDIUM,14,informational,2026-10-18 10:39:47 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type c plugs,plug_type_countries_what,110,,LOW,19,informational,2026-10-18 23:00:05 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type g plug countries,plug_type_countries_alt,110,0.06,MEDIUM,26,informational,2026-10-15 01:40:55 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+tipping by country,tipping_by_country,90,,LOW,4,informational,2026-10-18 17:28:50 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type g plugs,plug_type_countries_what,70,,LOW,26,informational,2026-11-12 12:12:58 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type i plugs,plug_type_countries_what,50,,LOW,11,informational,2026-10-19 21:22:42 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+countries with safe drinking water,drinking_water_countries,40,,LOW,0,informational,2026-09-16 20:08:04 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type f plug countries,plug_type_countries_alt,40,0.02,HIGH,22,informational,2026-10-18 18:38:13 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type f plugs,plug_type_countries_what,40,,LOW,13,informational,2026-10-15 20:36:50 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type i plug countries,plug_type_countries_alt,40,,LOW,0,informational,2026-10-18 03:40:10 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type a plugs,plug_type_countries_what,20,,LOW,19,informational,2026-11-13 18:25:04 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type d plug countries,plug_type_countries_alt,20,,LOW,9,informational,2026-09-17 14:01:36 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type d plugs,plug_type_countries_what,20,,LOW,11,informational,2026-10-18 13:02:57 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type e plug countries,plug_type_countries_alt,20,0.02,LOW,17,informational,2026-10-17 21:47:24 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type e plugs,plug_type_countries_what,20,,LOW,49,informational,2026-11-12 18:18:54 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type h plug countries,plug_type_countries_alt,20,,LOW,15,informational,2026-11-12 13:42:58 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type j plugs,plug_type_countries_what,20,,LOW,,informational,2026-10-20 07:24:27 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type l plugs,plug_type_countries_what,20,,LOW,,informational,2026-10-18 05:41:40 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type m plugs,plug_type_countries_what,20,,LOW,,informational,2026-10-19 13:35:13 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type n plugs,plug_type_countries_what,20,,LOW,,informational,2026-11-14 04:30:40 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+do i need a travel adapter,adapter_need_generic,10,,LOW,,informational,2026-09-17 10:18:59 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type a plug countries,plug_type_countries_alt,10,,LOW,75,informational,2026-11-13 00:11:20 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type b plug countries,plug_type_countries_alt,10,,LOW,,informational,2026-11-13 15:09:58 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type b plugs,plug_type_countries_what,10,,LOW,,informational,2026-11-12 15:40:48 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+countries with type c plugs,plug_type_countries,10,,LOW,14,informational,2026-10-20 10:49:44 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+what countries use type h plugs,plug_type_countries_what,10,,LOW,48,informational,2026-10-20 09:42:58 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type j plug countries,plug_type_countries_alt,10,,LOW,29,informational,2026-11-12 20:48:09 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type k plug countries,plug_type_countries_alt,10,,LOW,,informational,2026-11-13 19:58:41 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type l plug countries,plug_type_countries_alt,10,,LOW,20,informational,2026-10-18 06:45:28 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type m plug countries,plug_type_countries_alt,10,,LOW,22,informational,2026-10-15 09:10:18 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+type n plug countries,plug_type_countries_alt,10,0.03,MEDIUM,,navigational,2026-11-12 06:45:55 +00:00,yes,/dataforseo_labs/google/keyword_overview/live
+countries where tap water is safe,tap_safe_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+is tap water safe to drink abroad,tap_abroad,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+tipping etiquette by country,tipping_etiquette,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+how much to tip around the world,tipping_world,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+what plug adapter do i need,adapter_which,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+which side of the road do they drive on,drive_which_side,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type A plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type B plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type D plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type E plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type F plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type G plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type H plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type I plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type J plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type K plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+what countries use type K plugs,plug_type_countries_what,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type L plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type M plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
+countries with type N plugs,plug_type_countries,,,,,,,no,/dataforseo_labs/google/keyword_overview/live
