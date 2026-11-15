@@ -1,0 +1,175 @@
+{
+  "order": 26,
+  "id": "lyon",
+  "kind": "city",
+  "name": "Lyon",
+  "countrySlug": "france",
+  "countryName": "France",
+  "path": "/france/lyon/",
+  "dek": "Lyon-Bron, not Lyon-Saint-Exupéry. The two files are not averaged.",
+  "paragraphs": [
+    "Lyon-Bron is WMO 07480, at 202 m. Lyon-Saint-Exupéry, WMO 07481, is a separate complete file in the same submission. Bron is the station on this page. The airport file is not merged with it and is not used to fill a cell.",
+    "Bron's winter minimums sit near freezing and the July high is the warm peak. Precipitation is present in every month, with October the heaviest in this file. That is a Rhône station, not the Nice coast and not Montsouris."
+  ],
+  "climate": {
+    "caption": "Station: Lyon-Bron, WMO 07480. Not Lyon-Saint-Exupéry.",
+    "stationName": "Lyon-Bron",
+    "stationId": "WMO 07480",
+    "period": "1991-2020",
+    "elevation": "202 m",
+    "latitude": "45|43|17N",
+    "longitude": "4|56|57E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "7.1",
+        "low": "1.1",
+        "rain": "49.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "9.0",
+        "low": "1.4",
+        "rain": "41.6",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "13.8",
+        "low": "4.2",
+        "rain": "49.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "17.4",
+        "low": "7.2",
+        "rain": "68.9",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "21.5",
+        "low": "11.2",
+        "rain": "80.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "25.6",
+        "low": "15.0",
+        "rain": "74.1",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "28.2",
+        "low": "17.0",
+        "rain": "67.4",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "28.0",
+        "low": "16.6",
+        "rain": "65.5",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "23.1",
+        "low": "12.8",
+        "rain": "82.5",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "17.7",
+        "low": "9.6",
+        "rain": "99.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "11.4",
+        "low": "4.9",
+        "rain": "87.2",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "7.7",
+        "low": "2.0",
+        "rain": "53.7",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Submitted for France. Saint-Exupéry was not substituted.",
+    "sourceTitle": "WMO climate normals 1991-2020, Lyon-Bron (07480)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/France/CSV/LYON_BRON_07480.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and E, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows France at 230 volts and 50 hertz, with plug types C and E.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article R412-9 of the Code de la route, in force since 11 January 2025, says that in normal driving every driver must keep the vehicle near the right edge of the carriageway, as far as the state or profile of that carriageway allows. The same article makes exceptions, including a multi-lane roundabout when the exit is to the driver's left, and some cycle movements.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Code de la route, article R412-9, Légifrance",
+    "sourceUrl": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159599"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Service included; extra is optional",
+    "detail": "France.fr's money page, which the page itself says was updated on 6 March 2019, says almost all restaurants include tax and a 15% service charge, marked service compris. If the meal was particularly good, it calls another 2–3% customary, or the small change when paying cash. If the bill says service is not included, the same page calls a 15% tip appropriate. It also gives figures for hotels, taxis, and a few other services. Those figures are the page's, and the page has not been updated since 2019.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "France.fr, money matters",
+    "sourceUrl": "https://www.france.fr/en/article/money-france/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for France, last reviewed 8 October 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, France",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/france"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for France.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Paris",
+    "detail": "IANA's zone1970.tab puts France and Monaco on Europe/Paris, and France has no second row in that file. Paris, Lyon, and Nice are in France.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Paris",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "France-Visas",
+    "url": "https://france-visas.gouv.fr/",
+    "note": "The government's visa portal. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

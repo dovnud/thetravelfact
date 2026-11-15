@@ -1,0 +1,175 @@
+{
+  "order": 38,
+  "id": "munich",
+  "kind": "city",
+  "name": "Munich",
+  "countrySlug": "germany",
+  "countryName": "Germany",
+  "path": "/germany/munich/",
+  "dek": "München-Stadt, the city station, at 515.4 metres. The airport file is not used.",
+  "paragraphs": [
+    "The file names the station München-Stadt, WMO 10865, height 515.4 m. München-Flughafen, WMO 10870, is a separate complete file. The city station is this page. The airport is not averaged with it.",
+    "Winter minimums are below zero, July and August are the warm months, and June is the heaviest precipitation month, with May, July, and August close behind. The elevation is in the file. It is not adjusted down to Tempelhof's 47.7 m."
+  ],
+  "climate": {
+    "caption": "Station: München-Stadt, WMO 10865. Not the airport.",
+    "stationName": "München-Stadt",
+    "stationId": "WMO 10865",
+    "period": "1991-2020",
+    "elevation": "515.4 m",
+    "latitude": "48|9|48|N",
+    "longitude": "11|32|34|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "4",
+        "low": "-1.8",
+        "rain": "51.9",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "5.6",
+        "low": "-1.4",
+        "rain": "45.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "10.1",
+        "low": "1.7",
+        "rain": "61.2",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "15.2",
+        "low": "5.3",
+        "rain": "56",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "19.4",
+        "low": "9.3",
+        "rain": "107",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "22.9",
+        "low": "12.9",
+        "rain": "120.9",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "24.9",
+        "low": "14.7",
+        "rain": "118.9",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "24.7",
+        "low": "14.5",
+        "rain": "116.5",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.6",
+        "low": "10.4",
+        "rain": "78.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "14.5",
+        "low": "6.5",
+        "rain": "66.9",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "8.2",
+        "low": "2.1",
+        "rain": "58.4",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "4.8",
+        "low": "-.8",
+        "rain": "58.5",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. The file prints some values without a leading zero, including negatives such as -.4. Those tokens are copied as printed.",
+    "sourceTitle": "WMO climate normals 1991-2020, München-Stadt (10865)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Germany/CSV/Muenchen-Stadt_10865.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows Germany at 230 volts and 50 hertz, with plug types C and F.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Section 2 of the Straßenverkehrs-Ordnung says vehicles must use the carriageways, and where there are two carriageways they must use the right one. The next paragraph says to drive as far to the right as possible, not only when there is oncoming traffic, when being overtaken, at crests, in curves, or where the view is unclear. Later sections allow marked multi-lane roads to depart from that rightward rule in the cases they name.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Straßenverkehrs-Ordnung, § 2, Gesetze im Internet",
+    "sourceUrl": "https://www.gesetze-im-internet.de/stvo_2013/__2.html"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Bills include service; 10% is common",
+    "detail": "The German National Tourist Office resource guide, released in September 2025, says restaurant bills include VAT and service charges, and that a 10 percent tip is common. Berlin.de's own tipping page describes service as usually not included and gives a wider range. Those two pages are not averaged. This sheet uses the national guide.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "German National Tourist Office, resource guide (September 2025)",
+    "sourceUrl": "https://www.germany.travel/media/redaktion/trade_relaunch/news_services/GNTO_Germany_Resource_Guide_USA.pdf"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Germany, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Germany",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/germany"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Germany.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Berlin",
+    "detail": "IANA's zone1970.tab gives Europe/Berlin the comment most of Germany. The other German row in that file is Büsingen, on Europe/Zurich. Berlin, Munich, and Frankfurt are not Büsingen.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Berlin",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Auswärtiges Amt",
+    "url": "https://www.auswaertiges-amt.de/en/visa-service/231148-231148",
+    "note": "The foreign office's visa overview. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

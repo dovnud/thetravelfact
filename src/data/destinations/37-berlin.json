@@ -1,0 +1,175 @@
+{
+  "order": 37,
+  "id": "berlin",
+  "kind": "city",
+  "name": "Berlin",
+  "countrySlug": "germany",
+  "countryName": "Germany",
+  "path": "/germany/berlin/",
+  "dek": "Tempelhof. Dahlem and Brandenburg are in the same submission and are not averaged with this file.",
+  "paragraphs": [
+    "Berlin-Tempelhof is WMO 10384, height 47.7 m, position 52°28′3″N, 13°24′7″E. Berlin-Dahlem (FU), WMO 10381, and Berlin Brandenburg, WMO 10385, both have complete temperature and precipitation normals. Berlin-Alexanderplatz's file does not contain the daily maximum, daily minimum, or precipitation total, so it could not be the city sheet. Tempelhof is the one used. The other complete files are not blended into it.",
+    "January is the cold month, July the warm one, and July is also the heaviest precipitation month in this file. Some values are printed in the source without a leading zero. They are copied that way, so a cell can read -.1 rather than -0.1."
+  ],
+  "climate": {
+    "caption": "Station: Berlin-Tempelhof, WMO 10384. Not Dahlem and not Brandenburg.",
+    "stationName": "Berlin-Tempelhof",
+    "stationId": "WMO 10384",
+    "period": "1991-2020",
+    "elevation": "47.7 m",
+    "latitude": "52|28|3|N",
+    "longitude": "13|24|7|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "3.6",
+        "low": "-1.4",
+        "rain": "47.7",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "5.1",
+        "low": "-.8",
+        "rain": "36",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "9",
+        "low": "1.4",
+        "rain": "40.5",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "15.1",
+        "low": "5.2",
+        "rain": "29.3",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "19.6",
+        "low": "9.3",
+        "rain": "52.3",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "23.1",
+        "low": "12.8",
+        "rain": "58.2",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "25.2",
+        "low": "15.1",
+        "rain": "71.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "24.9",
+        "low": "14.7",
+        "rain": "58.1",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.9",
+        "low": "10.9",
+        "rain": "46.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "14",
+        "low": "6.6",
+        "rain": "43.9",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "8",
+        "low": "2.7",
+        "rain": "41.7",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "4.4",
+        "low": "-.1",
+        "rain": "44.2",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. The file prints some values without a leading zero, including negatives such as -.4. Those tokens are copied as printed. Alexanderplatz has no daily maximum, minimum, or precipitation total in its file, so it was not used.",
+    "sourceTitle": "WMO climate normals 1991-2020, Berlin-Tempelhof (10384)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Germany/CSV/Berlin-Tempelhof_10384.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows Germany at 230 volts and 50 hertz, with plug types C and F.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Section 2 of the Straßenverkehrs-Ordnung says vehicles must use the carriageways, and where there are two carriageways they must use the right one. The next paragraph says to drive as far to the right as possible, not only when there is oncoming traffic, when being overtaken, at crests, in curves, or where the view is unclear. Later sections allow marked multi-lane roads to depart from that rightward rule in the cases they name.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Straßenverkehrs-Ordnung, § 2, Gesetze im Internet",
+    "sourceUrl": "https://www.gesetze-im-internet.de/stvo_2013/__2.html"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Bills include service; 10% is common",
+    "detail": "The German National Tourist Office resource guide, released in September 2025, says restaurant bills include VAT and service charges, and that a 10 percent tip is common. Berlin.de's own tipping page describes service as usually not included and gives a wider range. Those two pages are not averaged. This sheet uses the national guide.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "German National Tourist Office, resource guide (September 2025)",
+    "sourceUrl": "https://www.germany.travel/media/redaktion/trade_relaunch/news_services/GNTO_Germany_Resource_Guide_USA.pdf"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Germany, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Germany",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/germany"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Germany.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Berlin",
+    "detail": "IANA's zone1970.tab gives Europe/Berlin the comment most of Germany. The other German row in that file is Büsingen, on Europe/Zurich. Berlin, Munich, and Frankfurt are not Büsingen.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Berlin",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Auswärtiges Amt",
+    "url": "https://www.auswaertiges-amt.de/en/visa-service/231148-231148",
+    "note": "The foreign office's visa overview. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

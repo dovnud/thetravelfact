@@ -1,0 +1,175 @@
+{
+  "order": 24,
+  "id": "paris",
+  "kind": "city",
+  "name": "Paris",
+  "countrySlug": "france",
+  "countryName": "France",
+  "path": "/france/paris/",
+  "dek": "Montsouris, the observatory station in the city file. Not Orly and not Roissy.",
+  "paragraphs": [
+    "Paris-Montsouris is WMO 07156. The file gives the height as 75 m and the position as 48°49′18″N, 2°20′16″E, written in the file's own pipe notation. Orly is WMO 07149 and Roissy is WMO 07157. Both have complete temperature and precipitation rows. They describe airports, and they are not mixed into this table.",
+    "Across the Montsouris year the average highs rise from January to July and the precipitation does not fall away in summer the way it does on the Nice sheet. The country sheet uses this same station and says so. Use this page for Paris."
+  ],
+  "climate": {
+    "caption": "Station: Paris-Montsouris, WMO 07156. Not Orly and not Roissy.",
+    "stationName": "Paris-Montsouris",
+    "stationId": "WMO 07156",
+    "period": "1991-2020",
+    "elevation": "75 m",
+    "latitude": "48|49|18N",
+    "longitude": "2|20|16E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "7.6",
+        "low": "3.2",
+        "rain": "47.6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "8.8",
+        "low": "3.3",
+        "rain": "41.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "12.8",
+        "low": "5.6",
+        "rain": "45.2",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "16.6",
+        "low": "7.9",
+        "rain": "45.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "20.2",
+        "low": "11.1",
+        "rain": "69.0",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "23.4",
+        "low": "14.2",
+        "rain": "51.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "25.7",
+        "low": "16.2",
+        "rain": "59.4",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "25.6",
+        "low": "16.0",
+        "rain": "58.0",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "21.5",
+        "low": "13.0",
+        "rain": "44.7",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "16.5",
+        "low": "9.9",
+        "rain": "55.2",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "11.1",
+        "low": "6.2",
+        "rain": "54.3",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "8.0",
+        "low": "3.8",
+        "rain": "62.0",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Submitted for France. ",
+    "sourceTitle": "WMO climate normals 1991-2020, Paris-Montsouris (07156)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/France/CSV/PARIS_MONTSOURIS_07156.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and E, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows France at 230 volts and 50 hertz, with plug types C and E.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article R412-9 of the Code de la route, in force since 11 January 2025, says that in normal driving every driver must keep the vehicle near the right edge of the carriageway, as far as the state or profile of that carriageway allows. The same article makes exceptions, including a multi-lane roundabout when the exit is to the driver's left, and some cycle movements.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Code de la route, article R412-9, Légifrance",
+    "sourceUrl": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006159599"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Service included; extra is optional",
+    "detail": "France.fr's money page, which the page itself says was updated on 6 March 2019, says almost all restaurants include tax and a 15% service charge, marked service compris. If the meal was particularly good, it calls another 2–3% customary, or the small change when paying cash. If the bill says service is not included, the same page calls a 15% tip appropriate. It also gives figures for hotels, taxis, and a few other services. Those figures are the page's, and the page has not been updated since 2019.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "France.fr, money matters",
+    "sourceUrl": "https://www.france.fr/en/article/money-france/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for France, last reviewed 8 October 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, France",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/france"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for France.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Paris",
+    "detail": "IANA's zone1970.tab puts France and Monaco on Europe/Paris, and France has no second row in that file. Paris, Lyon, and Nice are in France.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Paris",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "France-Visas",
+    "url": "https://france-visas.gouv.fr/",
+    "note": "The government's visa portal. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}
