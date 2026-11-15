@@ -46,6 +46,7 @@ export interface EntryLink {
   publisher: string;
   url: string;
   note: string;
+  asOf?: string;
 }
 
 export interface Destination {

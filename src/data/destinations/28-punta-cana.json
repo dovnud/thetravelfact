@@ -1,0 +1,198 @@
+{
+  "order": 28,
+  "id": "punta-cana",
+  "kind": "city",
+  "name": "Punta Cana",
+  "countrySlug": "dominican-republic",
+  "countryName": "Dominican Republic",
+  "path": "/dominican-republic/punta-cana/",
+  "dek": "Precipitation only. The maximum-temperature row in this file carries another station's number, and the minimums match Santo Domingo's, so neither is printed.",
+  "paragraphs": [
+    "Punta Cana is WMO 78479, at 7 m, position 18°33′50″N, 68°21′34″W in the file. The precipitation total is numbered 78479 and it does not match Santo Domingo's precipitation. Those twelve figures are the table.",
+    "The daily-maximum row in the same file is numbered 78486, which is Santo Domingo, not Punta Cana, and the figures on that row are not the figures in Santo Domingo's own maximum row. The daily-minimum row is numbered 78479, but all twelve monthly values are the same as Santo Domingo's minimums. A copied or mis-tagged temperature block is not a normal. The high and low cells are blank. No other Punta Cana station is in the submission to stand in."
+  ],
+  "climate": {
+    "caption": "Station: Punta Cana, WMO 78479. Temperature is not printed. See the note.",
+    "stationName": "Punta Cana",
+    "stationId": "WMO 78479",
+    "period": "1991-2020",
+    "elevation": "7 m",
+    "latitude": "18|33|50|N",
+    "longitude": "068|21|34|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": null,
+        "low": null,
+        "rain": "84.7",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": null,
+        "low": null,
+        "rain": "62.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": null,
+        "low": null,
+        "rain": "50.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": null,
+        "low": null,
+        "rain": "64.9",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": null,
+        "low": null,
+        "rain": "129.3",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": null,
+        "low": null,
+        "rain": "93.7",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": null,
+        "low": null,
+        "rain": "84.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": null,
+        "low": null,
+        "rain": "106.7",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": null,
+        "low": null,
+        "rain": "135.3",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": null,
+        "low": null,
+        "rain": "123.6",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": null,
+        "low": null,
+        "rain": "131.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": null,
+        "low": null,
+        "rain": "91.3",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Submitted for the Dominican Republic. Daily maximum and daily minimum are omitted. The maximum-temperature row is numbered 78486, not 78479. The minimum-temperature row is numbered 78479, and its twelve values match Santo Domingo's minimums in that station's own file. Precipitation is the Sum row numbered 78479.",
+    "sourceTitle": "WMO climate normals 1991-2020, Punta Cana (78479)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/DominicanRepublic/CSV/PuntaCana_78479.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November.",
+    "The same page says the Atlantic basin includes the Caribbean Sea."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 110 V, 60 Hz",
+    "detail": "The IEC world-plugs list shows the Dominican Republic at 110 volts and 60 hertz, with plug types A and B. The official tourism site also says the electricity operates at 110 volts. It does not name the plug type or the frequency.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IEC World Plugs",
+        "sourceUrl": "https://www.iec.ch/world-plugs",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "Go Dominican Republic, travel tips",
+        "sourceUrl": "https://www.godominicanrepublic.com/travel/travel-tips",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 247 of Ley 63-17 is titled as the exceptions to driving on the right, and its first sentence says every vehicle shall be driven on the right half of the carriageway of the public road it is on. The exceptions in that article are overtaking, an obstructed right half, a carriageway too narrow for it, and the lane rules for heavy and slow vehicles on a one-way road with more than one lane.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Ley 63-17, artículo 247, Dirección General de Impuestos Internos",
+    "sourceUrl": "https://dgii.gov.do/vehiculosMotor/legislacion/Documents/Ley63-17.pdf"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "10% is on the bill; another 10% is customary",
+    "detail": "The official tourism site says restaurant bills automatically include a 10% service charge, apart from the 18% sales tax listed as ITBIS, and that it is customary to leave an additional 10% so the server receives a tip. It says taxis do not receive a gratuity, and that a reward is a choice when the service was exceptional or the driver helped.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Go Dominican Republic, travel tips",
+    "sourceUrl": "https://www.godominicanrepublic.com/travel/travel-tips"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Tourism site: do not drink it",
+    "detail": "CDC's traveler page for the Dominican Republic, last reviewed 3 September 2026, does not say whether tap water is safe or unsafe. Under typhoid it says to consider the vaccine if you might travel to areas with poor sanitation and unsafe water, including rural areas. Separately, the official tourism site says tap water is not safe to drink from the tap, not to ingest it from the shower, and to buy bottled water. This page repeats those sentences and does not add medical advice.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "Go Dominican Republic, travel tips",
+        "sourceUrl": "https://www.godominicanrepublic.com/travel/travel-tips",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "CDC Travelers' Health, the Dominican Republic",
+        "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Dominican Peso (DOP)",
+    "detail": "ISO 4217 lists the country as DOMINICAN REPUBLIC (THE). The currency name is Dominican Peso and the code is DOP.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Santo_Domingo",
+    "detail": "IANA's zone1970.tab gives the Dominican Republic the single zone America/Santo_Domingo. Punta Cana and Santo Domingo are in that country.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, America/Santo_Domingo",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Dirección General de Migración",
+    "url": "https://migracion.gob.do/servicio/solicitud-de-e-ticket-entrada-y-salida-de-pasajeros/",
+    "note": "The migration directorate's page for the electronic entry and exit form. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

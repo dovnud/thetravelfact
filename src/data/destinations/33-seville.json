@@ -1,0 +1,175 @@
+{
+  "order": 33,
+  "id": "seville",
+  "kind": "city",
+  "name": "Seville",
+  "countrySlug": "spain",
+  "countryName": "Spain",
+  "path": "/spain/seville/",
+  "dek": "The file names the station Sevilla/San Pablo. It is the only Seville station in the submission.",
+  "paragraphs": [
+    "Sevilla/San Pablo is WMO 8391 in the header, WIGOS 0-20000-0-08391, height 34 m. No other Seville file is in Spain's submission, so this is the sheet. The name is the file's name.",
+    "Summers are hot: the July and August average highs are the peak of the table, and July's precipitation is the lightest month by a wide margin, under a millimetre. December, October, and November carry the heavy end. That is a different year from Barcelona's."
+  ],
+  "climate": {
+    "caption": "Station: Sevilla/San Pablo, WMO 8391. The only Seville station in the submission.",
+    "stationName": "Sevilla/San Pablo",
+    "stationId": "WMO 8391",
+    "period": "1991-2020",
+    "elevation": "34 m",
+    "latitude": "37|25|00|N",
+    "longitude": "005|52|45|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "16.2",
+        "low": "6.1",
+        "rain": "56.3",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "18.2",
+        "low": "7.0",
+        "rain": "46.2",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "21.5",
+        "low": "9.5",
+        "rain": "46.9",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "23.7",
+        "low": "11.5",
+        "rain": "54.0",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "27.8",
+        "low": "14.7",
+        "rain": "33.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "32.4",
+        "low": "18.2",
+        "rain": "5.8",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "35.7",
+        "low": "20.4",
+        "rain": "0.6",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "35.6",
+        "low": "20.6",
+        "rain": "2.5",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.1",
+        "low": "18.2",
+        "rain": "33.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "26.0",
+        "low": "14.7",
+        "rain": "75.4",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "20.1",
+        "low": "10.0",
+        "rain": "72.2",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "16.8",
+        "low": "7.4",
+        "rain": "77.2",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Submitted for Spain. The WMO number is the number printed in the station header. The WIGOS identifier in the file is 0-20000-0-08391.",
+    "sourceTitle": "WMO climate normals 1991-2020, Sevilla/San Pablo (8391)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Spain/CSV/SEVILLASANPABLO_8391.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows Spain at 230 volts and 50 hertz, with plug types C and F.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 15 of the texto refundido of the traffic law, approved by Real Decreto Legislativo 6/2015, says that as a general rule, and especially on curves and crests with reduced visibility, a vehicle must travel on every road covered by that law on the right and as close as possible to the edge of the carriageway, keeping enough lateral separation to pass safely. The article says regulations may set exceptions.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Real Decreto Legislativo 6/2015, artículo 15, BOE",
+    "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not required, often 5–10%",
+    "detail": "Spain.info says it is not obligatory to tip in Spain, because establishments include the service charge. It says tipping is common in bars, restaurants, hotels, and taxis, and that the amount depends on the bill and the customer, although it usually varies between five and ten percent of the total.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Spain.info, money and how to pay",
+    "sourceUrl": "https://www.spain.info/en/travel-tips/coins-banknotes/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Spain, last reviewed 8 October 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Spain",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/spain"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Spain.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Madrid",
+    "detail": "IANA's zone1970.tab gives Europe/Madrid the comment Spain (mainland). The same file gives Ceuta and Melilla to Africa/Ceuta and the Canary Islands to Atlantic/Canary. Madrid, Barcelona, Seville, and Valencia are not those places.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Madrid",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministerio de Asuntos Exteriores",
+    "url": "https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Condiciones-de-entrada-en-Espana.aspx",
+    "note": "The foreign ministry's consular page on conditions for entry into Spain, dated 26 February 2026 on that page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

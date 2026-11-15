@@ -6,10 +6,10 @@
   "countrySlug": "italy",
   "countryName": "Italy",
   "path": "/italy/",
-  "dek": "Rome's airport station as the capital reference. Florence and Venice are not this climate.",
+  "dek": "Rome's airport station as the capital reference. Florence, Venice, Milan, and Naples are not this climate.",
   "paragraphs": [
     "The table is Roma Fiumicino, WMO 16242, the coastal airport station, from Italy's 1991–2020 submission in the WMO normals distributed by NOAA NCEI. Roma Ciampino is closer to the city and its temperature normal is complete, but its precipitation normal is blank for June, July, and August. We do not fill those months. Fiumicino is the station with a full precipitation row, and the caption says it is the airport.",
-    "Florence and Venice have their own stations. A summer plan for Rome is not a summer plan for Venice, where the March maximum in the Tessera file is blank and is left blank. Italia.it's tipping note and the Codice della Strada rule are national and are repeated on the city sheets."
+    "Florence, Venice, Milan, and Naples have their own stations. A summer plan for Rome is not a summer plan for Venice, where the March maximum in the Tessera file is blank and is left blank, or for Naples, where May and July are blank in the Capodichino file. Italia.it's tipping note and the Codice della Strada rule are national and are repeated on the city sheets."
   ],
   "climate": {
     "caption": "Reference station: Roma Fiumicino (WMO 16242), the airport. Not a national average, and not Ciampino.",

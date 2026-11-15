@@ -16,7 +16,9 @@ export function amazonSearch(query: string) {
 
 export function adapterQuery(plugValue: string) {
   if (plugValue.includes("Type G")) return "type g travel adapter";
-  if (plugValue.includes("C, F")) return "europe travel adapter";
+  if (plugValue.includes("C, F") || plugValue.includes("C and F") || plugValue.includes("C and E")) {
+    return "europe travel adapter";
+  }
   return "universal travel adapter";
 }
 

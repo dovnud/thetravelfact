@@ -6,14 +6,14 @@ import Base from "../layouts/Base.astro";
   <article class="shell page prose">
     <p class="eyebrow">Methodology</p>
     <h1>How a number gets on the page</h1>
-    <p>Checked 14 November 2026. A fact is a sentence plus a URL plus a date. The date is the day we read the source, not the day the climate period ended.</p>
+    <p>The first twenty sheets were checked 14 November 2026. Milan, Naples, France, the Dominican Republic, Spain, Germany, and Japan were checked 15 November 2026. A fact is a sentence plus a URL plus a date. The date is the day we read the source, not the day the climate period ended.</p>
     <h2>URL scheme</h2>
-    <p>One place, one URL. A country is <code>/mexico/</code>. A city is <code>/mexico/cancun/</code>. The same pattern is used for Canada, the United Kingdom, and Italy. Months stay in the table. They do not get twelve extra URLs.</p>
+    <p>One place, one URL. A country is <code>/mexico/</code>. A city is <code>/mexico/cancun/</code>. The same pattern is used for Canada, the United Kingdom, Italy, France, the Dominican Republic, Spain, Germany, and Japan. Months stay in the table. They do not get twelve extra URLs.</p>
     <h2>Climate</h2>
-    <p>Mexico uses Servicio Meteorológico Nacional normals for 1991–2020, issued 6 November 2026, one station file per place. Canada uses Environment and Climate Change Canada's 1991–2020 composite normals. The United Kingdom uses Met Office 1991–2020 location averages, except that the UK sheet is the HadUK-Grid national block printed on that page, not Heathrow. Italy uses the WMO 1991–2020 normals distributed by NOAA NCEI. Where a month is blank in the file, the cell is blank.</p>
+    <p>Mexico uses Servicio Meteorológico Nacional normals for 1991–2020, issued 6 November 2026, one station file per place. Canada uses Environment and Climate Change Canada's 1991–2020 composite normals. The United Kingdom uses Met Office 1991–2020 location averages, except that the UK sheet is the HadUK-Grid national block printed on that page, not Heathrow. Italy, France, Spain, Germany, the Dominican Republic, and Japan use the WMO 1991–2020 normals distributed by NOAA NCEI, one named station per sheet. Where a month is blank in the file, the cell is blank. Where a temperature row is tagged with another station's number, or matches another station exactly while the rest of the file does not, that row is left off.</p>
     <p>We do not name a best month. The page restates the highest high, the lowest low, and the heaviest and lightest water-column months, and leaves the choice to the reader.</p>
     <h2>The other facts</h2>
-    <p>Plugs and voltage are the IEC world-plugs country lines. Driving is a statute or a government page, quoted in our own sentences. Tipping is a tourism office or, in Mexico, the consumer-protection agency, and only when that page states a practice. Tap water is whatever CDC's traveler page actually says, which in these four countries is not a yes or a no. Currency names and codes are ISO 4217, maintained by SIX. Time zone names are IANA's, matched to the Mexican time-zone law where a city had to be placed in a zone. Entry requirements are a link, not a matrix.</p>
+    <p>Plugs and voltage are the IEC world-plugs country lines. Driving is a statute or a government page, quoted in our own sentences. Tipping is a tourism office or, in Mexico, the consumer-protection agency, and only when that page states a practice. Tap water is whatever CDC's traveler page actually says. In Mexico, Canada, the United Kingdom, Italy, France, Spain, Germany, and Japan, that page is not a yes or a no. The Dominican Republic tourism site does say not to drink the tap, and the sheet quotes that sentence beside the CDC note. Currency names and codes are ISO 4217, maintained by SIX. Time zone names are IANA's, matched to a statute where a city had to be placed, as with the Mexican time-zone law and the Spanish decree that groups the Balearics with the peninsula. Entry requirements are a link, not a matrix.</p>
     <h2 id="gaps">Left off on purpose</h2>
     <ul>
       <li>Toronto (City) rainfall is blank for April through October, so the sheet prints precipitation instead.</li>
@@ -23,6 +23,9 @@ import Base from "../layouts/Base.astro";
       <li>Roma Ciampino is missing summer precipitation, so Rome uses Fiumicino.</li>
       <li>Puerto Vallarta station 14116 has no 1991–2020 normal. The sheet uses El Cuale.</li>
       <li>Ringway, the old Manchester Airport station, closed in 2004. The sheet uses Woodford.</li>
+      <li>Naples Capodichino leaves May and July temperatures, and July precipitation, blank.</li>
+      <li>Punta Cana's maximum-temperature row is numbered as Santo Domingo, and its minimums match Santo Domingo's. Those temperatures are not printed. Precipitation is.</li>
+      <li>Japan's IEC line lists both 50 hertz and 60 hertz and does not assign a city, so the sheet does not either.</li>
       <li>The full list, including a Tacubaya file that disagrees with an older WMO copy, is in the repository file GAPS.md.</li>
     </ul>
   </article>

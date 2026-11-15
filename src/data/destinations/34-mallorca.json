@@ -1,0 +1,180 @@
+{
+  "order": 34,
+  "id": "mallorca",
+  "kind": "city",
+  "name": "Mallorca",
+  "countrySlug": "spain",
+  "countryName": "Spain",
+  "path": "/spain/mallorca/",
+  "dek": "Palma's port station, not the whole island and not Son Sant Joan.",
+  "paragraphs": [
+    "The file names the station PALMA-PUERTO, WMO 8301, height 3 m, position 39°33′19″N, 2°37′31″E. Palma de Mallorca/Son San Juan, WMO 8306, is the other Palma file and it is complete. The port station is the one on this page. The island is not one climate, and this table does not pretend to be the Serra de Tramuntana.",
+    "Winters are mild, August is the warm peak, and July is the light precipitation month. October is the heaviest. The time-zone line on this sheet is longer than Madrid's, because the IANA comment says mainland and the Balearic time comes from the decree."
+  ],
+  "climate": {
+    "caption": "Station: Palma-Puerto, WMO 8301. Not Son San Juan, and not an island average.",
+    "stationName": "Palma-Puerto",
+    "stationId": "WMO 8301",
+    "period": "1991-2020",
+    "elevation": "3 m",
+    "latitude": "39|33|19|N",
+    "longitude": "002|37|31|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "16.5",
+        "low": "8.9",
+        "rain": "44.4",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "16.5",
+        "low": "8.7",
+        "rain": "36.7",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "18.3",
+        "low": "10.2",
+        "rain": "29.1",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "20.3",
+        "low": "12.4",
+        "rain": "37.5",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "23.5",
+        "low": "15.5",
+        "rain": "31.6",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "27.3",
+        "low": "19.3",
+        "rain": "13.9",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "29.9",
+        "low": "22.1",
+        "rain": "5.1",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30.4",
+        "low": "22.7",
+        "rain": "21.7",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "27.7",
+        "low": "20.0",
+        "rain": "58.2",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "24.4",
+        "low": "16.8",
+        "rain": "72.6",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "20.1",
+        "low": "12.6",
+        "rain": "67.8",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "17.5",
+        "low": "10.1",
+        "rain": "49.3",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Submitted for Spain. The WMO number is the number printed in the station header. The WIGOS identifier in the file is 0-20000-0-08301. Son San Juan was not substituted.",
+    "sourceTitle": "WMO climate normals 1991-2020, Palma-Puerto (8301)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Spain/CSV/PALMAPUERTO_8301.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows Spain at 230 volts and 50 hertz, with plug types C and F.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 15 of the texto refundido of the traffic law, approved by Real Decreto Legislativo 6/2015, says that as a general rule, and especially on curves and crests with reduced visibility, a vehicle must travel on every road covered by that law on the right and as close as possible to the edge of the carriageway, keeping enough lateral separation to pass safely. The article says regulations may set exceptions.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Real Decreto Legislativo 6/2015, artículo 15, BOE",
+    "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not required, often 5–10%",
+    "detail": "Spain.info says it is not obligatory to tip in Spain, because establishments include the service charge. It says tipping is common in bars, restaurants, hotels, and taxis, and that the amount depends on the bill and the customer, although it usually varies between five and ten percent of the total.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Spain.info, money and how to pay",
+    "sourceUrl": "https://www.spain.info/en/travel-tips/coins-banknotes/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Spain, last reviewed 8 October 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Spain",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/spain"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Spain.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Madrid",
+    "detail": "Real Decreto 236/2002 says Spain has two official times, one for the peninsula and the Balearic archipelago and one for the Canary archipelago. Mallorca is in the Balearics, so the decree puts it on the peninsula's official time. IANA's zone1970.tab names the mainland zone Europe/Madrid and comments it Spain (mainland). The file does not name the Balearics on their own row. This sheet uses Europe/Madrid because that is the mainland name, and the decree groups the Balearics with the peninsula rather than with the Canaries.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "Real Decreto 236/2002, hora de verano, BOE",
+        "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-4221",
+        "asOf": "2026-11-15"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Madrid",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministerio de Asuntos Exteriores",
+    "url": "https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Condiciones-de-entrada-en-Espana.aspx",
+    "note": "The foreign ministry's consular page on conditions for entry into Spain, dated 26 February 2026 on that page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

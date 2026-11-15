@@ -1,0 +1,175 @@
+{
+  "order": 32,
+  "id": "madrid",
+  "kind": "city",
+  "name": "Madrid",
+  "countrySlug": "spain",
+  "countryName": "Spain",
+  "path": "/spain/madrid/",
+  "dek": "Madrid Retiro, at 667 metres in the file. Barajas is a different station and is not merged.",
+  "paragraphs": [
+    "The file names the station MADRID, RETIRO, WMO number 8222 in the header and WIGOS identifier 0-20000-0-08222. The height is 667 m. Madrid/Barajas, WMO 8221, has its own complete normal. The airport is not averaged with Retiro.",
+    "The year is a cool winter and a hot summer, with July the warmest high and also one of the two lightest precipitation months. October is the heaviest. The country sheet uses this same station as the capital reference, and it says the coasts are not this table."
+  ],
+  "climate": {
+    "caption": "Station: Madrid Retiro, WMO 8222. Not Barajas.",
+    "stationName": "Madrid Retiro",
+    "stationId": "WMO 8222",
+    "period": "1991-2020",
+    "elevation": "667 m",
+    "latitude": "40|24|43|N",
+    "longitude": "003|40|41|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "10.2",
+        "low": "3.0",
+        "rain": "32.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "12.3",
+        "low": "3.7",
+        "rain": "33.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "16.4",
+        "low": "6.3",
+        "rain": "35.3",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "19.1",
+        "low": "8.2",
+        "rain": "46.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "23.5",
+        "low": "11.9",
+        "rain": "48.3",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "29.4",
+        "low": "16.5",
+        "rain": "19.6",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "33.3",
+        "low": "19.5",
+        "rain": "9.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "32.6",
+        "low": "19.3",
+        "rain": "10.4",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "26.9",
+        "low": "15.5",
+        "rain": "23.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "20.0",
+        "low": "11.1",
+        "rain": "64.2",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "13.7",
+        "low": "6.4",
+        "rain": "52.2",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "10.4",
+        "low": "3.7",
+        "rain": "42.4",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Submitted for Spain. The WMO number is the number printed in the station header. The WIGOS identifier in the file is 0-20000-0-08222.",
+    "sourceTitle": "WMO climate normals 1991-2020, Madrid Retiro (8222)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Spain/CSV/MADRIDRETIRO_8222.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows Spain at 230 volts and 50 hertz, with plug types C and F.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 15 of the texto refundido of the traffic law, approved by Real Decreto Legislativo 6/2015, says that as a general rule, and especially on curves and crests with reduced visibility, a vehicle must travel on every road covered by that law on the right and as close as possible to the edge of the carriageway, keeping enough lateral separation to pass safely. The article says regulations may set exceptions.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Real Decreto Legislativo 6/2015, artículo 15, BOE",
+    "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not required, often 5–10%",
+    "detail": "Spain.info says it is not obligatory to tip in Spain, because establishments include the service charge. It says tipping is common in bars, restaurants, hotels, and taxis, and that the amount depends on the bill and the customer, although it usually varies between five and ten percent of the total.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Spain.info, money and how to pay",
+    "sourceUrl": "https://www.spain.info/en/travel-tips/coins-banknotes/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Spain, last reviewed 8 October 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Spain",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/spain"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Spain.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Madrid",
+    "detail": "IANA's zone1970.tab gives Europe/Madrid the comment Spain (mainland). The same file gives Ceuta and Melilla to Africa/Ceuta and the Canary Islands to Atlantic/Canary. Madrid, Barcelona, Seville, and Valencia are not those places.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Madrid",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministerio de Asuntos Exteriores",
+    "url": "https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Condiciones-de-entrada-en-Espana.aspx",
+    "note": "The foreign ministry's consular page on conditions for entry into Spain, dated 26 February 2026 on that page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

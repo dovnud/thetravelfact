@@ -1,0 +1,175 @@
+{
+  "order": 40,
+  "id": "japan",
+  "kind": "country",
+  "name": "Japan",
+  "countrySlug": "japan",
+  "countryName": "Japan",
+  "path": "/japan/",
+  "dek": "Tokyo's 1991–2020 normal. Not a national average. Sapporo and Naha are other files, and they are not this table.",
+  "paragraphs": [
+    "The table is Tokyo, WMO 47662, height 25.2 m, position 35°41′30″N, 139°45′0″E. Japan's submission also includes Sapporo, Osaka, Fukuoka, Naha, and others. None of those is averaged with Tokyo. There is no city sheet for them yet, and this page does not preview their numbers.",
+    "Tokyo's average high runs from a cool January to a hot August, and the precipitation peaks in September and October rather than in a single summer month. The plug line lists both 50 hertz and 60 hertz because that is what the IEC country line says, and it does not assign a frequency to a city."
+  ],
+  "climate": {
+    "caption": "Reference station: Tokyo, WMO 47662. Not a national average.",
+    "stationName": "Tokyo",
+    "stationId": "WMO 47662",
+    "period": "1991-2020",
+    "elevation": "25.2 m",
+    "latitude": "35|41|30|N",
+    "longitude": "139|45|0|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "9.8",
+        "low": "1.2",
+        "rain": "59.7",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "10.9",
+        "low": "2.1",
+        "rain": "56.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "14.2",
+        "low": "5",
+        "rain": "116",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "19.4",
+        "low": "9.8",
+        "rain": "133.7",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "23.6",
+        "low": "14.6",
+        "rain": "139.7",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "26.1",
+        "low": "18.5",
+        "rain": "167.8",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "29.9",
+        "low": "22.4",
+        "rain": "156.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.3",
+        "low": "23.5",
+        "rain": "154.7",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "27.5",
+        "low": "20.3",
+        "rain": "224.9",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "22",
+        "low": "14.8",
+        "rain": "234.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "16.7",
+        "low": "8.8",
+        "rain": "96.3",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "12",
+        "low": "3.8",
+        "rain": "57.9",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Submitted for Japan. ",
+    "sourceTitle": "WMO climate normals 1991-2020, Tokyo (47662)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/Japan/CSV/Tokyo_47662.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 100 V, 50 and 60 Hz",
+    "detail": "The IEC world-plugs list shows Japan at 100 volts, with 50 hertz and 60 hertz, and plug types A and B. The country line does not say which frequency belongs to which city, so this sheet does not pick one.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Japanese Law Translation database's English text of the Road Traffic Act says, in Article 17(4), that a vehicle must proceed along the part of the road to the left of the center. Article 18(1) says a motor vehicle that is not on a road with vehicle traffic lanes must proceed down the left side of the road, except when passing, when moving toward the center or the right edge under other articles, or when road conditions compel it.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "Road Traffic Act, Articles 17 and 18, Japanese Law Translation",
+    "sourceUrl": "https://www.japaneselawtranslation.go.jp/en/laws/view/2962/en"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not common",
+    "detail": "The Japan National Tourism Organization says it is not common to tip for bars, cafes, restaurants, taxis, and hotels. It describes a separate custom, kokorozuke, and says a private guide or interpreter who is used to overseas practice may accept a tip, which is not expected and, if offered, is put in an envelope.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "JNTO, tipping in Japan",
+    "sourceUrl": "https://www.japan.travel/en/plan/tipping-in-japan/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Japan, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "CDC Travelers' Health, Japan",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/japan"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Yen (JPY)",
+    "detail": "ISO 4217 lists the currency name Yen and the code JPY for Japan.",
+    "asOf": "2026-11-15",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Tokyo",
+    "detail": "IANA's zone1970.tab lists Japan on Asia/Tokyo, and Japan has only that one row. The comment on the row names Eyre Bird Observatory. The file's header says a comment is useful only for a country that has more than one zone. The comment is not a description of Japan, and it is not printed as one.",
+    "asOf": "2026-11-15",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Asia/Tokyo",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs of Japan",
+    "url": "https://www.mofa.go.jp/j_info/visit/visa/index.html",
+    "note": "The foreign ministry's visa page. We do not restate a visa rule.",
+    "asOf": "2026-11-15"
+  }
+}

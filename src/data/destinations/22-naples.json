@@ -1,0 +1,175 @@
+{
+  "order": 22,
+  "id": "naples",
+  "kind": "city",
+  "name": "Naples",
+  "countrySlug": "italy",
+  "countryName": "Italy",
+  "path": "/italy/naples/",
+  "dek": "Capodichino, with the blanks left blank. May and July temperatures, and July precipitation, are empty in the source.",
+  "paragraphs": [
+    "Napoli Capodichino is WMO 16289, at 90 m in the file. It is the only Naples station in Italy's 1991–2020 submission. May's mean daily maximum and minimum are blank, July's maximum and minimum are blank, and July's precipitation total is blank. The year-counts for those months are filled in. The measurements are not. The cells stay empty.",
+    "The months that are present show a mild winter and a hot late summer, with more precipitation in autumn and early winter than in June or August. June and August are not used to guess July. Capri is a different station and is not borrowed."
+  ],
+  "climate": {
+    "caption": "Station: Napoli Capodichino, WMO 16289. May and July temperatures, and July precipitation, are blank in the source.",
+    "stationName": "Napoli Capodichino",
+    "stationId": "WMO 16289",
+    "period": "1991-2020",
+    "elevation": "90 m",
+    "latitude": "40|53|4|N",
+    "longitude": "14|17|27|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "13.47",
+        "low": "4.82",
+        "rain": "81.62",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "14.07",
+        "low": "4.95",
+        "rain": "59.39",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "16.51",
+        "low": "7.33",
+        "rain": "77.03",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "19.56",
+        "low": "9.94",
+        "rain": "74.45",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": null,
+        "low": null,
+        "rain": "49.62",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "27.92",
+        "low": "17.92",
+        "rain": "28.98",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": null,
+        "low": null,
+        "rain": null,
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.26",
+        "low": "21.02",
+        "rain": "13.82",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "27.13",
+        "low": "17.35",
+        "rain": "77.94",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "23.04",
+        "low": "13.37",
+        "rain": "78.23",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "18.41",
+        "low": "9.34",
+        "rain": "115.52",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "14.42",
+        "low": "5.74",
+        "rain": "100.08",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Submitted for Italy. Blank cells are blank in the source and are left blank here. Daily maximum and daily minimum are blank for May and July. Precipitation is blank for July.",
+    "sourceTitle": "WMO climate normals 1991-2020, Napoli Capodichino (16289)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Italy/CSV/Napoli_Capodichino_16289.csv",
+    "asOf": "2026-11-15"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C, F, and L, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list shows Italy at 230 volts and 50 hertz, with plug type C, F, and L.",
+    "sourceTitle": "IEC World Plugs",
+    "sourceUrl": "https://www.iec.ch/world-plugs",
+    "asOf": "2026-11-14"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 143 of the Codice della Strada says vehicles must travel on the right side of the carriageway and close to its right edge, even when the road is clear.",
+    "sourceTitle": "Codice della Strada, d.lgs. 285/1992, articolo 143, Normattiva",
+    "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art143",
+    "asOf": "2026-11-14"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not required, about 10% if you do",
+    "detail": "The national tourism site Italia.it says tipping is not compulsory and there are no established rules, but it is customary to leave an amount close to 10% of the bill when you are satisfied with the service.",
+    "sourceTitle": "Italia.it, money, payments and tipping",
+    "sourceUrl": "https://www.italia.it/en/italy/practical-information/money-payments-and-tipping-in-italy",
+    "asOf": "2026-11-14"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Italy, last reviewed 25 August 2026, does not say whether tap water is safe or unsafe. It says food and water standards vary by destination and by what you are doing, and it points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "sourceTitle": "CDC Travelers' Health, Italy",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/italy",
+    "asOf": "2026-11-14"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Italy.",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+    "asOf": "2026-11-15"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Rome",
+    "detail": "Naples is in Italy, which IANA places in Europe/Rome.",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab, Europe/Rome",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-15"
+      }
+    ],
+    "asOf": "2026-11-15"
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministero degli Affari Esteri",
+    "url": "https://www.esteri.it/en/ministero/sportello_info/domandefrequenti/sezione_visti_entrare_in_italia/",
+    "note": "The foreign ministry's entry page, which sends you to the Visa for Italy database. We do not restate a visa rule.",
+    "asOf": "2026-11-14"
+  }
+}

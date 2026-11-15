@@ -1,6 +1,6 @@
 # TheTravelFact
 
-Sourced destination sheets for [thetravelfact.com](https://thetravelfact.com). Phase 1 is 20 places: Mexico, Canada, the United Kingdom, and Italy, and the cities inside that launch list.
+Sourced destination sheets for [thetravelfact.com](https://thetravelfact.com). Forty places are on the site: Mexico, Canada, the United Kingdom, Italy, France, the Dominican Republic, Spain, Germany, and Japan, and the cities inside that list.
 
 Each sheet is one URL. A country is `/mexico/`. A city is `/mexico/cancun/`. The page has a named 1991–2020 climate station, then plugs and voltage, driving side, tipping, tap water, currency, time zone, and a link to the official entry page. Numbers without a source are left off and listed in [GAPS.md](GAPS.md).
 
