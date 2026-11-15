@@ -1,0 +1,85 @@
+---
+import Base from "../layouts/Base.astro";
+import { MONTHS, RULE, monthPath, monthSlug, picksFor, unrated } from "../lib/months";
+
+export function getStaticPaths() {
+  return MONTHS.map((m, i) => ({ params: { month: monthSlug(m) }, props: { index: i } }));
+}
+const { index } = Astro.props as { index: number };
+const month = MONTHS[index];
+const picks = picksFor(index);
+const missing = unrated(index);
+const prev = MONTHS[(index + 11) % 12];
+const next = MONTHS[(index + 1) % 12];
+const title = `Best places to visit in ${month}`;
+const description = `${picks.length} of our sourced sheets where the average high in ${month} is ${RULE.minHigh}–${RULE.maxHigh} °C and the month has under ${RULE.maxRain} mm of precipitation. Every figure links to its station sheet.`;
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ItemList",
+      name: title,
+      itemListElement: picks.map((p, i) => ({ "@type": "ListItem", position: i + 1, name: p.d.name, url: new URL(p.d.path, "https://thetravelfact.com").href })),
+    },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: "https://thetravelfact.com/" },
+        { "@type": "ListItem", position: 2, name: title, item: new URL(monthPath(month), "https://thetravelfact.com").href },
+      ],
+    },
+  ],
+};
+---
+
+<Base title={title} description={description} jsonLd={jsonLd}>
+  <article class="shell page prose hub" data-pagefind-body data-pagefind-meta="country:Month list">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true"> / </span><span>{month}</span></nav>
+    <p class="eyebrow">Month list</p>
+    <h1 data-pagefind-meta="title" data-pagefind-weight="10">{title}</h1>
+    <p class="dek">{picks.length} sheets pass one plain rule in {month}. Driest first.</p>
+    <h2>The rule</h2>
+    <p>
+      A sheet is listed when its own climate table gives, for {month}, an average daily high from {RULE.minHigh} °C to {RULE.maxHigh} °C, inclusive, and less than {RULE.maxRain} mm in the precipitation or rainfall column. That is the whole rule. We do not add taste, crowds, prices, or events. Each figure is the station named on the linked sheet, usually a 1991–2020 normal; a few sheets use another period, and the sheet says which. A station is one point: a coast, a mountain, or the other end of a country can differ.
+    </p>
+    <div class="table-wrap">
+      <table class="board">
+        <caption>{month}: sheets that pass the rule, sorted by precipitation, lowest first.</caption>
+        <thead>
+          <tr>
+            <th scope="col">Sheet</th>
+            <th scope="col">Country</th>
+            <th scope="col" class="num">High °C</th>
+            <th scope="col" class="num">Low °C</th>
+            <th scope="col" class="num">mm</th>
+            <th scope="col">Station, period</th>
+          </tr>
+        </thead>
+        <tbody>
+          {picks.map((p) => (
+            <tr>
+              <th scope="row"><a href={`${p.d.path}#weather`}>{p.d.name}</a></th>
+              <td>{p.d.kind === "country" ? (p.d.sheetLabel ?? "Country sheet") : p.d.countryName}</td>
+              <td class="num">{p.high}</td>
+              <td class="num">{p.low ?? "–"}</td>
+              <td class="num">{p.rain}</td>
+              <td>{p.d.climate.stationName}, {p.d.climate.period}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    {picks.length === 0 && <p>No sheet passes the rule this month.</p>}
+    <h2>Not rated this month</h2>
+    <p>
+      These sheets have no average high or no precipitation figure for {month} in their table, so the rule cannot be applied. They are not excluded on merit:{" "}
+      {missing.map((d, i) => <>{i > 0 && ", "}<a href={d.path}>{d.name}</a></>)}{missing.length === 0 && "none"}.
+    </p>
+    <nav class="month-nav" aria-label="Other months" data-pagefind-ignore>
+      <p><a href={monthPath(prev)}>← {prev}</a> · <a href={monthPath(next)}>{next} →</a></p>
+      <ul class="month-links">
+        {MONTHS.map((m) => <li>{m === month ? <span aria-current="page">{m.slice(0, 3)}</span> : <a href={monthPath(m)}>{m.slice(0, 3)}</a>}</li>)}
+      </ul>
+    </nav>
+  </article>
+</Base>

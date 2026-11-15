@@ -3,6 +3,7 @@ import Base from "../layouts/Base.astro";
 import { destinations, hubs } from "../lib/destinations";
 import SearchForm from "../components/SearchForm.astro";
 import { photos } from "../data/photos";
+import { MONTHS, monthPath } from "../lib/months";
 
 const countries = destinations.filter((d) => d.kind === "country");
 // Cities whose country has no sheet of its own (for example the United States) get an unlinked group heading.
@@ -54,6 +55,13 @@ const jsonLd = {
   <section class="hero-search shell">
     <h2 class="hero-search-title">Find a sheet</h2>
     <SearchForm id="q-hero" size="large" />
+  </section>
+  <section class="shell month-hubs">
+    <h2 class="hero-search-title">Where to go by month</h2>
+    <ul class="month-links">
+      {MONTHS.map((m) => <li><a href={monthPath(m)}>{m}</a></li>)}
+    </ul>
+    <p class="note">One plain rule from each sheet's own climate table: average high 20–30 °C and under 100 mm. Also: <a href="/countries-that-drive-on-the-left/">countries that drive on the left</a>.</p>
   </section>
   <section class="deck">
     <div class="deck-kicker">102 sheets</div>

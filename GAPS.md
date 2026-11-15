@@ -112,3 +112,8 @@ Still open:
 - Travel advisory: State Department feed (travel.state.gov RSS). US cities, Hawaii, and Puerto Rico print "Not applicable" because the State Department does not issue advisories for US jurisdictions. Regional levels inside a country are not tabulated; the sheet says when the advisory names areas with increased risk.
 - Health and vaccines: CDC Travelers' Health destination pages. US cities and Hawaii have no CDC destination page, so the health line is blank there. The summary keeps only the main rows (hepatitis A and B, typhoid, yellow fever, malaria, Japanese encephalitis, tick-borne encephalitis, chikungunya, polio, rabies dogs) plus listed travel health notices.
 - Emergency numbers: GOV.UK FCDO travel advice, Emergency services. United Kingdom: only the police number (999) is printed, from GOV.UK Contact the police; ambulance and fire numbers were not taken from a cited page. Puerto Rico: 9-1-1 only, from the Department of Public Safety.
+
+## Month lists and the drive-on-the-left list, 15 November 2026
+
+- The 12 month lists (/best-places-to-visit-in-january/ and the rest) use one rule: average high 20–30 °C inclusive and under 100 mm in the sheet's own table. Sheets with no high or no precipitation figure for a month (for example Vietnam, Bali, Panama, Punta Cana, Santorini, Dubrovnik) are listed as "not rated", not excluded.
+- /countries-that-drive-on-the-left/ is built from the sheets' driving lines. Places with no official driving source (Dubai/UAE, Morocco, Egypt, Costa Rica, Aruba) are on neither the left nor the right list.

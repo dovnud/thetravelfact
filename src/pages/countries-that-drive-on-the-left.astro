@@ -1,0 +1,58 @@
+---
+import Base from "../layouts/Base.astro";
+import { destinations, citiesIn } from "../lib/destinations";
+import { factSources } from "../lib/types";
+
+const countries = destinations.filter((d) => d.kind === "country" || !destinations.some((c) => c.kind === "country" && c.countrySlug === d.countrySlug));
+const left = countries.filter((d) => d.driving && /^left/i.test(d.driving.value));
+const right = countries.filter((d) => d.driving && !/^left/i.test(d.driving.value));
+const none = countries.filter((d) => !d.driving);
+const title = "Countries that drive on the left";
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    { "@type": "ItemList", name: title, itemListElement: left.map((d, i) => ({ "@type": "ListItem", position: i + 1, name: d.name, url: new URL(d.path, "https://thetravelfact.com").href })) },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: "https://thetravelfact.com/" },
+        { "@type": "ListItem", position: 2, name: title, item: "https://thetravelfact.com/countries-that-drive-on-the-left/" },
+      ],
+    },
+  ],
+};
+---
+
+<Base title={title} description={`${left.length} places on TheTravelFact drive on the left, each with the statute or official page that says so.`} jsonLd={jsonLd}>
+  <article class="shell page prose hub" data-pagefind-body data-pagefind-meta="country:List">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true"> / </span><span>Drive on the left</span></nav>
+    <p class="eyebrow">List</p>
+    <h1 data-pagefind-meta="title" data-pagefind-weight="10">{title}</h1>
+    <p class="dek">{left.length} of the places on this site keep left. Each row links the statute or official page we read.</p>
+    <p>This list is built from the driving line on each sheet. It covers only places we have a sheet for, not every country in the world. A place with no official source on file is listed at the bottom, not guessed.</p>
+    <div class="table-wrap">
+      <table class="board">
+        <caption>Places on this site that drive on the left.</caption>
+        <thead><tr><th scope="col">Place</th><th scope="col">City sheets</th><th scope="col">Source</th><th scope="col">Checked</th></tr></thead>
+        <tbody>
+          {left.map((d) => {
+            const s = factSources(d.driving!)[0];
+            const cs = citiesIn(d.countrySlug);
+            return (
+              <tr>
+                <th scope="row"><a href={`${d.path}#driving`}>{d.name}</a></th>
+                <td>{cs.length ? cs.map((c, i) => <>{i > 0 && ", "}<a href={c.path}>{c.name}</a></>) : "–"}</td>
+                <td>{s ? <a href={s.sourceUrl}>{s.sourceTitle}</a> : "–"}</td>
+                <td>{s?.asOf ?? d.driving!.asOf}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+    <h2>Everywhere else on the site keeps right</h2>
+    <p>{right.map((d, i) => <>{i > 0 && ", "}<a href={`${d.path}#driving`}>{d.name}</a></>)}.</p>
+    <h2>No official source on file</h2>
+    <p>{none.length ? <>These sheets have no driving line yet, so they are on neither list: {none.map((d, i) => <>{i > 0 && ", "}<a href={d.path}>{d.name}</a></>)}. See the <a href="/sources/#gaps">gaps</a>.</> : "None."}</p>
+  </article>
+</Base>
