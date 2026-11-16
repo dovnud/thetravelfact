@@ -1,0 +1,78 @@
+# Journal keyword research
+
+Pulled 15 November 2026 (America/Los_Angeles) from DataForSEO Labs `google/keyword_overview/live`, location United States (2840), language English. Volume is the Labs monthly search-volume estimate; KD is Labs keyword difficulty (0–100). Three SERPs were also pulled with `serp/google/organic/live/regular` to check intent.
+
+Cost: keyword overview $0.01788 (58 keywords sent, 49 returned with data), SERPs 3 × $0.002 = $0.006. Total about $0.024. Balance before: $29.54.
+
+Keywords that returned no data: countries that use us dollar as currency, countries where tipping is offensive, countries where tipping is not customary, tipping etiquette by country, which countries have safe drinking water, what plug do i need for europe, what plug is used in japan, when is rainy season in southeast asia, does europe use the euro everywhere.
+
+| Keyword | US volume | KD | Main intent | CPC (USD) |
+|---|---:|---:|---|---:|
+| best time to visit japan | 27100 | 2 | informational | 1.77 |
+| time zones europe | 18100 | 20 | informational | 0.09 |
+| best time to visit costa rica | 14800 | 1 | informational | 2.38 |
+| when is hurricane season in the caribbean | 12100 | 12 | informational | 0.39 |
+| best time to visit bali | 9900 | 3 | informational | 1.15 |
+| best time to visit thailand | 9900 | 11 | informational | 2.89 |
+| countries that drive on the left | 8100 | 11 | informational | 0.01 |
+| best time to visit mexico | 3600 | 0 | informational | 0.94 |
+| power adapter for europe | 3600 | 16 | transactional | 0.51 |
+| countries that use the euro | 2900 | 30 | informational |  |
+| best time to visit europe | 2400 | 0 | informational | 4.73 |
+| hurricane season caribbean | 2400 | 23 | informational | 0.44 |
+| plug type by country | 2400 | 38 | informational | 0.06 |
+| safest countries to visit | 2400 | 18 | informational | 0.7 |
+| best time to visit caribbean | 1900 | 0 | informational | 3.36 |
+| plug types by country | 1900 | 75 | informational | 0.07 |
+| what side of the road does japan drive on | 1900 | 7 | informational | 0.03 |
+| countries that use usd | 1600 | 13 | informational |  |
+| which countries use the euro | 1600 | 31 | informational |  |
+| 112 emergency number | 1300 | 6 | informational |  |
+| countries that use the us dollar | 1300 | 13 | informational |  |
+| do you tip in japan | 1300 | 7 | informational | 0.37 |
+| tipping in mexico | 1300 | 0 | informational | 0.21 |
+| best time to visit southeast asia | 720 | 0 | informational | 5.69 |
+| can you drink the water in mexico | 720 | 6 | informational | 0.03 |
+| can you use us dollars in mexico | 590 | 0 | informational | 0.01 |
+| emergency number in europe | 590 | 35 | informational |  |
+| tipping in europe | 480 | 1 | informational | 11.82 |
+| can you drink tap water in japan | 390 | 0 | informational |  |
+| can you use us dollars in costa rica | 390 | 3 | informational | 0.68 |
+| do i need a voltage converter for europe | 390 | 0 | informational | 0.69 |
+| best month to visit europe | 320 | 0 | informational | 17.86 |
+| can you drink tap water in mexico | 210 | 0 | informational |  |
+| emergency numbers by country | 140 | 14 | informational |  |
+| state department travel advisory levels | 140 | 36 | informational | 0.19 |
+| countries with safe tap water | 110 | 7 | informational |  |
+| driving in europe as an american | 110 | 2 | informational |  |
+| type c plug countries | 110 | 14 | informational | 0.07 |
+| type g plug countries | 110 | 26 | informational | 0.06 |
+| can you drink tap water in europe | 50 | 0 | informational |  |
+| do i need vaccines to travel to mexico | 50 | 0 | informational | 0.34 |
+| yellow fever vaccine required countries | 50 | 47 | informational |  |
+| travel advisory levels explained | 30 | 18 | informational |  |
+| travel vaccines by country | 30 | 22 | informational | 6.15 |
+| countries in europe that don't use the euro | 20 | 17 | informational |  |
+| countries where tipping is rude | 20 | 1 | informational |  |
+| countries with 220v | 20 | 22 | informational |  |
+| is tap water safe in europe | 10 |  | informational |  |
+| what countries use 110v | 10 | 60 | informational |  |
+
+## Picks
+
+1. **when is hurricane season in the caribbean** — 12,100, KD 12. Cluster: hurricane season caribbean (2,400, KD 23), best time to visit caribbean (1,900, KD 0). URL: /journal/caribbean-hurricane-season/.
+2. **best time to visit europe** — 2,400, KD 0. Cluster: best month to visit europe (320, KD 0). URL: /journal/best-time-to-visit-europe/.
+3. **countries that use the euro** — 2,900, KD 30. Cluster: which countries use the euro (1,600, KD 31). URL: /journal/countries-that-use-the-euro/.
+
+## Why these three
+
+- Each one is informational, and the answer is a fact we already source and date: NHC's season dates are on our Mexico and Dominican Republic sheets; the 1991–2020 monthly normals are on every European and Caribbean sheet; the ISO 4217 currency line is on every sheet.
+- Each story can link into many sheets: about 46 European sheets plus the month lists; nine Caribbean-area sheets plus Miami and Cancún; every euro and non-euro European sheet.
+- KD is low to medium, and the SERPs are forums, tourism pages and listicles, not a single entrenched official answer box.
+
+## Red team
+
+- **Intent.** "Best time to visit Europe" searchers often want crowds and prices too. We have no sourced crowd or price data, so the story says so and answers only on weather, from named stations. "Hurricane season" searchers want dates and the peak; NHC gives both (June 1 to November 30; peak September 10; most activity mid-August to mid-October). "Countries that use the euro" wants a list; the EU's own page gives the 21 members and the ECB names the six non-EU users.
+- **Overlap.** None of the three duplicates a list page. The month lists are per month and site-wide; the Europe story is one region across the year and links to them. There is no currency list page. The drive-on-the-left page was deliberately not used (8,100, KD 11) to avoid cannibalising it. "best time to visit japan" (27,100, KD 2) and Costa Rica, Thailand and Bali are high-volume but would compete with a single sheet's own climate table; they are better as future sheet upgrades than as Journal stories.
+- **Sourcing.** Every number comes from a sheet's dated source or a new cited page: NHC climatology, the EU "Countries using the euro" page (last updated 12 January 2026), and the ECB "What is the euro" page. No crowd, price, cruise, or insurance claims. Aruba's rain table is from its own met department; Punta Cana prints rain only; Panama prints nothing — the stories say so.
+- **Rejected.** Time zones Europe (18,100, KD 20): intent is a clock/converter, which we do not build. Plug type by country (2,400, KD 38) and plug types by country (1,900, KD 75): harder, and the IEC list itself ranks. Tipping is rude (20): no volume. Safe tap water (110): low volume and CDC does not give yes/no for most countries. 112 emergency number (1,300, KD 6): a good next story once a European emergency source is pinned down for every country.
