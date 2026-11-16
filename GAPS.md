@@ -117,3 +117,8 @@ Still open:
 
 - The 12 month lists (/best-places-to-visit-in-january/ and the rest) use one rule: average high 20–30 °C inclusive and under 100 mm in the sheet's own table. Sheets with no high or no precipitation figure for a month (for example Vietnam, Bali, Panama, Punta Cana, Santorini, Dubrovnik) are listed as "not rated", not excluded.
 - /countries-that-drive-on-the-left/ is built from the sheets' driving lines. Places with no official driving source (Dubai/UAE, Morocco, Egypt, Costa Rica, Aruba) are on neither the left nor the right list.
+
+## Plug list and 112 story, 16 November 2026
+
+- /plug-types-by-country/ is built from each sheet's plug line (IEC world plugs, live page on 14–15 November or the 16 August 2026 archive). It lists only places with a sheet. Japan's 50/60 Hz and the two voltages for Morocco, Brazil and Indonesia are printed as the IEC lines give them; none is assigned to a city.
+- The 112 story uses the European Commission's 112 page (read 16 November 2026) for what 112 is, and each sheet's FCDO emergency line for country numbers. Still open: the UK sheet has only the police number (999); no cited GOV.UK page giving ambulance and fire numbers, or 112, for the UK was opened. Poland's FCDO line does not list 112; the story cites the Commission's EU-wide statement and does not add 112 to the Poland sheet. No official US source on whether 112 connects in the US was found; the story says to dial 911.

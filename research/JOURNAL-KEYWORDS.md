@@ -76,3 +76,33 @@ Keywords that returned no data: countries that use us dollar as currency, countr
 - **Overlap.** None of the three duplicates a list page. The month lists are per month and site-wide; the Europe story is one region across the year and links to them. There is no currency list page. The drive-on-the-left page was deliberately not used (8,100, KD 11) to avoid cannibalising it. "best time to visit japan" (27,100, KD 2) and Costa Rica, Thailand and Bali are high-volume but would compete with a single sheet's own climate table; they are better as future sheet upgrades than as Journal stories.
 - **Sourcing.** Every number comes from a sheet's dated source or a new cited page: NHC climatology, the EU "Countries using the euro" page (last updated 12 January 2026), and the ECB "What is the euro" page. No crowd, price, cruise, or insurance claims. Aruba's rain table is from its own met department; Punta Cana prints rain only; Panama prints nothing — the stories say so.
 - **Rejected.** Time zones Europe (18,100, KD 20): intent is a clock/converter, which we do not build. Plug type by country (2,400, KD 38) and plug types by country (1,900, KD 75): harder, and the IEC list itself ranks. Tipping is rude (20): no volume. Safe tap water (110): low volume and CDC does not give yes/no for most countries. 112 emergency number (1,300, KD 6): a good next story once a European emergency source is pinned down for every country.
+
+## 16 November 2026
+
+Pulled 16 November 2026 (America/Los_Angeles) from DataForSEO Labs `google/keyword_overview/live`, location United States (2840), language English. 14 keywords sent, 13 returned. Cost $0.01356.
+
+| Keyword | US volume | KD | Main intent |
+|---|---:|---:|---|
+| what is 112 | 1600 | 13 | informational |
+| 112 emergency number | 1300 | 6 | informational |
+| 112 emergency | 1300 | 13 | informational |
+| european emergency number | 590 | 35 | informational |
+| emergency number in europe | 590 | 35 | informational |
+| emergency numbers by country | 140 | 14 | informational |
+| what is the emergency number in europe | 140 | 35 | informational |
+| does 112 work in the us | 90 | 8 | informational |
+| plug type by country | 2400 | 38 | informational |
+| plug types by country | 1900 | 75 | informational |
+| type c plug countries | 110 | 14 | informational |
+| type g plug countries | 110 | 26 | informational |
+| type a plug countries | 10 | 75 | informational |
+
+No data: what plug is used in europe.
+
+### Pick, 16 November 2026
+
+4. **112 emergency number** — 1,300, KD 6 (pulled 2026-11-16). Cluster: what is 112 (1,600, KD 13), 112 emergency (1,300, KD 13), european emergency number (590, KD 35), does 112 work in the us (90, KD 8). URL: /journal/112-emergency-number/.
+
+Why: informational, answerable from the European Commission's 112 page (read 16 November 2026) plus the FCDO emergency line already on every sheet (read 15 November 2026). It does not compete with a sheet (each sheet has one country's numbers) or with a list page (there is no emergency-number list page). Red team: no response-time, English-language or SIM claims, because no source states them per country; the UK row prints only the police number; 112 is not added to the Poland sheet, which prints only what FCDO lists.
+
+Same pull, used for a list page rather than a story: plug type by country (2,400, KD 38) → /plug-types-by-country/, built from the sheets' IEC lines, with #type-c, #type-g and other anchors for the per-type queries.

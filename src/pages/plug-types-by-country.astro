@@ -1,0 +1,83 @@
+---
+import Base from "../layouts/Base.astro";
+import { destinations, citiesIn } from "../lib/destinations";
+import { factSources } from "../lib/types";
+
+const places = destinations.filter((d) => d.kind === "country" || !destinations.some((c) => c.kind === "country" && c.countrySlug === d.countrySlug));
+
+// Plug lines are printed as "Type C, F, and L, 230 V, 50 Hz". Split the type letters from the voltage and frequency.
+function parse(value: string) {
+  const m = value.match(/^Types?\s+(.+?),\s*(\d.*)$/);
+  if (!m) return { types: [] as string[], power: value };
+  const types = Array.from(new Set(m[1].match(/\b[A-O]\b/g) ?? []));
+  return { types, power: m[2] };
+}
+const rows = places
+  .map((d) => ({ d, ...parse(d.plugs.value), src: factSources(d.plugs)[0] }))
+  .sort((a, b) => a.d.name.localeCompare(b.d.name));
+const letters = Array.from(new Set(rows.flatMap((r) => r.types))).sort();
+const byType = letters.map((t) => ({ t, places: rows.filter((r) => r.types.includes(t)) }));
+const unparsed = rows.filter((r) => !r.types.length);
+const title = "Plug types by country";
+const site = "https://thetravelfact.com";
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    { "@type": "ItemList", name: title, itemListElement: rows.map((r, i) => ({ "@type": "ListItem", position: i + 1, name: `${r.d.name}: ${r.d.plugs.value}`, url: new URL(`${r.d.path}#plugs`, site).href })) },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: `${site}/` },
+        { "@type": "ListItem", position: 2, name: title, item: `${site}/plug-types-by-country/` },
+      ],
+    },
+  ],
+};
+---
+
+<Base title={`${title}: sockets, voltage and frequency`} description={`Plug types, voltage and frequency for the ${rows.length} places on TheTravelFact, grouped by plug letter, from the IEC world-plugs list.`} jsonLd={jsonLd}>
+  <article class="shell page prose hub" data-pagefind-body data-pagefind-meta="country:List">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true"> / </span><span>Plug types</span></nav>
+    <p class="eyebrow">List</p>
+    <h1 data-pagefind-meta="title" data-pagefind-weight="10">{title}</h1>
+    <p class="dek">The plug letters, voltage and frequency for {rows.length} places on this site, grouped by plug type, each row linked to its sheet and source.</p>
+    <p>Every line here is the plug line printed on a sheet. Those lines are the International Electrotechnical Commission's world-plugs country list. Where the live IEC page stopped an automated download, the sheet used the Internet Archive copy of that page captured on 16 August 2026, and the source column says which one was read. This covers only places we have a sheet for, not every country in the world. City sheets share their country's line; places with no country sheet (the US cities, Dubai) are listed under their own name.</p>
+    <p>Jump to a type: {byType.map((g, i) => <>{i > 0 && " · "}<a href={`#type-${g.t.toLowerCase()}`}>Type {g.t}</a></>)}.</p>
+
+    <h2 id="all">Every place, A to Z</h2>
+    <div class="table-wrap">
+      <table class="board">
+        <caption>Plug types, voltage and frequency by place, from each sheet's plug line.</caption>
+        <thead><tr><th scope="col">Place</th><th scope="col">Plug types</th><th scope="col">Voltage and frequency</th><th scope="col">Source</th><th scope="col">Checked</th></tr></thead>
+        <tbody>
+          {rows.map((r) => (
+            <tr>
+              <th scope="row"><a href={`${r.d.path}#plugs`}>{r.d.name}</a></th>
+              <td>{r.types.length ? r.types.join(", ") : r.d.plugs.value}</td>
+              <td>{r.types.length ? r.power : "–"}</td>
+              <td>{r.src ? <a href={r.src.sourceUrl}>{r.src.sourceUrl.includes("web.archive.org") ? "IEC world plugs (16 Aug 2026 archive)" : "IEC world plugs"}</a> : "–"}</td>
+              <td>{r.src?.asOf ?? r.d.plugs.asOf ?? "–"}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <h2>By plug type</h2>
+    <p>A place appears under every letter its line lists, so Italy is under C, F and L. A shared letter means the plug shape is listed for both places; it says nothing about voltage, which is in the table above.</p>
+    {byType.map((g) => (
+      <>
+        <h3 id={`type-${g.t.toLowerCase()}`}>Type {g.t} ({g.places.length})</h3>
+        <p>{g.places.map((r, i) => {
+          const cs = r.d.kind === "country" ? citiesIn(r.d.countrySlug) : [];
+          return <>{i > 0 && "; "}<a href={`${r.d.path}#plugs`}>{r.d.name}</a>{cs.length > 0 && <> (also {cs.map((c, j) => <>{j > 0 && ", "}<a href={c.path}>{c.name}</a></>)})</>}</>;
+        })}.</p>
+      </>
+    ))}
+    {unparsed.length > 0 && <><h2>Lines we could not split</h2><p>{unparsed.map((r, i) => <>{i > 0 && "; "}<a href={`${r.d.path}#plugs`}>{r.d.name}</a>: {r.d.plugs.value}</>)}.</p></>}
+
+    <h2>What this list does not say</h2>
+    <p>The IEC list gives plug letters, a nominal voltage and a frequency per country. It does not say which socket a given hotel has, and it does not say whether your device accepts a different voltage; check the rating printed on the charger. Japan's line gives both 50 Hz and 60 Hz without assigning them to cities, and Morocco, Brazil and Indonesia list two voltages; we do not pick one. See the <a href="/sources/#gaps">gaps</a> for how the IEC lines were read.</p>
+    <p>Related lists: <a href="/countries-that-drive-on-the-left/">countries that drive on the left</a> · <a href="/journal/countries-that-use-the-euro/">countries that use the euro</a> · <a href="/best-places-to-visit-in-june/">where to go by month</a>.</p>
+  </article>
+</Base>
