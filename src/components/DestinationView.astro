@@ -199,6 +199,8 @@ const jsonLd = {
               {["advisory", "health", "emergency"].includes(anchorFor[fact.label]) && <p><strong>{fact.value}</strong></p>}
               <p>{fact.detail}</p>
               {anchorFor[fact.label] === "driving" && <p class="note"><a href="/countries-that-drive-on-the-left/">Countries that drive on the left</a>, with sources.</p>}
+              {anchorFor[fact.label] === "plugs" && <p class="note"><a href="/plug-types-by-country/">Plug types by country</a>, every sheet in one table.</p>}
+              {anchorFor[fact.label] === "emergency" && <p class="note"><a href="/journal/112-emergency-number/">Where 112 works, and where it is not the number to call</a>.</p>}
               <p class="note">
                 {factSources(fact).map((source, index) => (
                   <>
