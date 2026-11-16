@@ -343,3 +343,29 @@ a:hover { color: var(--red); }
 .month-links a:hover, .month-links span { background: var(--ink); color: white; }
 .month-hubs { padding: 0.4rem 0 1rem; }
 .month-hub-links { margin-top: 0.6rem; }
+
+/* Journal */
+.journal, .story { padding: 1.4rem 0 3rem; }
+.journal-title { font-size: clamp(3rem, 2rem + 4vw, 5rem); margin-bottom: 0.4rem; }
+.story h1 { font-size: clamp(2.6rem, 1.6rem + 3.5vw, 4.4rem); margin: 0.2rem 0 0.4rem; }
+.story-feature { display: grid; grid-template-columns: 1fr; border: 2px solid var(--ink); text-decoration: none; color: inherit; margin: 1.2rem 0 1.6rem; }
+.story-feature img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; display: block; }
+.story-feature-text { padding: 1rem 1.2rem 1.2rem; }
+.story-feature h2 { font-size: clamp(2rem, 1.3rem + 2.4vw, 3.2rem); margin: 0.2rem 0 0.4rem; }
+@media (min-width: 900px) { .story-feature { grid-template-columns: 3fr 2fr; } .story-feature img { height: 100%; } }
+.story-feature:hover h2, .story-cards a:hover h2 { color: var(--red); }
+.story-cards { list-style: none; padding: 0; margin: 0 0 1.4rem; display: grid; gap: 1.2rem; grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr)); }
+.story-cards a { display: block; border-top: 2px solid var(--ink); padding-top: 0.6rem; text-decoration: none; color: inherit; }
+.story-cards img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; display: block; margin-bottom: 0.5rem; }
+.story-cards h2 { font-size: 1.7rem; margin: 0.15rem 0 0.3rem; }
+.story-body h2 { margin-top: 2rem; }
+.story-body table { border-collapse: collapse; width: 100%; margin: 0.8rem 0 1.2rem; font-size: 0.95rem; }
+.story-body th, .story-body td { border-bottom: 1px solid var(--hair); padding: 0.35rem 0.5rem; text-align: left; vertical-align: top; }
+.story-body thead th { border-bottom: 2px solid var(--ink); font-family: var(--cond); text-transform: uppercase; letter-spacing: 0.05em; }
+.story-body blockquote { border-left: 4px solid var(--red); margin: 1rem 0; padding: 0.2rem 0 0.2rem 1rem; font-size: 1.15rem; }
+.home-stories { list-style: none; padding: 0; margin: 0.4rem 0 1.2rem; }
+.home-stories li { border-top: 1px solid var(--hair); }
+.home-stories a { display: block; padding: 0.5rem 0.1rem; font-weight: 600; text-decoration: none; }
+.home-stories .kicker { margin-right: 0.5rem; }
+.related-sheets { columns: 2 14rem; }
+@media (max-width: 700px) { .story-body table { display: block; overflow-x: auto; } }

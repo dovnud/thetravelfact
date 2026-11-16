@@ -1,0 +1,82 @@
+---
+import Base from "../../layouts/Base.astro";
+import { stories, storyPath, longDate } from "../../lib/journal";
+import { destinations } from "../../lib/destinations";
+import { photos } from "../../data/photos";
+
+export function getStaticPaths() {
+  return stories.map((s) => ({ params: { slug: s.frontmatter.slug }, props: { story: s } }));
+}
+const { story } = Astro.props as { story: (typeof stories)[number] };
+const fm = story.frontmatter;
+const Content = story.Content;
+const photo = photos[fm.photo];
+const url = new URL(storyPath(fm.slug), "https://thetravelfact.com").href;
+const related = fm.related.map((p) => destinations.find((d) => d.path === p) ?? null).filter((d) => d != null);
+const others = stories.filter((s) => s.frontmatter.slug !== fm.slug);
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      headline: fm.title,
+      description: fm.dek,
+      image: new URL(photo.src, "https://thetravelfact.com").href,
+      author: { "@type": "Organization", name: "TheTravelFact Desk", url: "https://thetravelfact.com/about/" },
+      publisher: { "@type": "Organization", name: "TheTravelFact", url: "https://thetravelfact.com" },
+      datePublished: fm.published,
+      dateModified: fm.updated,
+      mainEntityOfPage: url,
+      citation: fm.sources.map((s) => s.url),
+    },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: "https://thetravelfact.com/" },
+        { "@type": "ListItem", position: 2, name: "Journal", item: "https://thetravelfact.com/journal/" },
+        { "@type": "ListItem", position: 3, name: fm.title, item: url },
+      ],
+    },
+  ],
+};
+---
+
+<Base title={fm.title} description={fm.dek} jsonLd={jsonLd}>
+  <figure class="photo">
+    <img src={photo.src} alt={photo.alt} width="1600" height="900" fetchpriority="high" />
+    <figcaption>
+      <span>{photo.alt}</span>
+      <span>Photograph: {photo.artist}, <a href={photo.licenseUrl}>{photo.license}</a>, via <a href={photo.page}>Wikimedia Commons</a></span>
+    </figcaption>
+  </figure>
+  <article class="shell story" data-pagefind-body data-pagefind-meta="country:Journal">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true"> / </span><a href="/journal/">Journal</a><span aria-hidden="true"> / </span><span>{fm.kicker}</span></nav>
+    <p class="kicker">{fm.kicker}</p>
+    <h1 data-pagefind-meta="title" data-pagefind-weight="10">{fm.title}</h1>
+    <p class="dek">{fm.dek}</p>
+    <p class="byline">By TheTravelFact Desk · Published <time datetime={fm.published}>{longDate(fm.published)}</time> · Updated <time datetime={fm.updated}>{longDate(fm.updated)}</time></p>
+    <div class="prose story-body">
+      <Content />
+    </div>
+    <section class="prose" data-pagefind-ignore>
+      <h2>Sheets in this story</h2>
+      <ul class="related-sheets">
+        {related.map((d) => <li><a href={d!.path}>{d!.name}</a>{d!.kind === "city" ? `, ${d!.countryName}` : ""}</li>)}
+      </ul>
+    </section>
+    <section class="prose" data-pagefind-ignore>
+      <h2>Sources</h2>
+      <ul>
+        {fm.sources.map((s) => <li><a href={s.url}>{s.title}</a>. Read {longDate(s.asOf)}.</li>)}
+        <li>Photograph: {photo.artist}, <a href={photo.licenseUrl}>{photo.license}</a>, <a href={photo.page}>Wikimedia Commons</a>.</li>
+      </ul>
+      <p class="note">Station figures are the ones printed on each linked sheet, with that sheet's source and date. Spot an error? <a href="mailto:contact@thetravelfact.com">contact@thetravelfact.com</a>.</p>
+    </section>
+    {others.length > 0 && (
+      <section class="prose" data-pagefind-ignore>
+        <h2>More from the Journal</h2>
+        <ul>{others.map((s) => <li><a href={storyPath(s.frontmatter.slug)}>{s.frontmatter.title}</a></li>)}</ul>
+      </section>
+    )}
+  </article>
+</Base>

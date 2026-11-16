@@ -4,6 +4,7 @@ import { destinations, hubs } from "../lib/destinations";
 import SearchForm from "../components/SearchForm.astro";
 import { photos } from "../data/photos";
 import { MONTHS, monthPath } from "../lib/months";
+import { stories, storyPath } from "../lib/journal";
 
 const countries = destinations.filter((d) => d.kind === "country");
 // Cities whose country has no sheet of its own (for example the United States) get an unlinked group heading.
@@ -57,6 +58,10 @@ const jsonLd = {
     <SearchForm id="q-hero" size="large" />
   </section>
   <section class="shell month-hubs">
+    <h2 class="hero-search-title"><a href="/journal/">From the Journal</a></h2>
+    <ul class="home-stories">
+      {stories.slice(0, 3).map((s) => <li><a href={storyPath(s.frontmatter.slug)}><span class="kicker">{s.frontmatter.kicker}</span> {s.frontmatter.title}</a></li>)}
+    </ul>
     <h2 class="hero-search-title">Where to go by month</h2>
     <ul class="month-links">
       {MONTHS.map((m) => <li><a href={monthPath(m)}>{m}</a></li>)}

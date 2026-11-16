@@ -1,0 +1,60 @@
+---
+import Base from "../../layouts/Base.astro";
+import { stories, storyPath, longDate } from "../../lib/journal";
+import { photos } from "../../data/photos";
+
+const feature = stories.find((s) => s.frontmatter.feature) ?? stories[0];
+const rest = stories.filter((s) => s !== feature);
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      name: "The Journal",
+      url: "https://thetravelfact.com/journal/",
+      hasPart: stories.map((s) => ({ "@type": "Article", headline: s.frontmatter.title, url: new URL(storyPath(s.frontmatter.slug), "https://thetravelfact.com").href })),
+    },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: "https://thetravelfact.com/" },
+        { "@type": "ListItem", position: 2, name: "Journal", item: "https://thetravelfact.com/journal/" },
+      ],
+    },
+  ],
+};
+---
+
+<Base title="The Journal" description="Stories from TheTravelFact Desk, built on the sourced, dated figures in our destination sheets." jsonLd={jsonLd}>
+  <div class="shell journal" data-pagefind-body data-pagefind-meta="country:Journal">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true"> / </span><span>Journal</span></nav>
+    <p class="eyebrow">TheTravelFact Desk</p>
+    <h1 class="journal-title" data-pagefind-meta="title">The Journal</h1>
+    <p class="dek">Longer reads built on the sheets. Every figure links back to a named station or a dated official page.</p>
+    {feature && (
+      <a class="story-feature" href={storyPath(feature.frontmatter.slug)}>
+        <img src={photos[feature.frontmatter.photo].src} alt={photos[feature.frontmatter.photo].alt} width="1600" height="900" />
+        <div class="story-feature-text">
+          <p class="kicker">{feature.frontmatter.kicker}</p>
+          <h2>{feature.frontmatter.title}</h2>
+          <p>{feature.frontmatter.dek}</p>
+          <p class="byline">TheTravelFact Desk · {longDate(feature.frontmatter.published)}</p>
+        </div>
+      </a>
+    )}
+    <ul class="story-cards">
+      {rest.map((s) => (
+        <li>
+          <a href={storyPath(s.frontmatter.slug)}>
+            <img src={photos[s.frontmatter.photo].src} alt={photos[s.frontmatter.photo].alt} width="800" height="450" loading="lazy" />
+            <p class="kicker">{s.frontmatter.kicker}</p>
+            <h2>{s.frontmatter.title}</h2>
+            <p>{s.frontmatter.dek}</p>
+            <p class="byline">TheTravelFact Desk · {longDate(s.frontmatter.published)}</p>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <p class="note">Photographs are credited on each story. Corrections: <a href="mailto:contact@thetravelfact.com">contact@thetravelfact.com</a>.</p>
+  </div>
+</Base>
