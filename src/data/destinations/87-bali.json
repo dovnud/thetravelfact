@@ -169,5 +169,66 @@
     "url": "https://evisa.imigrasi.go.id/",
     "note": "The official e-Visa site of the immigration directorate. We do not restate a visa rule.",
     "asOf": "2026-11-15"
+  },
+  "bestTime": {
+    "intro": "Month by month for Denpasar, from the Japan Meteorological Agency's 1991–2020 normals for station 97230: precipitation and monthly mean temperature only. JMA's ClimatView publishes no normal daily high or low, so none is printed. In these normals, May to October are the six months under 100 mm and December to March the four over 200 mm. No official Indonesian (BMKG) page giving Bali's normal dry-season and rainy-season start dates was read on this pass, so season names are not assigned to months here.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Precipitation 350.7 mm; mean temperature 27.9 °C. The wettest month in the Denpasar table."
+      },
+      {
+        "month": "February",
+        "note": "Precipitation 289.8 mm; mean temperature 28.0 °C."
+      },
+      {
+        "month": "March",
+        "note": "Precipitation 231.1 mm; mean temperature 28.0 °C."
+      },
+      {
+        "month": "April",
+        "note": "Precipitation 107.4 mm; mean temperature 28.1 °C. Rainfall falls by more than half from March."
+      },
+      {
+        "month": "May",
+        "note": "Precipitation 94.7 mm; mean temperature 27.8 °C. The first month under 100 mm."
+      },
+      {
+        "month": "June",
+        "note": "Precipitation 67.9 mm; mean temperature 27.2 °C."
+      },
+      {
+        "month": "July",
+        "note": "Precipitation 27.6 mm; mean temperature 26.5 °C. The driest month in the table."
+      },
+      {
+        "month": "August",
+        "note": "Precipitation 36.4 mm; mean temperature 26.3 °C. The coolest mean temperature in the table."
+      },
+      {
+        "month": "September",
+        "note": "Precipitation 59.4 mm; mean temperature 26.8 °C."
+      },
+      {
+        "month": "October",
+        "note": "Precipitation 64.4 mm; mean temperature 27.6 °C."
+      },
+      {
+        "month": "November",
+        "note": "Precipitation 131.2 mm; mean temperature 28.2 °C. Rainfall roughly doubles from October."
+      },
+      {
+        "month": "December",
+        "note": "Precipitation 327.4 mm; mean temperature 28.0 °C. Rainfall rises about two and a half times from November."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "Japan Meteorological Agency, ClimatView monthly statistics, station 97230",
+        "sourceUrl": "https://www.data.jma.go.jp/cpd/monitor/climatview/graph_mkhtml.php?m=9&n=97230",
+        "asOf": "2026-11-17"
+      }
+    ],
+    "asOf": "2026-11-17"
   }
 }

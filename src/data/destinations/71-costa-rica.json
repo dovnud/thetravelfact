@@ -169,5 +169,66 @@
     "url": "https://www.visitcostarica.com/planning-your-trip/entry-requirements",
     "note": "The tourism board's entry requirements page. The immigration service's site refused an automated request on 15 November 2026. We do not restate a visa rule.",
     "asOf": "2026-11-15"
+  },
+  "bestTime": {
+    "intro": "Month by month, from the San José airport table above and the Costa Rica Tourism Board's climate page, which describes two regimes. The Pacific side has a well-defined dry and a rainy season: the dry season runs December to March, April is a transition, the rainy season runs May to October and November is a transition. The Caribbean side has no well-defined dry season: rain stays between 100 and 200 mm in its driest months, with relatively dry spells in February–March and September–October. The airport is in the Central Valley at 913 m; it is neither coast.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Pacific dry season. Airport average high 30.7 °C, low 15.0 °C, 7.9 mm, the driest month in the table. Caribbean side: inside its strongest rainy period, November to January."
+      },
+      {
+        "month": "February",
+        "note": "Pacific dry season. Airport 32.0 °C / 15.0 °C, 10.4 mm. Caribbean side: one of its two relatively dry periods (February–March)."
+      },
+      {
+        "month": "March",
+        "note": "Pacific dry season. Airport 32.9 °C / 15.6 °C, 17.3 mm. The tourism board calls March the driest and hottest month on the Pacific side; at the airport station, April's average high is 0.2 °C higher."
+      },
+      {
+        "month": "April",
+        "note": "Pacific transition month. Airport 33.1 °C / 16.2 °C, 80.6 mm, the highest average high in the table."
+      },
+      {
+        "month": "May",
+        "note": "Pacific rainy season begins. Airport 31.9 °C / 16.7 °C, 261.9 mm. Caribbean side: its second rainy period runs May to August."
+      },
+      {
+        "month": "June",
+        "note": "Pacific rainy season. Airport 31.2 °C / 17.0 °C, 235.4 mm."
+      },
+      {
+        "month": "July",
+        "note": "Pacific rainy season, with the relative lull the tourism board calls veranillo, or \"little summer,\" in July and August. Airport 31.1 °C / 16.7 °C, 167.2 mm, lower than June or August. Caribbean side: the page puts a rain maximum in July."
+      },
+      {
+        "month": "August",
+        "note": "Pacific rainy season, still in the veranillo. Airport 31.2 °C / 16.5 °C, 224.3 mm."
+      },
+      {
+        "month": "September",
+        "note": "Pacific rainy season; the tourism board names September and October the rainiest months there. Airport 31.1 °C / 16.3 °C, 320.0 mm, the wettest month in the table. Caribbean side: one of its relatively dry periods (September–October)."
+      },
+      {
+        "month": "October",
+        "note": "Pacific rainy season. Airport 30.5 °C / 16.2 °C, 317.0 mm. Caribbean side: still in its relatively dry spell."
+      },
+      {
+        "month": "November",
+        "note": "Pacific transition month. Airport 30.3 °C / 15.5 °C, 165.8 mm. Caribbean side: its strongest rainy period begins (November to January)."
+      },
+      {
+        "month": "December",
+        "note": "Pacific dry season begins. Airport 30.6 °C / 15.4 °C, 31.0 mm. Caribbean side: the tourism board says December is its rainiest month."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "Visit Costa Rica (Costa Rica Tourism Board), Climate",
+        "sourceUrl": "https://www.visitcostarica.com/planning-your-trip/climate",
+        "asOf": "2026-11-17"
+      }
+    ],
+    "asOf": "2026-11-17"
   }
 }

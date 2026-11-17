@@ -49,6 +49,13 @@ export interface EntryLink {
   asOf?: string;
 }
 
+export interface BestTime {
+  intro: string;
+  months: { month: string; note: string }[];
+  sources: SourceRef[];
+  asOf: string;
+}
+
 export interface Destination {
   order: number;
   id: string;
@@ -72,6 +79,7 @@ export interface Destination {
   advisory?: Fact | null;
   health?: Fact | null;
   emergency?: Fact | null;
+  bestTime?: BestTime | null;
 }
 
 export function factSources(fact: Fact): SourceRef[] {

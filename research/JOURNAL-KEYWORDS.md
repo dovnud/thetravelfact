@@ -106,3 +106,13 @@ No data: what plug is used in europe.
 Why: informational, answerable from the European Commission's 112 page (read 16 November 2026) plus the FCDO emergency line already on every sheet (read 15 November 2026). It does not compete with a sheet (each sheet has one country's numbers) or with a list page (there is no emergency-number list page). Red team: no response-time, English-language or SIM claims, because no source states them per country; the UK row prints only the police number; 112 is not added to the Poland sheet, which prints only what FCDO lists.
 
 Same pull, used for a list page rather than a story: plug type by country (2,400, KD 38) → /plug-types-by-country/, built from the sheets' IEC lines, with #type-c, #type-g and other anchors for the per-type queries.
+
+## 17 November 2026
+
+No new DataForSEO call; the 15 November pull already covers this cluster.
+
+### Pick, 17 November 2026
+
+5. **countries that use usd** — 1,600, KD 13 (pulled 2026-11-15). Cluster: countries that use the us dollar (1,300, KD 13), can you use us dollars in mexico (590, KD 0), can you use us dollars in costa rica (390, KD 3). "countries that use us dollar as currency" returned no data. URL: /journal/countries-that-use-the-us-dollar/.
+
+Why: informational, answerable from ISO 4217 List One (SIX, published 17 September 2026, read 17 November 2026), the currency line already on every sheet, the Banco Central de Reserva de El Salvador's history page and the Banco Central de Timor-Leste's coins page (both read 17 November 2026). No cannibalization: there is no currency list page, the euro story covers EUR only, and each sheet covers one place's currency. Red team: no claims about dollar acceptance, exchange rates or card use in Mexico, Costa Rica, Cambodia or Zimbabwe, because no official source states them; the "can you use US dollars in Mexico / Costa Rica" queries get only the ISO currency and that statement. No adoption date for Ecuador, because no Banco Central del Ecuador page was read.
