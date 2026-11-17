@@ -369,3 +369,8 @@ a:hover { color: var(--red); }
 .home-stories .kicker { margin-right: 0.5rem; }
 .related-sheets { columns: 2 14rem; }
 @media (max-width: 700px) { .story-body table { display: block; overflow-x: auto; } }
+
+.month-notes { display: grid; grid-template-columns: 7.5rem 1fr; gap: 0.5rem 1rem; margin: 1rem 0; }
+.month-notes dt { font-weight: 600; }
+.month-notes dd { margin: 0; }
+@media (max-width: 560px) { .month-notes { grid-template-columns: 1fr; } .month-notes dd { margin-bottom: 0.5rem; } }

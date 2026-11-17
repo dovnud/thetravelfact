@@ -60,6 +60,7 @@ const anchorFor: Record<string, string> = {
 const hasClimate = destination.climate.months.some((m) => m.high != null || m.low != null || m.rain != null);
 const jumps = [
   ...(hasClimate ? [{ id: "weather", label: "Weather by month" }] : []),
+  ...(destination.bestTime ? [{ id: "best-time", label: "Best time" }] : []),
   ...[
     { id: "plugs", label: "Plugs" },
     { id: "driving", label: "Driving" },
@@ -84,6 +85,7 @@ const sources: SourceRef[] = [
   },
   ...facts.flatMap(factSources),
 ];
+if (destination.bestTime) sources.push(...destination.bestTime.sources);
 if (destination.season.length) {
   sources.push({
     sourceTitle: "National Hurricane Center, tropical cyclone climatology",
@@ -175,6 +177,24 @@ const jsonLd = {
       {destination.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
     </div>
     <div id="weather"><ClimatePanel climate={destination.climate} /></div>
+    {destination.bestTime && (
+      <section class="prose best-time" id="best-time">
+        <h2>Best time to visit {destination.name}, month by month</h2>
+        <p>{destination.bestTime.intro}</p>
+        <dl class="month-notes">
+          {destination.bestTime.months.map((m) => (
+            <>
+              <dt><a href={monthPath(m.month)}>{m.month}</a></dt>
+              <dd>{m.note}</dd>
+            </>
+          ))}
+        </dl>
+        <p class="note">
+          Sources: <a href={destination.climate.sourceUrl}>{destination.climate.sourceTitle}</a>
+          {destination.bestTime.sources.filter((s) => s.sourceUrl !== destination.climate.sourceUrl).map((s) => <> · <a href={s.sourceUrl}>{s.sourceTitle}</a></>)}. Read {longDate(destination.bestTime.asOf)}. Normals and season windows describe a typical year, not a forecast.
+        </p>
+      </section>
+    )}
     <nav class="prose month-hub-links" aria-label="Month lists" data-pagefind-ignore>
       <p>
         {goodMonths.length > 0

@@ -169,5 +169,66 @@
     "url": "https://www.thaievisa.go.th/",
     "note": "Thailand's official e-Visa site. We do not restate a visa rule.",
     "asOf": "2026-11-15"
+  },
+  "bestTime": {
+    "intro": "Month by month for Bangkok, from the station table above and the three seasons described by Thailand's Land Development Department: the rainy (southwest monsoon) season from mid-May to mid-October, winter (northeast monsoon) from mid-October to mid-February, and summer (pre-monsoon) from mid-February to mid-May. The same page says the east coast of southern Thailand runs on a different calendar, with heavy rain into the end of the year and November its wettest month, so this is not an islands guide.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Winter season. Average high 32.7 °C, low 23.4 °C, 23.6 mm. The Land Development Department says December and January are quite cool in upper Thailand."
+      },
+      {
+        "month": "February",
+        "note": "Winter turns to summer in mid-February. Average high 33.7 °C, low 24.8 °C, 21.4 mm."
+      },
+      {
+        "month": "March",
+        "note": "Summer season. Average high 34.7 °C, low 26.4 °C, 51 mm."
+      },
+      {
+        "month": "April",
+        "note": "Summer season. Average high 35.7 °C, low 27.2 °C, 93.3 mm. The hottest month in the Bangkok table, and the Land Development Department calls April the hottest month."
+      },
+      {
+        "month": "May",
+        "note": "The rainy season starts in mid-May. Average high 35.1 °C, low 26.9 °C, 216.8 mm."
+      },
+      {
+        "month": "June",
+        "note": "Rainy season. Average high 34.1 °C, low 26.4 °C, 198.5 mm."
+      },
+      {
+        "month": "July",
+        "note": "Rainy season. Average high 33.5 °C, low 26.1 °C, 189.7 mm."
+      },
+      {
+        "month": "August",
+        "note": "Rainy season. Average high 33.3 °C, low 25.9 °C, 227.1 mm. The Land Development Department names August to September as the wettest period for the country."
+      },
+      {
+        "month": "September",
+        "note": "Rainy season. Average high 33.2 °C, low 25.4 °C, 335.9 mm. The wettest month in the Bangkok table."
+      },
+      {
+        "month": "October",
+        "note": "The rainy season ends and winter begins in mid-October. Average high 33 °C, low 25.2 °C, 288.7 mm."
+      },
+      {
+        "month": "November",
+        "note": "Winter season. Average high 33.1 °C, low 24.7 °C, 44.6 mm, a drop of about 85 percent from October."
+      },
+      {
+        "month": "December",
+        "note": "Winter season. Average high 32.3 °C, low 23.2 °C, 11.6 mm. The driest month and the lowest average low in the Bangkok table."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "Land Development Department, Thailand, Seasons",
+        "sourceUrl": "http://www1.ldd.go.th/ldd_en/en-US/seasons/",
+        "asOf": "2026-11-17"
+      }
+    ],
+    "asOf": "2026-11-17"
   }
 }

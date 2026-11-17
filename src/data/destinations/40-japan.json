@@ -171,5 +171,76 @@
     "url": "https://www.mofa.go.jp/j_info/visit/visa/index.html",
     "note": "The foreign ministry's visa page. We do not restate a visa rule.",
     "asOf": "2026-11-15"
+  },
+  "bestTime": {
+    "intro": "Month by month for Tokyo, built from the station table above and two Japan Meteorological Agency (JMA) records: the cherry-blossom dates observed at Tokyo and the rainy-season (tsuyu) dates for the Kantō-Kōshin region, which includes Tokyo. The JMA normals are 1991–2020 averages. They are a typical year, not a forecast. Sapporo, Osaka, Kyoto and Naha keep different calendars; the Kyoto, Osaka and Tokyo sheets have their own tables.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 9.8 °C, low 1.2 °C, 59.7 mm. The coldest month in the Tokyo table."
+      },
+      {
+        "month": "February",
+        "note": "Average high 10.9 °C, low 2.1 °C, 56.5 mm. The driest month in the table."
+      },
+      {
+        "month": "March",
+        "note": "Average high 14.2 °C, low 5 °C, 116 mm. JMA's normal date for the first cherry blossoms at Tokyo is 24 March, and the normal full-bloom date is 31 March. Observed first-flowering dates at Tokyo were 14 March to 29 March in 2021–2026; in 2026 the trees flowered on 19 March and reached full bloom on 28 March."
+      },
+      {
+        "month": "April",
+        "note": "Average high 19.4 °C, low 9.8 °C, 133.7 mm. Tokyo's observed full-bloom date fell in April in one year of 2021–2026 (4 April 2024); in the other years it was in March."
+      },
+      {
+        "month": "May",
+        "note": "Average high 23.6 °C, low 14.6 °C, 139.7 mm. The month before the rainy season in a normal year."
+      },
+      {
+        "month": "June",
+        "note": "Average high 26.1 °C, low 18.5 °C, 167.8 mm. JMA's normal start of the Kantō-Kōshin rainy season is about 7 June. In 2026 JMA puts it at about 2 June; in 2025 at about 22 May."
+      },
+      {
+        "month": "July",
+        "note": "Average high 29.9 °C, low 22.4 °C, 156.2 mm. JMA's normal end of the Kantō-Kōshin rainy season is about 19 July, which is also the 2026 date."
+      },
+      {
+        "month": "August",
+        "note": "Average high 31.3 °C, low 23.5 °C, 154.7 mm. The hottest month in the table, with the highest average high and the highest average low."
+      },
+      {
+        "month": "September",
+        "note": "Average high 27.5 °C, low 20.3 °C, 224.9 mm. One of the two wettest months in the table."
+      },
+      {
+        "month": "October",
+        "note": "Average high 22 °C, low 14.8 °C, 234.8 mm. The wettest month in the Tokyo table."
+      },
+      {
+        "month": "November",
+        "note": "Average high 16.7 °C, low 8.8 °C, 96.3 mm. Rainfall drops by more than half from October."
+      },
+      {
+        "month": "December",
+        "note": "Average high 12 °C, low 3.8 °C, 57.9 mm."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "Japan Meteorological Agency, cherry blossom flowering dates 2021–2026 and normal (さくらの開花日)",
+        "sourceUrl": "https://www.data.jma.go.jp/sakura/data/sakura003_07.html",
+        "asOf": "2026-11-17"
+      },
+      {
+        "sourceTitle": "Japan Meteorological Agency, cherry blossom full-bloom dates 2021–2026 and normal (さくらの満開日)",
+        "sourceUrl": "https://www.data.jma.go.jp/sakura/data/sakura004_07.html",
+        "asOf": "2026-11-17"
+      },
+      {
+        "sourceTitle": "Japan Meteorological Agency, rainy-season start and end since 1951, Kantō-Kōshin (梅雨入りと梅雨明け 確定値)",
+        "sourceUrl": "https://www.data.jma.go.jp/cpd/baiu/kako_baiu09.html",
+        "asOf": "2026-11-17"
+      }
+    ],
+    "asOf": "2026-11-17"
   }
 }
