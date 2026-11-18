@@ -177,5 +177,71 @@
     "url": "https://www.cbp.gov/travel/international-visitors",
     "note": "CBP's page for international visitors. It applies to travelers arriving from outside the United States. We do not restate a visa rule.",
     "asOf": "2026-11-15"
+  },
+  "bestTime": {
+    "intro": "Month by month for Honolulu, from the station table above and two National Weather Service pages. The NWS Honolulu office's Climate of Hawaiʻi page says most of Hawaii has only two seasons: \"summer,\" between May and October, and \"winter,\" between October and April, and that the heaviest rains come from winter storms between October and April. NOAA gives the central Pacific hurricane season as 1 June to 30 November, with July, August and September as the peak months. The airport is on the leeward side of Oʻahu; windward coasts and the mountains are wetter than this table.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Winter season. Average high 26.9 °C, low 19.3 °C, 46.7 mm. The lowest average high and the lowest average low in the Honolulu table."
+      },
+      {
+        "month": "February",
+        "note": "Winter season. Average high 27.0 °C, low 19.5 °C, 49.4 mm. The NWS page names February and March as Hawaii's coolest months and puts the lowest sea-surface temperature, 73 or 74 °F, between late February and March; at this station January's averages are slightly lower."
+      },
+      {
+        "month": "March",
+        "note": "Winter season. Average high 27.3 °C, low 20.1 °C, 59.8 mm, the wettest month in the Honolulu table."
+      },
+      {
+        "month": "April",
+        "note": "The last month of the NWS winter season. Average high 28.4 °C, low 21.1 °C, 19.5 mm, about a third of March's total."
+      },
+      {
+        "month": "May",
+        "note": "The NWS summer season begins. Average high 29.3 °C, low 22.0 °C, 20.8 mm."
+      },
+      {
+        "month": "June",
+        "note": "Summer season; the central Pacific hurricane season opens on 1 June. Average high 30.5 °C, low 23.2 °C, 12.6 mm, the driest month in the table."
+      },
+      {
+        "month": "July",
+        "note": "Summer season and the first of NOAA's three peak hurricane months. Average high 31.2 °C, low 23.9 °C, 13.2 mm."
+      },
+      {
+        "month": "August",
+        "note": "Summer season, peak hurricane months. Average high 31.5 °C, low 24.2 °C, 21.4 mm: the highest average high and low in the table. The NWS page names August and September as Hawaii's warmest months."
+      },
+      {
+        "month": "September",
+        "note": "Summer season, the last of the peak hurricane months. Average high 31.3 °C, low 23.8 °C, 22.3 mm. The NWS page puts the highest sea-surface temperature, near 80 °F, in late September or early October."
+      },
+      {
+        "month": "October",
+        "note": "The NWS page uses October as the turn from summer to winter. Average high 30.5 °C, low 23.3 °C, 38.3 mm. Still inside the hurricane season."
+      },
+      {
+        "month": "November",
+        "note": "Winter season; the hurricane season closes on 30 November. Average high 29.0 °C, low 22.1 °C, 57.1 mm."
+      },
+      {
+        "month": "December",
+        "note": "Winter season. Average high 27.7 °C, low 20.7 °C, 55.3 mm."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "National Weather Service Honolulu, Climate of Hawaiʻi",
+        "sourceUrl": "https://www.weather.gov/hfo/climate_summary",
+        "asOf": "2026-11-18"
+      },
+      {
+        "sourceTitle": "NOAA Climate Prediction Center, 2026 Eastern and Central Pacific Hurricane Season Outlook",
+        "sourceUrl": "https://www.cpc.ncep.noaa.gov/products/Epac_hurr/index.html",
+        "asOf": "2026-11-18"
+      }
+    ],
+    "asOf": "2026-11-18"
   }
 }

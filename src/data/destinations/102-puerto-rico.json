@@ -170,5 +170,66 @@
     "url": "https://www.cbp.gov/travel/international-visitors",
     "note": "CBP's page for international visitors. Puerto Rico is a US territory. We do not restate a visa rule.",
     "asOf": "2026-11-15"
+  },
+  "bestTime": {
+    "intro": "Month by month for San Juan, from the station table above and the National Hurricane Center's climatology page. The NHC gives the Atlantic hurricane season as 1 June to 30 November, says the Atlantic basin includes the Caribbean Sea, puts the peak on 10 September and says most activity falls between mid-August and mid-October. No official page we read names a dry or rainy season for Puerto Rico, so none is assigned; the rain figures are the airport's own.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Outside the hurricane season. Average high 28.5 °C, low 22.2 °C, 103.3 mm. The lowest average high in the San Juan table."
+      },
+      {
+        "month": "February",
+        "note": "Outside the hurricane season. Average high 28.8 °C, low 22.1 °C, 65.5 mm. The lowest average low in the table."
+      },
+      {
+        "month": "March",
+        "note": "Outside the hurricane season. Average high 29.3 °C, low 22.4 °C, 55.4 mm, the driest month in the table."
+      },
+      {
+        "month": "April",
+        "note": "Outside the hurricane season. Average high 30.1 °C, low 23.3 °C, 116.9 mm, more than double March's total."
+      },
+      {
+        "month": "May",
+        "note": "Outside the hurricane season. Average high 30.8 °C, low 24.3 °C, 140.6 mm."
+      },
+      {
+        "month": "June",
+        "note": "The Atlantic hurricane season opens on 1 June; the NHC says the first named storm typically forms in mid to late June. Average high 31.7 °C, low 25.1 °C, 118.3 mm."
+      },
+      {
+        "month": "July",
+        "note": "Hurricane season. Average high 31.5 °C, low 25.3 °C, 152.8 mm."
+      },
+      {
+        "month": "August",
+        "note": "Hurricane season; the NHC says the first hurricane tends to form in early to mid-August and most activity begins in mid-August. Average high 31.7 °C, low 25.4 °C, 159.9 mm, the highest average low in the table."
+      },
+      {
+        "month": "September",
+        "note": "The NHC's peak date is 10 September. Average high 31.8 °C, low 25.3 °C, 165.1 mm, the highest average high in the table."
+      },
+      {
+        "month": "October",
+        "note": "Hurricane season; the NHC's busiest stretch runs to mid-October. Average high 31.5 °C, low 24.8 °C, 132.4 mm."
+      },
+      {
+        "month": "November",
+        "note": "The hurricane season closes on 30 November. Average high 30.0 °C, low 23.9 °C, 187.1 mm, the wettest month in the San Juan table."
+      },
+      {
+        "month": "December",
+        "note": "Outside the hurricane season. Average high 29.0 °C, low 22.9 °C, 123.3 mm."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "National Hurricane Center, Tropical Cyclone Climatology",
+        "sourceUrl": "https://www.nhc.noaa.gov/climo/",
+        "asOf": "2026-11-18"
+      }
+    ],
+    "asOf": "2026-11-18"
   }
 }

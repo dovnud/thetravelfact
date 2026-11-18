@@ -174,5 +174,71 @@
     "url": "https://island.is/s/utlendingastofnun",
     "note": "The Directorate of Immigration's service page on island.is. We do not restate a visa rule.",
     "asOf": "2026-11-15"
+  },
+  "bestTime": {
+    "intro": "Month by month for Reykjavík, from the station table above and two Icelandic Met Office pages. Its note for tourists says the summer tourist season runs from late May to early September, that during the first half of that period the sun stays above the horizon for almost 24 hours, and that even in midsummer the sky is frequently cloudy and the air cool by day and cold at night. Winter is described as long nights and severe storms, with the aurora borealis on clear nights. The Met Office's climate report says December and January bring about twice the median monthly precipitation of May and June, the driest months.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Winter: long nights, and the aurora on clear nights. Average high 3.2 °C, low −1.7 °C, 87.1 mm. The lowest average high in the Reykjavík table."
+      },
+      {
+        "month": "February",
+        "note": "Winter. Average high 3.3 °C, low −1.9 °C, 90.6 mm. The lowest average low in the table."
+      },
+      {
+        "month": "March",
+        "note": "Average high 4.2 °C, low −1.3 °C, 80.7 mm."
+      },
+      {
+        "month": "April",
+        "note": "Average high 6.9 °C, low 1.0 °C, 59.0 mm, the first month in the table with an average low above freezing."
+      },
+      {
+        "month": "May",
+        "note": "The summer tourist season starts in late May. Average high 10.1 °C, low 4.0 °C, 52.6 mm."
+      },
+      {
+        "month": "June",
+        "note": "Summer tourist season, in its first half, when the Met Office says the sun stays up almost 24 hours. Average high 13.0 °C, low 7.2 °C, 43.3 mm, the driest month in the table."
+      },
+      {
+        "month": "July",
+        "note": "Summer tourist season. Average high 14.9 °C, low 9.1 °C, 49.9 mm: the highest average high and low in the table."
+      },
+      {
+        "month": "August",
+        "note": "Summer tourist season. Average high 14.1 °C, low 8.6 °C, 64.5 mm."
+      },
+      {
+        "month": "September",
+        "note": "The summer tourist season ends in early September. Average high 11.4 °C, low 6.2 °C, 87.0 mm."
+      },
+      {
+        "month": "October",
+        "note": "Average high 7.6 °C, low 2.7 °C, 79.8 mm."
+      },
+      {
+        "month": "November",
+        "note": "Winter: long nights. Average high 4.7 °C, low −0.1 °C, 86.5 mm."
+      },
+      {
+        "month": "December",
+        "note": "Winter: long nights, and the aurora on clear nights. Average high 3.3 °C, low −1.6 °C, 94.9 mm, the wettest month in the Reykjavík table."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "Icelandic Met Office, Icelandic climate in general: a short description for tourists",
+        "sourceUrl": "https://en.vedur.is/climatology/iceland/nr/1268",
+        "asOf": "2026-11-18"
+      },
+      {
+        "sourceTitle": "Icelandic Met Office, Climate Report: a short description of the climate of Iceland",
+        "sourceUrl": "https://en.vedur.is/climatology/iceland/climate-report/",
+        "asOf": "2026-11-18"
+      }
+    ],
+    "asOf": "2026-11-18"
   }
 }
