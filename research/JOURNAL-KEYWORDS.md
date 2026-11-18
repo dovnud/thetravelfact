@@ -116,3 +116,36 @@ No new DataForSEO call; the 15 November pull already covers this cluster.
 5. **countries that use usd** — 1,600, KD 13 (pulled 2026-11-15). Cluster: countries that use the us dollar (1,300, KD 13), can you use us dollars in mexico (590, KD 0), can you use us dollars in costa rica (390, KD 3). "countries that use us dollar as currency" returned no data. URL: /journal/countries-that-use-the-us-dollar/.
 
 Why: informational, answerable from ISO 4217 List One (SIX, published 17 September 2026, read 17 November 2026), the currency line already on every sheet, the Banco Central de Reserva de El Salvador's history page and the Banco Central de Timor-Leste's coins page (both read 17 November 2026). No cannibalization: there is no currency list page, the euro story covers EUR only, and each sheet covers one place's currency. Red team: no claims about dollar acceptance, exchange rates or card use in Mexico, Costa Rica, Cambodia or Zimbabwe, because no official source states them; the "can you use US dollars in Mexico / Costa Rica" queries get only the ISO currency and that statement. No adoption date for Ecuador, because no Banco Central del Ecuador page was read.
+
+## 18 November 2026
+
+One DataForSEO Labs keyword_overview call (US, English, 20 keywords, $0.0144, pulled 2026-11-18). Results kept here:
+
+| Keyword | Volume | KD | Intent |
+| --- | --- | --- | --- |
+| hawaii hurricane season | 12100 | 3 | informational |
+| hurricane season hawaii | 12100 | 0 | informational |
+| hurricane season puerto rico | 6600 | 0 | informational |
+| rainy season hawaii | 5400 | 2 | informational |
+| northern lights iceland | 5400 | 23 | informational |
+| when is hurricane season in puerto rico | 4400 | 0 | informational |
+| cancun hurricane season | 3600 | 0 | informational |
+| hurricane season cancun | 2900 | 0 | informational |
+| hurricane season mexico | 1900 | 0 | informational |
+| when is hurricane season in mexico | 1900 | 0 | informational |
+| hurricane season in cabo | 1600 | 0 | informational |
+| midnight sun iceland | 1300 | 1 | informational |
+| tipping in mexico | 1300 | 0 | informational |
+| mexico hurricane season | 720 | 3 | informational |
+| rainy season mexico | 720 | 0 | informational |
+| hurricane season puerto vallarta | 480 | 0 | informational |
+| tipping in europe | 480 | 1 | informational |
+| do you tip in europe | 390 | 0 | informational |
+| can you drink tap water in europe | 50 | 0 | informational |
+| is tap water safe in europe | 10 | — | informational |
+
+### Pick, 18 November 2026
+
+6. **hawaii hurricane season** — 12,100, KD 3 (pulled 2026-11-18). Cluster: hurricane season hawaii (12,100, KD 0), rainy season hawaii (5,400, KD 2). URL: /journal/hawaii-hurricane-season/.
+
+Why: informational, the highest-volume low-KD query in the pull, and answerable from official pages: the NWS Honolulu 2026 Central Pacific outlook, the CPC eastern/central Pacific outlook (season dates, JAS peak, 1991–2020 average 4.4), the NHC climatology page's central Pacific section (1971–2008 counts, El Niño link) and the NWS Honolulu Climate of Hawaiʻi page (two seasons, winter rains), all read 18 November 2026, plus the Honolulu and Kahului tables on the sheets. No cannibalization: the Caribbean story covers the Atlantic and eastern Pacific only; the Hawaii sheet's new best-time section is a month-by-month weather view, not a hurricane explainer. Red team: no 2026 storm count (season still open, no official summary), no landfall odds per island (NHC charts are images, not read for numbers), no windward rain figures, no emergency number (Hawaii sheets have no cited emergency line). The Puerto Rico and Mexico hurricane queries were not used because the Caribbean story already covers them; "rainy season hawaii" is answered inside this story and on the Hawaii sheet, not as a separate URL.

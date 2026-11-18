@@ -176,5 +176,71 @@
     "url": "https://www.irishimmigration.ie/coming-to-visit-ireland/",
     "note": "The immigration service's page for a visit. We do not restate a visa rule.",
     "asOf": "2026-11-15"
+  },
+  "bestTime": {
+    "intro": "Month by month for Dublin, from the Dublin Airport table above and two Met Éireann pages. Met Éireann says May and June are Ireland's sunniest months, with 5 to 6.5 hours of sunshine a day over most of the country, and December the dullest, with about 1 hour a day in the north to almost 2 in the extreme southeast. Its temperature page says inland air temperatures normally reach 18 to 20 °C on summer days and about 8 °C in winter. The airport is on the east coast; the west and the uplands are wetter.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 8.0 °C, low 2.3 °C, 61.8 mm. The lowest average high in the Dublin table."
+      },
+      {
+        "month": "February",
+        "note": "Average high 8.5 °C, low 2.2 °C, 52.4 mm. The lowest average low in the table."
+      },
+      {
+        "month": "March",
+        "note": "Average high 10.1 °C, low 3.0 °C, 51.4 mm, the driest month in the table."
+      },
+      {
+        "month": "April",
+        "note": "Average high 12.3 °C, low 4.0 °C, 55.0 mm. Met Éireann says a study of 12 stations found mean cloud amounts at their minimum in April."
+      },
+      {
+        "month": "May",
+        "note": "One of Met Éireann's two sunniest months. Average high 14.8 °C, low 6.6 °C, 57.0 mm."
+      },
+      {
+        "month": "June",
+        "note": "One of Met Éireann's two sunniest months. Average high 17.7 °C, low 9.0 °C, 64.0 mm."
+      },
+      {
+        "month": "July",
+        "note": "Average high 19.5 °C, low 11.3 °C, 61.0 mm: the highest average high and low in the table. Met Éireann's 12-station study found mean cloud amounts at their maximum in July."
+      },
+      {
+        "month": "August",
+        "note": "Average high 19.1 °C, low 11.2 °C, 73.4 mm."
+      },
+      {
+        "month": "September",
+        "note": "Average high 16.9 °C, low 9.5 °C, 63.3 mm."
+      },
+      {
+        "month": "October",
+        "note": "Average high 13.6 °C, low 7.1 °C, 78.4 mm."
+      },
+      {
+        "month": "November",
+        "note": "Average high 10.3 °C, low 4.3 °C, 82.7 mm, the wettest month in the Dublin table."
+      },
+      {
+        "month": "December",
+        "note": "Met Éireann's dullest month. Average high 8.3 °C, low 2.6 °C, 72.1 mm."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "Met Éireann, Sunshine and Solar Radiation",
+        "sourceUrl": "https://www.met.ie/climate/what-we-measure/sunshine",
+        "asOf": "2026-11-18"
+      },
+      {
+        "sourceTitle": "Met Éireann, Temperature",
+        "sourceUrl": "https://www.met.ie/climate/what-we-measure/temperature",
+        "asOf": "2026-11-18"
+      }
+    ],
+    "asOf": "2026-11-18"
   }
 }
