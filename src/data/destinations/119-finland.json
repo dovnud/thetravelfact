@@ -1,0 +1,173 @@
+{
+  "order": 119,
+  "id": "finland",
+  "kind": "country",
+  "name": "Finland",
+  "countrySlug": "finland",
+  "countryName": "Finland",
+  "path": "/finland/",
+  "dek": "Helsinki Kaisaniemi, WMO 02978. Not Lapland.",
+  "paragraphs": [
+    "The reference station is Helsinki Kaisaniemi, WMO 02978, height 3 m, the long-record observatory in the capital. Helsinki-Vantaa Airport has its own file and was not averaged in; Lapland is not this table. No official tipping page was opened on this pass, so that line is missing.",
+    "The highest average high in the table is 21.9 °C, in July. The lowest average low is -6.3 °C, in February. The wettest month by the precipitation column is August, at 81.4 mm, and the driest is April, at 34.1 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Helsinki Kaisaniemi, WMO 02978. Not Rovaniemi and not a national average.",
+    "stationName": "Helsinki Kaisaniemi",
+    "stationId": "WMO 02978",
+    "period": "1991-2020",
+    "elevation": "3 m",
+    "latitude": "60|10|31|N",
+    "longitude": "24|56|41|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "-0.7",
+        "low": "-5.6",
+        "rain": "52.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "-1.3",
+        "low": "-6.3",
+        "rain": "38.3",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "2.3",
+        "low": "-3.6",
+        "rain": "34.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "8.1",
+        "low": "1.1",
+        "rain": "34.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "14.6",
+        "low": "6.4",
+        "rain": "37.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "18.8",
+        "low": "11.2",
+        "rain": "60.1",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "21.9",
+        "low": "14.5",
+        "rain": "57.1",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "20.5",
+        "low": "13.5",
+        "rain": "81.4",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "15.4",
+        "low": "9.3",
+        "rain": "55.7",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "9.2",
+        "low": "4.2",
+        "rain": "73.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "4.4",
+        "low": "0.4",
+        "rain": "69.3",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "1.4",
+        "low": "-2.9",
+        "rain": "58.3",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Helsinki Kaisaniemi (02978)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Finland/CSV/HelsinkiKaisaniemi_02978.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Finland at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Visit Finland's guide to driving in Finland, on the official tourism site, lists the side of the road under \"Drive on\" as the right-hand side, together with the general speed limits and a reminder that headlights are required at all times.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "Visit Finland, driving in Finland",
+    "sourceUrl": "https://www.visitfinland.com/en/articles/guide-to-drive-in-finland/"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Finland, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Finland",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/finland"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217 lists the currency name Euro and the code EUR for Finland.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Helsinki",
+    "detail": "IANA's zone.tab gives Finland one row, Europe/Helsinki. zone1970.tab lists that zone on a row it shares with the Åland Islands (AX); the zone name is the same in both files.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Finnish Immigration Service, Enter Finland",
+    "url": "https://enterfinland.fi/eServices",
+    "note": "The Finnish Immigration Service's Enter Finland e-services site. A direct request to migri.fi did not return the page on this pass. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

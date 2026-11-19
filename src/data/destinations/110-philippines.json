@@ -1,0 +1,166 @@
+{
+  "order": 110,
+  "id": "philippines",
+  "kind": "country",
+  "name": "Philippines",
+  "countrySlug": "philippines",
+  "countryName": "Philippines",
+  "path": "/philippines/",
+  "dek": "Science Garden, Quezon City, WMO 98430. Metro Manila, not a national average.",
+  "paragraphs": [
+    "The reference station is Science Garden, Quezon City, Metro Manila, WMO 98430, height 42 m, the PAGASA climate station in the capital region. Port Area Manila has its own file and was not averaged in; Cebu, Davao, and the islands are not this table. No official driving-side or tipping page was opened on this pass, so those lines are missing.",
+    "The highest average high in the table is 34.6 °C, in April. The lowest average low is 21.4 °C, in January. The wettest month by the precipitation column is August, at 568.5 mm, and the driest is February, at 24.4 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Science Garden, Quezon City, Metro Manila, WMO 98430. Not Cebu, not Davao, and not a national average.",
+    "stationName": "Science Garden, Quezon City, Metro Manila",
+    "stationId": "WMO 98430",
+    "period": "1991-2020",
+    "elevation": "42 m",
+    "latitude": "14|38|N",
+    "longitude": "121| 2|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.6",
+        "low": "21.4",
+        "rain": "27.1",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "31.5",
+        "low": "21.5",
+        "rain": "24.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "32.9",
+        "low": "22.6",
+        "rain": "32.9",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "34.6",
+        "low": "24.1",
+        "rain": "41.7",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "34.4",
+        "low": "25.1",
+        "rain": "211.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "33.1",
+        "low": "25",
+        "rain": "322.7",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "31.8",
+        "low": "24.5",
+        "rain": "516.6",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.2",
+        "low": "24.6",
+        "rain": "568.5",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.5",
+        "low": "24.4",
+        "rain": "500.3",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "31.7",
+        "low": "23.9",
+        "rain": "283.6",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "31.6",
+        "low": "23.2",
+        "rain": "141.4",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.7",
+        "low": "22.4",
+        "rain": "114.5",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Science Garden, Quezon City, Metro Manila (98430)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/Philippines/CSV/ScienceGardenQuezonCityMetroManila_98430.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A, B and C, 230 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows the Philippines at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for the Philippines, last reviewed September 18, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, the Philippines",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/philippines"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Philippine Peso (PHP)",
+    "detail": "ISO 4217 lists the currency name Philippine Peso and the code PHP under the country name Philippines (the).",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Manila",
+    "detail": "IANA's zone.tab and zone1970.tab each give the Philippines one row, Asia/Manila. There is no second zone for the country in either file.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Philippine official e-Visa",
+    "url": "https://evisa.gov.ph/",
+    "note": "The official Philippine e-Visa site. A direct request to immigration.gov.ph did not complete on this pass. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

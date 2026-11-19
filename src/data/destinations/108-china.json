@@ -1,0 +1,173 @@
+{
+  "order": 108,
+  "id": "china",
+  "kind": "country",
+  "name": "China",
+  "countrySlug": "china",
+  "countryName": "China",
+  "path": "/china/",
+  "dek": "Beijing, WMO 54511. One capital station, not a national average.",
+  "paragraphs": [
+    "The reference station is Beijing, WMO 54511, height 32.5 m. Shanghai, Guangzhou, Lhasa, and the far west have their own files and were not averaged in; this is a Beijing table, not a national climate. CDC's traveler page states that tap water is not drinkable, even in major cities; the sheet quotes that sentence. No official tipping page was opened on this pass, so that line is missing.",
+    "The highest average high in the table is 31.8 °C, in July. The lowest average low is -6.9 °C, in January. The wettest month by the precipitation column is July, at 169.7 mm, and the driest is January and December, at 2.2 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Beijing, WMO 54511. Not Shanghai, not a national average, and not the high plateau or the far south.",
+    "stationName": "Beijing",
+    "stationId": "WMO 54511",
+    "period": "1991-2020",
+    "elevation": "32.5 m",
+    "latitude": "39|55|48|N",
+    "longitude": "116|16|47|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "2.3",
+        "low": "-6.9",
+        "rain": "2.2",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "6.1",
+        "low": "-4.2",
+        "rain": "5.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "13.2",
+        "low": "1.9",
+        "rain": "8.6",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "21.0",
+        "low": "9.0",
+        "rain": "21.7",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "27.2",
+        "low": "15.1",
+        "rain": "36.1",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "30.8",
+        "low": "20.0",
+        "rain": "72.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "31.8",
+        "low": "23.0",
+        "rain": "169.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30.7",
+        "low": "22.0",
+        "rain": "113.4",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "26.5",
+        "low": "16.3",
+        "rain": "53.7",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "19.3",
+        "low": "8.8",
+        "rain": "28.7",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "10.3",
+        "low": "0.7",
+        "rain": "13.5",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "3.7",
+        "low": "-5.0",
+        "rain": "2.2",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Beijing (54511)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/China/CSV/BEIJING_54511.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and I, 220 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows China at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 35 of the Law of the People's Republic of China on Road Traffic Safety, in the English translation published by the Supreme People's Court, says motor vehicles and non-motor vehicles shall keep to the right of the road.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "Law of the People's Republic of China on Road Traffic Safety, Article 35 (Supreme People's Court English text)",
+    "sourceUrl": "https://english.court.gov.cn/2015-08/17/c_1170130_5.htm"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "Not drinkable, even in major cities, according to CDC",
+    "detail": "CDC's traveler page for China, last reviewed August 25, 2026, says: \"Tap water is not drinkable in China, even in major cities. Bottled water is easily available.\" This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, China",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/china"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Yuan Renminbi (CNY)",
+    "detail": "ISO 4217 lists the currency name Yuan Renminbi and the code CNY for China.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Shanghai for Beijing Time; Asia/Urumqi for Xinjiang Time",
+    "detail": "IANA's zone.tab and zone1970.tab each give China two rows: Asia/Shanghai, commented Beijing Time, and Asia/Urumqi, commented Xinjiang Time. The Beijing sheet uses Asia/Shanghai; it is not a single national zone.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "National Immigration Administration of China",
+    "url": "https://www.nia.gov.cn/",
+    "note": "The National Immigration Administration site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "order": 121,
+  "id": "sweden",
+  "kind": "country",
+  "name": "Sweden",
+  "countrySlug": "sweden",
+  "countryName": "Sweden",
+  "path": "/sweden/",
+  "dek": "Stockholm Observatoriekullen, WMO 02485. Not the north.",
+  "paragraphs": [
+    "The reference station is Stockholm Observatoriekullen, WMO 02485, height 43 m, the observatory hill in the capital. An automatic station at the same coordinates (WMO 02484) has temperatures but no precipitation column and was not used. The north of Sweden is not this table.",
+    "The highest average high in the table is 23.6 °C, in July. The lowest average low is -3.2 °C, in February. The wettest month by the precipitation column is August, at 66.2 mm, and the driest is March, at 27.3 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Stockholm Observatoriekullen, WMO 02485. An automatic station at the same coordinates, WMO 02484, has temperatures but no precipitation column and was not used.",
+    "stationName": "Stockholm Observatoriekullen",
+    "stationId": "WMO 02485",
+    "period": "1991-2020",
+    "elevation": "43 m",
+    "latitude": "59|20|30|N",
+    "longitude": "18|03|18|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "1.0",
+        "low": "-2.9",
+        "rain": "37.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "1.2",
+        "low": "-3.2",
+        "rain": "29.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "4.7",
+        "low": "-1.1",
+        "rain": "27.3",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "10.7",
+        "low": "2.6",
+        "rain": "29.2",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "16.5",
+        "low": "7.1",
+        "rain": "34.0",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "20.8",
+        "low": "11.6",
+        "rain": "61.7",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "23.6",
+        "low": "14.8",
+        "rain": "61.5",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "22.1",
+        "low": "14.2",
+        "rain": "66.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "16.6",
+        "low": "10.2",
+        "rain": "53.3",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "10.1",
+        "low": "5.5",
+        "rain": "51.4",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "5.4",
+        "low": "1.9",
+        "rain": "47.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "2.5",
+        "low": "-1.2",
+        "rain": "47.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Stockholm Observatoriekullen (02485)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Sweden/CSV/Stockholm_Observatoriekullen_02485.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Sweden at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Visit Sweden, Sweden's official tourism site, says: \"Drive on the right: Like most European countries, Swedes drive on the right side of the road.\" The same page says headlights must be on at all times, including in daylight.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "Visit Sweden, driving in Sweden",
+    "sourceUrl": "https://visitsweden.com/about-sweden/driving-in-sweden/"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Welcome but not expected; rounding up is common",
+    "detail": "Visit Sweden, Sweden's official tourism site, says tipping in Sweden \"isn't as established as in many other countries. It's always welcome but not expected.\" It says that when eating out it is common to round up to the nearest big number, and gives the example of a 280 SEK bill rounded to 300 SEK. It adds that a service charge is sometimes included and will be clearly stated on the bill.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "Visit Sweden, tipping in Sweden",
+    "sourceUrl": "https://visitsweden.com/about-sweden/tipping/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Sweden, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Sweden",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/sweden"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Swedish Krona (SEK)",
+    "detail": "ISO 4217 lists the currency name Swedish Krona and the code SEK for Sweden.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Stockholm",
+    "detail": "IANA's zone.tab gives Sweden one row, Europe/Stockholm. zone1970.tab lists that zone on a row named Europe/Berlin, which it shares with Germany, Denmark, Norway, and Svalbard and Jan Mayen. The backward file links Europe/Stockholm to Europe/Berlin. The sheet prints the zone.tab name.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Swedish Migration Agency (Migrationsverket)",
+    "url": "https://www.migrationsverket.se/en/you-want-to-apply/visiting-sweden.html",
+    "note": "The Migration Agency's page on visiting Sweden. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

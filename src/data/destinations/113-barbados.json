@@ -1,0 +1,169 @@
+{
+  "order": 113,
+  "id": "barbados",
+  "kind": "country",
+  "name": "Barbados",
+  "countrySlug": "barbados",
+  "countryName": "Barbados",
+  "path": "/barbados/",
+  "dek": "Charnocks, WMO 78954. The only Barbados file.",
+  "paragraphs": [
+    "The only station in the Barbados submission is Charnocks, WMO 78954, height 56 m. No official driving-side or tipping page was opened on this pass, so those lines are missing.",
+    "The highest average high in the table is 31.0 °C, in September. The lowest average low is 23.0 °C, in February. The wettest month by the precipitation column is October, at 173.8 mm, and the driest is March, at 37.7 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Charnocks, WMO 78954. The only Barbados file in the collection.",
+    "stationName": "Charnocks",
+    "stationId": "WMO 78954",
+    "period": "1991-2020",
+    "elevation": "56 m",
+    "latitude": "13|05|07|N",
+    "longitude": "59|29|14|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "29.1",
+        "low": "23.3",
+        "rain": "61.4",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "29.2",
+        "low": "23.0",
+        "rain": "43.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "29.7",
+        "low": "23.4",
+        "rain": "37.7",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "30.2",
+        "low": "24.2",
+        "rain": "58.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.6",
+        "low": "25.0",
+        "rain": "71.7",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "30.7",
+        "low": "25.2",
+        "rain": "101.2",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "30.7",
+        "low": "25.1",
+        "rain": "117.5",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30.9",
+        "low": "24.8",
+        "rain": "145.8",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.0",
+        "low": "24.8",
+        "rain": "162.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "30.8",
+        "low": "24.7",
+        "rain": "173.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.3",
+        "low": "24.5",
+        "rain": "172.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "29.6",
+        "low": "23.9",
+        "rain": "88.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Charnocks (78954)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/Barbados/CSV/Charnocks_78954.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November.",
+    "The same page says the Atlantic basin includes the North Atlantic Ocean, the Caribbean Sea, and the Gulf of Mexico."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 115 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Barbados at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Barbados, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Barbados",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/barbados"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Barbados Dollar (BBD)",
+    "detail": "ISO 4217 lists the currency name Barbados Dollar and the code BBD for Barbados.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Barbados",
+    "detail": "IANA's zone.tab and zone1970.tab each give Barbados one row, America/Barbados. There is no second zone for the country in either file.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Barbados Immigration Department",
+    "url": "https://www.immigration.gov.bb/",
+    "note": "The Barbados Immigration Department site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

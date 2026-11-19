@@ -1,0 +1,171 @@
+{
+  "order": 117,
+  "id": "tanzania",
+  "kind": "country",
+  "name": "Tanzania",
+  "countrySlug": "tanzania",
+  "countryName": "Tanzania",
+  "path": "/tanzania/",
+  "dek": "Dar es Salaam, WMO 63894. Not Dodoma and not Kilimanjaro. The station is in the southern hemisphere.",
+  "paragraphs": [
+    "The reference station is Dar es Salaam, WMO 63894, height 53 m, the main coastal city. Dodoma and Kilimanjaro have their own files and were not averaged in. The station is 6°52′S, so January is the southern-hemisphere midsummer. No official driving-side or tipping page was opened on this pass, so those lines are missing.",
+    "The highest average high in the table is 32.8 °C, in February. The lowest average low is 19.1 °C, in August. The wettest month by the precipitation column is April, at 263.6 mm, and the driest is July, at 15.8 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Dar es Salaam, WMO 63894. Not Dodoma, not Kilimanjaro, and not a national average.",
+    "stationName": "Dar es Salaam",
+    "stationId": "WMO 63894",
+    "period": "1991-2020",
+    "elevation": "53 m",
+    "latitude": "06|52|12|S",
+    "longitude": "039|12|00|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "32.4",
+        "low": "24.9",
+        "rain": "54.2",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "32.8",
+        "low": "24.5",
+        "rain": "70.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "32.4",
+        "low": "24",
+        "rain": "169.6",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "31.1",
+        "low": "23.2",
+        "rain": "263.6",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.3",
+        "low": "22",
+        "rain": "172.2",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "30",
+        "low": "20.3",
+        "rain": "31.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "29.7",
+        "low": "19.3",
+        "rain": "15.8",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30.1",
+        "low": "19.1",
+        "rain": "17.8",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "30.8",
+        "low": "19.5",
+        "rain": "20.2",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "31.5",
+        "low": "20.8",
+        "rain": "77.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "31.7",
+        "low": "22.6",
+        "rain": "114.4",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "32.1",
+        "low": "24.2",
+        "rain": "110.2",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Dar es Salaam (63894)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-1-WMO-Normals-9120/Tanzania/CSV/DAR_ES_SALAAM_63894.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type D and G, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows the United Republic of Tanzania at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Tanzania, last reviewed November 18, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Tanzania",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/tanzania"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Tanzanian Shilling (TZS)",
+    "detail": "ISO 4217 lists the currency name Tanzanian Shilling and the code TZS under the country name Tanzania, United Republic of.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Africa/Dar_es_Salaam",
+    "detail": "IANA's zone.tab gives Tanzania one row, Africa/Dar_es_Salaam. zone1970.tab lists that zone on a row named Africa/Nairobi, which it shares with Kenya, Djibouti, Eritrea, Ethiopia, the Comoros, Madagascar, Somalia, Uganda, and Mayotte. The backward file links Africa/Dar_es_Salaam to Africa/Nairobi. The sheet prints the zone.tab name.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Tanzania Immigration Service Department",
+    "url": "https://www.immigration.go.tz/",
+    "note": "The Immigration Service Department site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

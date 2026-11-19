@@ -1,0 +1,178 @@
+{
+  "order": 104,
+  "id": "norway",
+  "kind": "country",
+  "name": "Norway",
+  "countrySlug": "norway",
+  "countryName": "Norway",
+  "path": "/norway/",
+  "dek": "Oslo Blindern, WMO 01492. Not the coast and not the north.",
+  "paragraphs": [
+    "The reference station is Oslo Blindern, WMO 01492, height 94 m, the long-record observatory in the capital. Bergen, Tromsø, and the fjord stations have their own files and were not averaged in. No official tourism-office tipping page was opened on this pass, so that line is missing.",
+    "The highest average high in the table is 22.7 °C, in July. The lowest average low is -4.7 °C, in January and February. The wettest month by the precipitation column is August, at 102.8 mm, and the driest is March, at 41.3 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Oslo Blindern, WMO 01492. Not Bergen, not Tromsø, and not a national average.",
+    "stationName": "Oslo Blindern",
+    "stationId": "WMO 01492",
+    "period": "1991-2020",
+    "elevation": "94 m",
+    "latitude": "59|56|32|N",
+    "longitude": "10|43|12|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "0.1",
+        "low": "-4.7",
+        "rain": "57.9",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "1.1",
+        "low": "-4.7",
+        "rain": "45.6",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "5.3",
+        "low": "-2.1",
+        "rain": "41.3",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "11",
+        "low": "2.1",
+        "rain": "48.4",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "16.7",
+        "low": "6.8",
+        "rain": "60.1",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "20.4",
+        "low": "10.8",
+        "rain": "79.7",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "22.7",
+        "low": "13.4",
+        "rain": "86.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "21.3",
+        "low": "12.5",
+        "rain": "102.8",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "16.4",
+        "low": "8.6",
+        "rain": "82.2",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "9.6",
+        "low": "3.8",
+        "rain": "93.4",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "4.4",
+        "low": "0",
+        "rain": "84.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "0.9",
+        "low": "-3.7",
+        "rain": "53.6",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Oslo Blindern (01492)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Norway/CSV/OSLO_BLINDERN_01492.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Norway at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Section 5(1) of the Norwegian traffic rules (Forskrift om kjørende og gående trafikk), on Lovdata, says that so far as conditions allow, a vehicle shall be driven on the right-hand side of the road, and that on a carriageway with two or more lanes in the direction of travel the right-hand lane shall be used unless the rules require or allow a lane to the left.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "Forskrift om kjørende og gående trafikk (trafikkregler) § 5, Lovdata",
+    "sourceUrl": "https://lovdata.no/dokument/SF/forskrift/1986-03-21-747/%C2%A75"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Norway, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Norway",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/norway"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Norwegian Krone (NOK)",
+    "detail": "ISO 4217 lists the currency name Norwegian Krone and the code NOK for Norway.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Oslo",
+    "detail": "IANA's zone.tab gives Norway one row, Europe/Oslo. zone1970.tab lists that zone on a row named Europe/Berlin, which it shares with Germany, Denmark, Sweden, and Svalbard and Jan Mayen. The backward file links Europe/Oslo to Europe/Berlin. The sheet prints the zone.tab name.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "UDI, the Norwegian Directorate of Immigration",
+    "url": "https://www.udi.no/en/",
+    "note": "The Directorate of Immigration's English site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

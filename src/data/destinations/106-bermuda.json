@@ -1,0 +1,170 @@
+{
+  "order": 106,
+  "id": "bermuda",
+  "kind": "country",
+  "name": "Bermuda",
+  "countrySlug": "bermuda",
+  "countryName": "Bermuda",
+  "path": "/bermuda/",
+  "dek": "A British overseas territory. Bermuda Weather Service, WMO 78016.",
+  "paragraphs": [
+    "Bermuda is a British overseas territory; this is its own sheet. The only station in the Bermuda submission is Bermuda Weather Service, WMO 78016, height 6 m. No official driving-side or tipping page was opened on this pass, so those lines are missing.",
+    "The highest average high in the table is 30.1 °C, in August. The lowest average low is 15.4 °C, in February. The wettest month by the precipitation column is August, at 165.2 mm, and the driest is April, at 86.8 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Bermuda Weather Service, WMO 78016. The only Bermuda file in the collection.",
+    "stationName": "Bermuda Weather Service",
+    "stationId": "WMO 78016",
+    "period": "1991-2020",
+    "elevation": "6 m",
+    "latitude": "32|22|01|N",
+    "longitude": "064|40|38|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "20.7",
+        "low": "15.9",
+        "rain": "127.6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "20.4",
+        "low": "15.4",
+        "rain": "123.6",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "20.5",
+        "low": "15.6",
+        "rain": "118.9",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "22.1",
+        "low": "17.3",
+        "rain": "86.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "24.3",
+        "low": "19.8",
+        "rain": "94.6",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "27.2",
+        "low": "22.7",
+        "rain": "110.2",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "29.6",
+        "low": "24.9",
+        "rain": "116.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30.1",
+        "low": "25.2",
+        "rain": "165.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "29.1",
+        "low": "24.4",
+        "rain": "145.2",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "26.7",
+        "low": "22.2",
+        "rain": "149.1",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "23.8",
+        "low": "19.3",
+        "rain": "111.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "21.8",
+        "low": "17.3",
+        "rain": "104.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Bermuda Weather Service (78016)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/Bermuda/CSV/BermudaWeatherService_78016.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November.",
+    "The same page says the Atlantic basin includes the North Atlantic Ocean, the Caribbean Sea, and the Gulf of Mexico."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Bermuda at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Bermuda, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Bermuda",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/bermuda"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Bermudian Dollar (BMD)",
+    "detail": "ISO 4217 lists the currency name Bermudian Dollar and the code BMD for Bermuda.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Atlantic/Bermuda",
+    "detail": "IANA's zone.tab and zone1970.tab each give Bermuda one row, Atlantic/Bermuda. There is no second zone for the country in either file.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Government of Bermuda, Department of Immigration",
+    "url": "https://www.gov.bm/department/immigration",
+    "note": "The Department of Immigration page on gov.bm. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  },
+  "sheetLabel": "British overseas territory sheet"
+}

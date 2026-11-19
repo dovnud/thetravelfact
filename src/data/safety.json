@@ -1178,5 +1178,517 @@
    "sourceTitle": "Departamento de Seguridad Pública de Puerto Rico, Negociado de Sistema de Emergencias 9-1-1",
    "sourceUrl": "https://www.dsp.pr.gov/negociados/negociado-de-sistema-de-emergencias-9-1-1"
   }
+ },
+ "maldives": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Maldives is Level 2, \"Exercise Increased Caution\". The State Department's feed dates this advisory 7 October 2025. Its summary opens: \"Exercise increased caution in Maldives due to terrorism.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Maldives Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mdv.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Typhoid",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. Typhoid vaccine is recommended for most travelers. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. All travelers should take steps to prevent mosquito bites. Dogs infected with rabies are not commonly found in the Maldives. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Maldives",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/maldives"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Ambulance 102 · Fire 118 · Police 119",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Maldives, under Emergency services, lists: ambulance 102; fire 118; police 119.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Maldives: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/maldives/getting-help"
+  }
+ },
+ "norway": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Norway is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 6 July 2026. Its summary opens: \"Exercise normal precaution in Norway.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Norway Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nor.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis B",
+   "detail": "CDC says to consider hepatitis A vaccine for most travelers, and recommends it for higher-risk activities such as rural travel or eating street food. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Tick-borne encephalitis vaccine is recommended for extensive tick exposure in endemic areas. Dogs infected with rabies are not commonly found in Norway. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Norway",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/norway"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Fire 110 · Police 112 · Ambulance 113",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Norway, under Emergency services, lists: fire 110; police 112; ambulance 113.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Norway: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/norway/getting-help"
+  }
+ },
+ "belize": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Belize is Level 2, \"Exercise Increased Caution\". The State Department's feed dates this advisory 12 March 2026. Its summary opens: \"Exercise increased caution in Belize due to crime.\" The advisory says some areas have increased risk; read the full advisory before you go. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Belize Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.blz.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. CDC says to consider typhoid vaccine for travel to areas with poor sanitation, stays of a month or more, or visits to friends or relatives. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. All travelers should take steps to prevent mosquito bites. Dogs infected with rabies are sometimes found in Belize. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Belize",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/belize"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "911 or 90 (all three)",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Belize, under Emergency services, lists: 911 or 90 for ambulance, fire, and police.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Belize: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/belize/getting-help"
+  }
+ },
+ "bermuda": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Bermuda is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 10 April 2026. Its summary opens: \"Exercise normal precaution in Bermuda.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Bermuda Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bmu.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC says to consider typhoid vaccine for travel to areas with poor sanitation, stays of a month or more, or visits to friends or relatives. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are not commonly found in Bermuda. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Bermuda",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/bermuda"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "911 (ambulance, fire, police, and maritime rescue)",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Bermuda, under Emergency services, lists: 911 for ambulance, fire, police, and maritime rescue. It adds that the Bermuda government has advice about what to do in an emergency.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Bermuda: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/bermuda/getting-help"
+  }
+ },
+ "guatemala": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 3: Reconsider Travel",
+   "detail": "The U.S. Department of State's travel advisory for Guatemala is Level 3, \"Reconsider Travel\". The State Department's feed dates this advisory 12 March 2026. Its summary opens: \"Reconsider travel to Guatemala due to crime and terrorism.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Guatemala Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gtm.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Typhoid, Malaria pills (some areas)",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. Typhoid vaccine is recommended for most travelers. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. CDC recommends prescription medicine to prevent malaria for travelers going to certain areas. All travelers should take steps to prevent mosquito bites. Dogs infected with rabies are sometimes found in Guatemala. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Guatemala",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/guatemala"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Fire and ambulance 122 or 123 · Police 110",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Guatemala, under Emergency services, lists: fire and ambulance 122 or 123; police 110.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Guatemala: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/guatemala/getting-help"
+  }
+ },
+ "china": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for China is Level 2, \"Exercise Increased Caution\". The State Department's feed dates this advisory 19 October 2026. Its summary opens: \"Exercise increased caution in mainland China due to the arbitrary enforcement of local laws, the use of exit bans without a fair and transparent process under the law, and the risk of wrongful detention.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, China Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.chn.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC says to consider typhoid vaccine for travel to areas with poor sanitation, stays of a month or more, or visits to friends or relatives. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Japanese encephalitis vaccine is recommended for people moving to, staying a month or more in, or frequently traveling to areas with the disease. Tick-borne encephalitis vaccine is recommended for extensive tick exposure in endemic areas. All travelers should take steps to prevent mosquito bites. Dogs infected with rabies are commonly found in China. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, China",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/china"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Ambulance 120 · Fire 119 · Police 110 · Traffic police 122",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for China, under Emergency services, lists: ambulance 120; fire 119; police 110; traffic police 122. The same list also includes Maritime Search and Rescue Centre 12395.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, China: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/china/getting-help"
+  }
+ },
+ "fiji": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Fiji is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 2 December 2024. Its summary opens: \"Exercise normal precaution in Fiji.\" The advisory says some areas have increased risk; read the full advisory before you go. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Fiji Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.fji.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Typhoid",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. Typhoid vaccine is recommended for most travelers. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are not commonly found in Fiji. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Fiji",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/fiji"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "911 (all three) · Fire 910",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Fiji, under Emergency services, lists: 911 for ambulance, fire, and police; fire 910.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Fiji: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/fiji/getting-help"
+  }
+ },
+ "philippines": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Philippines is Level 2, \"Exercise Increased Caution\". The State Department's feed dates this advisory 1 September 2026. Its summary opens: \"Exercise increased caution in the Philippines due to crime, terrorism, unrest, and kidnapping.\" The advisory says some areas have increased risk; read the full advisory before you go. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Philippines Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.phl.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Typhoid, Malaria pills (some areas)",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. Typhoid vaccine is recommended for most travelers. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. CDC recommends prescription medicine to prevent malaria for travelers going to certain areas. Japanese encephalitis vaccine is recommended for people moving to, staying a month or more in, or frequently traveling to areas with the disease. There is elevated chikungunya risk in the Philippines. Vaccination may be considered for stays of about six months or more. Dogs infected with rabies are commonly found in the Philippines. Cholera is presumed to be present in the Philippines. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Philippines",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/philippines"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "911 (all three)",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Philippines, under Emergency services, lists: 911 for ambulance, fire, and police.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Philippines: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/philippines/getting-help"
+  }
+ },
+ "taiwan": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Taiwan is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 25 November 2025. Its summary opens: \"Exercise normal precaution in Taiwan.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Taiwan Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.twn.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Japanese encephalitis vaccine is recommended for people moving to, staying a month or more in, or frequently traveling to areas with the disease. Dogs infected with rabies are not commonly found in Taiwan. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Taiwan",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/taiwan"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Ambulance and fire 119 · Police 110 · Coastguard 118",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Taiwan, under Emergency services, lists: ambulance and fire 119; police 110; coastguard 118. It also lists a domestic abuse and sexual assault hotline, 113, and an 'Information for Foreigners in Taiwan' helpline, 0800 024 111, which are not the all-services emergency number.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Taiwan: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/taiwan/getting-help"
+  }
+ },
+ "us-virgin-islands": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Not applicable (US jurisdiction)",
+   "detail": "The U.S. Department of State issues travel advisories for destinations outside the United States. The US Virgin Islands are a US territory, so there is no State Department advisory level for them.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Travel Advisories",
+   "sourceUrl": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC says to consider typhoid vaccine for travel to areas with poor sanitation, stays of a month or more, or visits to friends or relatives. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are not commonly found in the U.S. Virgin Islands. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, the U.S. Virgin Islands",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/usvirgin-islands"
+  }
+ },
+ "barbados": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Barbados is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 10 April 2026. Its summary opens: \"Exercise normal precaution in Barbados.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Barbados Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.brb.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC says to consider typhoid vaccine for travel to areas with poor sanitation, stays of a month or more, or visits to friends or relatives. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. All travelers should take steps to prevent mosquito bites. Dogs infected with rabies are not commonly found in Barbados. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Barbados",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/barbados"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Ambulance 511 · Fire 311 · Police 211",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Barbados, under Emergency services, lists: ambulance 511; fire 311; police 211.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Barbados: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/barbados/getting-help"
+  }
+ },
+ "curacao": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Curaçao is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 9 September 2026. Its summary opens: \"Exercise normal precaution in Curaçao.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Curaçao Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cuw.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are not commonly found in Curaçao. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Curaçao",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/curacao"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Ambulance 912 · Fire 911 · Police 911 · Coastguard 913",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Curaçao, under Emergency services, lists: ambulance 912; fire 911; police 911; coastguard 913.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Curaçao: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/curacao/getting-help"
+  }
+ },
+ "sri-lanka": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Sri Lanka is Level 2, \"Exercise Increased Caution\". The State Department's feed dates this advisory 14 October 2025. Its summary opens: \"Exercise increased caution in Sri Lanka due to civil unrest, terrorism, and landmines.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Sri Lanka Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lka.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Typhoid",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. Typhoid vaccine is recommended for most travelers. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Japanese encephalitis vaccine is recommended for people moving to, staying a month or more in, or frequently traveling to areas with the disease. All travelers should take steps to prevent mosquito bites. Dogs infected with rabies are commonly found in Sri Lanka. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Sri Lanka",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/sri-lanka"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Ambulance 011 2691111 or 1990 · Fire and rescue 111 · Police 118/119",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Sri Lanka, under Emergency services, lists: ambulance 011 2691111 or 1990; fire and rescue 111; police 118/119. It also lists Emergency Police Mobile Squad 011 5717171 and Tourist Police 011 2421052.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Sri Lanka: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/sri-lanka/getting-help"
+  }
+ },
+ "el-salvador": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for El Salvador is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 25 June 2026. Its summary opens: \"Exercise normal precaution in El Salvador.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, El Salvador Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.slv.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Typhoid",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. Typhoid vaccine is recommended for most travelers. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are sometimes found in El Salvador. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, El Salvador",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/el-salvador"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "911 (all three)",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for El Salvador, under Emergency services, lists: 911 for ambulance, fire, and police. It also lists a tourist police telephone number.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, El Salvador: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/el-salvador/getting-help"
+  }
+ },
+ "tanzania": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Tanzania is Level 2, \"Exercise Increased Caution\". The State Department's feed dates this advisory 16 October 2026. Its summary opens: \"Exercise increased caution in Tanzania due to crime, terrorism, health, unrest, arbitrary enforcement of laws, and targeting gay and lesbian individuals.\" The advisory says some areas have increased risk; read the full advisory before you go. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Tanzania Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tza.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Typhoid, Malaria pills (some areas), Polio booster",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. Typhoid vaccine is recommended for most travelers. CDC generally does not recommend yellow fever vaccine for travel to this destination; the page lists the country's own entry rule separately. CDC recommends prescription medicine to prevent malaria for travelers going to certain areas. In Tanzania, poliovirus has been identified in the past year. CDC says adults vaccinated as children may receive a single lifetime booster. Dogs infected with rabies are commonly found in Tanzania. Areas of active cholera transmission are localized to Dodoma (last case reported 9-12 months ago), Katavi (last case reported in the past 3 months), Kigoma (last case reported 9-12 months ago), Mara (last case reported 9-12 months ago), Mbeya (last case reported 9-12 months ago), Mtwara (last case reported 9-12 months ago), Mwanza (last case reported 9-12 months ago), Rukwa (last case reported 9-12 months ago), Ruvuma (last case reported 9-12 months ago), Shinyanga (last case reported 9-12 months ago), and Songwe (last case reported 9-12 months ago) in Tanzania. Travel health notices on the page: Global Polio (Level 2, September 23, 2026); Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Tanzania",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/tanzania"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "112 (all three)",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Tanzania, under Emergency services, lists: 112 for ambulance, fire, and police.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Tanzania: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/tanzania/getting-help"
+  }
+ },
+ "malaysia": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Malaysia is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 22 February 2026. Its summary opens: \"Exercise normal precaution in Malaysia.\" The advisory says some areas have increased risk; read the full advisory before you go. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Malaysia Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mys.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Typhoid, Malaria pills (some areas)",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. Typhoid vaccine is recommended for most travelers. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. CDC recommends prescription medicine to prevent malaria for travelers going to certain areas. Japanese encephalitis vaccine is recommended for people moving to, staying a month or more in, or frequently traveling to areas with the disease. All travelers should take steps to prevent mosquito bites. Dogs infected with rabies are sometimes found in Malaysia. There is no longer active cholera transmission and vaccine is not recommended. Travel health notices on the page: Global Dengue (Level 1, November 10, 2026); Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Malaysia",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Police and ambulance 999 · Fire 994 · Ambulance from a mobile 112",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Malaysia, under Emergency services, lists: police and ambulance 999; fire 994; ambulance (from a mobile) 112.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Malaysia: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/malaysia/getting-help"
+  }
+ },
+ "finland": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Finland is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 13 March 2026. Its summary opens: \"Exercise normal precaution in Finland.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Finland Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.fin.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis B",
+   "detail": "CDC says to consider hepatitis A vaccine for most travelers, and recommends it for higher-risk activities such as rural travel or eating street food. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Tick-borne encephalitis vaccine is recommended for extensive tick exposure in endemic areas. Dogs infected with rabies are not commonly found in Finland. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Finland",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/finland"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "112 (all three)",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Finland, under Emergency services, lists: 112 for ambulance, fire, and police. It also mentions the 112 Suomi app, which shares a live location with emergency services.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Finland: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/finland/getting-help"
+  }
+ },
+ "seychelles": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Seychelles is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 9 December 2025. Its summary opens: \"Exercise normal precaution in Seychelles.\" The advisory says some areas have increased risk; read the full advisory before you go. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Seychelles Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syc.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Typhoid",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. Typhoid vaccine is recommended for most travelers. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. All travelers should take steps to prevent mosquito bites. Dogs infected with rabies are not commonly found in Seychelles. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Seychelles",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/seychelles"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "999 (all three)",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Seychelles, under Emergency services, lists: 999 for ambulance, fire, and police.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Seychelles: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/seychelles/getting-help"
+  }
+ },
+ "sweden": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Sweden is Level 2, \"Exercise Increased Caution\". The State Department's feed dates this advisory 18 May 2026. Its summary opens: \"Exercise increased caution in Sweden due to terrorism.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Sweden Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.swe.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis B",
+   "detail": "CDC says to consider hepatitis A vaccine for most travelers, and recommends it for higher-risk activities such as rural travel or eating street food. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Tick-borne encephalitis vaccine is recommended for extensive tick exposure in endemic areas. Dogs infected with rabies are not commonly found in Sweden. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Sweden",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/sweden"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "112 (all three)",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Sweden, under Emergency services, lists: 112 for ambulance, fire, and police.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Sweden: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/sweden/getting-help"
+  }
+ },
+ "mauritius": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Mauritius is Level 2, \"Exercise Increased Caution\". The State Department's feed dates this advisory 8 December 2025. Its summary opens: \"Exercise increased caution in Mauritius due to crime.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-19",
+   "sourceTitle": "U.S. Department of State, Mauritius Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mus.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Typhoid",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. Typhoid vaccine is recommended for most travelers. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. All travelers should take steps to prevent mosquito bites. Dogs infected with rabies are not commonly found in Mauritius. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "CDC Travelers' Health, Mauritius",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mauritius"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Ambulance 999 or 114 · Fire 999 or 115 · Police 999 or 112",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Mauritius, under Emergency services, lists: ambulance 999 or 114; fire 999 or 115; police 999 or 112.",
+   "asOf": "2026-11-19",
+   "sourceTitle": "GOV.UK FCDO travel advice, Mauritius: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/mauritius/getting-help"
+  }
  }
 }

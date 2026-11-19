@@ -4,7 +4,7 @@ slug: 112-emergency-number
 kicker: "Safety"
 dek: "112 reaches the emergency services everywhere in the EU, and in Switzerland, Turkey and India too. In Seoul it is the police only, in Indonesia it is listed for fire, and in Mexico, Japan and Australia you need a different number."
 published: "2026-11-16"
-updated: "2026-11-16"
+updated: "2026-11-19"
 photo: netherlands
 related:
   - /netherlands/
@@ -18,6 +18,9 @@ related:
   - /switzerland/
   - /united-kingdom/
   - /ireland/
+  - /finland/
+  - /sweden/
+  - /norway/
   - /turkey/
   - /india/
   - /south-korea/
@@ -77,6 +80,8 @@ All of these are EU members, so the Commission's "everywhere in the EU" applies 
 | Croatia | 112 for ambulance, fire and police | [Croatia](/croatia/#emergency), [Dubrovnik](/croatia/dubrovnik/) |
 | Hungary | 112 for ambulance, fire and police | [Hungary](/hungary/#emergency), [Budapest](/hungary/budapest/) |
 | Ireland | 112 or 999 for ambulance, fire and police | [Ireland](/ireland/#emergency), [Dublin](/ireland/dublin/) |
+| Finland | 112 for ambulance, fire and police | [Finland](/finland/#emergency) |
+| Sweden | 112 for ambulance, fire and police | [Sweden](/sweden/#emergency) |
 | France | 112 for all three; also ambulance 15, fire 18, police 17 | [France](/france/#emergency), [Paris](/france/paris/), [Nice](/france/nice/), [Lyon](/france/lyon/) |
 | Italy | Police 112; ambulance 118; fire 115 | [Italy](/italy/#emergency), [Rome](/italy/rome/), [Florence](/italy/florence/), [Venice](/italy/venice/), [Milan](/italy/milan/), [Naples](/italy/naples/) |
 | Germany | Ambulance 112; fire 112; police 110 | [Germany](/germany/#emergency), [Berlin](/germany/berlin/), [Munich](/germany/munich/), [Frankfurt](/germany/frankfurt/) |
@@ -95,6 +100,7 @@ Two of those rows deserve a second look.
 |---|---|---|
 | Switzerland | 112 for all three; also ambulance 144, fire 118, police 117 | [Switzerland](/switzerland/#emergency), [Zürich](/switzerland/zurich/) |
 | Iceland | 112 for ambulance, fire and police | [Iceland](/iceland/#emergency) |
+| Norway | Police 112; fire 110; ambulance 113 | [Norway](/norway/#emergency) |
 | Turkey | 112 for ambulance, fire and police | [Turkey](/turkey/#emergency), [Istanbul](/turkey/istanbul/) |
 | United Kingdom | 999 for police (GOV.UK, Contact the police) | [United Kingdom](/united-kingdom/#emergency), [London](/united-kingdom/london/), [Edinburgh](/united-kingdom/edinburgh/), [Manchester](/united-kingdom/manchester/) |
 

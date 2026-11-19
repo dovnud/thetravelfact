@@ -1,0 +1,171 @@
+{
+  "order": 118,
+  "id": "malaysia",
+  "kind": "country",
+  "name": "Malaysia",
+  "countrySlug": "malaysia",
+  "countryName": "Malaysia",
+  "path": "/malaysia/",
+  "dek": "Subang, WMO 48647. The Kuala Lumpur area, not Sabah or Sarawak.",
+  "paragraphs": [
+    "The reference station is Subang, WMO 48647, height 17 m, in the Kuala Lumpur area. Penang and East Malaysia are not this table. No official driving-side or tipping page was opened on this pass, so those lines are missing.",
+    "The highest average high in the table is 33.7 °C, in March and April. The lowest average low is 23.8 °C, in January. The wettest month by the precipitation column is November, at 355.8 mm, and the driest is June, at 145.8 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Subang, WMO 48647, in the Kuala Lumpur area. Not Penang, not Kota Kinabalu, and not a national average.",
+    "stationName": "Subang",
+    "stationId": "WMO 48647",
+    "period": "1991-2020",
+    "elevation": "17 m",
+    "latitude": "03|07|50|N",
+    "longitude": "101|33|09|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "32.6",
+        "low": "23.8",
+        "rain": "226.7",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "33.3",
+        "low": "24.0",
+        "rain": "192.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "33.7",
+        "low": "24.5",
+        "rain": "270.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "33.7",
+        "low": "24.7",
+        "rain": "301.5",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "33.6",
+        "low": "25.0",
+        "rain": "229.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "33.3",
+        "low": "24.8",
+        "rain": "145.8",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "32.8",
+        "low": "24.4",
+        "rain": "165.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "32.8",
+        "low": "24.5",
+        "rain": "174.3",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "32.7",
+        "low": "24.2",
+        "rain": "220.3",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "32.6",
+        "low": "24.2",
+        "rain": "283.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "32.3",
+        "low": "24.1",
+        "rain": "355.8",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "32.0",
+        "low": "24.0",
+        "rain": "280.6",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Subang (48647)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/Malaysia/CSV/Subang_48647.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A, C, G and M, 240 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Malaysia at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Malaysia, last reviewed November 10, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Malaysia",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Malaysian Ringgit (MYR)",
+    "detail": "ISO 4217 lists the currency name Malaysian Ringgit and the code MYR for Malaysia.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Kuala_Lumpur on the peninsula; Asia/Kuching in Sabah and Sarawak",
+    "detail": "IANA's zone.tab gives Malaysia two rows: Asia/Kuala_Lumpur, commented Malaysia (peninsula), and Asia/Kuching, commented Sabah, Sarawak. zone1970.tab lists the peninsula on a row named Asia/Singapore, which it shares with Singapore and an Antarctic station, and lists Asia/Kuching on a row it shares with Brunei. The backward file links Asia/Kuala_Lumpur to Asia/Singapore. The sheet prints the zone.tab names.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)",
+    "url": "https://www.imi.gov.my/",
+    "note": "The Immigration Department site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

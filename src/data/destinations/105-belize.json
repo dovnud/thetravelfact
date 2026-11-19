@@ -1,0 +1,169 @@
+{
+  "order": 105,
+  "id": "belize",
+  "kind": "country",
+  "name": "Belize",
+  "countrySlug": "belize",
+  "countryName": "Belize",
+  "path": "/belize/",
+  "dek": "Philip Goldson Airport, WMO 78583. Near Belize City, not Belmopan.",
+  "paragraphs": [
+    "The reference station is Philip Goldson Airport, WMO 78583, height 5 m, the international airport near Belize City. Belmopan, the capital, has its own file in the same collection and was not averaged in; the interior and the south are not this table. No official driving-side or tipping page was opened on this pass, so those lines are missing.",
+    "The highest average high in the table is 31.9 °C, in May. The lowest average low is 20.6 °C, in January. The wettest month by the precipitation column is October, at 305.5 mm, and the driest is March, at 41.0 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Philip Goldson Airport, WMO 78583. Near Belize City; not Belmopan and not a national average.",
+    "stationName": "Philip Goldson Airport",
+    "stationId": "WMO 78583",
+    "period": "1991-2020",
+    "elevation": "5 m",
+    "latitude": "17|32|00|N",
+    "longitude": "88|18|00|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "27.9",
+        "low": "20.6",
+        "rain": "141.4",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "28.8",
+        "low": "21.5",
+        "rain": "64.7",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "29.8",
+        "low": "22.4",
+        "rain": "41.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "31.2",
+        "low": "24.2",
+        "rain": "58.0",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "31.9",
+        "low": "25.2",
+        "rain": "131.8",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "31.7",
+        "low": "25.7",
+        "rain": "236.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "31.5",
+        "low": "25.3",
+        "rain": "180.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.8",
+        "low": "25.3",
+        "rain": "195.0",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.8",
+        "low": "24.9",
+        "rain": "229.8",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "30.6",
+        "low": "23.9",
+        "rain": "305.5",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "29.2",
+        "low": "22.0",
+        "rain": "235.8",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "28.3",
+        "low": "21.2",
+        "rain": "150.9",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Belmopan has its own file in the same collection and was not averaged in.",
+    "sourceTitle": "WMO climate normals 1991-2020, Philip Goldson Airport (78583)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/Belize/CSV/PhillipGoldsonAirport_78583.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November.",
+    "The same page says the Atlantic basin includes the North Atlantic Ocean, the Caribbean Sea, and the Gulf of Mexico."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A, B and G, 110 V and 220 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Belize at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Belize, last reviewed September 03, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Belize",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/belize"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Belize Dollar (BZD)",
+    "detail": "ISO 4217 lists the currency name Belize Dollar and the code BZD for Belize.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Belize",
+    "detail": "IANA's zone.tab and zone1970.tab each give Belize one row, America/Belize. There is no second zone for the country in either file.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Belize Immigration",
+    "url": "https://immigration.gov.bz/",
+    "note": "The official Belize Immigration site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}
