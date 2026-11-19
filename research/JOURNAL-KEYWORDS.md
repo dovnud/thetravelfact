@@ -149,3 +149,38 @@ One DataForSEO Labs keyword_overview call (US, English, 20 keywords, $0.0144, pu
 6. **hawaii hurricane season** — 12,100, KD 3 (pulled 2026-11-18). Cluster: hurricane season hawaii (12,100, KD 0), rainy season hawaii (5,400, KD 2). URL: /journal/hawaii-hurricane-season/.
 
 Why: informational, the highest-volume low-KD query in the pull, and answerable from official pages: the NWS Honolulu 2026 Central Pacific outlook, the CPC eastern/central Pacific outlook (season dates, JAS peak, 1991–2020 average 4.4), the NHC climatology page's central Pacific section (1971–2008 counts, El Niño link) and the NWS Honolulu Climate of Hawaiʻi page (two seasons, winter rains), all read 18 November 2026, plus the Honolulu and Kahului tables on the sheets. No cannibalization: the Caribbean story covers the Atlantic and eastern Pacific only; the Hawaii sheet's new best-time section is a month-by-month weather view, not a hurricane explainer. Red team: no 2026 storm count (season still open, no official summary), no landfall odds per island (NHC charts are images, not read for numbers), no windward rain figures, no emergency number (Hawaii sheets have no cited emergency line). The Puerto Rico and Mexico hurricane queries were not used because the Caribbean story already covers them; "rainy season hawaii" is answered inside this story and on the Hawaii sheet, not as a separate URL.
+
+## 19 November 2026
+
+One DataForSEO Labs keyword_overview call (US, English, 20 keywords, $0.01416, pulled 2026-11-19). Results kept here:
+
+| Keyword | Volume | KD | Intent |
+| --- | --- | --- | --- |
+| best time to visit italy | 14800 | 0 | informational |
+| best time to visit mexico | 3600 | 0 | informational |
+| mexico city weather by month | 2400 | 2 | informational |
+| tipping in italy | 1900 | 0 | informational |
+| do you tip in italy | 1900 | 0 | informational |
+| italy weather by month | 1600 | 0 | informational |
+| midnight sun iceland | 1300 | 1 | informational |
+| tipping in mexico | 1300 | 0 | informational |
+| iceland daylight hours | 590 | 1 | informational |
+| tipping in europe | 480 | 1 | informational |
+| how much to tip in mexico | 480 | 0 | informational |
+| do you tip in europe | 390 | 0 | informational |
+| rainy season mexico city | 260 | 0 | informational |
+| how many hours of daylight in iceland | 110 | 14 | informational |
+| when is the midnight sun in iceland | 110 | 2 | informational |
+| does iceland have 24 hours of daylight | 40 | 0 | informational |
+| iceland midnight sun dates | 20 | 0 | informational |
+| polar night iceland | 20 | 0 | informational |
+
+No data: daylight hours in iceland in winter, when does the sun set in iceland.
+
+### Pick, 19 November 2026
+
+7. **midnight sun iceland** — 1,300, KD 1 (pulled 2026-11-19). Cluster: iceland daylight hours (590, KD 1), when is the midnight sun in iceland (110, KD 2), how many hours of daylight in iceland (110, KD 14), does iceland have 24 hours of daylight (40, KD 0). URL: /journal/midnight-sun-iceland/.
+
+Why: informational, answerable from the U.S. Naval Observatory's one-day Sun data (API, 2026 dates, Reykjavík WMO 04030 and Akureyri WMO 04063 coordinates) and its rise/set/twilight definitions page, the Icelandic Met Office tourist note, and the Reykjavík table on the Iceland sheet. No cannibalization: no sheet or story covers day length. "best time to visit mexico" (3,600/KD0) and "best time to visit italy" (14,800/KD0) were not used for stories, because the Mexico and Italy sheets' new best-time sections target them; "italy weather by month" and "mexico city weather by month" are also sheet queries. "tipping in mexico" (1,300/KD0) was not used: Profeco says only that tipping is voluntary and gives no percent, which is too thin for a story. Red team: no claim that the sun stays up all night anywhere in Iceland (it sets every night at both points in 2026); no Arctic Circle or Grímsey claim; no aurora odds; dates are 2026 only.
+
+Next candidates: "tipping in europe" (480/KD1) + "do you tip in europe" (390/KD0) as a story built from the sheets' sourced tipping lines (Italy, Ireland and others), linking each sheet; Mexico city sheets' best-time sections (Cancún, Cabo, Puerto Vallarta).

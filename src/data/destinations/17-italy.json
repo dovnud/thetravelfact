@@ -170,5 +170,66 @@
     "publisher": "Ministero degli Affari Esteri",
     "url": "https://www.esteri.it/en/ministero/sportello_info/domandefrequenti/sezione_visti_entrare_in_italia/",
     "note": "The foreign ministry's entry page, which sends you to the Visa for Italy database. We do not restate a visa rule."
+  },
+  "bestTime": {
+    "intro": "Month by month for Rome's coastal airport, from the Roma Fiumicino table above (figures rounded to one decimal) and the national tourism site Italia.it. Italia.it says the climate is generally mild but extremely variable by place and season, and gives seasonal averages: in winter, −2.7 °C to 9.9 °C in the north and 5.8 °C to 14.9 °C in the south; in summer, about 10.1 °C to 24.4 °C in the north and 17.2 °C to 29.6 °C in the south. Fiumicino is not a national average. Florence, Venice, Milan and Naples have their own sheets and tables.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 13.2 °C, low 3.4 °C, 53.8 mm. The lowest average high and the lowest average low in the Fiumicino table. Italia.it's winter figures run from −2.7 °C to 9.9 °C in the north and 5.8 °C to 14.9 °C in the south."
+      },
+      {
+        "month": "February",
+        "note": "Average high 13.9 °C, low 3.7 °C, 57.9 mm. Winter, by Italia.it's seasonal figures."
+      },
+      {
+        "month": "March",
+        "note": "Average high 16.1 °C, low 5.7 °C, 51.5 mm."
+      },
+      {
+        "month": "April",
+        "note": "Average high 18.9 °C, low 8.2 °C, 46.7 mm."
+      },
+      {
+        "month": "May",
+        "note": "Average high 23.0 °C, low 11.8 °C, 37.1 mm."
+      },
+      {
+        "month": "June",
+        "note": "Average high 27.1 °C, low 15.9 °C, 18.7 mm. The second-lightest month for precipitation in the table. Italia.it's summer figures run from about 10.1 °C to 24.4 °C in the north and 17.2 °C to 29.6 °C in the south."
+      },
+      {
+        "month": "July",
+        "note": "Average high 29.6 °C, low 18.4 °C, 12.3 mm. The lightest month for precipitation in the Fiumicino table."
+      },
+      {
+        "month": "August",
+        "note": "Average high 30.0 °C, low 18.9 °C, 23.3 mm. The highest average high and the highest average low in the table."
+      },
+      {
+        "month": "September",
+        "note": "Average high 26.4 °C, low 16.0 °C, 59.8 mm. Precipitation more than doubles from August."
+      },
+      {
+        "month": "October",
+        "note": "Average high 22.4 °C, low 12.3 °C, 90.0 mm."
+      },
+      {
+        "month": "November",
+        "note": "Average high 17.8 °C, low 8.5 °C, 98.9 mm. The heaviest month for precipitation in the Fiumicino table."
+      },
+      {
+        "month": "December",
+        "note": "Average high 14.1 °C, low 4.9 °C, 72.6 mm. Winter, by Italia.it's seasonal figures."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "Italia.it, Information for travelling to Italy (average temperatures by season)",
+        "sourceUrl": "https://www.italia.it/en/italy/practical-information",
+        "asOf": "2026-11-19"
+      }
+    ],
+    "asOf": "2026-11-19"
   }
 }

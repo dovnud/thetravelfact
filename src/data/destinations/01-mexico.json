@@ -181,5 +181,66 @@
     "publisher": "Instituto Nacional de Migración",
     "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
     "note": "This is the Mexican government's page on who must apply for a visa. We do not copy that list."
+  },
+  "bestTime": {
+    "intro": "Month by month for the central highlands, from the Tacubaya table above (Mexico City, 2,308.6 m) and the U.S. National Hurricane Center's season windows for the two oceans that touch Mexico. The highland months are not the coast's months: Cancún is on the Caribbean (Atlantic basin), Cabo San Lucas and Puerto Vallarta on the Pacific, and each has its own sheet and station table. The hurricane windows are official season dates, not a forecast, and NHC says storms sometimes form before and after them.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 22.2 °C, low 8.3 °C, 11.9 mm. The lowest average high and the lowest average low in the Tacubaya table. Outside both hurricane seasons."
+      },
+      {
+        "month": "February",
+        "note": "Average high 24.3 °C, low 9.5 °C, 5.7 mm. Outside both hurricane seasons."
+      },
+      {
+        "month": "March",
+        "note": "Average high 26.2 °C, low 11.1 °C, 11.8 mm. Outside both hurricane seasons."
+      },
+      {
+        "month": "April",
+        "note": "Average high 27.5 °C, low 13.1 °C, 24.2 mm. The highest average high in the Tacubaya table. Outside both hurricane seasons."
+      },
+      {
+        "month": "May",
+        "note": "Average high 27.3 °C, low 13.7 °C, 59.4 mm. Inside the eastern Pacific hurricane season (15 May to 30 November) from the 15th; the Atlantic season has not opened. Precipitation more than doubles from April."
+      },
+      {
+        "month": "June",
+        "note": "Average high 25.7 °C, low 13.8 °C, 132.5 mm. Inside both the eastern Pacific (15 May to 30 November) and Atlantic (1 June to 30 November) hurricane seasons. NHC says the first eastern Pacific named storm typically forms in early to mid-June and the first Atlantic named storm in mid to late June. The first month in the table above 100 mm."
+      },
+      {
+        "month": "July",
+        "note": "Average high 24.7 °C, low 13.0 °C, 174.0 mm. Inside both the eastern Pacific (15 May to 30 November) and Atlantic (1 June to 30 November) hurricane seasons. NHC says most eastern Pacific tropical cyclones occur between late June and early October."
+      },
+      {
+        "month": "August",
+        "note": "Average high 24.6 °C, low 13.2 °C, 175.6 mm. Inside both the eastern Pacific (15 May to 30 November) and Atlantic (1 June to 30 November) hurricane seasons. The heaviest month for precipitation in the Tacubaya table. NHC notes an eastern Pacific peak in late August."
+      },
+      {
+        "month": "September",
+        "note": "Average high 23.7 °C, low 13.1 °C, 158.1 mm. Inside both the eastern Pacific (15 May to 30 November) and Atlantic (1 June to 30 November) hurricane seasons. NHC puts the peak of the Atlantic season at 10 September."
+      },
+      {
+        "month": "October",
+        "note": "Average high 23.4 °C, low 11.8 °C, 71.3 mm. Inside both the eastern Pacific (15 May to 30 November) and Atlantic (1 June to 30 November) hurricane seasons. NHC says most Atlantic activity falls between mid-August and mid-October. Precipitation is less than half September's."
+      },
+      {
+        "month": "November",
+        "note": "Average high 22.8 °C, low 9.9 °C, 17.4 mm. Both hurricane seasons end on 30 November."
+      },
+      {
+        "month": "December",
+        "note": "Average high 22.4 °C, low 8.4 °C, 5.0 mm. The lightest month for precipitation in the Tacubaya table. Outside both hurricane seasons."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "National Hurricane Center, Tropical Cyclone Climatology",
+        "sourceUrl": "https://www.nhc.noaa.gov/climo/",
+        "asOf": "2026-11-19"
+      }
+    ],
+    "asOf": "2026-11-19"
   }
 }
