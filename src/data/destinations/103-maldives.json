@@ -1,0 +1,166 @@
+{
+  "order": 103,
+  "id": "maldives",
+  "kind": "country",
+  "name": "Maldives",
+  "countrySlug": "maldives",
+  "countryName": "Maldives",
+  "path": "/maldives/",
+  "dek": "Hulhulé, WMO 43555. The airport island next to Malé.",
+  "paragraphs": [
+    "The only Malé-area station in the Maldives submission is Hulhulé, WMO 43555, height 1.73 m, on the airport island next to the capital. Gan, in the far south, has its own file and was not averaged in. The IEC world-plugs list has no Maldives row, and no official plug, driving-side, or tipping page was opened on this pass, so those lines are missing.",
+    "The highest average high in the table is 31.9 °C, in April. The lowest average low is 25.5 °C, in November. The wettest month by the precipitation column is October, at 245.4 mm, and the driest is February, at 37.9 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Hulhulé, WMO 43555. The airport island next to Malé, not a national average.",
+    "stationName": "Hulhulé",
+    "stationId": "WMO 43555",
+    "period": "1991-2020",
+    "elevation": "1.73 m",
+    "latitude": "04|11|39|N",
+    "longitude": "073|31|52|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.6",
+        "low": "26",
+        "rain": "86.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "31",
+        "low": "26.3",
+        "rain": "37.9",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "31.6",
+        "low": "26.8",
+        "rain": "48.6",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "31.9",
+        "low": "27.1",
+        "rain": "127.2",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "31.5",
+        "low": "26.6",
+        "rain": "238.2",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "31.1",
+        "low": "26.4",
+        "rain": "146.1",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "30.8",
+        "low": "25.9",
+        "rain": "198.1",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30.7",
+        "low": "25.9",
+        "rain": "193.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "30.5",
+        "low": "25.7",
+        "rain": "213.7",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "30.5",
+        "low": "25.7",
+        "rain": "245.4",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.4",
+        "low": "25.5",
+        "rain": "235.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.4",
+        "low": "25.6",
+        "rain": "212.2",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Hulhulé (43555)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/Maldives/CSV/Hulhule_43555.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Not on the IEC world-plugs list",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, has no Maldives row. The live page was not returned on a direct download. No official Maldives government page stating voltage, frequency, and plug type was opened on this pass, so those figures are not printed.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for the Maldives, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, the Maldives",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/maldives"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Rufiyaa (MVR)",
+    "detail": "ISO 4217 lists the currency name Rufiyaa and the code MVR for Maldives.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Indian/Maldives",
+    "detail": "IANA's zone.tab gives Maldives one row, Indian/Maldives. zone1970.tab lists that zone on a row it shares with the French Southern Territories (TF); the zone name is the same in both files.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Maldives Immigration",
+    "url": "https://www.immigration.gov.mv/",
+    "note": "The Maldives Immigration site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "order": 116,
+  "id": "el-salvador",
+  "kind": "country",
+  "name": "El Salvador",
+  "countrySlug": "el-salvador",
+  "countryName": "El Salvador",
+  "path": "/el-salvador/",
+  "dek": "Ilopango, WMO 78663. The San Salvador area, at 624 m.",
+  "paragraphs": [
+    "The reference station is Ilopango, WMO 78663, height 624 m, in the San Salvador area. The Pacific coast is not this table. No official driving-side or tipping page was opened on this pass, so those lines are missing.",
+    "The highest average high in the table is 33.2 °C, in March. The lowest average low is 17.5 °C, in January. The wettest month by the precipitation column is September, at 331.9 mm, and the driest is February, at 1.2 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Ilopango, WMO 78663, in the San Salvador area, height 624 m. Not a national average and not the coast.",
+    "stationName": "Ilopango",
+    "stationId": "WMO 78663",
+    "period": "1991-2020",
+    "elevation": "624 m",
+    "latitude": "13|41|57|N",
+    "longitude": "089|07|05|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "31.3",
+        "low": "17.5",
+        "rain": "1.7",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "32.5",
+        "low": "18.1",
+        "rain": "1.2",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "33.2",
+        "low": "19.0",
+        "rain": "10.7",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "33.0",
+        "low": "20.4",
+        "rain": "42.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "31.3",
+        "low": "20.9",
+        "rain": "192.8",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "30.3",
+        "low": "20.5",
+        "rain": "264.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "30.8",
+        "low": "20.0",
+        "rain": "302.1",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30.7",
+        "low": "20.1",
+        "rain": "318.5",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "29.8",
+        "low": "20.1",
+        "rain": "331.9",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "29.7",
+        "low": "19.9",
+        "rain": "245.4",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.1",
+        "low": "18.8",
+        "rain": "65.0",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.7",
+        "low": "17.9",
+        "rain": "5.6",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Ilopango (78663)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/ElSalvador/CSV/ILOPANGO_78663.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [
+    "The National Hurricane Center says the eastern Pacific hurricane season runs from 15 May to 30 November."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 115 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows El Salvador at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for El Salvador, last reviewed September 03, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, El Salvador",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/el-salvador"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "US Dollar (USD); Colon (SVC) also listed",
+    "detail": "ISO 4217 lists both the El Salvador Colon, code SVC, and the US Dollar, code USD, for El Salvador. This page does not choose between them or restate a tender rule.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/El_Salvador",
+    "detail": "IANA's zone.tab and zone1970.tab each give El Salvador one row, America/El_Salvador. There is no second zone for the country in either file.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Dirección General de Migración y Extranjería, El Salvador",
+    "url": "https://www.migracion.gob.sv/",
+    "note": "The national migration directorate's site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

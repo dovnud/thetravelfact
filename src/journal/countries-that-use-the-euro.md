@@ -4,7 +4,7 @@ slug: countries-that-use-the-euro
 kicker: "Money"
 dek: "The euro is the official currency of 21 of the EU's 27 countries, and Bulgaria is the newest member. Prague, Budapest, Kraków, Zürich, London and Reykjavík are not on the euro."
 published: "2026-11-15"
-updated: "2026-11-15"
+updated: "2026-11-19"
 photo: prague
 related:
   - /austria/
@@ -24,6 +24,9 @@ related:
   - /switzerland/
   - /iceland/
   - /turkey/
+  - /finland/
+  - /sweden/
+  - /norway/
   - /czechia/prague/
   - /hungary/budapest/
   - /poland/krakow/
@@ -57,7 +60,7 @@ The ECB's table gives the year each country adopted the euro. The euro launched 
 | Croatia | 2023 | [Croatia](/croatia/#money), [Dubrovnik](/croatia/dubrovnik/) |
 | Cyprus | 2008 | – |
 | Estonia | 2011 | – |
-| Finland | 1999 (cash 2002) | – |
+| Finland | 1999 (cash 2002) | [Finland](/finland/#money) |
 | France | 1999 (cash 2002) | [France](/france/#money), [Paris](/france/paris/), [Nice](/france/nice/), [Lyon](/france/lyon/) |
 | Germany | 1999 (cash 2002) | [Germany](/germany/#money), [Berlin](/germany/berlin/), [Munich](/germany/munich/), [Frankfurt](/germany/frankfurt/) |
 | Greece | 2001 (cash 2002) | [Greece](/greece/#money), [Athens](/greece/athens/), [Santorini](/greece/santorini/) |
@@ -73,7 +76,7 @@ The ECB's table gives the year each country adopted the euro. The euro launched 
 | Slovenia | 2007 | – |
 | Spain | 1999 (cash 2002) | [Spain](/spain/#money), [Madrid](/spain/madrid/), [Barcelona](/spain/barcelona/), [Seville](/spain/seville/), [Mallorca](/spain/mallorca/), [Valencia](/spain/valencia/) |
 
-Two of those dates matter more than the rest to anyone using an old guidebook. **Croatia** switched in 2023, so anything printed before that will tell you to bring kuna. **Bulgaria** is the newest member, listed by the ECB as using the euro since 2026, and the EU page updated on 12 January 2026 counts it among the 21. Each of our ten euro-country sheets prints the ISO 4217 line "Euro (EUR)".
+Two of those dates matter more than the rest to anyone using an old guidebook. **Croatia** switched in 2023, so anything printed before that will tell you to bring kuna. **Bulgaria** is the newest member, listed by the ECB as using the euro since 2026, and the EU page updated on 12 January 2026 counts it among the 21. Each of our eleven euro-country sheets prints the ISO 4217 line "Euro (EUR)".
 
 ## The six EU countries that do not use it
 
@@ -83,22 +86,24 @@ The EU page splits the holdouts into two groups.
 
 **Opted out:** Denmark negotiated an opt-out and kept its own currency.
 
-Three of those six are on our sheets, and they are exactly where travellers get caught:
+Four of those six are on our sheets, and they are exactly where travellers get caught:
 
 - [Czechia](/czechia/#money): **Czech Koruna (CZK)**. That covers [Prague](/czechia/prague/).
 - [Hungary](/hungary/#money): **Forint (HUF)**. That covers [Budapest](/hungary/budapest/).
 - [Poland](/poland/#money): **Zloty (PLN)**. That covers [Kraków](/poland/krakow/).
+- [Sweden](/sweden/#money): **Swedish Krona (SEK)**.
 
 That is the Central European loop many first-time visitors build: Vienna, Prague, Budapest, Kraków. Only Vienna is on the euro.
 
-## Europe outside the EU: three more currencies
+## Europe outside the EU: more currencies
 
-Our sheets cover four more European countries outside the EU, and none of them uses the euro:
+Our sheets cover five more European countries outside the EU, and none of them uses the euro:
 
 - [United Kingdom](/united-kingdom/#money): **Pound Sterling (GBP)**. The ECB notes that the UK was an EU member from 1973 to 2020 and "did not use the euro".
 - [Switzerland](/switzerland/#money): **Swiss Franc (CHF)**. ISO 4217 also lists two other codes in Switzerland's block, WIR Euro (CHE) and WIR Franc (CHW); our sheet names the franc.
 - [Iceland](/iceland/#money): **Iceland Krona (ISK)**.
 - [Turkey](/turkey/#money): **Turkish Lira (TRY)**, which covers [Istanbul](/turkey/istanbul/).
+- [Norway](/norway/#money): **Norwegian Krone (NOK)**.
 
 ## The six outsiders that use the euro anyway
 

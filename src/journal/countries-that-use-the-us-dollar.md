@@ -4,10 +4,12 @@ slug: countries-that-use-the-us-dollar
 kicker: "Money"
 dek: "Ecuador, El Salvador, Panama, Timor-Leste and three Pacific nations use the US dollar, along with Puerto Rico, Guam and the Virgin Islands. The Bahamas, Aruba, Costa Rica and Mexico do not list it."
 published: "2026-11-17"
-updated: "2026-11-17"
+updated: "2026-11-19"
 photo: panama
 related:
   - /panama/
+  - /el-salvador/
+  - /us-virgin-islands/
   - /puerto-rico/
   - /hawaii/
   - /united-states/new-york/
@@ -50,7 +52,7 @@ ISO 4217 gives one row per currency per country. Where a country has two rows, b
 | Country | What ISO 4217 lists | Notes from official sources |
 |---|---|---|
 | Ecuador | US Dollar (USD) | Only the dollar is listed. |
-| El Salvador | El Salvador Colon (SVC) and US Dollar (USD) | See the 2001 law below. |
+| El Salvador | El Salvador Colon (SVC) and US Dollar (USD) | Our [El Salvador sheet](/el-salvador/#money) prints both. See the 2001 law below. |
 | Panama | Balboa (PAB) and US Dollar (USD) | Our [Panama sheet](/panama/#money) prints both. |
 | Haiti | Gourde (HTG) and US Dollar (USD) | No sheet yet. |
 | Timor-Leste | US Dollar (USD) | Local centavo coins, see below. |
@@ -73,7 +75,8 @@ We have no official source on the day-to-day mix of balboa and dollar cash in Pa
 ISO 4217 gives these territories their own rows, each with US Dollar (USD):
 
 - **Puerto Rico.** Our [Puerto Rico sheet](/puerto-rico/#money) prints US Dollar (USD) from its own ISO entry. Plugs are Type A and B at 120 V, 60 Hz, and Discover Puerto Rico, the island's official destination site, says driving is on the same side as the mainland. Entry links to CBP's page for international visitors, because Puerto Rico is a US territory.
-- **US Virgin Islands**, **Guam**, **American Samoa**, the **Northern Mariana Islands** and the **US Minor Outlying Islands**.
+- **US Virgin Islands.** Our [US Virgin Islands sheet](/us-virgin-islands/#money) prints US Dollar (USD). Plugs are Type A and B at 110 V, 60 Hz, from the IEC. Entry links to CBP's page for international visitors, as with Puerto Rico. The travel advisory is “Not applicable,” because it is a US territory.
+- **Guam**, **American Samoa**, the **Northern Mariana Islands** and the **US Minor Outlying Islands**.
 - **British Virgin Islands** and **Turks and Caicos Islands**, two British overseas territories that ISO lists on the dollar.
 - **Bonaire, Sint Eustatius and Saba**, the Caribbean Netherlands. That is a separate ISO entry from **Aruba** (Aruban Florin, AWG) and from **Curaçao** and **Sint Maarten**, which ISO lists on the Caribbean Guilder (XCG).
 - **British Indian Ocean Territory**.
@@ -104,8 +107,8 @@ People search this a lot. The honest answer from the sources we use is narrow: t
 
 ## Our take: what the list changes for a trip
 
-1. **Count currency borders, not miles.** Miami to Nassau crosses one (USD to BSD). San Juan to Saint Thomas crosses none: both Puerto Rico and the US Virgin Islands are on the dollar. San Juan to Punta Cana crosses one (USD to DOP).
-2. **A dollar country is not a US jurisdiction.** Ecuador, Panama and Timor-Leste are on the dollar, but they are separate countries. The State Department does not issue travel advisories for US jurisdictions, which is why our [Puerto Rico](/puerto-rico/#advisory) and [Hawaii](/hawaii/#advisory) sheets print "Not applicable" on that line; a foreign dollar country gets one. Our [Panama sheet](/panama/#advisory) prints the State Department's Level 2, "Exercise Increased Caution" (feed dated 19 August 2026, read 15 November 2026).
+1. **Count currency borders, not miles.** Miami to Nassau crosses one (USD to BSD). San Juan to Saint Thomas crosses none: both [Puerto Rico](/puerto-rico/#money) and the [US Virgin Islands](/us-virgin-islands/#money) are on the dollar. San Juan to Punta Cana crosses one (USD to DOP).
+2. **A dollar country is not a US jurisdiction.** Ecuador, Panama and Timor-Leste are on the dollar, but they are separate countries. The State Department does not issue travel advisories for US jurisdictions, which is why our [Puerto Rico](/puerto-rico/#advisory), [Hawaii](/hawaii/#advisory) and [US Virgin Islands](/us-virgin-islands/#advisory) sheets print "Not applicable" on that line; a foreign dollar country gets one. Our [El Salvador sheet](/el-salvador/#advisory) prints the State Department's Level 1, "Exercise Normal Precautions" (feed dated 25 June 2026, read 19 November 2026). Our [Panama sheet](/panama/#advisory) prints the State Department's Level 2, "Exercise Increased Caution" (feed dated 19 August 2026, read 15 November 2026).
 3. **Check the plug as well as the money.** Panama, Puerto Rico and the Bahamas all list Type A and B plugs at 110–120 V, 60 Hz, from the IEC. That is not true of every dollar place, and our [plug types by country](/plug-types-by-country/) list has every sheet in one table.
 4. **Use the month lists to choose when.** By our rule (average high 20–30 °C and under 100 mm in the sheet's own table), [Puerto Rico](/puerto-rico/#weather) passes in [February](/best-places-to-visit-in-february/) and [March](/best-places-to-visit-in-march/). [Hawaii](/hawaii/#weather) passes in seven months, January to May plus [November](/best-places-to-visit-in-november/) and [December](/best-places-to-visit-in-december/). The [Bahamas](/bahamas/#weather) passes January to April, November and December. The Caribbean side of that choice also has a storm season: see our [Caribbean hurricane season](/journal/caribbean-hurricane-season/) story.
 
@@ -113,7 +116,7 @@ People search this a lot. The honest answer from the sources we use is narrow: t
 
 **How many countries use the US dollar?** Outside the United States, ISO 4217 lists the dollar for eight countries: Ecuador, El Salvador, Panama, Haiti, Timor-Leste, the Marshall Islands, Micronesia and Palau. Five of them (Ecuador, Timor-Leste and the three Pacific nations) list only the dollar. It also lists ten territories.
 
-**Does Puerto Rico use the US dollar?** Yes. ISO 4217 lists US Dollar (USD) under Puerto Rico's own entry, and our [Puerto Rico sheet](/puerto-rico/#money) prints it.
+**Does Puerto Rico use the US dollar?** Yes. ISO 4217 lists US Dollar (USD) under Puerto Rico's own entry, and our [Puerto Rico sheet](/puerto-rico/#money) prints it. The same is true of our [US Virgin Islands sheet](/us-virgin-islands/#money).
 
 **Does the Bahamas use the US dollar?** Its ISO currency is the Bahamian Dollar (BSD). There is no US dollar row for the Bahamas.
 

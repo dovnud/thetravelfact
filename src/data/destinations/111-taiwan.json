@@ -1,0 +1,166 @@
+{
+  "order": 111,
+  "id": "taiwan",
+  "kind": "country",
+  "name": "Taiwan",
+  "countrySlug": "taiwan",
+  "countryName": "Taiwan",
+  "path": "/taiwan/",
+  "dek": "Taipei, WMO 58968. Precipitation only in the NCEI file; highs and lows are blank.",
+  "paragraphs": [
+    "The reference station is Taipei, printed Taibei, WMO 58968, height 9 m. The file is in the China folder of the NOAA NCEI 1991–2020 collection. It prints a complete precipitation normal and leaves the mean daily maximum and minimum rows blank, so those cells stay blank. A Central Weather Administration 1991–2020 table for the Taipei station was not retrieved on this pass and was not copied from a third-party site. No official driving-side or tipping page was opened on this pass, so those lines are missing.",
+    "The wettest month by the precipitation column is August, at 340.7 mm, and the driest is November, at 89.9 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Taipei (printed Taibei), WMO 58968. The NCEI file sits in the China folder of the collection. Temperature cells are blank in that file.",
+    "stationName": "Taipei (Taibei)",
+    "stationId": "WMO 58968",
+    "period": "1991-2020",
+    "elevation": "9 m",
+    "latitude": "25|01|48|N",
+    "longitude": "121|31|11|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": null,
+        "low": null,
+        "rain": "90.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": null,
+        "low": null,
+        "rain": "117.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": null,
+        "low": null,
+        "rain": "157.7",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": null,
+        "low": null,
+        "rain": "133.4",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": null,
+        "low": null,
+        "rain": "250.0",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": null,
+        "low": null,
+        "rain": "339.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": null,
+        "low": null,
+        "rain": "212.8",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": null,
+        "low": null,
+        "rain": "340.7",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": null,
+        "low": null,
+        "rain": "299.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": null,
+        "low": null,
+        "rain": "134.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": null,
+        "low": null,
+        "rain": "89.9",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": null,
+        "low": null,
+        "rain": "95.4",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. The file prints a complete precipitation normal and leaves the mean daily maximum and minimum rows blank. A Central Weather Administration 1991–2020 table for the Taipei station was not retrieved on this pass, so those temperature cells stay blank. The CWA table was not invented and was not copied from a third-party site.",
+    "sourceTitle": "WMO climate normals 1991-2020, Taipei (Taibei) (58968)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/China/CSV/TAIBEI_58968.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 110 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Taiwan, Province of China at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Taiwan, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Taiwan",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/taiwan"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "New Taiwan Dollar (TWD)",
+    "detail": "ISO 4217 lists the currency name New Taiwan Dollar and the code TWD under the country name Taiwan (Province of China).",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Taipei",
+    "detail": "IANA's zone.tab and zone1970.tab each give Taiwan one row, Asia/Taipei. There is no second zone for the country in either file.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "National Immigration Agency, R.O.C. (Taiwan)",
+    "url": "https://www.immigration.gov.tw/5475/",
+    "note": "The National Immigration Agency site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

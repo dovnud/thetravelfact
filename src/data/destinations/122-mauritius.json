@@ -1,0 +1,166 @@
+{
+  "order": 122,
+  "id": "mauritius",
+  "kind": "country",
+  "name": "Mauritius",
+  "countrySlug": "mauritius",
+  "countryName": "Mauritius",
+  "path": "/mauritius/",
+  "dek": "Plaisance, WMO 61990. The international airport; January is midsummer.",
+  "paragraphs": [
+    "The reference station is Plaisance, WMO 61990, height 50 m, at the international airport in the south-east. Vacoas has its own file and was not averaged in; Rodrigues and the outer islands are not this table. The station is 20°26′S, so January is midsummer. No official driving-side or tipping page was opened on this pass, so those lines are missing.",
+    "The highest average high in the table is 30.2 °C, in January and February. The lowest average low is 18.8 °C, in August. The wettest month by the precipitation column is February, at 263.0 mm, and the driest is October, at 49.7 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Plaisance, WMO 61990, at the international airport. Vacoas has its own file and was not averaged in. Not Rodrigues and not a national average.",
+    "stationName": "Plaisance",
+    "stationId": "WMO 61990",
+    "period": "1991-2020",
+    "elevation": "50 m",
+    "latitude": "20|26|05|S",
+    "longitude": "057|41|00|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.2",
+        "low": "23.7",
+        "rain": "231.3",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "30.2",
+        "low": "23.9",
+        "rain": "263.0",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "29.6",
+        "low": "23.6",
+        "rain": "243.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "28.7",
+        "low": "22.7",
+        "rain": "175.6",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "27.2",
+        "low": "21.0",
+        "rain": "115.5",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "25.5",
+        "low": "19.6",
+        "rain": "85.2",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "24.6",
+        "low": "18.9",
+        "rain": "85.8",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "24.7",
+        "low": "18.8",
+        "rain": "73.8",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "25.5",
+        "low": "19.0",
+        "rain": "62.2",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "26.8",
+        "low": "20.1",
+        "rain": "49.7",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "28.3",
+        "low": "21.2",
+        "rain": "75.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "29.6",
+        "low": "22.8",
+        "rain": "131.2",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Plaisance (61990)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-1-WMO-Normals-9120/Mauritius/CSV/Plaisance_61990.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and G, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Mauritius at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Mauritius, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Mauritius",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mauritius"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Mauritius Rupee (MUR)",
+    "detail": "ISO 4217 lists the currency name Mauritius Rupee and the code MUR for Mauritius.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Indian/Mauritius",
+    "detail": "IANA's zone.tab and zone1970.tab each give Mauritius one row, Indian/Mauritius. There is no second zone for the country in either file.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Passport and Immigration Office, Mauritius",
+    "url": "https://passport.govmu.org/passport/",
+    "note": "The Passport and Immigration Office site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

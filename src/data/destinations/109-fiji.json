@@ -1,0 +1,166 @@
+{
+  "order": 109,
+  "id": "fiji",
+  "kind": "country",
+  "name": "Fiji",
+  "countrySlug": "fiji",
+  "countryName": "Fiji",
+  "path": "/fiji/",
+  "dek": "Nadi Airport, WMO 91680. The main international gateway; January is midsummer.",
+  "paragraphs": [
+    "The reference station is Nadi Airport, WMO 91680, height 22 m, on the west side of Viti Levu, where most long-haul flights arrive. Laucala Bay (Suva) and Nausori have their own files and were not averaged in. The station is 17°45′S, so January is midsummer. No official driving-side or tipping page was opened on this pass, so those lines are missing.",
+    "The highest average high in the table is 31.5 °C, in February. The lowest average low is 19.2 °C, in July. The wettest month by the precipitation column is January, at 365.2 mm, and the driest is July, at 50.5 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Nadi Airport, WMO 91680. The main international gateway, on Viti Levu's west side; not Suva and not a national average.",
+    "stationName": "Nadi Airport",
+    "stationId": "WMO 91680",
+    "period": "1991-2020",
+    "elevation": "22 m",
+    "latitude": "17|45|35|S",
+    "longitude": "177|26|41|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "31.4",
+        "low": "23.3",
+        "rain": "365.2",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "31.5",
+        "low": "23.3",
+        "rain": "335.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "31.3",
+        "low": "23.3",
+        "rain": "350.5",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "30.8",
+        "low": "22.6",
+        "rain": "187.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "29.7",
+        "low": "21.1",
+        "rain": "92.2",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "29",
+        "low": "20.1",
+        "rain": "57",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "28.5",
+        "low": "19.2",
+        "rain": "50.5",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "28.6",
+        "low": "19.4",
+        "rain": "64.7",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "29.2",
+        "low": "20.3",
+        "rain": "72.3",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "30.1",
+        "low": "21.3",
+        "rain": "87",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.8",
+        "low": "22.3",
+        "rain": "126.5",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "31.4",
+        "low": "23",
+        "rain": "210.2",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Nadi Airport (91680)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/Fiji/CSV/NadiAirport_91680.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type I, 240 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Fiji at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Fiji, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Fiji",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/fiji"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Fiji Dollar (FJD)",
+    "detail": "ISO 4217 lists the currency name Fiji Dollar and the code FJD for Fiji.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Pacific/Fiji",
+    "detail": "IANA's zone.tab and zone1970.tab each give Fiji one row, Pacific/Fiji. There is no second zone for the country in either file.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Fiji Ministry of Immigration",
+    "url": "https://www.immigration.gov.fj/",
+    "note": "The Ministry of Immigration site. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}

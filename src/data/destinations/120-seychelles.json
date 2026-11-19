@@ -1,0 +1,171 @@
+{
+  "order": 120,
+  "id": "seychelles",
+  "kind": "country",
+  "name": "Seychelles",
+  "countrySlug": "seychelles",
+  "countryName": "Seychelles",
+  "path": "/seychelles/",
+  "dek": "Seychelles International Airport, WMO 63980, on Mahé.",
+  "paragraphs": [
+    "The only station in the Seychelles submission is Seychelles International Airport, WMO 63980, height 3 m, on Mahé. The station is 4°40′S. No official driving-side or tipping page was opened on this pass, so those lines are missing, and the entry link is the official tourism site because immigration and foreign-ministry hosts did not return a usable page.",
+    "The highest average high in the table is 31.7 °C, in April. The lowest average low is 24.3 °C, in July. The wettest month by the precipitation column is January, at 426.6 mm, and the driest is July, at 79.9 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Seychelles International Airport, WMO 63980, on Mahé. The only Seychelles file in the collection.",
+    "stationName": "Seychelles International Airport",
+    "stationId": "WMO 63980",
+    "period": "1991-2020",
+    "elevation": "3 m",
+    "latitude": "04|40|14|S",
+    "longitude": "055|30|51|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "30.1",
+        "low": "24.6",
+        "rain": "426.6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "30.6",
+        "low": "25.3",
+        "rain": "250.8",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "31.3",
+        "low": "25.4",
+        "rain": "204.5",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "31.7",
+        "low": "25.6",
+        "rain": "196.3",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.9",
+        "low": "25.9",
+        "rain": "171.4",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "29.5",
+        "low": "25.1",
+        "rain": "121.8",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "28.7",
+        "low": "24.3",
+        "rain": "79.9",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "28.8",
+        "low": "24.4",
+        "rain": "114.9",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "29.4",
+        "low": "24.7",
+        "rain": "183.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "30.1",
+        "low": "24.9",
+        "rain": "191.2",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.4",
+        "low": "24.7",
+        "rain": "214.9",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.5",
+        "low": "24.6",
+        "rain": "298.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Seychelles International Airport (63980)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-1-WMO-Normals-9120/Seychelles/CSV/SeychellesIntlAirport_63980.csv",
+    "asOf": "2026-11-19"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type G, 240 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Seychelles at the voltage, frequency, and plug types in the figure. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Seychelles, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "CDC Travelers' Health, Seychelles",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/seychelles"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Seychelles Rupee (SCR)",
+    "detail": "ISO 4217 lists the currency name Seychelles Rupee and the code SCR for Seychelles.",
+    "asOf": "2026-11-19",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Indian/Mahe",
+    "detail": "IANA's zone.tab gives Seychelles one row, Indian/Mahe. zone1970.tab lists that zone on a row named Asia/Dubai, which it shares with the United Arab Emirates, Oman, Réunion, and the French Southern Territories. The backward file links Indian/Mahe to Asia/Dubai. The sheet prints the zone.tab name.",
+    "asOf": "2026-11-19",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-19"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-19"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Seychelles Tourism Board (Seychelles Travel)",
+    "url": "https://www.seychelles.travel/",
+    "note": "The official tourism website of the Seychelles. Requests to immigration and foreign-ministry hosts did not return a usable page on this pass. We do not restate a visa rule.",
+    "asOf": "2026-11-19"
+  }
+}
