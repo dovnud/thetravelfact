@@ -1,0 +1,185 @@
+{
+  "order": 123,
+  "id": "belgium",
+  "kind": "country",
+  "name": "Belgium",
+  "countrySlug": "belgium",
+  "countryName": "Belgium",
+  "path": "/belgium/",
+  "dek": "Uccle, WMO 06447, in the Brussels-Capital Region. Not the coast, not the Ardennes.",
+  "paragraphs": [
+    "The reference station is Uccle, WMO 06447, height 99 m, in the Brussels-Capital Region. The same NCEI folder has a Brussels National Airport file (WMO 06451); it was not averaged with Uccle. The coast at Ostend and the Ardennes uplands are not this table.",
+    "The highest average high in the table is 23.2 °C, in July. The lowest average low is 1.4 °C, in January. The wettest month by the precipitation column is December, at 87.4 mm, and the driest is April, at 46.7 mm. No month averages more than 90 mm, so the table describes a place where rain is spread across the year rather than a wet season."
+  ],
+  "climate": {
+    "caption": "Reference station: Uccle, WMO 06447, Brussels-Capital Region. Brussels National Airport (WMO 06451) is in the same collection and was not averaged with it.",
+    "stationName": "Uccle",
+    "stationId": "WMO 06447",
+    "period": "1991-2020",
+    "elevation": "99 m",
+    "latitude": "50|47|49|N",
+    "longitude": "004|21|29|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "6.1",
+        "low": "1.4",
+        "rain": "75.5",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "7.1",
+        "low": "1.5",
+        "rain": "65.1",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "10.9",
+        "low": "3.5",
+        "rain": "59.3",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "15.0",
+        "low": "6.0",
+        "rain": "46.7",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "18.4",
+        "low": "9.2",
+        "rain": "59.7",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "21.2",
+        "low": "12.0",
+        "rain": "70.8",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "23.2",
+        "low": "14.1",
+        "rain": "76.9",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "23.0",
+        "low": "13.9",
+        "rain": "86.5",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "19.5",
+        "low": "11.3",
+        "rain": "65.3",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "14.9",
+        "low": "8.1",
+        "rain": "67.8",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "9.9",
+        "low": "4.6",
+        "rain": "76.2",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "6.6",
+        "low": "2.1",
+        "rain": "87.4",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0.",
+    "sourceTitle": "WMO climate normals 1991-2020, Uccle (06447)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Belgium/CSV/UCCLE_06447.csv",
+    "asOf": "2026-11-20"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and E, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Belgium at 230 V and 50 Hz with plug types C and E. IEC's own note on Type E says the CEE 7/7 plug was developed to work with both Type E and Type F sockets. The live page did not return the list to a direct download, so the archive is the copy that was read.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 9.3.1 of Belgium's highway code (Royal Decree of 1 December 1975), in the consolidated text published by the Vias institute on codedelaroute.be, says every driver on the carriageway must keep as close as possible to its right-hand edge, except on squares or when following F13 and F15 lane signs, and must move back to the right as soon as circumstances allow. The same site announces a new road code for 2027; this line quotes the text in force when it was read.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "Code de la route, Arrêté royal du 1er décembre 1975, art. 9 (Vias institute)",
+    "sourceUrl": "https://www.codedelaroute.be/fr/reglementation/1975120109~hra8v386pu"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Service included; 5–10% is acceptable, not mandatory",
+    "detail": "visit.brussels, the Brussels tourism agency's site, says that at restaurants \"service is always included\", that it is nevertheless customary to tip in restaurants or bars, and that \"as a general rule, tipping between 5 and 10% is acceptable. But, again, this is not mandatory.\" The page is written for Brussels; no national Belgian tourism page on tipping was opened.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "visit.brussels, money, currency and change",
+    "sourceUrl": "https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/money-currency-and-change"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Belgium, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "CDC Travelers' Health, Belgium",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/belgium"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives Belgium the currency name Euro and the code EUR.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Brussels",
+    "detail": "IANA's zone.tab gives Belgium one row, Europe/Brussels. zone1970.tab lists that zone on a row it shares with Luxembourg and the Netherlands, and the backward file links Europe/Amsterdam and Europe/Luxembourg to Europe/Brussels. The sheet prints the zone.tab name.",
+    "asOf": "2026-11-20",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-20"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-20"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-20"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "FPS Foreign Affairs, Foreign Trade and Development Cooperation",
+    "url": "https://diplomatie.belgium.be/en/travel-belgium",
+    "note": "The Belgian foreign ministry's page on travelling to Belgium. We do not restate a visa rule.",
+    "asOf": "2026-11-20"
+  }
+}

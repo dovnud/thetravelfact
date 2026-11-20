@@ -984,4 +984,20 @@ export const photos: Record<string, PhotoCredit> = {
     licenseUrl: "https://creativecommons.org/licenses/by/2.0",
     page: "https://commons.wikimedia.org/wiki/File:Le_Morne_Peninsula_in_Mauritius_(53697779236).jpg",
   },
+  "belgium": {
+    src: "/photos/belgium.jpg",
+    alt: "Guildhouses on the Grand-Place, Brussels",
+    artist: "Diego Delso",
+    license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Edificios_en_la_Grand-Place,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_12.jpg",
+  },
+  "israel": {
+    src: "/photos/israel.jpg",
+    alt: "The Old City walls and the Tower of David by Jaffa Gate, Jerusalem",
+    artist: "Jorge Láscar",
+    license: "CC BY 2.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+    page: "https://commons.wikimedia.org/wiki/File:Jaffa_Gate_and_the_impressive_16th_century_Ottoman_city_walls,_Jerusalem_Old_City_(10805924356).jpg",
+  },
 };

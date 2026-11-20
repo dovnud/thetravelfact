@@ -128,7 +128,14 @@
     "sourceTitle": "Forskrift om kjørende og gående trafikk (trafikkregler) § 5, Lovdata",
     "sourceUrl": "https://lovdata.no/dokument/SF/forskrift/1986-03-21-747/%C2%A75"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not common, except bars and restaurants; usually 5–15%",
+    "detail": "Visit Norway, Norway's official travel guide, says that for the most part tipping is not common in Norway, with the exception of bars and restaurants, where locals tip when they are happy with the service or food. It says there is no fixed rule of thumb, but tips tend to stay within 5–15% of the bill, and that tipping is entirely up to you.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "Visit Norway, currency and prices",
+    "sourceUrl": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/currency-and-prices/"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

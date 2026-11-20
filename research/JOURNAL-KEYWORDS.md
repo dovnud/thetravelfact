@@ -184,3 +184,44 @@ No data: daylight hours in iceland in winter, when does the sun set in iceland.
 Why: informational, answerable from the U.S. Naval Observatory's one-day Sun data (API, 2026 dates, Reykjavík WMO 04030 and Akureyri WMO 04063 coordinates) and its rise/set/twilight definitions page, the Icelandic Met Office tourist note, and the Reykjavík table on the Iceland sheet. No cannibalization: no sheet or story covers day length. "best time to visit mexico" (3,600/KD0) and "best time to visit italy" (14,800/KD0) were not used for stories, because the Mexico and Italy sheets' new best-time sections target them; "italy weather by month" and "mexico city weather by month" are also sheet queries. "tipping in mexico" (1,300/KD0) was not used: Profeco says only that tipping is voluntary and gives no percent, which is too thin for a story. Red team: no claim that the sun stays up all night anywhere in Iceland (it sets every night at both points in 2026); no Arctic Circle or Grímsey claim; no aurora odds; dates are 2026 only.
 
 Next candidates: "tipping in europe" (480/KD1) + "do you tip in europe" (390/KD0) as a story built from the sheets' sourced tipping lines (Italy, Ireland and others), linking each sheet; Mexico city sheets' best-time sections (Cancún, Cabo, Puerto Vallarta).
+
+
+## 20 November 2026
+
+Pulled 2026-11-20 06:36 PT, DataForSEO Labs keyword_overview (live), United States (2840), English, one call, 24 keywords, cost $0.01476.
+
+| Keyword | Volume | KD | Intent |
+| --- | --- | --- | --- |
+| saudi arabia currency | 22200 | 2 | informational |
+| israel currency | 12100 | 17 | informational |
+| denmark currency | 9900 | 4 | informational |
+| malta currency | 2400 | 0 | informational |
+| best time to visit malta | 880 | 0 | informational |
+| best time to visit israel | 720 | 0 | informational |
+| best time to visit denmark | 480 | 4 | informational |
+| tipping in europe | 480 | 3 | informational |
+| best time to visit honduras | 390 | 0 | informational |
+| denmark plug type | 390 | 0 | transactional |
+| do you tip in europe | 390 | 0 | informational |
+| israel plug type | 320 | 0 | transactional |
+| tipping in denmark | 260 | 0 | informational |
+| saudi arabia plug type | 210 | 0 | transactional |
+| best time to visit saudi arabia | 140 | 0 | informational |
+| malta plug type | 110 | 1 | transactional |
+| tipping by country | 90 | 4 | informational |
+| tipping in malta | 90 | 0 | informational |
+| tipping in israel | 50 | 0 | informational |
+| how much to tip in europe | 30 | 5 | informational |
+| tipping in europe restaurants | 30 | 0 | informational |
+| tipping in saudi arabia | 20 | 0 | informational |
+| tipping customs in europe | 10 |  | informational |
+
+### Pick, 20 November 2026
+
+8. **tipping in europe** — 480, KD 3 (pulled 2026-11-20; it read KD 1 on 19 November). Cluster: do you tip in europe (390, KD 0), how much to tip in europe (30, KD 5), tipping in europe restaurants (30, KD 0), tipping customs in europe (10). URL: /journal/tipping-in-europe/.
+
+Why: informational, answerable entirely from the official tourism-office tipping lines already on 17 European country sheets plus three new ones added in this batch (Norway from Visit Norway, Finland from Visit Finland, Belgium from visit.brussels) and the Vienna Tourist Board line added to the Vienna sheet. No cannibalization: there is no tipping list page, no other story about tipping, and the per-country queries ("tipping in italy" 1,900, "tipping in denmark" 260 and the rest) stay with the sheets, each of which the story links at #tipping. "tipping by country" (90, KD 4) is a list-page query and was not targeted. Red team: no percentage that is not on an official page; no figure above 15% claimed; Germany's and Switzerland's conflicting official pages named, not averaged; Iceland, national Austria, Ireland restaurants and Denmark named as gaps; no card-terminal claim beyond Holland.com and Visit Hungary.
+
+Country picks: Israel (same pull: best time 720, plug 320, currency 12,100) and Belgium (October candidate pull in research/data/destinations_candidates_all.csv: best time 480, plug 170, tipping 140, travel demand 8,700). Denmark (480/390/260) and Saint Lucia (9,450 weather-by-month in the October candidate pull) ranked higher on travel intent than Belgium but their NCEI 1991–2020 files have no daily maximum/minimum temperature rows (Denmark's Landbohøjskolen 06186 is precipitation only; Roskilde 06170 has mean temperature only; Saint Lucia's Hewanorra 78948 is precipitation only), so they were skipped. Saudi Arabia's demand (23,240) is almost all "saudi riyal" currency queries (22,200), with "best time to visit saudi arabia" at 140; skipped for now. Malta (880) has no NCEI folder.
+
+Next candidates: "tipping in denmark" (260, KD 0) only once Denmark has a sheet; Israel's best-time section ("best time to visit israel" 720, KD 0) from the Jerusalem table; Belgium best-time section (480 in the October pull).

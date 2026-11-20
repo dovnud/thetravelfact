@@ -1690,5 +1690,57 @@
    "sourceTitle": "GOV.UK FCDO travel advice, Mauritius: Getting help",
    "sourceUrl": "https://www.gov.uk/foreign-travel-advice/mauritius/getting-help"
   }
+ },
+ "belgium": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Belgium is Level 2, \"Exercise Increased Caution\". The State Department's feed dates this advisory 23 July 2026. Its summary opens: \"Exercise increased caution in Belgium due to crime, terrorism, and unrest.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-20",
+   "sourceTitle": "U.S. Department of State, Belgium Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bel.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis B",
+   "detail": "CDC says to consider hepatitis A vaccine for most travelers, and recommends it for higher-risk activities such as rural travel or eating street food. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are not commonly found in Belgium. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-20",
+   "sourceTitle": "CDC Travelers' Health, Belgium",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/belgium"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "112 (all three)",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Belgium, under Emergency services, lists: 112 for ambulance, fire, and police. It also points to the official 112 BE app.",
+   "asOf": "2026-11-20",
+   "sourceTitle": "GOV.UK FCDO travel advice, Belgium: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/belgium/getting-help"
+  }
+ },
+ "israel": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 3: Reconsider Travel",
+   "detail": "The U.S. Department of State's travel advisory for Israel is Level 3, \"Reconsider Travel\". The State Department's feed dates this advisory 23 October 2026. Its summary opens: \"Reconsider travel to Israel due to terrorism and unrest.\" The advisory says some areas have increased risk and lists places U.S. government employees are restricted from, including areas within 11.3 km (7 miles) of the Gaza Strip; read the full advisory before you go. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-20",
+   "sourceTitle": "U.S. Department of State, Israel Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, Polio",
+   "detail": "CDC's page covers Israel, the West Bank and Gaza. Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60. CDC says poliovirus has been identified there in the past year, and that adults who completed a childhood polio series may receive a single lifetime booster dose of inactivated polio vaccine. Typhoid vaccine is recommended for travelers to the West Bank and Gaza; CDC says other travelers are likely at low risk. CDC does not recommend yellow fever vaccine; the page lists the entry rule separately. Dogs infected with rabies are commonly found in Israel, the West Bank and Gaza. Travel health notices on the page: Global Polio (Level 2, September 23, 2026), Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-20",
+   "sourceTitle": "CDC Travelers' Health, Israel, the West Bank and Gaza",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/israel"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Police 100 · Ambulance 101 · Fire 102",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Israel, under Emergency services, lists: ambulance 101; fire 102; police 100.",
+   "asOf": "2026-11-20",
+   "sourceTitle": "GOV.UK FCDO travel advice, Israel: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/israel/getting-help"
+  }
  }
 }
