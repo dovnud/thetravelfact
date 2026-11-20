@@ -4,10 +4,11 @@ slug: countries-that-use-the-euro
 kicker: "Money"
 dek: "The euro is the official currency of 21 of the EU's 27 countries, and Bulgaria is the newest member. Prague, Budapest, Kraków, Zürich, London and Reykjavík are not on the euro."
 published: "2026-11-15"
-updated: "2026-11-19"
+updated: "2026-11-20"
 photo: prague
 related:
   - /austria/
+  - /belgium/
   - /croatia/
   - /france/
   - /germany/
@@ -55,7 +56,7 @@ The ECB's table gives the year each country adopted the euro. The euro launched 
 | Country | Adopted the euro | Our sheet |
 |---|---|---|
 | Austria | 1999 (cash 2002) | [Austria](/austria/#money), [Vienna](/austria/vienna/) |
-| Belgium | 1999 (cash 2002) | – |
+| Belgium | 1999 (cash 2002) | [Belgium](/belgium/#money) |
 | Bulgaria | 2026 | – |
 | Croatia | 2023 | [Croatia](/croatia/#money), [Dubrovnik](/croatia/dubrovnik/) |
 | Cyprus | 2008 | – |
@@ -76,7 +77,7 @@ The ECB's table gives the year each country adopted the euro. The euro launched 
 | Slovenia | 2007 | – |
 | Spain | 1999 (cash 2002) | [Spain](/spain/#money), [Madrid](/spain/madrid/), [Barcelona](/spain/barcelona/), [Seville](/spain/seville/), [Mallorca](/spain/mallorca/), [Valencia](/spain/valencia/) |
 
-Two of those dates matter more than the rest to anyone using an old guidebook. **Croatia** switched in 2023, so anything printed before that will tell you to bring kuna. **Bulgaria** is the newest member, listed by the ECB as using the euro since 2026, and the EU page updated on 12 January 2026 counts it among the 21. Each of our eleven euro-country sheets prints the ISO 4217 line "Euro (EUR)".
+Two of those dates matter more than the rest to anyone using an old guidebook. **Croatia** switched in 2023, so anything printed before that will tell you to bring kuna. **Bulgaria** is the newest member, listed by the ECB as using the euro since 2026, and the EU page updated on 12 January 2026 counts it among the 21. Each of our twelve euro-country sheets prints the ISO 4217 line "Euro (EUR)".
 
 ## The six EU countries that do not use it
 

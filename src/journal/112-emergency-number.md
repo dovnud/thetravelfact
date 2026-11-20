@@ -4,7 +4,7 @@ slug: 112-emergency-number
 kicker: "Safety"
 dek: "112 reaches the emergency services everywhere in the EU, and in Switzerland, Turkey and India too. In Seoul it is the police only, in Indonesia it is listed for fire, and in Mexico, Japan and Australia you need a different number."
 published: "2026-11-16"
-updated: "2026-11-19"
+updated: "2026-11-20"
 photo: netherlands
 related:
   - /netherlands/
@@ -20,6 +20,8 @@ related:
   - /ireland/
   - /finland/
   - /sweden/
+  - /belgium/
+  - /israel/
   - /norway/
   - /turkey/
   - /india/
@@ -82,6 +84,7 @@ All of these are EU members, so the Commission's "everywhere in the EU" applies 
 | Ireland | 112 or 999 for ambulance, fire and police | [Ireland](/ireland/#emergency), [Dublin](/ireland/dublin/) |
 | Finland | 112 for ambulance, fire and police | [Finland](/finland/#emergency) |
 | Sweden | 112 for ambulance, fire and police | [Sweden](/sweden/#emergency) |
+| Belgium | 112 for ambulance, fire and police | [Belgium](/belgium/#emergency) |
 | France | 112 for all three; also ambulance 15, fire 18, police 17 | [France](/france/#emergency), [Paris](/france/paris/), [Nice](/france/nice/), [Lyon](/france/lyon/) |
 | Italy | Police 112; ambulance 118; fire 115 | [Italy](/italy/#emergency), [Rome](/italy/rome/), [Florence](/italy/florence/), [Venice](/italy/venice/), [Milan](/italy/milan/), [Naples](/italy/naples/) |
 | Germany | Ambulance 112; fire 112; police 110 | [Germany](/germany/#emergency), [Berlin](/germany/berlin/), [Munich](/germany/munich/), [Frankfurt](/germany/frankfurt/) |
@@ -125,7 +128,7 @@ Everywhere else on our sheets, the FCDO's list does not include 112. These are t
 - **000:** [Australia](/australia/#emergency), for all three. **111:** [New Zealand](/new-zealand/#emergency), for all three.
 - **110 and 119:** [Japan](/japan/#emergency): police 110, ambulance and fire 119.
 - **191:** [Thailand](/thailand/#emergency), for all three, with ambulance also on 1669, fire on 199 and tourist police on 1155.
-- **Three different numbers, none of them 112 or 911:** [Singapore](/singapore/#emergency) (police 999, ambulance and fire 995), [United Arab Emirates](/united-arab-emirates/dubai/#emergency) (police 999, ambulance 998, fire 997), [Morocco](/morocco/#emergency) (police 190, ambulance and fire 150), [Egypt](/egypt/#emergency) (police 122, ambulance 123, fire 180, tourist police 126), [Jamaica](/jamaica/#emergency) (police 119, ambulance and fire 110), [Colombia](/colombia/#emergency) (police and ambulance 123, fire 119), [Peru](/peru/#emergency) (police 105, ambulance 106, fire 116) and [Chile](/chile/#emergency) (police 133, ambulance 131, fire 132).
+- **Three different numbers, none of them 112 or 911:** [Singapore](/singapore/#emergency) (police 999, ambulance and fire 995), [United Arab Emirates](/united-arab-emirates/dubai/#emergency) (police 999, ambulance 998, fire 997), [Morocco](/morocco/#emergency) (police 190, ambulance and fire 150), [Egypt](/egypt/#emergency) (police 122, ambulance 123, fire 180, tourist police 126), [Jamaica](/jamaica/#emergency) (police 119, ambulance and fire 110), [Colombia](/colombia/#emergency) (police and ambulance 123, fire 119), [Peru](/peru/#emergency) (police 105, ambulance 106, fire 116), [Chile](/chile/#emergency) (police 133, ambulance 131, fire 132) and [Israel](/israel/#emergency) (police 100, ambulance 101, fire 102).
 
 Notice the collisions. 119 is the police in Jamaica and the ambulance in Japan and South Korea. 999 is the police in Singapore and Dubai and the ambulance in Poland. 110 is the police in Japan and Indonesia and an ambulance in Jamaica. A number you memorised on one trip can be the wrong service on the next.
 

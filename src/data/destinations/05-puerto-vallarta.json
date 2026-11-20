@@ -180,5 +180,66 @@
     "publisher": "Instituto Nacional de Migración",
     "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
     "note": "This is the Mexican government's page on who must apply for a visa. We do not copy that list."
+  },
+  "bestTime": {
+    "intro": "Month by month for Puerto Vallarta, from the El Cuale station 14339 table above (1991–2020, 53 m) and the U.S. National Hurricane Center's eastern Pacific season window. The year splits cleanly: November to May print 30.8 mm or less a month, and June to October 135.6 mm or more, with July, August and September each above 390 mm. The rule line is our month-list test, not a recommendation, and the hurricane dates are official season dates, not a forecast; NHC says tropical cyclones occasionally occur before and after them.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 26.7 °C, low 13.7 °C, 30.8 mm. The lowest average high and the lowest average low in the El Cuale table. Passes our month-list rule (average high 20–30 °C, under 100 mm). Outside the eastern Pacific hurricane season (15 May to 30 November)."
+      },
+      {
+        "month": "February",
+        "note": "Average high 26.9 °C, low 13.9 °C, 22.6 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm). Outside the eastern Pacific hurricane season (15 May to 30 November)."
+      },
+      {
+        "month": "March",
+        "note": "Average high 27.3 °C, low 14.2 °C, 11.8 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm). Outside the eastern Pacific hurricane season (15 May to 30 November)."
+      },
+      {
+        "month": "April",
+        "note": "Average high 28.3 °C, low 15.5 °C, 3.8 mm. The driest month in the El Cuale table. Passes our month-list rule (average high 20–30 °C, under 100 mm). Outside the eastern Pacific hurricane season (15 May to 30 November)."
+      },
+      {
+        "month": "May",
+        "note": "Average high 29.6 °C, low 18.2 °C, 13.3 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm). The eastern Pacific hurricane season opens on 15 May."
+      },
+      {
+        "month": "June",
+        "note": "Average high 30.3 °C, low 21.6 °C, 243.3 mm. Tied for the highest average low in the El Cuale table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the eastern Pacific hurricane season (15 May to 30 November). NHC says the first named storm typically forms in early to mid-June and the first hurricane in late June."
+      },
+      {
+        "month": "July",
+        "note": "Average high 31.1 °C, low 21.6 °C, 392.6 mm. Tied for the highest average low in the El Cuale table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the eastern Pacific hurricane season. NHC says most eastern Pacific tropical cyclones occur between late June and early October."
+      },
+      {
+        "month": "August",
+        "note": "Average high 31.5 °C, low 21.6 °C, 427.3 mm. The highest average high and tied for the highest average low in the El Cuale table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the eastern Pacific hurricane season. NHC notes a peak in late August, less pronounced than the Atlantic peak."
+      },
+      {
+        "month": "September",
+        "note": "Average high 31.2 °C, low 21.6 °C, 438 mm. Tied for the highest average low and the wettest month in the El Cuale table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the eastern Pacific hurricane season, within NHC's late June to early October main window."
+      },
+      {
+        "month": "October",
+        "note": "Average high 31.3 °C, low 20.7 °C, 135.6 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the eastern Pacific hurricane season; NHC's main window runs to early October."
+      },
+      {
+        "month": "November",
+        "note": "Average high 29.9 °C, low 17.6 °C, 30.2 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm). The eastern Pacific hurricane season ends on 30 November."
+      },
+      {
+        "month": "December",
+        "note": "Average high 27.4 °C, low 14.9 °C, 27.9 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm). Outside the eastern Pacific hurricane season (15 May to 30 November)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "National Hurricane Center, Tropical Cyclone Climatology",
+        "sourceUrl": "https://www.nhc.noaa.gov/climo/",
+        "asOf": "2026-11-20"
+      }
+    ],
+    "asOf": "2026-11-20"
   }
 }

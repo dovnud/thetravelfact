@@ -128,7 +128,14 @@
     "sourceTitle": "Visit Finland, driving in Finland",
     "sourceUrl": "https://www.visitfinland.com/en/articles/guide-to-drive-in-finland/"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not expected; service is included",
+    "detail": "Visit Finland, the national tourism site, answers \"Do I need to tip in Finland?\" with: \"Nope, tipping is not expected. Service is always included in the bill, whether you’re having coffee or a three-course meal.\" It adds that a small tip is appreciated for service you especially liked, and that at most people round up the bill or leave a couple of euros for great service.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "Visit Finland, currency, tipping and paying in Finland",
+    "sourceUrl": "https://www.visitfinland.com/en/practical-tips/currency-tipping-and-paying-in-finland/"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

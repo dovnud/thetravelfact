@@ -1,0 +1,185 @@
+{
+  "order": 124,
+  "id": "israel",
+  "kind": "country",
+  "name": "Israel",
+  "countrySlug": "israel",
+  "countryName": "Israel",
+  "path": "/israel/",
+  "dek": "Jerusalem, WMO 40183, 810 m. Not the coast, not Eilat.",
+  "paragraphs": [
+    "The reference station is Jerusalem, WMO 40183, height 810 m, the file the NOAA NCEI collection files under Israel. The same folder has a Tel Aviv coast file with no WMO number and an Eilat file (WMO 40199); neither was averaged with Jerusalem. The Mediterranean coast and the Red Sea at Eilat are not this table.",
+    "The highest average high in the table is 30.3 °C, in August. The lowest average low is 6.7 °C, in January. The wettest month by the precipitation column is January, at 136.8 mm. July and August both print 0.0 mm, and June 0.3 mm: the table is a wet winter and a dry summer."
+  ],
+  "climate": {
+    "caption": "Reference station: Jerusalem, WMO 40183, 810 m. Tel Aviv coast (no WMO number) and Eilat (WMO 40199) are in the same collection and were not averaged with it.",
+    "stationName": "Jerusalem",
+    "stationId": "WMO 40183",
+    "period": "1991-2020",
+    "elevation": "810 m",
+    "latitude": "31|46|52|N",
+    "longitude": "035|13|19|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "12.7",
+        "low": "6.7",
+        "rain": "136.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "14.0",
+        "low": "7.3",
+        "rain": "117.9",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "17.4",
+        "low": "9.5",
+        "rain": "67.2",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "22.0",
+        "low": "12.5",
+        "rain": "21.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "26.2",
+        "low": "16.2",
+        "rain": "7.1",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "28.6",
+        "low": "18.3",
+        "rain": "0.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "30.0",
+        "low": "20.0",
+        "rain": "0.0",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30.3",
+        "low": "20.2",
+        "rain": "0.0",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "28.9",
+        "low": "19.1",
+        "rain": "0.7",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "25.9",
+        "low": "17.3",
+        "rain": "10.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "19.9",
+        "low": "12.9",
+        "rain": "51.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "14.9",
+        "low": "8.8",
+        "rain": "112.3",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3.",
+    "sourceTitle": "WMO climate normals 1991-2020, Jerusalem (40183)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Israel/CSV/JERUSALEM_40183.csv",
+    "asOf": "2026-11-20"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type H, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Israel at 230 V and 50 Hz with plug type H. IEC's note on Type H says it is unique to Israel, that the flat-pin version is being phased out in favour of a round-pinned version, and that Type H sockets are shaped to accept the round-pinned Type H plug as well as Type C plugs. The live page did not return the list to a direct download, so the archive is the copy that was read.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Go Israel, the Israel Ministry of Tourism's site, says: \"Israel drives on the right hand side of the road.\" The same page gives speed limits of 30 to 50 km/h in cities, 80–90 on freeways, 110 on highways and 120 on Highway 6, says seat belts are mandatory, and says most rental companies do not offer insurance for the areas of the West Bank under the control of the Palestinian Authority.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "Go Israel (Israel Ministry of Tourism), transportation",
+    "sourceUrl": "https://www.goisrael.com/Posts/TouristInfo/Transportation"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Customary at sit-down service, usually 10–15%",
+    "detail": "The Tel Aviv-Yafo Municipality's visitor site says tipping \"is customary in sit-down waiter services and usually means adding 10-15% to your bill.\" It says taxi drivers do not expect tips but will appreciate rounding up the fare, and that 10–20 NIS per guide is considered fair for guided tours. The page is the city's; the Ministry of Tourism page on money returned no text when it was read.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "Visit Tel Aviv-Yafo (Tel Aviv-Yafo Municipality), money",
+    "sourceUrl": "https://visit.tel-aviv.gov.il/info/money"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Israel, the West Bank and Gaza, last reviewed September 23, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "CDC Travelers' Health, Israel, the West Bank and Gaza",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/israel"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "New Israeli Sheqel (ILS)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives Israel the currency name New Israeli Sheqel and the code ILS.",
+    "asOf": "2026-11-20",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Jerusalem",
+    "detail": "IANA's zone.tab and zone1970.tab each give Israel one row, Asia/Jerusalem. The backward file links the older names Asia/Tel_Aviv and Israel to Asia/Jerusalem.",
+    "asOf": "2026-11-20",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-20"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-20"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-20"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Population and Immigration Authority (PIBA)",
+    "url": "https://israel-entry.piba.gov.il/",
+    "note": "The Population and Immigration Authority's entry site, including the electronic travel authorization (ETA-IL). We do not restate a visa rule.",
+    "asOf": "2026-11-20"
+  }
+}

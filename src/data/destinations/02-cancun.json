@@ -180,5 +180,66 @@
     "publisher": "Instituto Nacional de Migración",
     "url": "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
     "note": "This is the Mexican government's page on who must apply for a visa. We do not copy that list."
+  },
+  "bestTime": {
+    "intro": "Month by month for Cancún, from the station 23155 table above (1991–2020, 9 m) and the U.S. National Hurricane Center's Atlantic season window. Every month in the table is warm: the average high never drops below 28.7 °C, so the months turn on rain, heat and the hurricane season rather than on temperature. The rule line is our month-list test, not a recommendation, and the hurricane dates are official season dates, not a forecast; NHC says activity sometimes occurs before and after them.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 28.7 °C, low 20 °C, 103.8 mm. The lowest average high and the lowest average low in the Cancún table. Fails our month-list rule on precipitation (100 mm or more). Outside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "February",
+        "note": "Average high 30.1 °C, low 20.6 °C, 59.3 mm. Fails our month-list rule on heat: the average high is above 30 °C. Outside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "March",
+        "note": "Average high 31.5 °C, low 21.4 °C, 38.7 mm. The driest month in the Cancún table. Fails our month-list rule on heat: the average high is above 30 °C. Outside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "April",
+        "note": "Average high 33.1 °C, low 22.9 °C, 42.3 mm. Fails our month-list rule on heat: the average high is above 30 °C. Outside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "May",
+        "note": "Average high 34.2 °C, low 24.2 °C, 87 mm. Fails our month-list rule on heat: the average high is above 30 °C. Outside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "June",
+        "note": "Average high 34 °C, low 24.9 °C, 184.4 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). The Atlantic hurricane season opens on 1 June. NHC says the first named storm typically forms in mid to late June."
+      },
+      {
+        "month": "July",
+        "note": "Average high 34.8 °C, low 25 °C, 67 mm. Tied for the highest average low in the Cancún table. Fails our month-list rule on heat: the average high is above 30 °C. Inside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "August",
+        "note": "Average high 35.1 °C, low 25 °C, 102.2 mm. The highest average high and tied for the highest average low in the Cancún table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season. NHC says most Atlantic activity falls between mid-August and mid-October, and the first hurricane tends to form in early to mid-August."
+      },
+      {
+        "month": "September",
+        "note": "Average high 34.2 °C, low 24.6 °C, 181.5 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season. NHC puts the peak of the season at 10 September."
+      },
+      {
+        "month": "October",
+        "note": "Average high 32.2 °C, low 23.7 °C, 277.1 mm. The wettest month in the Cancún table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season; NHC's mid-August to mid-October main window runs into this month."
+      },
+      {
+        "month": "November",
+        "note": "Average high 30.3 °C, low 22.3 °C, 131.4 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). The Atlantic hurricane season ends on 30 November."
+      },
+      {
+        "month": "December",
+        "note": "Average high 29.4 °C, low 21 °C, 96.6 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm). Outside the Atlantic hurricane season (1 June to 30 November)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "National Hurricane Center, Tropical Cyclone Climatology",
+        "sourceUrl": "https://www.nhc.noaa.gov/climo/",
+        "asOf": "2026-11-20"
+      }
+    ],
+    "asOf": "2026-11-20"
   }
 }

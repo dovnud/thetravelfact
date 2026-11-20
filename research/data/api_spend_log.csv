@@ -54,3 +54,4 @@ endpoint,cost,note,local_time,utc_time,status_code
 /serp/google/organic/live/advanced,0.002,serp advanced q=airline baggage allowance,2026-11-15T08:38:44-08:00,2026-11-15T16:38:44+00:00,20000
 /dataforseo_labs/google/keyword_overview/live,0.09408,keyword_overview batch 1 n=700,2026-11-15T08:41:52-08:00,2026-11-15T16:41:52+00:00,20000
 /dataforseo_labs/google/keyword_overview/live,0.07056,keyword_overview batch 2 n=500,2026-11-15T08:42:19-08:00,2026-11-15T16:42:19+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.01476,keyword_overview n=24 (country picks + tipping in europe cluster),2026-11-20T06:36:00-08:00,2026-11-20T14:36:00+00:00,20000
