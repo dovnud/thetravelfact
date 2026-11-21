@@ -1000,4 +1000,20 @@ export const photos: Record<string, PhotoCredit> = {
     licenseUrl: "https://creativecommons.org/licenses/by/2.0",
     page: "https://commons.wikimedia.org/wiki/File:Jaffa_Gate_and_the_impressive_16th_century_Ottoman_city_walls,_Jerusalem_Old_City_(10805924356).jpg",
   },
+  "french-polynesia": {
+    src: "/photos/french-polynesia.jpg",
+    alt: "Mount Otemanu above the lagoon and overwater bungalows, Bora Bora",
+    artist: "Borabora.jpg: User:Taka-0905; derivative work: Marsilio",
+    license: "Public domain",
+    licenseUrl: "https://commons.wikimedia.org/wiki/File:Borabora3.jpg",
+    page: "https://commons.wikimedia.org/wiki/File:Borabora3.jpg",
+  },
+  "montenegro": {
+    src: "/photos/montenegro.jpg",
+    alt: "The Bay of Kotor and Kotor old town",
+    artist: "Jaakko Luttinen",
+    license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:View_of_Kotor_bay_and_old_town.jpg",
+  },
 };

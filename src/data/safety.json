@@ -1742,5 +1742,67 @@
    "sourceTitle": "GOV.UK FCDO travel advice, Israel: Getting help",
    "sourceUrl": "https://www.gov.uk/foreign-travel-advice/israel/getting-help"
   }
+ },
+ "french-polynesia": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for French Polynesia is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 2 December 2024. Its summary opens: \"Exercise normal precaution in French Polynesia.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-21",
+   "sourceTitle": "U.S. Department of State, French Polynesia Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pyf.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC says to consider typhoid vaccine for travel to areas with poor sanitation, stays of a month or more, or visits to friends or relatives. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are not commonly found in French Polynesia. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-21",
+   "sourceTitle": "CDC Travelers' Health, French Polynesia",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/french-polynesia"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Ambulance 15 · Fire 18 · Police 17",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for French Polynesia, under Emergency services, lists: ambulance 15 (or 4048 5906 from a landline); fire 18; police 17. Tahiti Tourisme's FAQ lists the same 15, 17 and 18, and adds 16 for sea rescue.",
+   "asOf": "2026-11-21",
+   "sources": [
+    {
+     "sourceTitle": "GOV.UK FCDO travel advice, French Polynesia: Getting help",
+     "sourceUrl": "https://www.gov.uk/foreign-travel-advice/french-polynesia/getting-help",
+     "asOf": "2026-11-21"
+    },
+    {
+     "sourceTitle": "Tahiti Tourisme, Frequently Asked Questions",
+     "sourceUrl": "https://www.tahititourisme.com/frequently-asked-questions-faq/",
+     "asOf": "2026-11-21"
+    }
+   ]
+  }
+ },
+ "montenegro": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Montenegro is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 27 August 2026. Its summary opens: \"Exercise normal precaution in Montenegro.\" Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-21",
+   "sourceTitle": "U.S. Department of State, Montenegro Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mne.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are not commonly found in Montenegro. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-21",
+   "sourceTitle": "CDC Travelers' Health, Montenegro",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/montenegro"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "112",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Montenegro, under Emergency services in Montenegro, lists one telephone number: 112. It does not split ambulance, fire and police.",
+   "asOf": "2026-11-21",
+   "sourceTitle": "GOV.UK FCDO travel advice, Montenegro: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/montenegro/getting-help"
+  }
  }
 }

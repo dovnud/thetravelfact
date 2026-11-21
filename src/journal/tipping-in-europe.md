@@ -2,9 +2,9 @@
 title: "Tipping in Europe: what each country's own tourism office actually says"
 slug: tipping-in-europe
 kicker: "Money"
-dek: "Do you tip in Europe? Usually a little, rarely 20%. We read the official tourism pages for 20 European countries on our sheets: most say service is included or a tip is optional, and the figures they do give run from rounding up to 15%."
+dek: "Do you tip in Europe? Usually a little, rarely 20%. We read the official tourism pages for 21 European countries on our sheets: most say service is included or a tip is optional, and the figures they do give run from rounding up to 15%."
 published: "2026-11-20"
-updated: "2026-11-20"
+updated: "2026-11-21"
 photo: belgium
 feature: true
 related:
@@ -19,7 +19,9 @@ related:
   - /belgium/
   - /greece/
   - /switzerland/
+  - /austria/
   - /austria/vienna/
+  - /iceland/
   - /czechia/
   - /hungary/
   - /poland/
@@ -91,15 +93,21 @@ sources:
   - title: "wien.info (Vienna Tourist Board), money needs"
     url: "https://www.wien.info/en/travel-info/tourist-info/money-needs-352200"
     asOf: "2026-11-20"
+  - title: "ADVANTAGE AUSTRIA (Austrian Economic Chamber), travel tips"
+    url: "https://www.advantageaustria.org/kp/zentral/business-guide/reisen-nach-oesterreich/gut-zu-wissen/reisetipps/reisetipps.en.html"
+    asOf: "2026-11-21"
+  - title: "Visit Reykjavík, currency, credit cards and banks"
+    url: "https://visitreykjavik.is/currency-credit-cards-and-banks"
+    asOf: "2026-11-21"
 ---
 
-**Short answer:** yes, people tip in Europe, but not the way they do in the United States, and in many countries nobody expects you to. We read the official tourism page for each of 20 European countries on our sheets. Not one of them calls a tip mandatory. The figures they do give stop at **15%**, and most sit between **5% and 10%**. In the Nordic countries the guidance is closer to "round up, or don't". Several pages say service is already in the bill, so the first thing to do at any European table is read it.
+**Short answer:** yes, people tip in Europe, but not the way they do in the United States, and in many countries nobody expects you to. We read the official tourism page for each of 21 European countries on our sheets. Not one of them calls a tip mandatory. The figures they do give stop at **15%**, and most sit between **5% and 10%**. In the Nordic countries the guidance is closer to "round up, or don't". Several pages say service is already in the bill, so the first thing to do at any European table is read it.
 
 That is the whole answer for most trips. The rest of this story is the detail, country by country, because "Europe" covers both France, where the official page says a 15% service charge is almost always already on the bill, and Finland, where it says tipping is not expected at all.
 
 ## How we checked
 
-Every line below comes from the tipping line on one of our destination sheets, and each of those lines quotes a single official source: the country's national tourism body, or in two cases a city's own tourist board. We did not use tipping calculators, card-company guides or travel forums, because none of them is the place that sets or describes local custom. Most of these pages were read on 15 November 2026, Sweden's on 19 November, and Norway, Finland, Brussels and Vienna on 20 November 2026.
+Every line below comes from the tipping line on one of our destination sheets, and each of those lines quotes a single official source: the country's national tourism body, or in three cases a city's own tourism office (Brussels, Vienna and Reykjavík). Austria's national line is from ADVANTAGE AUSTRIA, the Austrian Economic Chamber's trade-promotion body. We did not use tipping calculators, card-company guides or travel forums, because none of them is the place that sets or describes local custom. Most of these pages were read on 15 November 2026, Sweden's on 19 November, Norway, Finland, Brussels and Vienna on 20 November, and Iceland and Austria (national) on 21 November 2026.
 
 Two warnings before the table. First, these pages are guidance, not law, and several are old: [France](/france/#tipping)'s money page says it was updated on 6 March 2019, and the [Portugal](/portugal/#tipping) print carries a 2013 copyright line. Second, where a country's official pages disagree with each other, we say so rather than average them.
 
@@ -114,7 +122,7 @@ Two warnings before the table. First, these pages are guidance, not law, and sev
 | Netherlands | About 10% is quite acceptable; not set in stone; waitstaff do not live off tips | [Netherlands](/netherlands/#tipping) |
 | Germany | Restaurant bills include VAT and service; a 10% tip is common | [Germany](/germany/#tipping) |
 | Switzerland | Not obliged; in many restaurants about 10%, or round up | [Switzerland](/switzerland/#tipping) |
-| Austria | Vienna: traditionally given in restaurants, taxis and other services, normally 5–10%; check whether it is already on the bill | [Vienna](/austria/vienna/#tipping) |
+| Austria | National (ADVANTAGE AUSTRIA): allow around 5–10% for waiters, taxi drivers and similar. Vienna: traditionally given in restaurants, taxis and other services, normally 5–10%; check whether it is already on the bill | [Austria](/austria/#tipping), [Vienna](/austria/vienna/#tipping) |
 | Italy | Not compulsory, no established rules; about 10% is customary if you are satisfied | [Italy](/italy/#tipping) |
 | Spain | Not obligatory because service is included; common in bars, restaurants, hotels and taxis, usually 5–10% | [Spain](/spain/#tipping) |
 | Portugal | Restaurant service is included; about 5–10% of the meal is usual; taxis voluntary, 5–10% or round up | [Portugal](/portugal/#tipping) |
@@ -127,6 +135,7 @@ Two warnings before the table. First, these pages are guidance, not law, and sev
 | Sweden | Welcome but not expected; rounding up is common | [Sweden](/sweden/#tipping) |
 | Norway | Mostly not common, except bars and restaurants; tips tend to stay within 5–15% | [Norway](/norway/#tipping) |
 | Finland | Not expected; service is always included; at most round up or leave a couple of euros | [Finland](/finland/#tipping) |
+| Iceland | Reykjavík: not expected, but a cash tip in any currency is appreciated for exceptional service from a guide or server | [Iceland](/iceland/#tipping) |
 
 ## Four kinds of tipping country
 
@@ -138,7 +147,7 @@ Read the table top to bottom and Europe sorts itself into four groups.
 
 **The top of the range is 15%, not 20%.** The [United Kingdom](/united-kingdom/#tipping) and [Croatia](/croatia/#tipping) give the highest restaurant figures we found, 10–15%. VisitBritain adds that staff must be paid at least the National Minimum Wage, and Croatia.hr calls its figures recommendations and says listed prices are final. [Norway](/norway/#tipping) gives a 5–15% range, but only for bars and restaurants, and says tipping is otherwise not common.
 
-**Rounding up, or nothing.** In the north the advice gets shorter. Visit Finland answers its own question, "Do I need to tip in Finland?", with "Nope, tipping is not expected", and says service is always included, "whether you’re having coffee or a three-course meal". Visit Sweden says a tip is welcome but not expected, and that rounding a 280 SEK bill up to 300 SEK is the common move. Visit Norway says tipping is "entirely up to you" and that there will be no hard feelings either way.
+**Rounding up, or nothing.** In the north the advice gets shorter. Visit Finland answers its own question, "Do I need to tip in Finland?", with "Nope, tipping is not expected", and says service is always included, "whether you’re having coffee or a three-course meal". Visit Sweden says a tip is welcome but not expected, and that rounding a 280 SEK bill up to 300 SEK is the common move. Visit Norway says tipping is "entirely up to you" and that there will be no hard feelings either way. Visit Reykjavík says tipping is not expected in [Iceland](/iceland/#tipping), but that a cash tip, in any currency, is appreciated when a guide or server has been exceptional.
 
 ## Read the bill first
 
@@ -154,13 +163,13 @@ France and Belgium go the other way: the official pages say service is already i
 
 Only two of the pages say anything about how to pay a tip. Holland.com says a debit-card payment in [the Netherlands](/netherlands/#tipping) can include the tip. Visit Hungary says staff prefer a cash tip even when you pay the bill by card. None of the other pages we read addresses card terminals, so we are not going to guess what the screen will ask you in Rome or Madrid.
 
-If you do tip in cash, tip in the local currency. Twelve of our European country sheets are on the euro, but [Switzerland](/switzerland/#money) (franc), [the UK](/united-kingdom/#money) (pound), [Czechia](/czechia/#money), [Hungary](/hungary/#money), [Poland](/poland/#money), [Sweden](/sweden/#money) and [Norway](/norway/#money) are not. Our [euro story](/journal/countries-that-use-the-euro/) lists them all.
+If you do tip in cash, tip in the local currency. Thirteen of our European country sheets are on the euro, including [Montenegro](/montenegro/#money), which is outside the EU, but [Switzerland](/switzerland/#money) (franc), [the UK](/united-kingdom/#money) (pound), [Czechia](/czechia/#money), [Hungary](/hungary/#money), [Poland](/poland/#money), [Sweden](/sweden/#money) and [Norway](/norway/#money) are not. Our [euro story](/journal/countries-that-use-the-euro/) lists them all.
 
 ## Taxis, hotels and guides
 
 Restaurant tipping is the question almost everyone asks, and most of the lines on our sheets stop there. A few go further:
 
-- **Taxis.** [Ireland](/ireland/#tipping)'s page says tipping a taxi driver is not essential, and that if you do, go for at least 10–15% of the fare. VisitBritain calls 10–15%, or rounding up to the next pound, a nice gesture in the UK. Visit Portugal says a taxi tip is voluntary, and about 5–10% or rounding up is usual. Visit Hungary's 10% covers cabs. Vienna's tourist board lists taxis among the services where a 5–10% tip is traditional. Spain.info lists taxis among the places tipping is common.
+- **Taxis.** [Ireland](/ireland/#tipping)'s page says tipping a taxi driver is not essential, and that if you do, go for at least 10–15% of the fare. VisitBritain calls 10–15%, or rounding up to the next pound, a nice gesture in the UK. Visit Portugal says a taxi tip is voluntary, and about 5–10% or rounding up is usual. Visit Hungary's 10% covers cabs. Vienna's tourist board lists taxis among the services where a 5–10% tip is traditional, and ADVANTAGE AUSTRIA's national line puts taxi drivers in its 5–10% too. Spain.info lists taxis among the places tipping is common.
 - **Hotels.** VisitBritain says a hotel porter customarily gets about £2. Croatia.hr says helpful hotel staff can be thanked with at least 3 to 5 euro. Czechia's "up to 10%" line covers accommodation as well as restaurants.
 
 None of the tipping lines on our European sheets gives a tour-guide figure, so there is none here.
@@ -169,7 +178,7 @@ None of the tipping lines on our European sheets gives a tour-guide figure, so t
 
 Some gaps are worth naming, because a blank is more useful than an invented number.
 
-- **Iceland** and **Austria** (national) have no official tipping line on our sheets yet. Vienna's tourist board is the only Austrian source we used, and it speaks for Vienna.
+- **Iceland's** line is Visit Reykjavík, the city's tourism site; no national Visit Iceland tipping page was used. **Austria's** national line is ADVANTAGE AUSTRIA's travel-tips page, which is written for business visitors; no Austrian National Tourist Office page was used. Vienna's tourist board speaks for Vienna, and the two are not merged.
 - **Ireland's** official page we read is about taxis. It gives no restaurant percentage, so we print none.
 - **Turkey's** official line covers only the esnaf lokantası. It says nothing about other restaurants, hotels or taxis.
 - **Germany** has two official pages that disagree: the national tourist office's guide says bills include service, while Berlin.de's own tipping page describes service as usually not included and gives a wider range. Our sheets follow the national guide and do not average the two.
@@ -184,7 +193,7 @@ If you want one rule for a European trip: **read the bill, then leave between no
 
 **Do you tip in Europe?** Often, but lightly, and it is optional everywhere on our list. The official figures for restaurants run from rounding up to 15%, and most fall between 5% and 10%.
 
-**Is 20% normal in Europe?** None of the 20 official pages we read gives a figure above 15%.
+**Is 20% normal in Europe?** None of the official pages we read for 21 countries gives a figure above 15%.
 
 **Is service included in Europe?** In Belgium (Brussels), Spain, Portugal, Germany and Finland the official pages say it is, and France's says almost all restaurants include it. In the UK a service charge may be added and can be declined. In Hungary a service charge is spreading. In Croatia there is no separate service fee. Check the bill.
 

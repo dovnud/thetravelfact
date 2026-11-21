@@ -225,3 +225,76 @@ Why: informational, answerable entirely from the official tourism-office tipping
 Country picks: Israel (same pull: best time 720, plug 320, currency 12,100) and Belgium (October candidate pull in research/data/destinations_candidates_all.csv: best time 480, plug 170, tipping 140, travel demand 8,700). Denmark (480/390/260) and Saint Lucia (9,450 weather-by-month in the October candidate pull) ranked higher on travel intent than Belgium but their NCEI 1991–2020 files have no daily maximum/minimum temperature rows (Denmark's Landbohøjskolen 06186 is precipitation only; Roskilde 06170 has mean temperature only; Saint Lucia's Hewanorra 78948 is precipitation only), so they were skipped. Saudi Arabia's demand (23,240) is almost all "saudi riyal" currency queries (22,200), with "best time to visit saudi arabia" at 140; skipped for now. Malta (880) has no NCEI folder.
 
 Next candidates: "tipping in denmark" (260, KD 0) only once Denmark has a sheet; Israel's best-time section ("best time to visit israel" 720, KD 0) from the Jerusalem table; Belgium best-time section (480 in the October pull).
+
+## 21 November 2026
+
+Pulled 2026-11-21 (America/Los_Angeles), DataForSEO Labs keyword_overview (live), United States (2840), English, two calls: 35 country-pick keywords ($0.0162) and 24 journal candidates ($0.01428). Total $0.03048.
+
+| Keyword | Volume | KD | Intent |
+| --- | --- | --- | --- |
+| romania currency | 9900 | 0 | informational |
+| best time to visit bora bora | 5400 | 0 | informational |
+| best time to visit tahiti | 2900 | 0 | informational |
+| nepal currency | 2900 | 14 | informational |
+| montenegro currency | 2400 | 0 | informational |
+| best time to visit australia and new zealand | 2400 | 0 | informational |
+| cayman islands currency | 1900 | 12 | informational |
+| cyprus currency | 1900 | 10 | informational |
+| best time to visit cayman islands | 880 | 0 | informational |
+| best time to visit israel | 720 | 0 | informational |
+| best time to visit montenegro | 720 | 0 | informational |
+| best time to visit nepal | 720 | 0 | informational |
+| best time to visit slovenia | 720 | 0 | informational |
+| best time to visit french polynesia | 720 | 0 | informational |
+| best time to visit scandinavia | 720 | 0 | informational |
+| best time to visit south america | 720 | 0 | informational |
+| best time to visit grenada | 590 | 0 | informational |
+| tipping in iceland | 590 | 0 | informational |
+| best time to visit belgium | 480 | 0 | informational |
+| tahiti weather by month | 480 | 0 | informational |
+| mediterranean cruise best time of year | 480 | 0 | informational |
+| best time to visit laos | 390 | 0 | informational |
+| best time to visit uruguay | 390 | 0 | informational |
+| montenegro weather by month | 390 | 0 | informational |
+| uruguay weather by month | 390 | 0 | informational |
+| best time to visit greek islands | 390 | 6 | informational |
+| best time to visit the mediterranean | 390 | 0 | informational |
+| best time to visit oman | 320 | 0 | informational |
+| tipping in austria | 320 | 0 | informational |
+| best time to visit mediterranean | 320 | 0 | informational |
+| best time to visit romania | 260 | 0 | informational |
+| cyprus weather by month | 260 | 10 | informational |
+| best time to visit asia | 260 | 0 | informational |
+| best time to visit cyprus | 210 | 0 | informational |
+| slovenia weather by month | 210 | 0 | informational |
+| mediterranean weather by month | 210 | 5 | informational |
+| cayman islands weather by month | 170 | 0 | informational |
+| best time to visit central america | 170 | 0 | informational |
+| nepal weather by month | 140 | 0 | informational |
+| romania weather by month | 140 | 0 | informational |
+| warmest places in europe in winter | 140 | 1 | informational |
+| grenada weather by month | 110 | 0 | informational |
+| best time to visit south pacific | 110 | 3 | informational |
+| best time to visit the balkans | 110 | 2 | informational |
+| best time to visit the south pacific | 110 | 3 | informational |
+| cyprus plug type | 90 | 9 | informational |
+| nepal plug type | 90 | 0 | transactional |
+| romania plug type | 70 | 0 | informational |
+| slovenia plug type | 70 | 0 | informational |
+| laos weather by month | 50 | 0 | informational |
+| oman weather by month | 40 | 0 | informational |
+| scandinavia weather by month | 40 | 0 | informational |
+| best time to visit the middle east | 20 | 0 | informational |
+| dry season in south america | 10 |  | informational |
+
+### Pick, 21 November 2026
+
+9. **best time to visit australia and new zealand** — 2,400, KD 0, informational. URL: /journal/best-time-to-visit-australia-and-new-zealand/.
+
+Why: the highest-volume informational query in the pull with KD 0 that is not a single sheet's own query. It is answerable from three station tables already on the site (Sydney Observatory Hill, Canberra Airport, Wellington Aero AWS), our month-list rule, and two new dated official sources (Tourism Australia's best-time page and Tourism New Zealand's seasons page, both read 21 November 2026). It links to both country sheets, the Sydney sheet, all 12 month lists, the drive-on-the-left and plug lists, the 112 story and the new French Polynesia sheet.
+
+No cannibalization: "best time to visit australia" and "best time to visit new zealand" stay with the sheets; this story targets the two-country trip and its answer (January is the only month all three stations pass) is not on any single page. No list page covers it. Red team: three stations are not two countries; the story says so, and quotes Tourism Australia on the tropical north's wet season (October to April) instead of inventing a table for it. Tourism New Zealand's seasonal city ranges are printed beside the Wellington normal, not merged. No prices, flight times or visa rules.
+
+Rejected: best time to visit bora bora (5,400) and best time to visit tahiti (2,900) — these belong on the new French Polynesia sheet (best-time section added), not a story; best time to visit the mediterranean (390 + 320, cruise 480) overlaps the Europe story; best time to visit south america (720) and scandinavia (720) are good next candidates.
+
+Country picks: French Polynesia (best time to visit tahiti 2,900, bora bora 5,400, french polynesia 720, tahiti weather by month 480) and Montenegro (best time 720, weather by month 390, currency 2,400). Cayman Islands (880 + 170, currency 1,900) and Slovenia (720 + 210) also have complete NCEI files and are next.

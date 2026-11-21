@@ -181,5 +181,71 @@
     "url": "https://diplomatie.belgium.be/en/travel-belgium",
     "note": "The Belgian foreign ministry's page on travelling to Belgium. We do not restate a visa rule.",
     "asOf": "2026-11-20"
+  },
+  "bestTime": {
+    "intro": "Month by month for Brussels, from the Uccle table above (1991–2020, 99 m). Belgium's Royal Meteorological Institute (IRM/KMI) says Uccle now averages 30 summer days (jours d'été) a year against 20 in 1961–1990, and 5 heat days (jours de chaleur) against 2, with 13 fewer frost days. No month in the table averages 90 mm or more, so rain is spread across the year; the months turn on temperature. The rule line is our month-list test, not a recommendation.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 6.1 °C, low 1.4 °C, 75.5 mm. The lowest average high and the lowest average low in the Uccle table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "February",
+        "note": "Average high 7.1 °C, low 1.5 °C, 65.1 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "March",
+        "note": "Average high 10.9 °C, low 3.5 °C, 59.3 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "April",
+        "note": "Average high 15.0 °C, low 6.0 °C, 46.7 mm. The driest month in the Uccle table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "May",
+        "note": "Average high 18.4 °C, low 9.2 °C, 59.7 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "June",
+        "note": "Average high 21.2 °C, low 12.0 °C, 70.8 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "July",
+        "note": "Average high 23.2 °C, low 14.1 °C, 76.9 mm. The highest average high and the highest average low in the Uccle table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "August",
+        "note": "Average high 23.0 °C, low 13.9 °C, 86.5 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "September",
+        "note": "Average high 19.5 °C, low 11.3 °C, 65.3 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "October",
+        "note": "Average high 14.9 °C, low 8.1 °C, 67.8 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "November",
+        "note": "Average high 9.9 °C, low 4.6 °C, 76.2 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "December",
+        "note": "Average high 6.6 °C, low 2.1 °C, 87.4 mm. The wettest month in the Uccle table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "IRM/KMI, Normales climatiques à Uccle",
+        "sourceUrl": "https://www.meteo.be/fr/climat/climat-de-la-belgique/normales-climatiques-a-uccle/generalites",
+        "asOf": "2026-11-21"
+      },
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Uccle (06447)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Belgium/CSV/UCCLE_06447.csv",
+        "asOf": "2026-11-21"
+      }
+    ],
+    "asOf": "2026-11-21"
   }
 }

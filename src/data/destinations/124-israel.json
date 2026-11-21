@@ -181,5 +181,71 @@
     "url": "https://israel-entry.piba.gov.il/",
     "note": "The Population and Immigration Authority's entry site, including the electronic travel authorization (ETA-IL). We do not restate a visa rule.",
     "asOf": "2026-11-20"
+  },
+  "bestTime": {
+    "intro": "Month by month for Jerusalem, from the table above (1991–2020, 810 m). The Mediterranean coast and Eilat on the Red Sea are not this table. Jerusalem's months turn on both heat and rain: January carries 136.8 mm and July and August print 0.0 mm. Before any month, read the U.S. State Department advisory on this sheet: its feed, read 21 November 2026, lists Israel at Level 3, Reconsider Travel, dated 23 October 2026. The rule line is our month-list test, not a recommendation.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 12.7 °C, low 6.7 °C, 136.8 mm. The lowest average high, the lowest average low, and the wettest month in the Jerusalem table. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "February",
+        "note": "Average high 14.0 °C, low 7.3 °C, 117.9 mm. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "March",
+        "note": "Average high 17.4 °C, low 9.5 °C, 67.2 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "April",
+        "note": "Average high 22.0 °C, low 12.5 °C, 21.8 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "May",
+        "note": "Average high 26.2 °C, low 16.2 °C, 7.1 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "June",
+        "note": "Average high 28.6 °C, low 18.3 °C, 0.3 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "July",
+        "note": "Average high 30.0 °C, low 20.0 °C, 0.0 mm. Tied for the driest month in the Jerusalem table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "August",
+        "note": "Average high 30.3 °C, low 20.2 °C, 0.0 mm. The highest average high, the highest average low, and tied for the driest month in the Jerusalem table. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "September",
+        "note": "Average high 28.9 °C, low 19.1 °C, 0.7 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "October",
+        "note": "Average high 25.9 °C, low 17.3 °C, 10.3 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "November",
+        "note": "Average high 19.9 °C, low 12.9 °C, 51.1 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "December",
+        "note": "Average high 14.9 °C, low 8.8 °C, 112.3 mm. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Jerusalem (40183)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Israel/CSV/JERUSALEM_40183.csv",
+        "asOf": "2026-11-21"
+      },
+      {
+        "sourceTitle": "U.S. Department of State, Israel Travel Advisory",
+        "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html",
+        "asOf": "2026-11-21"
+      }
+    ],
+    "asOf": "2026-11-21"
   }
 }

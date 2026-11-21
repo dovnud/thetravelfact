@@ -132,7 +132,7 @@ One more trap: sharing a currency does not mean sharing a socket. Among our euro
 
 ## Quick answers
 
-**How many countries use the euro?** Twenty-one EU countries, per the EU and the ECB, plus six non-EU users the ECB names: Andorra, Monaco, San Marino, Vatican City, Montenegro and Kosovo.
+**How many countries use the euro?** Twenty-one EU countries, per the EU and the ECB, plus six non-EU users the ECB names: Andorra, Monaco, San Marino, Vatican City, [Montenegro](/montenegro/#money) and Kosovo.
 
 **Is Croatia on the euro?** Yes. The ECB lists Croatia as using the euro since 2023, and our [Croatia sheet](/croatia/#money) prints Euro (EUR).
 
