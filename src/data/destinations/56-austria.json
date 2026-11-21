@@ -128,7 +128,14 @@
     "sourceTitle": "Straßenverkehrsordnung 1960, § 7, RIS",
     "sourceUrl": "https://www.ris.bka.gv.at/eli/bgbl/1960/159/P7/NOR40245666"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Around 5–10% for waiters, taxi drivers and similar",
+    "detail": "ADVANTAGE AUSTRIA, the Austrian Economic Chamber's foreign trade promotion organisation, says on its travel-tips page to allow around 5 to 10% of the total bill for waiters, taxi drivers and similar. The page is written for business visitors. The Vienna sheet quotes the Vienna Tourist Board separately; the two are not merged.",
+    "asOf": "2026-11-21",
+    "sourceTitle": "ADVANTAGE AUSTRIA, Travel Tips",
+    "sourceUrl": "https://www.advantageaustria.org/kp/zentral/business-guide/reisen-nach-oesterreich/gut-zu-wissen/reisetipps/reisetipps.en.html"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

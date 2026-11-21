@@ -1,0 +1,249 @@
+{
+  "order": 126,
+  "id": "montenegro",
+  "kind": "country",
+  "name": "Montenegro",
+  "countrySlug": "montenegro",
+  "countryName": "Montenegro",
+  "path": "/montenegro/",
+  "dek": "Podgorica, WMO 13463. The capital, inland at 49 m. Not the Bay of Kotor, not the mountains.",
+  "paragraphs": [
+    "The reference station is Podgorica, WMO 13463, height 49 m, the capital. The same NOAA NCEI folder has coastal files for Bar, Herceg Novi and Ulcinj and mountain files for Žabljak, Kolašin, Nikšić, Pljevlja and Bijelo Polje. None was averaged with Podgorica. The Adriatic coast and the Bay of Kotor are not this table.",
+    "The highest average high in the table is 34.5 °C, in August. The lowest average low is 2.2 °C, in January. The wettest month by the precipitation column is November, at 260.5 mm, and the driest is July, at 36.4 mm. The table has a dry summer and a wet late autumn and winter: November is more than seven times wetter than July."
+  ],
+  "climate": {
+    "caption": "Reference station: Podgorica, WMO 13463, the capital, inland. The coastal files for Bar, Herceg Novi and Ulcinj are in the same collection and were not averaged with it.",
+    "stationName": "Podgorica",
+    "stationId": "WMO 13463",
+    "period": "1991-2020",
+    "elevation": "49 m",
+    "latitude": "42|26|15|N",
+    "longitude": "019|16|42|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "11.0",
+        "low": "2.2",
+        "rain": "165.3",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "12.6",
+        "low": "3.4",
+        "rain": "163.6",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "16.3",
+        "low": "6.4",
+        "rain": "164.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "20.7",
+        "low": "9.9",
+        "rain": "136.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "25.8",
+        "low": "14.5",
+        "rain": "98.0",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "30.7",
+        "low": "18.9",
+        "rain": "60.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "33.9",
+        "low": "21.6",
+        "rain": "36.4",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "34.5",
+        "low": "21.8",
+        "rain": "53.7",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "28.4",
+        "low": "17.0",
+        "rain": "147.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "22.8",
+        "low": "12.3",
+        "rain": "175.5",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "16.5",
+        "low": "7.4",
+        "rain": "260.5",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "11.8",
+        "low": "3.5",
+        "rain": "231.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0.",
+    "sourceTitle": "WMO climate normals 1991-2020, Podgorica (13463)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Montenegro/CSV/Podgorica_13463.csv",
+    "asOf": "2026-11-21"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Montenegro at 230 V and 50 Hz with plug types C and F. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-21",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 29 of Montenegro's Law on Road Traffic Safety (Zakon o bezbjednosti saobraćaja na putevima) says a vehicle moves on the right side of the carriageway in its direction of travel, and that the driver must keep the moving vehicle as close as possible to the right edge, at a distance that does not endanger others. The text read is the Legalistik consolidation, which lists the law as published in Službeni list CG 33/2012, 58/2014, 14/2017 and 66/2019. The official gazette text was not opened separately.",
+    "asOf": "2026-11-21",
+    "sourceTitle": "Zakon o bezbjednosti saobraćaja na putevima, član 29 (Legalistik consolidation)",
+    "sourceUrl": "https://regulativa.legalistik.com/zakon/zakon-o-bezbjednosti-saobracaja-na-putevima-8931"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Montenegro, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. It points readers to CDC's food and water precautions. This page does not turn that into medical advice.",
+    "asOf": "2026-11-21",
+    "sourceTitle": "CDC Travelers' Health, Montenegro",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/montenegro"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives Montenegro the currency name Euro and the code EUR. The national tourism organisation's payments page says the official means of payment in Montenegro is the euro.",
+    "asOf": "2026-11-21",
+    "sources": [
+      {
+        "sourceTitle": "ISO 4217 currency list (SIX)",
+        "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+        "asOf": "2026-11-21"
+      },
+      {
+        "sourceTitle": "Montenegro.travel, currency and payment methods",
+        "sourceUrl": "https://www.montenegro.travel/en/plan-your-stay-in-montenegro/useful-tips-and-facts/currency-and-payment-methods",
+        "asOf": "2026-11-21"
+      }
+    ]
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Podgorica",
+    "detail": "IANA's zone.tab gives Montenegro one row, Europe/Podgorica. zone1970.tab puts Montenegro on the Europe/Belgrade row it shares with Serbia, Bosnia and Herzegovina, Croatia, North Macedonia and Slovenia, and the backward file links Europe/Podgorica to Europe/Belgrade. The sheet prints the zone.tab name.",
+    "asOf": "2026-11-21",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-21"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-21"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-21"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Government of Montenegro, Ministry of Foreign Affairs",
+    "url": "https://www.gov.me/en/article/visas",
+    "note": "The government's visas page. We do not restate a visa rule.",
+    "asOf": "2026-11-21"
+  },
+  "bestTime": {
+    "intro": "Month by month for Podgorica, from the table above (1991–2020, 49 m). Podgorica is inland; the coastal files for Bar and Herceg Novi in the same collection are not this table and were not averaged in. The rule line is our month-list test, not a recommendation: it rewards an average high of 20–30 °C and under 100 mm, and in Podgorica only May clears both.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 11.0 °C, low 2.2 °C, 165.3 mm. The lowest average high and the lowest average low in the Podgorica table. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "February",
+        "note": "Average high 12.6 °C, low 3.4 °C, 163.6 mm. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "March",
+        "note": "Average high 16.3 °C, low 6.4 °C, 164.4 mm. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "April",
+        "note": "Average high 20.7 °C, low 9.9 °C, 136.1 mm. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "May",
+        "note": "Average high 25.8 °C, low 14.5 °C, 98.0 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "June",
+        "note": "Average high 30.7 °C, low 18.9 °C, 60.4 mm. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "July",
+        "note": "Average high 33.9 °C, low 21.6 °C, 36.4 mm. The driest month in the Podgorica table. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "August",
+        "note": "Average high 34.5 °C, low 21.8 °C, 53.7 mm. The highest average high and the highest average low in the Podgorica table. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "September",
+        "note": "Average high 28.4 °C, low 17.0 °C, 147.1 mm. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "October",
+        "note": "Average high 22.8 °C, low 12.3 °C, 175.5 mm. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "November",
+        "note": "Average high 16.5 °C, low 7.4 °C, 260.5 mm. The wettest month in the Podgorica table. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "December",
+        "note": "Average high 11.8 °C, low 3.5 °C, 231.8 mm. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Podgorica (13463)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Montenegro/CSV/Podgorica_13463.csv",
+        "asOf": "2026-11-21"
+      }
+    ],
+    "asOf": "2026-11-21"
+  }
+}

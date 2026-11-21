@@ -128,7 +128,14 @@
     "sourceTitle": "Umferðarlög No. 77/2019, Article 18, Althingi",
     "sourceUrl": "https://www.althingi.is/lagas/157c/2019077.html"
   },
-  "tipping": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not expected; a cash tip for exceptional service is appreciated",
+    "detail": "Visit Reykjavík, the City of Reykjavík's official tourism site, says tipping is not expected in Iceland, but that a cash tip in any currency is always appreciated if you feel the service from your tour guide or server has been exceptional. The page is a city site; no Visit Iceland (national) tipping page was opened.",
+    "asOf": "2026-11-21",
+    "sourceTitle": "Visit Reykjavík, currency, credit cards and banks",
+    "sourceUrl": "https://visitreykjavik.is/currency-credit-cards-and-banks"
+  },
   "water": {
     "label": "Tap water",
     "value": "No yes-or-no line from CDC",

@@ -1,0 +1,259 @@
+{
+  "order": 125,
+  "id": "french-polynesia",
+  "kind": "country",
+  "name": "French Polynesia",
+  "countrySlug": "french-polynesia",
+  "countryName": "French Polynesia",
+  "path": "/french-polynesia/",
+  "dek": "Faa'a, WMO 91938, at Tahiti's airport. Not Bora Bora, not the Marquesas, not a territory-wide average.",
+  "paragraphs": [
+    "The reference station is Faa'a, WMO 91938, height 2 m, the file NOAA NCEI's collection names FAAA, on Tahiti beside the international airport. The same folder has files for Bora Bora (WMO 91929), Taiarapu on Tahiti's peninsula, Hiva Oa in the Marquesas, Takaroa and Hao in the Tuamotus, Tubuai and Rapa in the Australs, and Mangareva in the Gambiers. None was averaged with Faa'a, and the islands are spread across a very large area, so this table is Tahiti's west coast, not French Polynesia.",
+    "The highest average high in the table is 31.5 °C, in March. The lowest average low is 21.9 °C, in August. The wettest month by the precipitation column is December, at 279.1 mm, and the driest is August, at 41.3 mm. Every month in the table averages a high of at least 29.0 °C; the months turn on rain, not temperature. January is the southern-hemisphere midsummer."
+  ],
+  "climate": {
+    "caption": "Reference station: Faa'a, WMO 91938, Tahiti's international airport. Bora Bora (WMO 91929) and seven other French Polynesia files are in the same collection and were not averaged with it.",
+    "stationName": "Faa'a",
+    "stationId": "WMO 91938",
+    "period": "1991-2020",
+    "elevation": "2 m",
+    "latitude": "17|33|18|S",
+    "longitude": "149|36|51|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "31.0",
+        "low": "24.4",
+        "rain": "267.6",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "31.1",
+        "low": "24.5",
+        "rain": "244.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "31.5",
+        "low": "24.7",
+        "rain": "166.5",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "31.3",
+        "low": "24.5",
+        "rain": "99.2",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.4",
+        "low": "23.6",
+        "rain": "104.1",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "29.6",
+        "low": "22.6",
+        "rain": "74.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "29.2",
+        "low": "22.1",
+        "rain": "44.1",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "29.0",
+        "low": "21.9",
+        "rain": "41.3",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "29.3",
+        "low": "22.3",
+        "rain": "50.1",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "29.7",
+        "low": "23.0",
+        "rain": "102.7",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.4",
+        "low": "23.9",
+        "rain": "105.1",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.6",
+        "low": "24.3",
+        "rain": "279.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0.",
+    "sourceTitle": "WMO climate normals 1991-2020, Faa'a (91938)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/FrenchPolynesia/CSV/FAAA_91938.csv",
+    "asOf": "2026-11-21"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Not on the IEC world-plugs list",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, has no French Polynesia row. Tahiti Tourisme's FAQ, read 21 November 2026, says only that hotels have 110 and 220 volt alternating current and recommends bringing an adaptor. It names no plug type and no frequency, so none is printed here.",
+    "asOf": "2026-11-21",
+    "sources": [
+      {
+        "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+        "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs",
+        "asOf": "2026-11-21"
+      },
+      {
+        "sourceTitle": "Tahiti Tourisme, Frequently Asked Questions",
+        "sourceUrl": "https://www.tahititourisme.com/frequently-asked-questions-faq/",
+        "asOf": "2026-11-21"
+      }
+    ]
+  },
+  "driving": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not expected; service charge included",
+    "detail": "Tahiti Tourisme's FAQ says a tip isn't expected by employees of hotels and restaurants, though it won't be refused, and that since 2007 a service charge has been included in the price of accommodation and restaurant bills.",
+    "asOf": "2026-11-21",
+    "sourceTitle": "Tahiti Tourisme, Frequently Asked Questions",
+    "sourceUrl": "https://www.tahititourisme.com/frequently-asked-questions-faq/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Tahiti Tourisme: safe in Bora Bora and parts of Tahiti and Moorea; ask elsewhere",
+    "detail": "Tahiti Tourisme's FAQ says the water is safe to drink in Bora Bora and parts of Tahiti and Moorea, that it is better to ask in the other islands, and to drink bottled water if in doubt. CDC's traveler page for French Polynesia, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe; it says food and water standards vary by destination and may differ within a country. This page does not turn either into medical advice.",
+    "asOf": "2026-11-21",
+    "sources": [
+      {
+        "sourceTitle": "Tahiti Tourisme, Frequently Asked Questions",
+        "sourceUrl": "https://www.tahititourisme.com/frequently-asked-questions-faq/",
+        "asOf": "2026-11-21"
+      },
+      {
+        "sourceTitle": "CDC Travelers' Health, French Polynesia",
+        "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/french-polynesia",
+        "asOf": "2026-11-21"
+      }
+    ]
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "CFP Franc (XPF)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives French Polynesia the currency name CFP Franc and the code XPF, with no minor unit (0 decimal places).",
+    "asOf": "2026-11-21",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Pacific/Tahiti for the Society Islands; 3 zones",
+    "detail": "IANA's zone.tab and zone1970.tab each give French Polynesia three rows: Pacific/Tahiti, commented Society Islands; Pacific/Marquesas, commented Marquesas Islands; and Pacific/Gambier, commented Gambier Islands. Tahiti and Bora Bora are Society Islands. The zones are not collapsed into one.",
+    "asOf": "2026-11-21",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-21"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-21"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Haut-commissariat de la République en Polynésie française",
+    "url": "https://www.polynesie-francaise.gouv.fr/Demarches/Accueil-des-etrangers/Conditions-d-entree-des-etrangers-en-Polynesie-francaise",
+    "note": "The French State services' page on entry conditions for foreigners, in French. It says the entry rules for French Polynesia differ from those of mainland France and the other overseas departments and collectivities. We do not restate a visa rule.",
+    "asOf": "2026-11-21"
+  },
+  "bestTime": {
+    "intro": "Month by month for Tahiti, from the Faa'a table above (1991–2020, 2 m). The average high never drops below 29.0 °C, so the months turn on rain. Tahiti Tourisme's FAQ splits the year in two: May to October, which it calls the Season of Renewal, and November to April, the Season of Abundance, with lush vegetation and ripe tropical fruit. It does not call either season better. Bora Bora has its own file in the same collection and is not this table. The rule line is our month-list test, not a recommendation.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 31.0 °C, low 24.4 °C, 267.6 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "February",
+        "note": "Average high 31.1 °C, low 24.5 °C, 244.5 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "March",
+        "note": "Average high 31.5 °C, low 24.7 °C, 166.5 mm. The highest average high and the highest average low in the Faa'a table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "April",
+        "note": "Average high 31.3 °C, low 24.5 °C, 99.2 mm. Fails our month-list rule on heat: the average high is above 30 °C. The last month of Tahiti Tourisme's November-to-April season."
+      },
+      {
+        "month": "May",
+        "note": "Average high 30.4 °C, low 23.6 °C, 104.1 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Tahiti Tourisme's May-to-October season begins."
+      },
+      {
+        "month": "June",
+        "note": "Average high 29.6 °C, low 22.6 °C, 74.5 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "July",
+        "note": "Average high 29.2 °C, low 22.1 °C, 44.1 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "August",
+        "note": "Average high 29.0 °C, low 21.9 °C, 41.3 mm. The lowest average high, the lowest average low, and the driest month in the Faa'a table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "September",
+        "note": "Average high 29.3 °C, low 22.3 °C, 50.1 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "October",
+        "note": "Average high 29.7 °C, low 23.0 °C, 102.7 mm. Fails our month-list rule on precipitation (100 mm or more). The last month of Tahiti Tourisme's May-to-October season."
+      },
+      {
+        "month": "November",
+        "note": "Average high 30.4 °C, low 23.9 °C, 105.1 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Tahiti Tourisme's November-to-April season begins."
+      },
+      {
+        "month": "December",
+        "note": "Average high 30.6 °C, low 24.3 °C, 279.1 mm. The wettest month in the Faa'a table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "Tahiti Tourisme, Frequently Asked Questions",
+        "sourceUrl": "https://www.tahititourisme.com/frequently-asked-questions-faq/",
+        "asOf": "2026-11-21"
+      },
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Faa'a (91938)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/FrenchPolynesia/CSV/FAAA_91938.csv",
+        "asOf": "2026-11-21"
+      }
+    ],
+    "asOf": "2026-11-21"
+  }
+}
