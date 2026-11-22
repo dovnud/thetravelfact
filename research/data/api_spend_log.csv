@@ -57,3 +57,4 @@ endpoint,cost,note,local_time,utc_time,status_code
 /dataforseo_labs/google/keyword_overview/live,0.01476,keyword_overview n=24 (country picks + tipping in europe cluster),2026-11-20T06:36:00-08:00,2026-11-20T14:36:00+00:00,20000
 /dataforseo_labs/google/keyword_overview/live,0.0162,keyword_overview n=35 (country picks: Tahiti/French Polynesia Montenegro Cayman Slovenia etc. + Iceland/Austria tipping),2026-11-21T06:44:00-08:00,2026-11-21T14:44:00+00:00,20000
 /dataforseo_labs/google/keyword_overview/live,0.01428,keyword_overview n=24 (journal candidates: regional best-time queries),2026-11-21T07:05:00-08:00,2026-11-21T15:05:00+00:00,20000
+/dataforseo_labs/google/keyword_overview/live,0.01404,keyword_overview n=18 (Cayman/Slovenia verification + regional best-time journal candidates),2026-11-22T06:55:00-08:00,2026-11-22T14:55:00+00:00,20000
