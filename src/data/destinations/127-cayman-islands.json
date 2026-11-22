@@ -1,0 +1,285 @@
+{
+  "order": 127,
+  "id": "cayman-islands",
+  "kind": "country",
+  "name": "Cayman Islands",
+  "countrySlug": "cayman-islands",
+  "countryName": "Cayman Islands",
+  "path": "/cayman-islands/",
+  "dek": "A British overseas territory. Owen Roberts International Airport, WMO 78384, Grand Cayman. Drive on the left.",
+  "paragraphs": [
+    "The reference station is Owen Roberts International Airport, WMO 78384, height 3 m, beside George Town on Grand Cayman. NOAA NCEI's 1991–2020 collection has one Cayman Islands file, and this is it. Cayman Brac and Little Cayman have no table on this sheet.",
+    "The highest average high in the table is 32.3 °C, in August. The lowest average low is 22.9 °C, in January and February. The wettest month by the precipitation column is October, at 238.9 mm, and the driest is March, at 29.5 mm. Every month averages a high of at least 28.4 °C, so the months turn on rain and the hurricane season, not on temperature. December to March each have under 100 mm; May to November each have more than 140 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Owen Roberts International Airport, WMO 78384, George Town, Grand Cayman. The NOAA NCEI file names it Owen Robert Intl Airport. It is the only Cayman Islands file used; Cayman Brac and Little Cayman have no table here.",
+    "stationName": "Owen Roberts International Airport",
+    "stationId": "WMO 78384",
+    "period": "1991-2020",
+    "elevation": "3 m",
+    "latitude": "19|17|30|N",
+    "longitude": "081|21|30|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "28.4",
+        "low": "22.9",
+        "rain": "54.9",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "28.7",
+        "low": "22.9",
+        "rain": "30.2",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "29.2",
+        "low": "23.2",
+        "rain": "29.5",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "30.3",
+        "low": "24.3",
+        "rain": "34.0",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "31.0",
+        "low": "25.1",
+        "rain": "150.2",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "31.7",
+        "low": "26.0",
+        "rain": "159.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "32.2",
+        "low": "26.0",
+        "rain": "143.9",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "32.3",
+        "low": "26.0",
+        "rain": "146.9",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.9",
+        "low": "25.7",
+        "rain": "222.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "31.2",
+        "low": "25.2",
+        "rain": "238.9",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "29.8",
+        "low": "24.5",
+        "rain": "151.7",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "29.0",
+        "low": "23.6",
+        "rain": "62.1",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0.",
+    "sourceTitle": "WMO climate normals 1991-2020, Owen Robert Intl Airport (78384)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/CaymanIslands/CSV/OwenRobertIntlAirport_78384.csv",
+    "asOf": "2026-11-22"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November, and that the Atlantic basin includes the Atlantic Ocean, the Caribbean Sea and the Gulf of America.",
+    "The same page puts the peak of the Atlantic season at 10 September, with most activity between mid-August and mid-October."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 120 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows the Cayman Islands at 120 V and 60 Hz with plug types A and B. The Department of Tourism's meetings FAQ, read 22 November 2026, gives the same 120 volts, 60 Hz and Type A and B outlets, and says it is the same as North America.",
+    "asOf": "2026-11-22",
+    "sources": [
+      {
+        "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+        "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs",
+        "asOf": "2026-11-22"
+      },
+      {
+        "sourceTitle": "Cayman Islands Department of Tourism, meetings FAQs",
+        "sourceUrl": "https://meet.visitcaymanislands.com/en-us/services-support/faqs",
+        "asOf": "2026-11-22"
+      }
+    ]
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Cayman Islands Department of Tourism's getting-around page says driving is on the left side of the road, that visitors can get a temporary driver's licence at any rental car counter or at the police station, and that a visitor applying for one to rent a car must be 21. No Traffic Act text was opened.",
+    "asOf": "2026-11-22",
+    "sourceTitle": "Cayman Islands Department of Tourism, Getting Around",
+    "sourceUrl": "https://www.visitcaymanislands.com/en-us/planning/getting-around"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Check the bill: most hotels and restaurants include 15–20%",
+    "detail": "The Cayman Islands Department of Tourism's meetings FAQ answers \"Is tipping expected?\" with: most hotels and restaurants include gratuities between 15 and 20%. It gives no guidance for taxis or tours.",
+    "asOf": "2026-11-22",
+    "sourceTitle": "Cayman Islands Department of Tourism, meetings FAQs",
+    "sourceUrl": "https://meet.visitcaymanislands.com/en-us/services-support/faqs"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Water Authority: its piped water beats WHO guidelines",
+    "detail": "Water Authority Cayman's FAQ answers \"Is my tap water safe to drink?\" by saying the water produced by its reverse-osmosis plants is of a higher standard than the World Health Organisation's drinking-water guidelines, and that sample taps are tested on a schedule. The Authority is not the only supplier: the same FAQ says Cayman Water Company serves the Seven Mile Beach area and West Bay. CDC's traveler page for the Cayman Islands, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. This page does not turn either into medical advice.",
+    "asOf": "2026-11-22",
+    "sources": [
+      {
+        "sourceTitle": "Water Authority Cayman, Additional FAQs",
+        "sourceUrl": "https://www.waterauthority.ky/additional-faqs",
+        "asOf": "2026-11-22"
+      },
+      {
+        "sourceTitle": "CDC Travelers' Health, Cayman Islands",
+        "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/cayman-islands",
+        "asOf": "2026-11-22"
+      }
+    ]
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Cayman Islands Dollar (KYD)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives the Cayman Islands the currency name Cayman Islands Dollar and the code KYD, with two decimal places. The Department of Tourism's FAQ says U.S. currency is used interchangeably, and lists CI$100, 50, 25, 10, 5 and 1 notes. No exchange rate is printed here.",
+    "asOf": "2026-11-22",
+    "sources": [
+      {
+        "sourceTitle": "ISO 4217 currency list (SIX)",
+        "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+        "asOf": "2026-11-22"
+      },
+      {
+        "sourceTitle": "Cayman Islands Department of Tourism, FAQs",
+        "sourceUrl": "https://www.visitcaymanislands.com/en-us/planning/faq",
+        "asOf": "2026-11-22"
+      }
+    ]
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Cayman",
+    "detail": "IANA's zone.tab gives the Cayman Islands one row, America/Cayman. zone1970.tab puts the Cayman Islands on the America/Panama row it shares with Panama and parts of Canada, commented EST, and the backward file links America/Cayman to America/Panama. The sheet prints the zone.tab name.",
+    "asOf": "2026-11-22",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-22"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-22"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-22"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Cayman Islands Government, Customs and Border Control",
+    "url": "https://gov.ky/web/cbc/travel/entry-requirements",
+    "note": "The Customs and Border Control entry-requirements page, with its visitor-visa pages and country list. We do not restate a visa rule.",
+    "asOf": "2026-11-22"
+  },
+  "sheetLabel": "British overseas territory sheet",
+  "bestTime": {
+    "intro": "Month by month for Grand Cayman, from the Owen Roberts International Airport table above (1991–2020, 3 m) and the U.S. National Hurricane Center's Atlantic season window. The rule line is our month-list test, not a recommendation: it rewards an average high of 20–30 °C and under 100 mm, and at Owen Roberts January, February, March and December clear both. The hurricane dates are official season dates, not a forecast; NHC says activity sometimes occurs before and after them.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 28.4 °C, low 22.9 °C, 54.9 mm. The lowest average high and the lowest average low in the Owen Roberts table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "February",
+        "note": "Average high 28.7 °C, low 22.9 °C, 30.2 mm. The lowest average low in the Owen Roberts table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "March",
+        "note": "Average high 29.2 °C, low 23.2 °C, 29.5 mm. The driest month in the Owen Roberts table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "April",
+        "note": "Average high 30.3 °C, low 24.3 °C, 34.0 mm. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "May",
+        "note": "Average high 31.0 °C, low 25.1 °C, 150.2 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "June",
+        "note": "Average high 31.7 °C, low 26.0 °C, 159.5 mm. The highest average low in the Owen Roberts table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "July",
+        "note": "Average high 32.2 °C, low 26.0 °C, 143.9 mm. The highest average low in the Owen Roberts table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "August",
+        "note": "Average high 32.3 °C, low 26.0 °C, 146.9 mm. The highest average high and the highest average low in the Owen Roberts table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season; NHC says most activity falls between mid-August and mid-October."
+      },
+      {
+        "month": "September",
+        "note": "Average high 31.9 °C, low 25.7 °C, 222.6 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season. NHC puts the peak of the season at 10 September, with most activity between mid-August and mid-October."
+      },
+      {
+        "month": "October",
+        "note": "Average high 31.2 °C, low 25.2 °C, 238.9 mm. The wettest month in the Owen Roberts table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season, and inside the mid-August to mid-October stretch NHC names as the busiest."
+      },
+      {
+        "month": "November",
+        "note": "Average high 29.8 °C, low 24.5 °C, 151.7 mm. Fails our month-list rule on precipitation (100 mm or more). Inside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "December",
+        "note": "Average high 29.0 °C, low 23.6 °C, 62.1 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Owen Robert Intl Airport (78384)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/CaymanIslands/CSV/OwenRobertIntlAirport_78384.csv",
+        "asOf": "2026-11-22"
+      },
+      {
+        "sourceTitle": "National Hurricane Center, Tropical Cyclone Climatology",
+        "sourceUrl": "https://www.nhc.noaa.gov/climo/",
+        "asOf": "2026-11-22"
+      }
+    ],
+    "asOf": "2026-11-22"
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "order": 128,
+  "id": "slovenia",
+  "kind": "country",
+  "name": "Slovenia",
+  "countrySlug": "slovenia",
+  "countryName": "Slovenia",
+  "path": "/slovenia/",
+  "dek": "Ljubljana/Bežigrad, WMO 14015, at 299 m. The capital, not Lake Bled, not the coast.",
+  "paragraphs": [
+    "The reference station is Ljubljana/Bežigrad, WMO 14015, height 299 m, in the capital. The same NOAA NCEI folder has files for Celje, Kredarica (high in the Julian Alps), Maribor/Slivnica, Murska Sobota, Nova Gorica, Novo Mesto, Rateče and Slovenj Gradec. None was averaged with Ljubljana. There is no Bled or Portorož file in that folder, so Lake Bled and the coast are not this table.",
+    "The highest average high in the table is 27.9 °C, in July. The lowest average low is -1.7 °C, in January. The wettest month by the precipitation column is September, at 159.5 mm, and the driest is January, at 67.0 mm. Every month from May to December has 100 mm or more, and the warm months are the wet months, so Ljubljana does not pass our month-list rule in any month."
+  ],
+  "climate": {
+    "caption": "Reference station: Ljubljana/Bežigrad, WMO 14015, in the capital. The coastal Portorož area, the Julian Alps (Kredarica, Rateče) and Maribor have other files or none and were not averaged with it.",
+    "stationName": "Ljubljana/Bežigrad",
+    "stationId": "WMO 14015",
+    "period": "1991-2020",
+    "elevation": "299 m",
+    "latitude": "46|03|57|N",
+    "longitude": "014|31|02|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "4.1",
+        "low": "-1.7",
+        "rain": "67.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "7.0",
+        "low": "-1.2",
+        "rain": "83.9",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "12.3",
+        "low": "2.4",
+        "rain": "82.9",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "17.2",
+        "low": "6.3",
+        "rain": "96.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "21.8",
+        "low": "10.6",
+        "rain": "114.2",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "25.8",
+        "low": "14.4",
+        "rain": "125.4",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "27.9",
+        "low": "16.0",
+        "rain": "121.8",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "27.6",
+        "low": "15.9",
+        "rain": "124.0",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "21.8",
+        "low": "11.7",
+        "rain": "159.5",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "16.1",
+        "low": "7.9",
+        "rain": "150.0",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "9.6",
+        "low": "3.9",
+        "rain": "137.9",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "4.2",
+        "low": "-0.9",
+        "rain": "104.4",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0.",
+    "sourceTitle": "WMO climate normals 1991-2020, Ljubljana/Bezigrad (14015)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Slovenia/CSV/LjubljanaBezigrad_14015.csv",
+    "asOf": "2026-11-22"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Slovenia at 230 V and 50 Hz with plug types C and F. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-22",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 37 of Slovenia's Road Traffic Rules Act (Zakon o pravilih cestnega prometa, ZPrCP) says a driver must drive on the right carriageway in the permitted direction of travel, and on a carriageway without marked lanes must keep to the right side at a distance from the edge that keeps traffic safe and unobstructed. The text read is the iuris.si copy of article 37; the official PISRS register renders its text by script and was not read.",
+    "asOf": "2026-11-22",
+    "sourceTitle": "Zakon o pravilih cestnega prometa (ZPrCP), 37. člen (iuris.si)",
+    "sourceUrl": "https://iuris.si/predpisi/2010-01-5733-zprcp/clen/37"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "Slovenian Tourist Board: you can drink it; avoid after heavy rain",
+    "detail": "The Slovenian Tourist Board's water page says you can drink tap water in Slovenia. The same page says quality varies, since there are over a thousand water-supply systems, that town water can be better than countryside water, and that after heavy rainfall it is advisable to avoid tap water because it can be turbid, with the public alerted through the media. CDC's traveler page for Slovenia, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. This page does not turn either into medical advice.",
+    "asOf": "2026-11-22",
+    "sources": [
+      {
+        "sourceTitle": "Slovenian Tourist Board (slovenia.info), Water and Food",
+        "sourceUrl": "https://www.slovenia.info/en/plan-your-trip/practical-info/water-and-food",
+        "asOf": "2026-11-22"
+      },
+      {
+        "sourceTitle": "CDC Travelers' Health, Slovenia",
+        "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/slovenia",
+        "asOf": "2026-11-22"
+      }
+    ]
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives Slovenia the currency name Euro and the code EUR.",
+    "asOf": "2026-11-22",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Ljubljana",
+    "detail": "IANA's zone.tab gives Slovenia one row, Europe/Ljubljana. zone1970.tab puts Slovenia on the Europe/Belgrade row it shares with Serbia, Bosnia and Herzegovina, Croatia, Montenegro and North Macedonia, and the backward file links Europe/Ljubljana to Europe/Belgrade. The sheet prints the zone.tab name.",
+    "asOf": "2026-11-22",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-22"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-22"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-22"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Government of the Republic of Slovenia (GOV.SI)",
+    "url": "https://www.gov.si/en/topics/entry-and-residence/",
+    "note": "The government's entry and residence topic page, with links to visa regimes. We do not restate a visa rule.",
+    "asOf": "2026-11-22"
+  },
+  "bestTime": {
+    "intro": "Month by month for Ljubljana, from the Bežigrad table above (1991–2020, 299 m). The rule line is our month-list test, not a recommendation: it rewards an average high of 20–30 °C and under 100 mm. In Ljubljana no month clears both, because the five months warm enough (May to September) all have more than 110 mm. The Alps and the coast are not this table.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 4.1 °C, low -1.7 °C, 67.0 mm. The lowest average high, the lowest average low, and the driest month in the Ljubljana table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "February",
+        "note": "Average high 7.0 °C, low -1.2 °C, 83.9 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "March",
+        "note": "Average high 12.3 °C, low 2.4 °C, 82.9 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "April",
+        "note": "Average high 17.2 °C, low 6.3 °C, 96.8 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "May",
+        "note": "Average high 21.8 °C, low 10.6 °C, 114.2 mm. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "June",
+        "note": "Average high 25.8 °C, low 14.4 °C, 125.4 mm. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "July",
+        "note": "Average high 27.9 °C, low 16.0 °C, 121.8 mm. The highest average high and the highest average low in the Ljubljana table. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "August",
+        "note": "Average high 27.6 °C, low 15.9 °C, 124.0 mm. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "September",
+        "note": "Average high 21.8 °C, low 11.7 °C, 159.5 mm. The wettest month in the Ljubljana table. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "October",
+        "note": "Average high 16.1 °C, low 7.9 °C, 150.0 mm. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "November",
+        "note": "Average high 9.6 °C, low 3.9 °C, 137.9 mm. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "December",
+        "note": "Average high 4.2 °C, low -0.9 °C, 104.4 mm. Fails our month-list rule on both temperature (average high below 20 °C) and precipitation (100 mm or more)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Ljubljana/Bezigrad (14015)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Slovenia/CSV/LjubljanaBezigrad_14015.csv",
+        "asOf": "2026-11-22"
+      }
+    ],
+    "asOf": "2026-11-22"
+  }
+}

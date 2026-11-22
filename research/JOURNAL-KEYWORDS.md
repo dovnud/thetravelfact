@@ -298,3 +298,37 @@ No cannibalization: "best time to visit australia" and "best time to visit new z
 Rejected: best time to visit bora bora (5,400) and best time to visit tahiti (2,900) — these belong on the new French Polynesia sheet (best-time section added), not a story; best time to visit the mediterranean (390 + 320, cruise 480) overlaps the Europe story; best time to visit south america (720) and scandinavia (720) are good next candidates.
 
 Country picks: French Polynesia (best time to visit tahiti 2,900, bora bora 5,400, french polynesia 720, tahiti weather by month 480) and Montenegro (best time 720, weather by month 390, currency 2,400). Cayman Islands (880 + 170, currency 1,900) and Slovenia (720 + 210) also have complete NCEI files and are next.
+
+## 22 November 2026
+
+Pulled 2026-11-22 (America/Los_Angeles), DataForSEO Labs keyword_overview (live), United States (2840), English, one call, 18 keywords ($0.01404).
+
+| Keyword | Volume | KD | Intent |
+| --- | --- | --- | --- |
+| slovenia currency | 2900 | 2 | informational |
+| cayman islands currency | 1900 | 12 | informational |
+| best time to visit the caribbean | 1600 | 0 | informational |
+| best time to visit cayman islands | 880 | 0 | informational |
+| best time to visit grand cayman | 880 | 0 | informational |
+| best time to visit caribbean | 720 | 0 | informational |
+| best time to visit scandinavia | 720 | 0 | informational |
+| best time to visit slovenia | 720 | 0 | informational |
+| best time to visit south america | 720 | 0 | informational |
+| best time to visit southeast asia | 720 | 0 | informational |
+| grand cayman weather by month | 320 | 0 | informational |
+| slovenia weather by month | 210 | 0 | informational |
+| best time to visit central america | 170 | 0 | informational |
+| cayman islands weather by month | 170 | 0 | informational |
+| best time to visit the balkans | 110 | 2 | informational |
+| best time to visit lake bled | 30 | 0 | informational |
+| best time to visit south america weather | 10 |  | informational |
+
+### Pick, 22 November 2026
+
+10. **best time to visit south america** — 720, KD 0, informational. URL: /journal/best-time-to-visit-south-america/.
+
+Why: KD 0, informational, and answerable from the five South American country-sheet station tables already on the site (Bogotá El Dorado, Granja Kcayra, Brasília, Buenos Aires Observatorio, Santiago Quinta Normal), our month-list rule, and two new dated official sources (PROMPERÚ's Peru.travel climate page and SERNATUR's Chile Travel climate page, both read 22 November 2026). Links to all five sheets, all 12 month lists, the plug list and the 112 story. No cannibalization: no list page or story covers South America as a whole; per-country "best time to visit peru/chile/..." queries stay with the sheets. Red team: five stations are not a continent, and the story says so; no prices, crowds or flight times; Peru.travel's season labels are flagged as reversed and its "0 °F" figure is not used.
+
+Rejected: best time to visit the caribbean (1,600 + 720, KD 0) — the 15 November hurricane-season story already makes the December–April call from eight Caribbean rain tables, so a separate story would cannibalize it; better handled by expanding that story (add the Cayman, Barbados, Curaçao, USVI rows). Scandinavia (720) — no Denmark sheet yet; the Europe story now covers Oslo/Stockholm/Helsinki ("July is the only month all three pass"). Southeast Asia (720) — Vietnam and Bali have no climate table.
+
+Country picks: Cayman Islands (best time 880, grand cayman 880, weather by month 170 + 320, currency 1,900) and Slovenia (best time 720, weather by month 210, currency 2,900). Both have complete NCEI 1991–2020 files.

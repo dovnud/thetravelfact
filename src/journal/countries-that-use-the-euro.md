@@ -4,11 +4,12 @@ slug: countries-that-use-the-euro
 kicker: "Money"
 dek: "The euro is the official currency of 21 of the EU's 27 countries, and Bulgaria is the newest member. Prague, Budapest, Kraków, Zürich, London and Reykjavík are not on the euro."
 published: "2026-11-15"
-updated: "2026-11-20"
+updated: "2026-11-22"
 photo: prague
 related:
   - /austria/
   - /belgium/
+  - /slovenia/
   - /croatia/
   - /france/
   - /germany/
@@ -74,7 +75,7 @@ The ECB's table gives the year each country adopted the euro. The euro launched 
 | Netherlands | 1999 (cash 2002) | [Netherlands](/netherlands/#money), [Amsterdam](/netherlands/amsterdam/) |
 | Portugal | 1999 (cash 2002) | [Portugal](/portugal/#money), [Lisbon](/portugal/lisbon/) |
 | Slovakia | 2009 | – |
-| Slovenia | 2007 | – |
+| Slovenia | 2007 | [Slovenia](/slovenia/#money) |
 | Spain | 1999 (cash 2002) | [Spain](/spain/#money), [Madrid](/spain/madrid/), [Barcelona](/spain/barcelona/), [Seville](/spain/seville/), [Mallorca](/spain/mallorca/), [Valencia](/spain/valencia/) |
 
 Two of those dates matter more than the rest to anyone using an old guidebook. **Croatia** switched in 2023, so anything printed before that will tell you to bring kuna. **Bulgaria** is the newest member, listed by the ECB as using the euro since 2026, and the EU page updated on 12 January 2026 counts it among the 21. Each of our twelve euro-country sheets prints the ISO 4217 line "Euro (EUR)".

@@ -1804,5 +1804,67 @@
    "sourceTitle": "GOV.UK FCDO travel advice, Montenegro: Getting help",
    "sourceUrl": "https://www.gov.uk/foreign-travel-advice/montenegro/getting-help"
   }
+ },
+ "cayman-islands": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for the Cayman Islands is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 21 May 2026. Its summary opens: \"Exercise normal precaution in the Cayman Islands.\" It adds that the Cayman Islands is generally a safe destination and that accessibility of medical services for routine and emergency procedures may be limited. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-22",
+   "sourceTitle": "U.S. Department of State, Cayman Islands Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cym.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC says to consider typhoid vaccine for travel to areas with poor sanitation, stays of a month or more, or visits to friends or relatives. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are not commonly found in the Cayman Islands. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-22",
+   "sourceTitle": "CDC Travelers' Health, Cayman Islands",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/cayman-islands"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "911",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for the Cayman Islands, under Emergency services, lists 911 for ambulance, fire, police and the police marine unit, and 911 for the divers' hyperbaric chamber. It lists the Royal Cayman Islands Coast Guard at (345) 649 6722.",
+   "asOf": "2026-11-22",
+   "sourceTitle": "GOV.UK FCDO travel advice, Cayman Islands: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/cayman-islands/getting-help"
+  }
+ },
+ "slovenia": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Slovenia is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 15 May 2026. Its summary opens: \"Exercise normal precaution in Slovenia.\" It adds that pickpocketing and purse snatching are common in tourist areas, city centres and transport hubs, and to exercise caution in the Julian Alps. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-22",
+   "sourceTitle": "U.S. Department of State, Slovenia Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.svn.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, tick-borne encephalitis for some",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60; travelers 60 and older may get vaccinated. CDC lists tick-borne encephalitis vaccine for travelers to TBE-endemic areas who will have extensive exposure to ticks through outdoor activities. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are not commonly found in Slovenia. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-22",
+   "sourceTitle": "CDC Travelers' Health, Slovenia",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/slovenia"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Police 113 · Ambulance, fire, mountain rescue 112",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Slovenia, under Emergency services, lists police 113 and ambulance, fire and mountain rescue 112. The Slovenian Tourist Board's practical-information page gives the same two numbers: 112 for the notification centre (emergency medical help, fire brigades, rescue units) and 113 for police emergencies.",
+   "asOf": "2026-11-22",
+   "sources": [
+    {
+     "sourceTitle": "GOV.UK FCDO travel advice, Slovenia: Getting help",
+     "sourceUrl": "https://www.gov.uk/foreign-travel-advice/slovenia/getting-help",
+     "asOf": "2026-11-22"
+    },
+    {
+     "sourceTitle": "Slovenian Tourist Board (slovenia.info), Practical information",
+     "sourceUrl": "https://www.slovenia.info/en/plan-your-trip/practical-information",
+     "asOf": "2026-11-22"
+    }
+   ]
+  }
  }
 }

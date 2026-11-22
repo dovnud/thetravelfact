@@ -1016,4 +1016,20 @@ export const photos: Record<string, PhotoCredit> = {
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
     page: "https://commons.wikimedia.org/wiki/File:View_of_Kotor_bay_and_old_town.jpg",
   },
+  "cayman-islands": {
+    src: "/photos/cayman-islands.jpg",
+    alt: "Resorts on Seven Mile Beach, Grand Cayman",
+    artist: "RoadTripWarrior",
+    license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    page: "https://commons.wikimedia.org/wiki/File:Resorts_on_Seven_Mile_Beach,_Grand_Cayman.jpg",
+  },
+  "slovenia": {
+    src: "/photos/slovenia.jpg",
+    alt: "Bled Island and its church in Lake Bled, Slovenia",
+    artist: "Jakub Hałun",
+    license: "CC BY 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Bled_Island_in_Lake_Bled,_Slovenia,_20240504_0901_8297.jpg",
+  },
 };

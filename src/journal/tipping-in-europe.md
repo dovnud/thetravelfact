@@ -4,7 +4,7 @@ slug: tipping-in-europe
 kicker: "Money"
 dek: "Do you tip in Europe? Usually a little, rarely 20%. We read the official tourism pages for 21 European countries on our sheets: most say service is included or a tip is optional, and the figures they do give run from rounding up to 15%."
 published: "2026-11-20"
-updated: "2026-11-21"
+updated: "2026-11-22"
 photo: belgium
 feature: true
 related:
@@ -163,7 +163,7 @@ France and Belgium go the other way: the official pages say service is already i
 
 Only two of the pages say anything about how to pay a tip. Holland.com says a debit-card payment in [the Netherlands](/netherlands/#tipping) can include the tip. Visit Hungary says staff prefer a cash tip even when you pay the bill by card. None of the other pages we read addresses card terminals, so we are not going to guess what the screen will ask you in Rome or Madrid.
 
-If you do tip in cash, tip in the local currency. Thirteen of our European country sheets are on the euro, including [Montenegro](/montenegro/#money), which is outside the EU, but [Switzerland](/switzerland/#money) (franc), [the UK](/united-kingdom/#money) (pound), [Czechia](/czechia/#money), [Hungary](/hungary/#money), [Poland](/poland/#money), [Sweden](/sweden/#money) and [Norway](/norway/#money) are not. Our [euro story](/journal/countries-that-use-the-euro/) lists them all.
+If you do tip in cash, tip in the local currency. Fourteen of our European country sheets are on the euro, including [Slovenia](/slovenia/#money) and [Montenegro](/montenegro/#money), which is outside the EU, but [Switzerland](/switzerland/#money) (franc), [the UK](/united-kingdom/#money) (pound), [Czechia](/czechia/#money), [Hungary](/hungary/#money), [Poland](/poland/#money), [Sweden](/sweden/#money) and [Norway](/norway/#money) are not. Our [euro story](/journal/countries-that-use-the-euro/) lists them all.
 
 ## Taxis, hotels and guides
 
