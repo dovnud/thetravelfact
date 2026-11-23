@@ -332,3 +332,88 @@ Why: KD 0, informational, and answerable from the five South American country-sh
 Rejected: best time to visit the caribbean (1,600 + 720, KD 0) — the 15 November hurricane-season story already makes the December–April call from eight Caribbean rain tables, so a separate story would cannibalize it; better handled by expanding that story (add the Cayman, Barbados, Curaçao, USVI rows). Scandinavia (720) — no Denmark sheet yet; the Europe story now covers Oslo/Stockholm/Helsinki ("July is the only month all three pass"). Southeast Asia (720) — Vietnam and Bali have no climate table.
 
 Country picks: Cayman Islands (best time 880, grand cayman 880, weather by month 170 + 320, currency 1,900) and Slovenia (best time 720, weather by month 210, currency 2,900). Both have complete NCEI 1991–2020 files.
+
+
+## 23 November 2026
+
+Pulled 2026-11-23 (America/Los_Angeles), DataForSEO Labs keyword_overview (live), United States (2840), English, two calls: 35 country-pick keywords ($0.0162) and 34 verification and journal-candidate keywords ($0.01584). Total $0.03204. 67 keywords returned.
+
+| Keyword | Volume | KD | Intent |
+| --- | --- | --- | --- |
+| cherry blossom season japan | 33100 | 11 | informational |
+| best time to visit bora bora | 5400 | 0 | informational |
+| best time to visit tahiti and bora bora | 5400 | 0 | informational |
+| best time to visit st lucia | 4400 | 0 | informational |
+| best time to visit turks and caicos | 2900 | 0 | informational |
+| nepal currency | 2900 | 19 | informational |
+| monsoon season india | 1900 | 37 | informational |
+| when is monsoon season in thailand | 1900 | 13 | informational |
+| best time to go to the caribbean | 1600 | 0 | informational |
+| best time to visit antigua | 1600 | 0 | informational |
+| best time to visit the caribbean | 1600 | 0 | informational |
+| best time to visit kenya | 1300 | 1 | informational |
+| antigua currency | 1000 | 12 | informational |
+| best time to visit africa | 1000 | 0 | informational |
+| best time to visit ecuador | 1000 | 0 | informational |
+| bora bora currency | 1000 | 3 | informational |
+| when is rainy season in thailand | 1000 | 7 | informational |
+| best time to visit cambodia | 880 | 0 | informational |
+| best time to visit malta | 880 | 0 | informational |
+| best time to visit caribbean | 720 | 0 | informational |
+| best time to visit jordan | 720 | 0 | informational |
+| best time to visit nepal | 720 | 0 | informational |
+| when is monsoon season in india | 720 | 33 | informational |
+| best time to visit albania | 590 | 0 | informational |
+| best time to visit grenada | 590 | 0 | informational |
+| best time to visit denmark | 480 | 4 | informational |
+| bora bora weather by month | 480 | 0 | informational |
+| antigua weather by month | 390 | 0 | informational |
+| best time to visit laos | 390 | 0 | informational |
+| best time to visit uruguay | 390 | 0 | informational |
+| uruguay weather by month | 390 | 0 | informational |
+| best time to visit oman | 320 | 0 | informational |
+| best time to visit tunisia | 320 | 0 | informational |
+| bora bora rainy season | 320 | 0 | informational |
+| rainy season in the caribbean | 320 | 0 | informational |
+| best time to visit asia | 260 | 0 | informational |
+| best time to visit romania | 260 | 0 | informational |
+| cyprus weather by month | 260 | 10 | informational |
+| monsoon season in nepal | 260 | 0 | informational |
+| best time to visit cyprus | 210 | 0 | informational |
+| monsoon season in asia | 210 | 13 | informational |
+| best time to visit central america | 170 | 0 | informational |
+| best time to visit estonia | 170 | 0 | informational |
+| best time to visit latvia | 140 | 0 | informational |
+| nepal weather by month | 140 | 0 | informational |
+| romania weather by month | 140 | 0 | informational |
+| warmest places in europe in winter | 140 | 1 | informational |
+| best time to visit bulgaria | 110 | 0 | informational |
+| best time to visit japan and korea | 110 | 0 | informational |
+| best time to visit qatar | 110 | 0 | informational |
+| best time to visit serbia | 110 | 0 | informational |
+| best time to visit the south pacific | 110 | 3 | informational |
+| grenada weather by month | 110 | 0 | informational |
+| best time to visit antigua and barbuda | 90 | 0 | informational |
+| best time to visit everest base camp | 90 | 0 | informational |
+| best time to visit lithuania | 90 | 0 | informational |
+| nepal plug type | 90 | 0 | transactional |
+| rainy season in central america | 90 | 0 | informational |
+| when is monsoon season in asia | 90 | 9 | informational |
+| best time to visit luxembourg | 70 | 0 | informational |
+| best time to visit the himalayas | 50 | 0 | informational |
+| best time to visit slovakia | 40 | 0 | informational |
+| antigua plug type | 20 |  | transactional |
+| best time to visit east asia | 10 |  | informational |
+| best time to visit indian ocean islands | 10 |  | commercial |
+| best time to visit tropical islands | 10 |  | informational |
+| dry season in the caribbean | 10 | 0 | informational |
+
+### Pick, 23 November 2026
+
+11. **best time to visit africa** — 1,000, KD 0, informational. URL: /journal/best-time-to-visit-africa/.
+
+Why: the highest-volume KD-0 informational query in the pull that is not a single sheet's own query and not already covered by a story. It is answerable from the seven African station tables already on the site (Rabat-Salé, Marrakech, Cairo A.P., Cape Town International Airport, Dar es Salaam, Plaisance, Seychelles International Airport), our month-list rule, and two new dated official sources (South African Tourism's best-times page and Tanzania National Parks' trip-planning page, both read 23 November 2026). Answer: October and November are the only months five of the seven stations pass. Links to all six African country sheets, the Marrakech sheet, all 12 month lists, the plug and drive-on-the-left lists, the 112 story and the Europe story. No cannibalization: no list page or story covers Africa as a whole; per-country "best time to visit morocco/egypt/..." queries stay with the sheets. Red team: seven stations are not a continent, and the story says so (no Kenya, Serengeti, Kruger, Sahara or Madagascar table); South African Tourism's safari-province advice is quoted, not scored; TANAPA's seasons are matched to the Dar es Salaam table, not to the northern parks; no prices, crowds, wildlife timing or flight times.
+
+Rejected: cherry blossom season japan (33,100, KD 11) — needs a dated JMA bloom-date source we have not opened, and would sit close to the Japan sheets; when is monsoon season in thailand (1,900, KD 13) and when is rainy season in thailand (1,000, KD 7) — overlap the Thailand and Bangkok sheets' best-time sections; monsoon season india (1,900, KD 37) — KD too high; best time to go to the caribbean / best time to visit the caribbean (1,600 each, KD 0) — belongs in an expansion of the hurricane-season story, not a new story (still open; Antigua now adds a ninth Caribbean table); best time to visit tahiti and bora bora (5,400) and bora bora rainy season (320) — served by the new Bora Bora city sheet and the French Polynesia sheet; best time to visit asia (260) and central america (170) — lower volume, next candidates.
+
+Country picks: Antigua and Barbuda (best time to visit antigua 1,600, antigua currency 1,000, antigua weather by month 390) and Nepal (nepal currency 2,900, best time 720, weather by month 140, monsoon season in nepal 260). Both have complete NCEI 1991–2020 files (V.C. Bird 78862; Kathmandu 44454). Higher-demand candidates skipped: Saint Lucia (4,400; NCEI file has no max/min rows), Turks and Caicos (2,900) and Kenya (1,300) and Ecuador (1,000) (no usable normal found earlier), Malta (880; no NCEI folder), Cambodia (880) and Jordan (720) and Albania (590) (no NCEI folder in the 1991–2020 collection). Next in line: Grenada (590 + 110; complete Maurice Bishop 78958 file checked today), Romania (260 + 140, currency 9,900; 26 station files incl. Bucuresti Baneasa), Uruguay (390 + 390), Cyprus (210 + 260; Larnaka/Pafos/Athalassa files), Denmark still blocked.
