@@ -16,6 +16,7 @@ related:
   - /aruba/
   - /puerto-rico/
   - /cayman-islands/
+  - /antigua-and-barbuda/
   - /mexico/cancun/
   - /united-states/miami/
   - /mexico/

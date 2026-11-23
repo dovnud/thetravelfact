@@ -1866,5 +1866,57 @@
     }
    ]
   }
+ },
+ "antigua-and-barbuda": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Antigua and Barbuda is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 20 May 2026. Its summary opens: \"Exercise normal precaution in Antigua and Barbuda.\" It adds that Antigua and Barbuda is generally a safe destination for travelers and that it regularly experiences hurricanes. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-23",
+   "sourceTitle": "U.S. Department of State, Antigua and Barbuda Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.atg.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC says to consider typhoid vaccine for travel to areas with poor sanitation, stays of a month or more, or visits to friends or relatives. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are not commonly found in Antigua and Barbuda. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-23",
+   "sourceTitle": "CDC Travelers' Health, Antigua and Barbuda",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/antigua-and-barbuda"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "999 or 911",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Antigua and Barbuda, under Emergency services, lists 999 or 911 for ambulance, fire and police.",
+   "asOf": "2026-11-23",
+   "sourceTitle": "GOV.UK FCDO travel advice, Antigua and Barbuda: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda/getting-help"
+  }
+ },
+ "nepal": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Nepal is Level 2, \"Exercise Increased Caution\". The State Department's feed dates this advisory 4 September 2026. Its summary says to exercise increased caution in Nepal due to natural disasters, and that some areas have increased risk. It says Nepal regularly experiences earthquakes, floods and landslides, that earthquakes can happen suddenly, including in the Kathmandu Valley, and that during the monsoon season from June to September heavy rain can cause flash floods and landslides. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-23",
+   "sourceTitle": "U.S. Department of State, Nepal Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B, typhoid; malaria pills for some areas",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60; travelers 60 and older may get vaccinated. Typhoid vaccine is recommended for most travelers. CDC lists Japanese encephalitis vaccine for longer stays or higher-risk activities in affected areas, and says vaccination may be considered for cholera, which it calls widespread in Nepal. CDC recommends malaria-prevention medicine for certain areas, names Sudurpashchim and Karnali provinces below 2,000 m as transmission areas, and says there is no malaria transmission in Kathmandu, Pokhara, or on typical Himalayan treks. CDC does not recommend yellow fever vaccine for this destination; the page lists the country's own entry rule separately. Dogs infected with rabies are commonly found in Nepal. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-23",
+   "sourceTitle": "CDC Travelers' Health, Nepal",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/nepal"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "Police 100 · Tourist police 1144 · Fire 101 · Ambulance 102",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Nepal, under Emergency services, lists police 100, the tourist police 1144 (which it says have good English language skills), fire 101 and ambulance 102. Nepal does not use 112 on this list.",
+   "asOf": "2026-11-23",
+   "sourceTitle": "GOV.UK FCDO travel advice, Nepal: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/nepal/getting-help"
+  }
  }
 }

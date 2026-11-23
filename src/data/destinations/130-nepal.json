@@ -1,0 +1,271 @@
+{
+  "order": 130,
+  "id": "nepal",
+  "kind": "country",
+  "name": "Nepal",
+  "countrySlug": "nepal",
+  "countryName": "Nepal",
+  "path": "/nepal/",
+  "dek": "Kathmandu, WMO 44454, at 1,337 m. The capital valley, not the Himalaya, not the Terai.",
+  "paragraphs": [
+    "The reference station is Kathmandu, WMO 44454, height 1,337 m, in the Kathmandu Valley. The same NOAA NCEI folder has files for Bhairahawa, Biratnagar, Dadeldhura, Dang, Dhangadhi, Dhankuta, Dipayal, Jumla, Nepalgunj, Okhaldhunga, Pokhara, Simara, Surkhet and Taplejung. None was averaged with Kathmandu. There is no file for the high trekking regions, so Everest, Annapurna and Langtang are not this table.",
+    "The highest average high in the table is 29.5 °C, in June. The lowest average low is 2.8 °C, in January. The wettest month by the precipitation column is July, at 383.8 mm, and the driest is November, at 6.4 mm. June to September each get more than 200 mm, and those four months hold 1,176.3 mm of the 1,502.6 mm annual total the file prints. November and December each get under 10 mm."
+  ],
+  "climate": {
+    "caption": "Reference station: Kathmandu, WMO 44454, at 1,337 m in the Kathmandu Valley. Pokhara, Jumla, Biratnagar and eleven other Nepal files are in the same collection and were not averaged with it. The high Himalaya and the Terai plains are not this table.",
+    "stationName": "Kathmandu",
+    "stationId": "WMO 44454",
+    "period": "1991-2020",
+    "elevation": "1337 m",
+    "latitude": "27|42|13|N",
+    "longitude": "085|21|22|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "19.2",
+        "low": "2.8",
+        "rain": "15.2",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "22.1",
+        "low": "5.3",
+        "rain": "23.6",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "26.0",
+        "low": "8.8",
+        "rain": "38.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "28.6",
+        "low": "12.3",
+        "rain": "63.1",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "29.2",
+        "low": "16.1",
+        "rain": "128.9",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "29.5",
+        "low": "19.3",
+        "rain": "242.0",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "28.7",
+        "low": "20.3",
+        "rain": "383.8",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "29.0",
+        "low": "20.2",
+        "rain": "342.7",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "28.6",
+        "low": "18.8",
+        "rain": "207.8",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "27.2",
+        "low": "13.9",
+        "rain": "43.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "23.6",
+        "low": "8.4",
+        "rain": "6.4",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "20.2",
+        "low": "4.2",
+        "rain": "7.8",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0.",
+    "sourceTitle": "WMO climate normals 1991-2020, Kathmandu (44454)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/Nepal/CSV/Kathmandu_44454.csv",
+    "asOf": "2026-11-23"
+  },
+  "season": [
+    "The U.S. State Department's travel advisory for Nepal says the monsoon season runs from June to September, and that heavy rain can cause flash floods and landslides that block roads and damage buildings."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C, D, and M, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Nepal at 230 V and 50 Hz with plug types C, D and M. A direct download of the live page did not return the list, so the archive is the copy that was read.",
+    "asOf": "2026-11-23",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Taxis: no tip expected (Nepal Tourism Board)",
+    "detail": "The Nepal Tourism Board's local-transportation page says of Kathmandu's metered taxis: \"No tip is expected.\" The page says nothing about restaurants, hotels, guides or porters, and no other official tipping line was found, so none is printed.",
+    "asOf": "2026-11-23",
+    "sourceTitle": "Nepal Tourism Board, Local transportation in Nepal",
+    "sourceUrl": "https://ntb.gov.np/en/plan-your-trip/before-you-come/transportation-in-kathmandu-valley-&-nepal"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Nepal Tourism Board: bottled, or boiled and filtered, only",
+    "detail": "The Nepal Tourism Board's FAQ, under health precautions, says: \"Use only bottled mineral water or boiled and filtered water only.\" CDC's traveler page for Nepal, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe; it lists cholera as actively transmitted in Nepal and says avoiding unsafe food and water helps prevent it. This page does not turn either into medical advice.",
+    "asOf": "2026-11-23",
+    "sources": [
+      {
+        "sourceTitle": "Nepal Tourism Board, FAQ",
+        "sourceUrl": "https://trade.ntb.gov.np/faq/",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "CDC Travelers' Health, Nepal",
+        "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/nepal",
+        "asOf": "2026-11-23"
+      }
+    ]
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Nepalese Rupee (NPR)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives Nepal the currency name Nepalese Rupee and the code NPR, with 2 decimal places. The Nepal Tourism Board's FAQ says the rupee is divided into 100 paisa and that it is illegal to exchange foreign currency with anyone other than authorised dealers such as banks, hotels and licensed money changers.",
+    "asOf": "2026-11-23",
+    "sources": [
+      {
+        "sourceTitle": "ISO 4217 currency list (SIX)",
+        "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "Nepal Tourism Board, FAQ",
+        "sourceUrl": "https://trade.ntb.gov.np/faq/",
+        "asOf": "2026-11-23"
+      }
+    ]
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Kathmandu",
+    "detail": "IANA's zone.tab and zone1970.tab each give Nepal one row, Asia/Kathmandu. The backward file keeps the older spelling Asia/Katmandu as a link to Asia/Kathmandu.",
+    "asOf": "2026-11-23",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-23"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Nepal Tourism Board",
+    "url": "https://ntb.gov.np/en/plan-your-trip/before-you-come/tourist-visa",
+    "note": "The Nepal Tourism Board's tourist-visa page, which links to the Department of Immigration's online form. The Department of Immigration's own site did not answer our requests, so the tourism board's page is linked instead. We do not restate a visa rule.",
+    "asOf": "2026-11-23"
+  },
+  "bestTime": {
+    "intro": "Month by month for Kathmandu, from the table above (1991–2020, 1,337 m). The rule line is our month-list test, not a recommendation: it rewards an average high of 20–30 °C and under 100 mm, and in Kathmandu February, March, April, October, November and December clear both. The Nepal Tourism Board's FAQ says the mid-hills, including Kathmandu and Pokhara, are cool except in the summer months from May to July, and that for trekking the best months for walking are September to November and February to May. The State Department's advisory puts the monsoon at June to September. The mountains are not this table.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 19.2 °C, low 2.8 °C, 15.2 mm. The lowest average high and the lowest average low in the Kathmandu table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "February",
+        "note": "Average high 22.1 °C, low 5.3 °C, 23.6 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm). Inside the Nepal Tourism Board's best walking months for trekkers (September to November and February to May)."
+      },
+      {
+        "month": "March",
+        "note": "Average high 26.0 °C, low 8.8 °C, 38.0 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm). Inside the Nepal Tourism Board's best walking months for trekkers (September to November and February to May)."
+      },
+      {
+        "month": "April",
+        "note": "Average high 28.6 °C, low 12.3 °C, 63.1 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm). Inside the Nepal Tourism Board's best walking months for trekkers (September to November and February to May)."
+      },
+      {
+        "month": "May",
+        "note": "Average high 29.2 °C, low 16.1 °C, 128.9 mm. Fails our month-list rule on precipitation (100 mm or more). Inside the Nepal Tourism Board's best walking months for trekkers (September to November and February to May)."
+      },
+      {
+        "month": "June",
+        "note": "Average high 29.5 °C, low 19.3 °C, 242.0 mm. The highest average high in the Kathmandu table. Fails our month-list rule on precipitation (100 mm or more). Inside the June-to-September monsoon season named in the State Department's advisory."
+      },
+      {
+        "month": "July",
+        "note": "Average high 28.7 °C, low 20.3 °C, 383.8 mm. The highest average low and the wettest month in the Kathmandu table. Fails our month-list rule on precipitation (100 mm or more). Inside the June-to-September monsoon season named in the State Department's advisory."
+      },
+      {
+        "month": "August",
+        "note": "Average high 29.0 °C, low 20.2 °C, 342.7 mm. Fails our month-list rule on precipitation (100 mm or more). Inside the June-to-September monsoon season named in the State Department's advisory."
+      },
+      {
+        "month": "September",
+        "note": "Average high 28.6 °C, low 18.8 °C, 207.8 mm. Fails our month-list rule on precipitation (100 mm or more). Inside the June-to-September monsoon season named in the State Department's advisory. Inside the Nepal Tourism Board's best walking months for trekkers (September to November and February to May)."
+      },
+      {
+        "month": "October",
+        "note": "Average high 27.2 °C, low 13.9 °C, 43.3 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm). Inside the Nepal Tourism Board's best walking months for trekkers (September to November and February to May)."
+      },
+      {
+        "month": "November",
+        "note": "Average high 23.6 °C, low 8.4 °C, 6.4 mm. The driest month in the Kathmandu table. Passes our month-list rule (average high 20–30 °C, under 100 mm). Inside the Nepal Tourism Board's best walking months for trekkers (September to November and February to May)."
+      },
+      {
+        "month": "December",
+        "note": "Average high 20.2 °C, low 4.2 °C, 7.8 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Kathmandu (44454)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/Nepal/CSV/Kathmandu_44454.csv",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "Nepal Tourism Board, FAQ",
+        "sourceUrl": "https://trade.ntb.gov.np/faq/",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "U.S. Department of State, Nepal Travel Advisory",
+        "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.npl.html",
+        "asOf": "2026-11-23"
+      }
+    ],
+    "asOf": "2026-11-23"
+  }
+}

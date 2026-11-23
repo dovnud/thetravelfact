@@ -1,0 +1,267 @@
+{
+  "order": 129,
+  "id": "antigua-and-barbuda",
+  "kind": "country",
+  "name": "Antigua and Barbuda",
+  "countrySlug": "antigua-and-barbuda",
+  "countryName": "Antigua and Barbuda",
+  "path": "/antigua-and-barbuda/",
+  "dek": "V.C. Bird International Airport, WMO 78862, on Antigua. Drive on the left. Not Barbuda.",
+  "paragraphs": [
+    "The reference station is V.C. Bird International Airport (VCBIA), WMO 78862, height 62 m, on Antigua. NOAA NCEI's 1991–2020 collection has one Antigua and Barbuda file, and this is it, so Barbuda has no table on this sheet. The file prints the station's longitude as 61|81|75 W, which cannot be a real minutes-and-seconds value, so no position is printed.",
+    "The highest average high in the table is 31.1 °C, in August and September. The lowest average low is 22.5 °C, in February. The wettest month by the precipitation column is November, at 134.6 mm, and the driest is March, at 37.7 mm. Every month averages a high of at least 28.2 °C, so the months turn on rain and the hurricane season, not on temperature. December to July each have under 100 mm; August to November each have 100 mm or more. The average high passes 30 °C from May to October."
+  ],
+  "climate": {
+    "caption": "Reference station: V.C. Bird International Airport (VCBIA), WMO 78862, on Antigua. It is the only Antigua and Barbuda file in the collection; Barbuda has no table here.",
+    "stationName": "V.C. Bird International Airport",
+    "stationId": "WMO 78862",
+    "period": "1991-2020",
+    "elevation": "62 m",
+    "latitude": null,
+    "longitude": null,
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "28.2",
+        "low": "22.6",
+        "rain": "54.8",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "28.3",
+        "low": "22.5",
+        "rain": "39.2",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "28.7",
+        "low": "22.9",
+        "rain": "37.7",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "29.4",
+        "low": "23.6",
+        "rain": "66.9",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.1",
+        "low": "24.5",
+        "rain": "89.6",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "30.6",
+        "low": "25.3",
+        "rain": "63.3",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "30.8",
+        "low": "25.4",
+        "rain": "80.9",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.1",
+        "low": "25.6",
+        "rain": "100.2",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.1",
+        "low": "25.2",
+        "rain": "125.5",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "30.6",
+        "low": "24.6",
+        "rain": "128.3",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "29.8",
+        "low": "24.1",
+        "rain": "134.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "28.8",
+        "low": "23.4",
+        "rain": "80.7",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0. The file prints the longitude as 61|81|75|W, which is not a valid degrees-minutes-seconds value, so the position is not printed here.",
+    "sourceTitle": "WMO climate normals 1991-2020, V.C Bird International Airport (VCBIA) (78862)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/AntiguaAndBarbuda/CSV/VCBirdInternationalAirportVCBIA_78862.csv",
+    "asOf": "2026-11-23"
+  },
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November, and that the Atlantic basin includes the Atlantic Ocean, the Caribbean Sea and the Gulf of America.",
+    "The same page puts the peak of the Atlantic season at 10 September, with most activity between mid-August and mid-October."
+  ],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type A and B, 230 V, 60 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Antigua and Barbuda at 230 V and 60 Hz with plug types A and B. The Antigua and Barbuda Tourism Authority's FAQ, read 23 November 2026, gives different power: 240 volts, 50 cycles AC, with a few hotels at 110 volts, 60 cycles, and says adaptors are generally available at the resorts. The two sources disagree on voltage and frequency; both are printed and neither is picked. Check the socket and your device's label.",
+    "asOf": "2026-11-23",
+    "sources": [
+      {
+        "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+        "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "Antigua and Barbuda Tourism Authority, FAQ",
+        "sourceUrl": "https://www.visitantiguabarbuda.com/faq/",
+        "asOf": "2026-11-23"
+      }
+    ]
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Antigua and Barbuda Tourism Authority's getting-around page says: \"We drive on the left-side of the road here, and most vehicles are right-hand drive.\" The same page says renters need a valid licence from home and must buy a temporary Antiguan driving permit, which it puts at an EC$50 fee. No Vehicles and Road Traffic Act text was opened.",
+    "asOf": "2026-11-23",
+    "sourceTitle": "Antigua and Barbuda Tourism Authority, Getting Around",
+    "sourceUrl": "https://www.visitantiguabarbuda.com/getting-around/"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Antigua and Barbuda, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. This page does not turn that into medical advice.",
+    "asOf": "2026-11-23",
+    "sourceTitle": "CDC Travelers' Health, Antigua and Barbuda",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/antigua-and-barbuda"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "East Caribbean Dollar (XCD)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives Antigua and Barbuda the currency name East Caribbean Dollar and the code XCD, with 2 decimal places. The Tourism Authority's FAQ adds that many establishments also accept US dollars.",
+    "asOf": "2026-11-23",
+    "sources": [
+      {
+        "sourceTitle": "ISO 4217 currency list (SIX)",
+        "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "Antigua and Barbuda Tourism Authority, FAQ",
+        "sourceUrl": "https://www.visitantiguabarbuda.com/faq/",
+        "asOf": "2026-11-23"
+      }
+    ]
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Antigua",
+    "detail": "IANA's zone.tab gives Antigua and Barbuda one row, America/Antigua. zone1970.tab puts Antigua and Barbuda on the America/Puerto_Rico row it shares with Puerto Rico and other Caribbean places, commented AST, and the backward file links America/Antigua to America/Puerto_Rico. The sheet prints the zone.tab name.",
+    "asOf": "2026-11-23",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-23"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Department of Immigration, Antigua and Barbuda",
+    "url": "https://immigration.gov.ag/visa-services/general-visa-information/",
+    "note": "The Department of Immigration's general visa information page, with links to visas on arrival and the visa-exempt country list. We do not restate a visa rule.",
+    "asOf": "2026-11-23"
+  },
+  "bestTime": {
+    "intro": "Month by month for Antigua, from the V.C. Bird International Airport table above (1991–2020, 62 m) and the U.S. National Hurricane Center's Atlantic season window. The rule line is our month-list test, not a recommendation: it rewards an average high of 20–30 °C and under 100 mm, and at V.C. Bird January, February, March, April and December clear both. The hurricane dates are official season dates, not a forecast; NHC says activity sometimes occurs before and after them.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 28.2 °C, low 22.6 °C, 54.8 mm. The lowest average high in the V.C. Bird table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "February",
+        "note": "Average high 28.3 °C, low 22.5 °C, 39.2 mm. The lowest average low in the V.C. Bird table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "March",
+        "note": "Average high 28.7 °C, low 22.9 °C, 37.7 mm. The driest month in the V.C. Bird table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "April",
+        "note": "Average high 29.4 °C, low 23.6 °C, 66.9 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "May",
+        "note": "Average high 30.1 °C, low 24.5 °C, 89.6 mm. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "June",
+        "note": "Average high 30.6 °C, low 25.3 °C, 63.3 mm. Fails our month-list rule on heat: the average high is above 30 °C. Inside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "July",
+        "note": "Average high 30.8 °C, low 25.4 °C, 80.9 mm. Fails our month-list rule on heat: the average high is above 30 °C. Inside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "August",
+        "note": "Average high 31.1 °C, low 25.6 °C, 100.2 mm. The highest average high and the highest average low in the V.C. Bird table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season; NHC says most activity falls between mid-August and mid-October."
+      },
+      {
+        "month": "September",
+        "note": "Average high 31.1 °C, low 25.2 °C, 125.5 mm. The highest average high in the V.C. Bird table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season. NHC puts the peak of the season at 10 September, with most activity between mid-August and mid-October."
+      },
+      {
+        "month": "October",
+        "note": "Average high 30.6 °C, low 24.6 °C, 128.3 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season, and inside the mid-August to mid-October stretch NHC names as the busiest."
+      },
+      {
+        "month": "November",
+        "note": "Average high 29.8 °C, low 24.1 °C, 134.6 mm. The wettest month in the V.C. Bird table. Fails our month-list rule on precipitation (100 mm or more). Inside the Atlantic hurricane season (1 June to 30 November)."
+      },
+      {
+        "month": "December",
+        "note": "Average high 28.8 °C, low 23.4 °C, 80.7 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, V.C Bird International Airport (VCBIA) (78862)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/AntiguaAndBarbuda/CSV/VCBirdInternationalAirportVCBIA_78862.csv",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "National Hurricane Center, Tropical Cyclone Climatology",
+        "sourceUrl": "https://www.nhc.noaa.gov/climo/",
+        "asOf": "2026-11-23"
+      }
+    ],
+    "asOf": "2026-11-23"
+  }
+}

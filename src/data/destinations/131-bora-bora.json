@@ -1,0 +1,264 @@
+{
+  "order": 131,
+  "id": "bora-bora",
+  "kind": "city",
+  "name": "Bora Bora",
+  "countrySlug": "french-polynesia",
+  "countryName": "French Polynesia",
+  "path": "/french-polynesia/bora-bora/",
+  "dek": "Bora Bora Motu Aéro, WMO 91929, at 2 m on the airport motu. Bora Bora's own table, not Tahiti's.",
+  "paragraphs": [
+    "The station is the file NOAA NCEI's collection names BORA-BORA-MOTU-AERO, WMO 91929, height 2 m, position 16°26′42″S, 151°45′07″W, on Bora Bora's airport motu. Tahiti Tourisme says Bora Bora is a 50-minute flight from Tahiti's airport. The French Polynesia sheet uses Faa'a on Tahiti (WMO 91938); the two files were not averaged.",
+    "The highest average high in the table is 31.4 °C, in March. The lowest average low is 21.9 °C, in August. The wettest month by the precipitation column is December, at 250.7 mm, and the driest is July, at 61.9 mm. Every month averages a high of at least 28.9 °C, so the months turn on rain. Compared with Faa'a, Bora Bora's driest month is July, at 61.9 mm, where Tahiti's is August, at 41.3 mm, and its wettest is December, at 250.7 mm, against 279.1 mm at Faa'a."
+  ],
+  "climate": {
+    "caption": "Station: Bora Bora Motu Aéro, WMO 91929, on the airport motu, as the file name MOTU-AERO says. Not Tahiti's Faa'a table.",
+    "stationName": "Bora Bora Motu Aéro",
+    "stationId": "WMO 91929",
+    "period": "1991-2020",
+    "elevation": "2 m",
+    "latitude": "16|26|42|S",
+    "longitude": "151|45|07|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "31.1",
+        "low": "24.4",
+        "rain": "245.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "31.1",
+        "low": "24.5",
+        "rain": "211.5",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "31.4",
+        "low": "24.7",
+        "rain": "168.1",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "31.1",
+        "low": "24.5",
+        "rain": "143.9",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.2",
+        "low": "23.6",
+        "rain": "112.0",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "29.3",
+        "low": "22.6",
+        "rain": "85.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "28.9",
+        "low": "22.1",
+        "rain": "61.9",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "29.0",
+        "low": "21.9",
+        "rain": "63.7",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "29.4",
+        "low": "22.3",
+        "rain": "64.6",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "29.9",
+        "low": "23.0",
+        "rain": "108.7",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.7",
+        "low": "23.9",
+        "rain": "138.5",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.8",
+        "low": "24.3",
+        "rain": "250.7",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0.",
+    "sourceTitle": "WMO climate normals 1991-2020, BORA-BORA-MOTU-AERO (91929)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/FrenchPolynesia/CSV/BORA_91929.csv",
+    "asOf": "2026-11-23"
+  },
+  "season": [],
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Not on the IEC world-plugs list",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, has no French Polynesia row. Tahiti Tourisme's FAQ, read 21 November 2026, says only that hotels have 110 and 220 volt alternating current and recommends bringing an adaptor. It names no plug type and no frequency, so none is printed here.",
+    "asOf": "2026-11-23",
+    "sources": [
+      {
+        "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+        "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "Tahiti Tourisme, Frequently Asked Questions",
+        "sourceUrl": "https://www.tahititourisme.com/frequently-asked-questions-faq/",
+        "asOf": "2026-11-23"
+      }
+    ]
+  },
+  "driving": null,
+  "tipping": {
+    "label": "Tipping",
+    "value": "Not expected; service charge included",
+    "detail": "Tahiti Tourisme's FAQ says a tip isn't expected by employees of hotels and restaurants, though it won't be refused, and that since 2007 a service charge has been included in the price of accommodation and restaurant bills. The FAQ covers all of The Islands of Tahiti, Bora Bora included.",
+    "asOf": "2026-11-23",
+    "sourceTitle": "Tahiti Tourisme, Frequently Asked Questions",
+    "sourceUrl": "https://www.tahititourisme.com/frequently-asked-questions-faq/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Tahiti Tourisme: safe to drink in Bora Bora",
+    "detail": "Tahiti Tourisme's FAQ, read 23 November 2026, answers \"Is the water safe to drink?\" with: the water is safe to drink in Bora Bora and parts of Tahiti and Moorea, it is better to ask in the other islands, and if in doubt, drink bottled water. CDC's traveler page for French Polynesia, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. This page does not turn either into medical advice.",
+    "asOf": "2026-11-23",
+    "sources": [
+      {
+        "sourceTitle": "Tahiti Tourisme, Frequently Asked Questions",
+        "sourceUrl": "https://www.tahititourisme.com/frequently-asked-questions-faq/",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "CDC Travelers' Health, French Polynesia",
+        "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/french-polynesia",
+        "asOf": "2026-11-23"
+      }
+    ]
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "CFP Franc (XPF)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives French Polynesia the currency name CFP Franc and the code XPF, with no minor unit (0 decimal places). Bora Bora is in French Polynesia.",
+    "asOf": "2026-11-23",
+    "sourceTitle": "ISO 4217 currency list (SIX)",
+    "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Pacific/Tahiti",
+    "detail": "IANA's zone.tab and zone1970.tab give French Polynesia three rows. Pacific/Tahiti is commented Society Islands, and Bora Bora is one of the Society Islands. The Marquesas and Gambier rows do not apply here.",
+    "asOf": "2026-11-23",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-23"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Haut-commissariat de la République en Polynésie française",
+    "url": "https://www.polynesie-francaise.gouv.fr/Demarches/Accueil-des-etrangers/Conditions-d-entree-des-etrangers-en-Polynesie-francaise",
+    "note": "The French State services' page on entry conditions for foreigners, in French. It says the entry rules for French Polynesia differ from those of mainland France and the other overseas departments and collectivities. We do not restate a visa rule.",
+    "asOf": "2026-11-23"
+  },
+  "bestTime": {
+    "intro": "Month by month for Bora Bora, from the Motu Aéro table above (1991–2020, 2 m). The average high never drops below 28.9 °C, so the months turn on rain. Tahiti Tourisme's FAQ splits the year in two: May to October, which it calls the Season of Renewal, and November to April, the Season of Abundance, with lush landscapes and generous harvests. It does not call either season better. The rule line is our month-list test, not a recommendation: it rewards an average high of 20–30 °C and under 100 mm, and at Bora Bora June, July, August and September clear both.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 31.1 °C, low 24.4 °C, 245.0 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "February",
+        "note": "Average high 31.1 °C, low 24.5 °C, 211.5 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "March",
+        "note": "Average high 31.4 °C, low 24.7 °C, 168.1 mm. The highest average high and the highest average low in the Bora Bora table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more)."
+      },
+      {
+        "month": "April",
+        "note": "Average high 31.1 °C, low 24.5 °C, 143.9 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). The last month of Tahiti Tourisme's November-to-April season."
+      },
+      {
+        "month": "May",
+        "note": "Average high 30.2 °C, low 23.6 °C, 112.0 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). The first month of Tahiti Tourisme's May-to-October Season of Renewal."
+      },
+      {
+        "month": "June",
+        "note": "Average high 29.3 °C, low 22.6 °C, 85.5 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "July",
+        "note": "Average high 28.9 °C, low 22.1 °C, 61.9 mm. The lowest average high and the driest month in the Bora Bora table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "August",
+        "note": "Average high 29.0 °C, low 21.9 °C, 63.7 mm. The lowest average low in the Bora Bora table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "September",
+        "note": "Average high 29.4 °C, low 22.3 °C, 64.6 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "October",
+        "note": "Average high 29.9 °C, low 23.0 °C, 108.7 mm. Fails our month-list rule on precipitation (100 mm or more). The last month of Tahiti Tourisme's May-to-October season."
+      },
+      {
+        "month": "November",
+        "note": "Average high 30.7 °C, low 23.9 °C, 138.5 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). The first month of Tahiti Tourisme's November-to-April Season of Abundance."
+      },
+      {
+        "month": "December",
+        "note": "Average high 30.8 °C, low 24.3 °C, 250.7 mm. The wettest month in the Bora Bora table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, BORA-BORA-MOTU-AERO (91929)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-5-WMO-Normals-9120/FrenchPolynesia/CSV/BORA_91929.csv",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "Tahiti Tourisme, Frequently Asked Questions",
+        "sourceUrl": "https://www.tahititourisme.com/frequently-asked-questions-faq/",
+        "asOf": "2026-11-23"
+      },
+      {
+        "sourceTitle": "Tahiti Tourisme, Bora Bora",
+        "sourceUrl": "https://www.tahititourisme.com/islands/bora-bora/",
+        "asOf": "2026-11-23"
+      }
+    ],
+    "asOf": "2026-11-23"
+  }
+}

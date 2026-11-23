@@ -1032,4 +1032,28 @@ export const photos: Record<string, PhotoCredit> = {
     licenseUrl: "https://creativecommons.org/licenses/by/4.0",
     page: "https://commons.wikimedia.org/wiki/File:Bled_Island_in_Lake_Bled,_Slovenia,_20240504_0901_8297.jpg",
   },
+  "antigua-and-barbuda": {
+    src: "/photos/antigua-and-barbuda.jpg",
+    alt: "Nelson's Dockyard, English Harbour, Antigua",
+    artist: "Dr. Thomas Liptak",
+    license: "CC BY 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Antigua_English_Harbour_Nelson%27s_Dockyard_2.jpg",
+  },
+  "nepal": {
+    src: "/photos/nepal.jpg",
+    alt: "Boudhanath Stupa, Kathmandu, Nepal",
+    artist: "Nabin K. Sapkota",
+    license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Boudha_Stupa_2018_04.jpg",
+  },
+  "bora-bora": {
+    src: "/photos/bora-bora.jpg",
+    alt: "Matira Beach and the lagoon, Bora Bora",
+    artist: "Sba2 (English Wikipedia)",
+    license: "CC BY 2.5",
+    licenseUrl: "https://creativecommons.org/licenses/by/2.5",
+    page: "https://commons.wikimedia.org/wiki/File:Matira_Beach,_Bora_Bora,_French_Polynesia.jpg",
+  },
 };
