@@ -111,9 +111,7 @@
     "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-2-WMO-Normals-9120/Nepal/CSV/Kathmandu_44454.csv",
     "asOf": "2026-11-23"
   },
-  "season": [
-    "The U.S. State Department's travel advisory for Nepal says the monsoon season runs from June to September, and that heavy rain can cause flash floods and landslides that block roads and damage buildings."
-  ],
+  "season": [],
   "plugs": {
     "label": "Plugs and voltage",
     "value": "Type C, D, and M, 230 V, 50 Hz",

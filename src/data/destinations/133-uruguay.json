@@ -1,0 +1,256 @@
+{
+  "order": 133,
+  "id": "uruguay",
+  "kind": "country",
+  "name": "Uruguay",
+  "countrySlug": "uruguay",
+  "countryName": "Uruguay",
+  "path": "/uruguay/",
+  "dek": "Carrasco, WMO 86580, Montevideo's airport. Southern-hemisphere seasons: January is summer, July is winter.",
+  "paragraphs": [
+    "The reference station is Carrasco, WMO 86580, height 33 m, Montevideo's international airport. The NOAA NCEI 1991–2020 collection has 16 Uruguay files, including Prado (WMO 86585) inside Montevideo, Colonia, Rocha, Salto and Artigas. None was averaged with Carrasco, so the warmer, wetter northwest is not this table.",
+    "The highest average high in the table is 27.3 °C, in January. The lowest average low is 6.6 °C, in July. The wettest month by the precipitation column is March, at 112.0 mm, and the driest is May, at 88.0 mm. Every month gets between 88 and 112 mm; the file prints an annual total of 1,163.1 mm. Uruguay is in the southern hemisphere, so the warm months are December to February and the cool months June to August, when the average high stays below 17 °C."
+  ],
+  "season": [],
+  "climate": {
+    "caption": "Reference station: Carrasco, WMO 86580, Montevideo's international airport, at 33 m. The Montevideo Prado file (WMO 86585), Colonia, Rocha, Salto and twelve other Uruguay files are in the same collection and were not averaged with it.",
+    "stationName": "Carrasco",
+    "stationId": "WMO 86580",
+    "period": "1991-2020",
+    "elevation": "33 m",
+    "latitude": "34|49|58|S",
+    "longitude": "56|00|46|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "27.3",
+        "low": "17.9",
+        "rain": "93.0",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "26.7",
+        "low": "17.9",
+        "rain": "96.0",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "25.2",
+        "low": "16.4",
+        "rain": "112.0",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "21.9",
+        "low": "13.5",
+        "rain": "107.0",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "18.5",
+        "low": "10.3",
+        "rain": "88.0",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "15.5",
+        "low": "7.4",
+        "rain": "95.0",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "14.5",
+        "low": "6.6",
+        "rain": "97.0",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "16.5",
+        "low": "7.7",
+        "rain": "93.0",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "17.6",
+        "low": "9.2",
+        "rain": "93.0",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "20.2",
+        "low": "11.8",
+        "rain": "105.0",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "23.2",
+        "low": "13.9",
+        "rain": "92.0",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "26.0",
+        "low": "16.3",
+        "rain": "93.0",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0. The file prints monthly precipitation as whole millimetres, shown here as 93.0 and so on. It prints the station height as 32.88 m, rounded here to 33 m.",
+    "sourceTitle": "WMO climate normals 1991-2020, Carrasco (86580)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-3-WMO-Normals-9120/Uruguay/CSV/Carrasco_86580.csv",
+    "asOf": "2026-11-24"
+  },
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C, F, and L, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Uruguay at 230 V and 50 Hz with plug types C, F and L.",
+    "asOf": "2026-11-24",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 14 of Law 18.191 on traffic and road safety says that on two-way roads vehicles must travel on the right-hand half of the carriageway (\"por la mitad derecha\"), except to overtake or to pass an obstacle. Article 14 also says roundabouts are driven to the right, keeping the island on the left.",
+    "asOf": "2026-11-24",
+    "sourceTitle": "IMPO, Ley N° 18.191, Tránsito y seguridad vial, Artículo 14",
+    "sourceUrl": "https://www.impo.com.uy/bases/leyes/18191-2007"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Restaurants: 10% is common if service isn't included",
+    "detail": "Uruguay's Ministry of Tourism says there is no fixed rule, but that it is common to leave 10% of the bill as long as the bill does not already include service, and that tipping taxi drivers is an urban norm.",
+    "asOf": "2026-11-24",
+    "sourceTitle": "Ministerio de Turismo de Uruguay, Dinero y cambio",
+    "sourceUrl": "https://uruguaynatural.com/es/datos/dinero-y-cambio/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Uruguay, last reviewed September 3, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. This page does not turn that into medical advice.",
+    "asOf": "2026-11-24",
+    "sourceTitle": "CDC Travelers' Health, Uruguay",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/uruguay"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Peso Uruguayo (UYU)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives Uruguay the currency name Peso Uruguayo and the code UYU, with 2 decimal places. The same list has two fund codes for Uruguay, UYI (indexed units) and UYW (Unidad Previsional), which are not cash. The Ministry of Tourism says the Uruguayan peso is legal tender and that US dollars are generally accepted in shops, supermarkets and restaurants.",
+    "asOf": "2026-11-24",
+    "sources": [
+      {
+        "sourceTitle": "ISO 4217 currency list (SIX)",
+        "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+        "asOf": "2026-11-24"
+      },
+      {
+        "sourceTitle": "Ministerio de Turismo de Uruguay, Dinero y cambio",
+        "sourceUrl": "https://uruguaynatural.com/es/datos/dinero-y-cambio/",
+        "asOf": "2026-11-24"
+      }
+    ]
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Montevideo",
+    "detail": "IANA's zone.tab and zone1970.tab each give Uruguay one row, America/Montevideo.",
+    "asOf": "2026-11-24",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-24"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-24"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministerio del Interior, Uruguay",
+    "url": "https://www.gub.uy/ministerio-interior/comunicacion/publicaciones/regimen-visas-admision",
+    "note": "The Interior Ministry's visa-regime table (Régimen de visas de admisión, dated 19 August 2025), which the Foreign Ministry points to for checking whether a nationality needs a visa. We do not restate a visa rule.",
+    "asOf": "2026-11-24"
+  },
+  "bestTime": {
+    "intro": "Month by month for Montevideo, from the Carrasco table above (1991–2020, 33 m). Seasons are reversed from the northern hemisphere. The rule line is our month-list test, not a recommendation: it rewards an average high of 20–30 °C and under 100 mm, and at Carrasco January, February, November and December clear both. March, April and October are warm enough but reach 100 mm or more; May to September are too cool. The Ministry of Tourism says rain is spread more or less evenly through the year, which the table bears out (88 to 112 mm a month). It describes the climate as temperate and humid with warm summers, and puts the south and east, including Montevideo, at around 16 °C and 1,000 mm a year (the Carrasco file prints 1,163.1 mm); the far northwest (Artigas, Salto, Rivera) is warmer and wetter, at 18–19 °C and about 1,400 mm, and is not this table.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 27.3 °C, low 17.9 °C, 93.0 mm. The highest average high and the highest average low in the Carrasco table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "February",
+        "note": "Average high 26.7 °C, low 17.9 °C, 96.0 mm. The highest average low in the Carrasco table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "March",
+        "note": "Average high 25.2 °C, low 16.4 °C, 112.0 mm. The wettest month in the Carrasco table. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "April",
+        "note": "Average high 21.9 °C, low 13.5 °C, 107.0 mm. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "May",
+        "note": "Average high 18.5 °C, low 10.3 °C, 88.0 mm. The driest month in the Carrasco table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "June",
+        "note": "Average high 15.5 °C, low 7.4 °C, 95.0 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "July",
+        "note": "Average high 14.5 °C, low 6.6 °C, 97.0 mm. The lowest average high and the lowest average low in the Carrasco table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "August",
+        "note": "Average high 16.5 °C, low 7.7 °C, 93.0 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "September",
+        "note": "Average high 17.6 °C, low 9.2 °C, 93.0 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "October",
+        "note": "Average high 20.2 °C, low 11.8 °C, 105.0 mm. Fails our month-list rule on precipitation (100 mm or more)."
+      },
+      {
+        "month": "November",
+        "note": "Average high 23.2 °C, low 13.9 °C, 92.0 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "December",
+        "note": "Average high 26.0 °C, low 16.3 °C, 93.0 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Carrasco (86580)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-3-WMO-Normals-9120/Uruguay/CSV/Carrasco_86580.csv",
+        "asOf": "2026-11-24"
+      },
+      {
+        "sourceTitle": "Ministerio de Turismo de Uruguay, Clima, idioma y religión",
+        "sourceUrl": "https://uruguaynatural.com/es/datos/clima-idioma-y-religion/",
+        "asOf": "2026-11-24"
+      }
+    ],
+    "asOf": "2026-11-24"
+  }
+}

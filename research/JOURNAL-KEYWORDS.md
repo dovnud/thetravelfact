@@ -417,3 +417,66 @@ Why: the highest-volume KD-0 informational query in the pull that is not a singl
 Rejected: cherry blossom season japan (33,100, KD 11) — needs a dated JMA bloom-date source we have not opened, and would sit close to the Japan sheets; when is monsoon season in thailand (1,900, KD 13) and when is rainy season in thailand (1,000, KD 7) — overlap the Thailand and Bangkok sheets' best-time sections; monsoon season india (1,900, KD 37) — KD too high; best time to go to the caribbean / best time to visit the caribbean (1,600 each, KD 0) — belongs in an expansion of the hurricane-season story, not a new story (still open; Antigua now adds a ninth Caribbean table); best time to visit tahiti and bora bora (5,400) and bora bora rainy season (320) — served by the new Bora Bora city sheet and the French Polynesia sheet; best time to visit asia (260) and central america (170) — lower volume, next candidates.
 
 Country picks: Antigua and Barbuda (best time to visit antigua 1,600, antigua currency 1,000, antigua weather by month 390) and Nepal (nepal currency 2,900, best time 720, weather by month 140, monsoon season in nepal 260). Both have complete NCEI 1991–2020 files (V.C. Bird 78862; Kathmandu 44454). Higher-demand candidates skipped: Saint Lucia (4,400; NCEI file has no max/min rows), Turks and Caicos (2,900) and Kenya (1,300) and Ecuador (1,000) (no usable normal found earlier), Malta (880; no NCEI folder), Cambodia (880) and Jordan (720) and Albania (590) (no NCEI folder in the 1991–2020 collection). Next in line: Grenada (590 + 110; complete Maurice Bishop 78958 file checked today), Romania (260 + 140, currency 9,900; 26 station files incl. Bucuresti Baneasa), Uruguay (390 + 390), Cyprus (210 + 260; Larnaka/Pafos/Athalassa files), Denmark still blocked.
+
+
+## 24 November 2026
+
+Pulled 2026-11-24 (America/Los_Angeles), DataForSEO Labs keyword_overview (live), United States (2840), English, two calls: 36 country-pick and journal-candidate keywords ($0.01584) and 12 "warmest places in Europe" variants ($0.01344). Total $0.02928. 43 unique keywords returned (the plug-voltage list queries such as "countries that use 220 volts" returned no data).
+
+| Keyword | Volume | KD | Intent |
+| --- | --- | --- | --- |
+| romania currency | 9900 | 2 | informational |
+| uruguay currency | 6600 | 5 | informational |
+| warm places to visit in december | 5400 | 0 | informational |
+| cyprus currency | 1900 | 10 | informational |
+| grenada currency | 1000 | 0 | informational |
+| warm places in europe in december | 1000 | 0 | informational |
+| warmest city in europe in december | 1000 | 6 | informational |
+| warmest country in europe in december | 1000 | 4 | informational |
+| warmest places in europe in december | 1000 | 1 | informational |
+| best time to visit scandinavia | 720 | 0 | informational |
+| best time to visit southeast asia | 720 | 0 | informational |
+| warmest places in europe in february | 720 | 0 | informational |
+| warmest places in europe in march | 720 | 0 | informational |
+| best time to visit grenada | 590 | 0 | informational |
+| best time to visit uruguay | 390 | 0 | informational |
+| do i need a voltage converter for europe | 390 | 0 | informational |
+| uruguay weather by month | 390 | 0 | informational |
+| where is warm in europe in december | 390 | 0 | informational |
+| best time to visit the mediterranean | 320 | 0 | informational |
+| warmest place in europe in december | 320 | 0 | informational |
+| warmest places in europe in january | 320 | 0 | informational |
+| best time to visit asia | 260 | 0 | informational |
+| best time to visit romania | 260 | 0 | informational |
+| cyprus weather by month | 260 | 10 | informational |
+| best time to visit cyprus | 210 | 0 | informational |
+| best time to visit the greek islands | 210 | 4 | informational |
+| best time to visit central america | 170 | 0 | informational |
+| warmest places in europe in november | 170 | 0 | informational |
+| romania weather by month | 140 | 0 | informational |
+| warm places in europe in winter | 140 | 0 | informational |
+| warmest places in europe in winter | 140 | 1 | informational |
+| best time to visit eastern europe | 110 | 0 | informational |
+| best time to visit the balkans | 110 | 2 | informational |
+| best time to visit the south pacific | 110 | 3 | informational |
+| grenada weather by month | 110 | 0 | informational |
+| cyprus plug type | 90 | 9 | informational |
+| romania plug type | 70 | 0 | informational |
+| best time to visit bucharest | 50 | 0 | informational |
+| best time to visit east africa | 50 | 0 | informational |
+| does cyprus drive on the left | 50 | 0 | informational |
+| best time to visit latin america | 20 | 0 | informational |
+| best time to visit the middle east | 20 | 0 | informational |
+| best time to visit north africa | 10 |  | informational |
+
+### Pick, 24 November 2026
+
+12. **warmest places in europe in december** — 1,000, KD 1, informational. URL: /journal/warmest-places-in-europe-in-december/.
+
+Why: one story answers a cluster of near-identical KD 0–6 queries: warmest places in europe in december (1,000, KD 1), warm places in europe in december (1,000, KD 0), warmest city in europe in december (1,000, KD 6), warmest country in europe in december (1,000, KD 4), where is warm in europe in december (390), warmest place in europe in december (320). It ranks the 38 European stations on our sheets that print a December high (Palma 17.5 °C, Valencia 17.3 °C, Seville 16.8 °C on top) and adds December sunshine hours and rain-day counts read from the same WMO station files the sheets cite (Seville 185.9 h; Barcelona 4.0 rain days). Links to 17 sheets, the December, November and other month lists, the plug list, and the Europe, euro, 112 and tipping stories. No cannibalization: the December month list is global and rule-based (no European station passes), and the Europe story covers the whole year and gives winter one paragraph, which now links to the new story. Red team: Athens is a 1955–2010 HNMS table and is flagged; Naples and Rome have no sunshine row; no Canary Islands, Madeira, Malta, Cyprus, Crete or southern Turkey table, and the story says so rather than guessing; no sea temperatures.
+
+Rejected: warm places to visit in december (5,400, KD 0) — global intent, overlaps the December month list; best time to visit scandinavia (720) — still no Denmark sheet; best time to visit southeast asia (720) — Vietnam and Bali still have no climate table; do i need a voltage converter for europe (390) — next candidate, answerable from the plug list; warmest places in europe in february / march (720 each) — the new story covers February in one bullet; a separate story would split the cluster; best time to visit the mediterranean (320), the greek islands (210) — lower volume, next candidates.
+
+Country picks: Romania (romania currency 9,900, best time 260, weather by month 140, plug type 70) and Uruguay (uruguay currency 6,600, best time 390, weather by month 390). Both have complete NCEI 1991–2020 files (Bucuresti Baneasa 15420; Carrasco 86580). Skipped this time: Cyprus (currency 1,900, weather by month 260, best time 210, plug type 90; Larnaka/Pafos/Athalassa files) and Grenada (currency 1,000, best time 590, weather by month 110; Maurice Bishop 78958) — next in line.
+
+Site unit: the Caribbean hurricane-season story now targets best time to visit the caribbean (1,600, KD 0) and best time to go to the caribbean (1,600, KD 0): new title, 13 stations instead of 8 (Cayman Islands, Barbados, Curaçao, US Virgin Islands, Antigua added), a month-by-month count table, and five new advisory rows. Same URL.

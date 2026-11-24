@@ -1056,4 +1056,20 @@ export const photos: Record<string, PhotoCredit> = {
     licenseUrl: "https://creativecommons.org/licenses/by/2.5",
     page: "https://commons.wikimedia.org/wiki/File:Matira_Beach,_Bora_Bora,_French_Polynesia.jpg",
   },
+  "romania": {
+    src: "/photos/romania.jpg",
+    alt: "Peleș Castle below the Bucegi Mountains, Sinaia, Romania",
+    artist: "Anastasia Ture",
+    license: "CC BY 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Sinaia_and_nature.jpg",
+  },
+  "uruguay": {
+    src: "/photos/uruguay.jpg",
+    alt: "A cobbled street running down to the Río de la Plata, Colonia del Sacramento, Uruguay",
+    artist: "Diego Delso",
+    license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    page: "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento3_-_Uruguay.jpg",
+  },
 };
