@@ -4,7 +4,7 @@ slug: best-time-to-visit-europe
 kicker: "Europe"
 dek: "We ran one plain weather rule across 38 European weather stations on our sheets. June wins, May and September are close behind, and the south in high summer is the trap."
 published: "2026-11-15"
-updated: "2026-11-22"
+updated: "2026-11-24"
 photo: seville
 related:
   - /spain/seville/
@@ -145,7 +145,7 @@ That is not a reason to skip them. It is a reason to pack a layer for Scotland a
 
 ## Winter: chase the Spanish coast, not the sun
 
-No European station on our sheets passes the rule from December to February, so be honest about what a winter trip is. If you want the mildest January, the tables point to Spain and Portugal. [Valencia](/spain/valencia/) averages 16.7 °C, [Mallorca](/spain/mallorca/) 16.5 °C, Seville 16.2 °C and Lisbon 15.1 °C. Lisbon is also wet in winter (103.8 mm in January). Valencia is drier, at 38.6 mm.
+No European station on our sheets passes the rule from December to February, so be honest about what a winter trip is. If you want the mildest January, the tables point to Spain and Portugal. [Valencia](/spain/valencia/) averages 16.7 °C, [Mallorca](/spain/mallorca/) 16.5 °C, Seville 16.2 °C and Lisbon 15.1 °C. Lisbon is also wet in winter (103.8 mm in January). Valencia is drier, at 38.6 mm. For December alone, with sunshine hours and rain days, see [the warmest places in Europe in December](/journal/warmest-places-in-europe-in-december/).
 
 At the other end, [Warsaw](/poland/) averages 1.0 °C in January, Kraków 1.6 °C and Prague 2.7 °C. [Helsinki](/finland/) averages -0.7 °C in January and -1.3 °C in February, and [Oslo](/norway/) 0.1 °C in January. Those are highs, not lows.
 

@@ -1,0 +1,239 @@
+{
+  "order": 132,
+  "id": "romania",
+  "kind": "country",
+  "name": "Romania",
+  "countrySlug": "romania",
+  "countryName": "Romania",
+  "path": "/romania/",
+  "dek": "Bucuresti Baneasa, WMO 15420, Bucharest. Cold winters, hot Julys and Augusts, no month over 100 mm.",
+  "paragraphs": [
+    "The reference station is Bucuresti Baneasa, WMO 15420, height 90 m, in Bucharest. The NOAA NCEI 1991–2020 collection has 26 Romania files, among them Constanta and Sulina on the Black Sea, Cluj-Napoca, Timisoara, Sibiu, Iasi and Varfu Omu. None was averaged with Baneasa, so the coast, Transylvania and the Carpathians are not this table.",
+    "The highest average high in the table is 30.6 °C, in August. The lowest average low is -5.0 °C, in January. The wettest month by the precipitation column is June, at 82.7 mm, and the driest is February, at 33.0 mm. No month reaches 100 mm; the file prints an annual total of 648.1 mm. The average high is below 10 °C from December to February and passes 30 °C in July and August, so the months turn on temperature, not rain. The average low is below freezing in January, February and December."
+  ],
+  "season": [],
+  "climate": {
+    "caption": "Reference station: Bucuresti Baneasa, WMO 15420, at 90 m in Bucharest. Constanta on the Black Sea coast, Cluj-Napoca, Timisoara, Sibiu, Iasi and twenty other Romania files are in the same collection and were not averaged with it.",
+    "stationName": "Bucuresti Baneasa",
+    "stationId": "WMO 15420",
+    "period": "1991-2020",
+    "elevation": "90 m",
+    "latitude": "44|30|37|N",
+    "longitude": "26|4|42|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "3.0",
+        "low": "-5.0",
+        "rain": "40.1",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "6.3",
+        "low": "-3.5",
+        "rain": "33.0",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "12.3",
+        "low": "0.3",
+        "rain": "42.4",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "18.5",
+        "low": "4.9",
+        "rain": "50.2",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "24.1",
+        "low": "9.7",
+        "rain": "70.4",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "28.1",
+        "low": "13.9",
+        "rain": "82.7",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "30.4",
+        "low": "15.6",
+        "rain": "68.6",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "30.6",
+        "low": "15.2",
+        "rain": "48.9",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "25.0",
+        "low": "10.7",
+        "rain": "60.5",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "18.0",
+        "low": "5.7",
+        "rain": "60.7",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "10.5",
+        "low": "1.4",
+        "rain": "43.6",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "4.2",
+        "low": "-3.3",
+        "rain": "47.0",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0.",
+    "sourceTitle": "WMO climate normals 1991-2020, Baneasa (15420)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Romania/CSV/BucurestiBaneasa_15420.csv",
+    "asOf": "2026-11-24"
+  },
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type C and F, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Romania at 230 V and 50 Hz with plug types C and F.",
+    "asOf": "2026-11-24",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Right",
+    "detail": "Article 41(1) of Government Emergency Ordinance 195/2002 on traffic on public roads says vehicles travel on the right-hand side of the public road (\"Vehiculele circulă pe partea dreaptă a drumului public\"), as close as possible to the edge of the carriageway, in the direction of travel. The copy read is the text as published in Monitorul Oficial no. 958 of 28 December 2002 on the Ministry of Justice's legislative portal; the ordinance has been amended since, and no consolidated version was opened.",
+    "asOf": "2026-11-24",
+    "sourceTitle": "Portal Legislativ (Ministry of Justice), OUG 195/2002, Article 41",
+    "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/41006"
+  },
+  "tipping": null,
+  "water": {
+    "label": "Tap water",
+    "value": "No yes-or-no line from CDC",
+    "detail": "CDC's traveler page for Romania, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. This page does not turn that into medical advice.",
+    "asOf": "2026-11-24",
+    "sourceTitle": "CDC Travelers' Health, Romania",
+    "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/romania"
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Romanian Leu (RON)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives Romania the currency name Romanian Leu and the code RON, with 2 decimal places.",
+    "asOf": "2026-11-24",
+    "sources": [
+      {
+        "sourceTitle": "ISO 4217 currency list (SIX)",
+        "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+        "asOf": "2026-11-24"
+      }
+    ]
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Europe/Bucharest",
+    "detail": "IANA's zone.tab and zone1970.tab each give Romania one row, Europe/Bucharest.",
+    "asOf": "2026-11-24",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-24"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-24"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Ministry of Foreign Affairs of Romania",
+    "url": "https://www.mae.ro/en/node/2040",
+    "note": "The Ministry of Foreign Affairs' \"Do I need a visa?\" page, which links to the lists of states whose citizens need a visa and those exempt for stays of up to 90 days in any 180-day period. The ministry's eViza portal (eviza.mae.ro) has a nationality checker. We do not restate a visa rule.",
+    "asOf": "2026-11-24"
+  },
+  "bestTime": {
+    "intro": "Month by month for Bucharest, from the Bucuresti Baneasa table above (1991–2020, 90 m). Every month is under 100 mm, so the months turn on temperature. The rule line is our month-list test, not a recommendation: it rewards an average high of 20–30 °C and under 100 mm, and at Baneasa May, June and September clear both. July and August miss it on heat, by 0.4 °C and 0.6 °C. The Black Sea coast and the mountains are not this table.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 3.0 °C, low -5.0 °C, 40.1 mm. The lowest average high and the lowest average low in the Bucuresti Baneasa table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "February",
+        "note": "Average high 6.3 °C, low -3.5 °C, 33.0 mm. The driest month in the Bucuresti Baneasa table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "March",
+        "note": "Average high 12.3 °C, low 0.3 °C, 42.4 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "April",
+        "note": "Average high 18.5 °C, low 4.9 °C, 50.2 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "May",
+        "note": "Average high 24.1 °C, low 9.7 °C, 70.4 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "June",
+        "note": "Average high 28.1 °C, low 13.9 °C, 82.7 mm. The wettest month in the Bucuresti Baneasa table. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "July",
+        "note": "Average high 30.4 °C, low 15.6 °C, 68.6 mm. The highest average low in the Bucuresti Baneasa table. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "August",
+        "note": "Average high 30.6 °C, low 15.2 °C, 48.9 mm. The highest average high in the Bucuresti Baneasa table. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "September",
+        "note": "Average high 25.0 °C, low 10.7 °C, 60.5 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "October",
+        "note": "Average high 18.0 °C, low 5.7 °C, 60.7 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "November",
+        "note": "Average high 10.5 °C, low 1.4 °C, 43.6 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "December",
+        "note": "Average high 4.2 °C, low -3.3 °C, 47.0 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Baneasa (15420)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Romania/CSV/BucurestiBaneasa_15420.csv",
+        "asOf": "2026-11-24"
+      }
+    ],
+    "asOf": "2026-11-24"
+  }
+}

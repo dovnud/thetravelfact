@@ -1918,5 +1918,57 @@
    "sourceTitle": "GOV.UK FCDO travel advice, Nepal: Getting help",
    "sourceUrl": "https://www.gov.uk/foreign-travel-advice/nepal/getting-help"
   }
+ },
+ "romania": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Romania is Level 1, \"Exercise Normal Precautions\". The State Department's feed dates this advisory 14 October 2025. Its summary says to exercise normal precautions in Romania, and that Romania has moderate seismic activity and a history of strong earthquakes, with Bucharest facing the highest risk. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-24",
+   "sourceTitle": "U.S. Department of State, Romania Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.rou.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers younger than 60; travelers 60 and older may get vaccinated. CDC recommends tick-borne encephalitis vaccine for people with extensive tick exposure in TBE-endemic areas, and says it may be considered for outdoor activities where ticks are likely. CDC does not recommend yellow fever vaccine for this destination, and Romania does not require it for entry. Dogs infected with rabies are not commonly found in Romania. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-24",
+   "sourceTitle": "CDC Travelers' Health, Romania",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/romania"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "112",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Romania, under Emergency services, lists 112 for ambulance, fire and police.",
+   "asOf": "2026-11-24",
+   "sourceTitle": "GOV.UK FCDO travel advice, Romania: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/romania/getting-help"
+  }
+ },
+ "uruguay": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Uruguay is Level 2, \"Exercise Increased Caution\", due to crime. The State Department's feed dates this advisory 28 July 2026. It says crime is most common in the Montevideo, Canelones, Maldonado and Rivera departments, that violent crime occurs across the country, and that crimes include homicide, armed robbery, carjacking and theft. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-24",
+   "sourceTitle": "U.S. Department of State, Uruguay Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ury.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC says to consider typhoid vaccine for travel to areas with poor sanitation, stays of a month or more, or visits to friends or relatives. CDC says all travelers should take steps to prevent mosquito bites and that chikungunya vaccination is generally not recommended. CDC does not recommend yellow fever vaccine for this destination, and Uruguay does not require it for entry. Dogs infected with rabies are not commonly found in Uruguay. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-24",
+   "sourceTitle": "CDC Travelers' Health, Uruguay",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/uruguay"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "911",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Uruguay, under Emergency services, lists 911 for ambulance, fire and police.",
+   "asOf": "2026-11-24",
+   "sourceTitle": "GOV.UK FCDO travel advice, Uruguay: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/uruguay/getting-help"
+  }
  }
 }
