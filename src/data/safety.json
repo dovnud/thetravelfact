@@ -1970,5 +1970,67 @@
    "sourceTitle": "GOV.UK FCDO travel advice, Uruguay: Getting help",
    "sourceUrl": "https://www.gov.uk/foreign-travel-advice/uruguay/getting-help"
   }
+ },
+ "cyprus": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 1: Exercise Normal Precautions",
+   "detail": "The U.S. Department of State's travel advisory for Cyprus is Level 1, \"Exercise Normal Precautions\", and says some areas have increased risk. The State Department's feed dates this advisory 1 June 2026. It says Cyprus is generally a safe destination for travelers; warns not to enter the United Nations buffer zone anywhere other than a designated crossing point; and, under armed conflict, says hostilities between the United States and Iran from 28 February disrupted commercial flights and that a drone struck a building on the British Sovereign Base Area on Cyprus on 2 March 2026. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-25",
+   "sourceTitle": "U.S. Department of State, Cyprus Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cyp.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC does not recommend yellow fever vaccine for this destination, and Cyprus does not require it for entry. Dogs infected with rabies are not commonly found in Cyprus. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-25",
+   "sourceTitle": "CDC Travelers' Health, Cyprus",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/cyprus"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "112",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Cyprus, under Emergency services, lists 112 for ambulance, fire and police. The Deputy Ministry of Tourism's health and safety page gives the same number island-wide for ambulance, fire service and police, and says English is spoken.",
+   "asOf": "2026-11-25",
+   "sources": [
+    {
+     "sourceTitle": "GOV.UK FCDO travel advice, Cyprus: Getting help",
+     "sourceUrl": "https://www.gov.uk/foreign-travel-advice/cyprus/getting-help",
+     "asOf": "2026-11-25"
+    },
+    {
+     "sourceTitle": "Deputy Ministry of Tourism of Cyprus, Health & Safety",
+     "sourceUrl": "https://www.visitcyprus.com/useful-info/health-safety/",
+     "asOf": "2026-11-25"
+    }
+   ]
+  }
+ },
+ "grenada": {
+  "advisory": {
+   "label": "Travel advisory",
+   "value": "Level 2: Exercise Increased Caution",
+   "detail": "The U.S. Department of State's travel advisory for Grenada is Level 2, \"Exercise Increased Caution\", due to crime. The State Department's feed dates this advisory 5 January 2026. It says violent crime can occur anywhere in Grenada, that American citizens have been victims of armed robbery, assault, burglary and rape, and that police response times are not as fast as one may expect in the United States. Levels run from 1 (exercise normal precautions) to 4 (do not travel).",
+   "asOf": "2026-11-25",
+   "sourceTitle": "U.S. Department of State, Grenada Travel Advisory",
+   "sourceUrl": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.grd.html"
+  },
+  "health": {
+   "label": "Health and vaccines",
+   "value": "Routine shots, plus Hepatitis A, Hepatitis B",
+   "detail": "Hepatitis A vaccine is recommended for unvaccinated travelers one year old or older. Hepatitis B vaccine is recommended for unvaccinated travelers of all ages. CDC says to consider typhoid vaccine for travel to areas with poor sanitation, stays of a month or more, or visits to friends or relatives. Dogs infected with rabies are sometimes found in Grenada. CDC does not recommend yellow fever vaccine for this destination; Grenada does not require it for direct travel from the United States, but requires it for travelers one year old or older coming from countries with risk of yellow fever transmission, including airport transits of more than 12 hours there. Travel health notices on the page: Global Measles (Level 1, May 28, 2025). This is a short summary of CDC's traveler page, not medical advice; CDC advises seeing a doctor at least a month before the trip.",
+   "asOf": "2026-11-25",
+   "sourceTitle": "CDC Travelers' Health, Grenada",
+   "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/grenada"
+  },
+  "emergency": {
+   "label": "Emergency numbers",
+   "value": "911 (police, fire); ambulance numbers by hospital",
+   "detail": "The UK Foreign, Commonwealth & Development Office's travel advice for Grenada, under Emergency services, lists 911 for police and fire. For an ambulance it lists 434 for St George's General Hospital, 724 for Princess Alice Hospital in Grenville, and 774 for Princess Royal Hospital on Carriacou.",
+   "asOf": "2026-11-25",
+   "sourceTitle": "GOV.UK FCDO travel advice, Grenada: Getting help",
+   "sourceUrl": "https://www.gov.uk/foreign-travel-advice/grenada/getting-help"
+  }
  }
 }

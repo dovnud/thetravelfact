@@ -1,0 +1,294 @@
+{
+  "order": 135,
+  "id": "grenada",
+  "kind": "country",
+  "name": "Grenada",
+  "countrySlug": "grenada",
+  "countryName": "Grenada",
+  "path": "/grenada/",
+  "dek": "Maurice Bishop International Airport, WMO 78958, Point Salines. Drive on the left. Dry January to May, wet June to December.",
+  "paragraphs": [
+    "The reference station is Maurice Bishop International Airport, WMO 78958, height 40 m, at Point Salines on the southwest tip of Grenada. NOAA NCEI's 1991–2020 collection has one Grenada file, and this is it, so Carriacou, Petite Martinique and Grenada's interior hills have no table on this sheet. The file prints the position as 12|00|00 N, 61|47|00 W, which is rounded to the minute.",
+    "The highest average high in the table is 31.3 °C, in September. The lowest average low is 23.3 °C, in January. The wettest month by the precipitation column is November, at 164.4 mm, and the driest is March, at 25.6 mm. Every month averages a high of at least 29.7 °C and a low of at least 23.3 °C, so the months turn on rain and the hurricane season, not on temperature. January to May each have under 100 mm; June to December each have 100 mm or more, and the file prints an annual total of 1,151.7 mm. The Grenada Tourism Authority names a January-to-May dry season and a June-to-December rainy season, which the table bears out."
+  ],
+  "season": [
+    "The National Hurricane Center says the Atlantic hurricane season runs from 1 June to 30 November, and that the Atlantic basin includes the Atlantic Ocean, the Caribbean Sea and the Gulf of America.",
+    "The same page puts the peak of the Atlantic season at 10 September, with most activity between mid-August and mid-October."
+  ],
+  "climate": {
+    "caption": "Reference station: Maurice Bishop International Airport, WMO 78958, at 40 m at Point Salines, the southwest tip of Grenada. It is the only Grenada file in the NOAA NCEI 1991–2020 collection, so Carriacou, Petite Martinique and the interior hills have no table.",
+    "stationName": "Maurice Bishop International Airport",
+    "stationId": "WMO 78958",
+    "period": "1991-2020",
+    "elevation": "40 m",
+    "latitude": "12|00|00|N",
+    "longitude": "61|47|00|W",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "29.7",
+        "low": "23.3",
+        "rain": "64.4",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "29.7",
+        "low": "23.4",
+        "rain": "38.6",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "30.0",
+        "low": "23.9",
+        "rain": "25.6",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "30.5",
+        "low": "24.8",
+        "rain": "36.4",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "30.8",
+        "low": "25.4",
+        "rain": "52.8",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "30.6",
+        "low": "25.1",
+        "rain": "126.5",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "30.6",
+        "low": "24.9",
+        "rain": "123.2",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "31.0",
+        "low": "25.0",
+        "rain": "142.6",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.3",
+        "low": "25.3",
+        "rain": "122.0",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "31.1",
+        "low": "25.0",
+        "rain": "149.9",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "30.7",
+        "low": "24.5",
+        "rain": "164.4",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "30.2",
+        "low": "23.9",
+        "rain": "105.3",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0.",
+    "sourceTitle": "WMO climate normals 1991-2020, Maurice Bishop Intl Airport (78958)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/Grenada/CSV/MauriceBishopIntlAirport_78958.csv",
+    "asOf": "2026-11-25"
+  },
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type G, 230 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Grenada at 230 V and 50 Hz with plug type G. The Grenada Tourism Authority's FAQ, read 25 November 2026, says the voltage on island is 220 volts, 50 cycles, that 110-volt (US standard) appliances normally work with a transformer, and that an adaptor plug is necessary for small appliances. The two sources differ on voltage; both are printed and neither is picked. Check the socket and your device's label.",
+    "asOf": "2026-11-25",
+    "sources": [
+      {
+        "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+        "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "Grenada Tourism Authority, FAQs",
+        "sourceUrl": "https://www.puregrenada.com/faqs/",
+        "asOf": "2026-11-25"
+      }
+    ]
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Grenada Tourism Authority's FAQ says: \"Always remember that driving is on the LEFT.\" The same page says drivers need a local driving permit from the traffic department at the Central Police Station on the Carenage, on presenting a valid licence and a fee it puts at EC$60, and that most car rental firms also issue local permits. No Road Traffic Act text was opened.",
+    "asOf": "2026-11-25",
+    "sourceTitle": "Grenada Tourism Authority, FAQs",
+    "sourceUrl": "https://www.puregrenada.com/faqs/"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "Restaurants and hotels: most add 10% service",
+    "detail": "The Grenada Tourism Authority's FAQ says an 8% government tax is applied at hotels and restaurants, that most also add a 10% service charge, and that additional gratuities are at your discretion.",
+    "asOf": "2026-11-25",
+    "sourceTitle": "Grenada Tourism Authority, FAQs",
+    "sourceUrl": "https://www.puregrenada.com/faqs/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Grenada says safe; CDC gives no yes-or-no line",
+    "detail": "CDC's traveler page for Grenada, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. The Grenada Tourism Authority's FAQ says bottled water is available for purchase and that \"tap water is very safe to drink\". The two are printed side by side and not merged; this page does not turn either into medical advice.",
+    "asOf": "2026-11-25",
+    "sources": [
+      {
+        "sourceTitle": "CDC Travelers' Health, Grenada",
+        "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/grenada",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "Grenada Tourism Authority, FAQs",
+        "sourceUrl": "https://www.puregrenada.com/faqs/",
+        "asOf": "2026-11-25"
+      }
+    ]
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "East Caribbean Dollar (XCD)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives Grenada the currency name East Caribbean Dollar and the code XCD, with 2 decimal places. The Grenada Tourism Authority's FAQ says the US dollar is accepted and that hotels and car rental companies accept the major credit cards.",
+    "asOf": "2026-11-25",
+    "sources": [
+      {
+        "sourceTitle": "ISO 4217 currency list (SIX)",
+        "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "Grenada Tourism Authority, FAQs",
+        "sourceUrl": "https://www.puregrenada.com/faqs/",
+        "asOf": "2026-11-25"
+      }
+    ]
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "America/Grenada",
+    "detail": "IANA's zone.tab gives Grenada one row, America/Grenada. zone1970.tab puts Grenada on the America/Puerto_Rico row it shares with Puerto Rico and other Caribbean places, commented AST, and the backward file links America/Grenada to America/Puerto_Rico. The sheet prints the zone.tab name. The Grenada Tourism Authority's FAQ says Grenada is on Atlantic Standard Time, four hours behind GMT.",
+    "asOf": "2026-11-25",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "IANA tzdb backward",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/backward",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "Grenada Tourism Authority, FAQs",
+        "sourceUrl": "https://www.puregrenada.com/faqs/",
+        "asOf": "2026-11-25"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Grenada Tourism Authority",
+    "url": "https://www.puregrenada.com/travel-requirements/",
+    "note": "The Grenada Tourism Authority's travel requirements page, which covers passports, onward tickets and the visa-exempt list. No usable government immigration page answered from this environment (rgpf.gd returned an error). We do not restate a visa rule.",
+    "asOf": "2026-11-25"
+  },
+  "bestTime": {
+    "intro": "Month by month for Grenada, from the Maurice Bishop International Airport table above (1991–2020, 40 m), the U.S. National Hurricane Center's Atlantic season window, and the Grenada Tourism Authority's dry and rainy seasons. The rule line is our month-list test, not a recommendation: it rewards an average high of 20–30 °C and under 100 mm, and at Maurice Bishop January, February and March clear both; March's 30.0 °C is on the line. April and May are dry but miss it on heat, by 0.5 °C and 0.8 °C. The hurricane dates are official season dates, not a forecast; NHC says activity sometimes occurs before and after them.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 29.7 °C, low 23.3 °C, 64.4 mm. The lowest average high and the lowest average low in the Maurice Bishop table. Passes our month-list rule (average high 20–30 °C, under 100 mm). Inside the January-to-May dry season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "February",
+        "note": "Average high 29.7 °C, low 23.4 °C, 38.6 mm. The lowest average high in the Maurice Bishop table. Passes our month-list rule (average high 20–30 °C, under 100 mm). Inside the January-to-May dry season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "March",
+        "note": "Average high 30.0 °C, low 23.9 °C, 25.6 mm. The driest month in the Maurice Bishop table. Passes our month-list rule (average high 20–30 °C, under 100 mm). Inside the January-to-May dry season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "April",
+        "note": "Average high 30.5 °C, low 24.8 °C, 36.4 mm. Fails our month-list rule on heat: the average high is above 30 °C. Inside the January-to-May dry season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "May",
+        "note": "Average high 30.8 °C, low 25.4 °C, 52.8 mm. The highest average low in the Maurice Bishop table. Fails our month-list rule on heat: the average high is above 30 °C. Inside the January-to-May dry season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "June",
+        "note": "Average high 30.6 °C, low 25.1 °C, 126.5 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season (1 June to 30 November). Inside the June-to-December rainy season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "July",
+        "note": "Average high 30.6 °C, low 24.9 °C, 123.2 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season (1 June to 30 November). Inside the June-to-December rainy season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "August",
+        "note": "Average high 31.0 °C, low 25.0 °C, 142.6 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season; NHC says most activity falls between mid-August and mid-October. Inside the June-to-December rainy season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "September",
+        "note": "Average high 31.3 °C, low 25.3 °C, 122.0 mm. The highest average high in the Maurice Bishop table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season. NHC puts the peak of the season at 10 September, with most activity between mid-August and mid-October. Inside the June-to-December rainy season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "October",
+        "note": "Average high 31.1 °C, low 25.0 °C, 149.9 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season, and inside the mid-August to mid-October stretch NHC names as the busiest. Inside the June-to-December rainy season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "November",
+        "note": "Average high 30.7 °C, low 24.5 °C, 164.4 mm. The wettest month in the Maurice Bishop table. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the Atlantic hurricane season (1 June to 30 November). Inside the June-to-December rainy season the Grenada Tourism Authority names."
+      },
+      {
+        "month": "December",
+        "note": "Average high 30.2 °C, low 23.9 °C, 105.3 mm. Fails our month-list rule on both heat (above 30 °C) and precipitation (100 mm or more). Inside the June-to-December rainy season the Grenada Tourism Authority names."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Maurice Bishop Intl Airport (78958)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-4-WMO-Normals-9120/Grenada/CSV/MauriceBishopIntlAirport_78958.csv",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "National Hurricane Center, Tropical Cyclone Climatology",
+        "sourceUrl": "https://www.nhc.noaa.gov/climo/",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "Grenada Tourism Authority, FAQs",
+        "sourceUrl": "https://www.puregrenada.com/faqs/",
+        "asOf": "2026-11-25"
+      }
+    ],
+    "asOf": "2026-11-25"
+  }
+}
