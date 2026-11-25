@@ -67,6 +67,7 @@ export interface Destination {
   path: string;
   dek: string;
   paragraphs: string[];
+  guideLink?: { intro: string; anchor: string; url: string; outro: string };
   climate: Climate;
   season: string[];
   plugs: Fact;

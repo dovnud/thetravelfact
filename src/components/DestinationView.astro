@@ -175,6 +175,9 @@ const jsonLd = {
     <FactsCard destination={destination} />
     <div class="prose">
       {destination.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+      {destination.guideLink && (
+        <p>{destination.guideLink.intro} <a href={destination.guideLink.url}>{destination.guideLink.anchor}</a>{destination.guideLink.outro}</p>
+      )}
     </div>
     <div id="weather"><ClimatePanel climate={destination.climate} /></div>
     {destination.bestTime && (
