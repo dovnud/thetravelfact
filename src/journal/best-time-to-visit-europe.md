@@ -2,9 +2,9 @@
 title: "The best time to visit Europe, by the numbers: June first, then May and September"
 slug: best-time-to-visit-europe
 kicker: "Europe"
-dek: "We ran one plain weather rule across 38 European weather stations on our sheets. June wins, May and September are close behind, and the south in high summer is the trap."
+dek: "We ran one plain weather rule across 40 European weather stations on our sheets. June wins, May and September are close behind, and the south in high summer is the trap."
 published: "2026-11-15"
-updated: "2026-11-24"
+updated: "2026-11-25"
 photo: seville
 related:
   - /spain/seville/
@@ -40,6 +40,8 @@ related:
   - /belgium/
   - /montenegro/
   - /slovenia/
+  - /romania/
+  - /cyprus/
 sources:
   - title: "TheTravelFact month lists (rule and per-month tables)"
     url: "https://thetravelfact.com/best-places-to-visit-in-june/"
@@ -53,9 +55,12 @@ sources:
   - title: "WMO 1991–2020 normals for Oslo Blindern, Stockholm Observatoriekullen, Helsinki Kaisaniemi, Uccle, Podgorica and Ljubljana/Bežigrad (cited on each sheet)"
     url: "https://www.ncei.noaa.gov/products/wmo-climate-normals"
     asOf: "2026-11-22"
+  - title: "WMO climate normals 1991-2020, Baneasa (15420) and Larnaka Airport (17609) (Romania and Cyprus sheets)"
+    url: "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Cyprus/CSV/LarnakaAirport_17609.csv"
+    asOf: "2026-11-25"
 ---
 
-**Short answer:** if the question is weather, **June** is the best month to visit Europe, with **May and September** close behind. In June, 27 of the 38 European weather stations on our sheets that can be rated pass our warm-and-dry rule. **July and August** still work in the north, but they price the south out on heat: Seville, Madrid, Florence and Athens all average highs above 32 °C. From **December to February**, not one of our European stations passes.
+**Short answer:** if the question is weather, **June** is the best month to visit Europe, with **May and September** close behind. In June, 28 of the 40 European weather stations on our sheets that can be rated pass our warm-and-dry rule. **July and August** still work in the north, but they price the south out on heat: Seville, Madrid, Florence and Athens all average highs above 32 °C. From **December to February**, not one of our European stations passes.
 
 That is an editorial call, and here is exactly how we made it.
 
@@ -63,7 +68,7 @@ That is an editorial call, and here is exactly how we made it.
 
 Most "best time to visit Europe" advice mixes weather with crowds, prices and festivals. We have no sourced data on crowds or prices, so we left them out rather than guess. What we do have is a named weather station on every sheet, with its 1991–2020 monthly averages and a dated source.
 
-So we applied the same rule our [month lists](/best-places-to-visit-in-june/) use: a place passes in a given month when its **average daily high is between 20 °C and 30 °C** and it gets **less than 100 mm** of precipitation. Nothing else counts. Our European sheets cover 40 distinct stations. Two of them cannot be rated: [Santorini](/greece/santorini/) has no table at all, and [Dubrovnik](/croatia/dubrovnik/) prints rain only. That leaves 38. A few have a missing month in their source file, and the count says so.
+So we applied the same rule our [month lists](/best-places-to-visit-in-june/) use: a place passes in a given month when its **average daily high is between 20 °C and 30 °C** and it gets **less than 100 mm** of precipitation. Nothing else counts. Our European sheets cover 42 distinct stations. Two of them cannot be rated: [Santorini](/greece/santorini/) has no table at all, and [Dubrovnik](/croatia/dubrovnik/) prints rain only. That leaves 40. A few have a missing month in their source file, and the count says so.
 
 Most figures are WMO 1991–2020 normals distributed by NOAA NCEI. The UK sheets use Met Office averages. [Athens](/greece/athens/) uses the Hellenic National Meteorological Service's Elliniko table, which covers 1955–2010. Each sheet names its own source.
 
@@ -73,22 +78,24 @@ Stations passing the rule, by month (out of the stations with both figures for t
 
 | Month | Passing | Rated | List |
 |---|---:|---:|---|
-| January | 0 | 38 | [January](/best-places-to-visit-in-january/) |
-| February | 0 | 38 | [February](/best-places-to-visit-in-february/) |
-| March | 1 | 37 | [March](/best-places-to-visit-in-march/) |
-| April | 5 | 38 | [April](/best-places-to-visit-in-april/) |
-| May | 20 | 37 | [May](/best-places-to-visit-in-may/) |
-| June | 27 | 38 | [June](/best-places-to-visit-in-june/) |
-| July | 24 | 37 | [July](/best-places-to-visit-in-july/) |
-| August | 21 | 38 | [August](/best-places-to-visit-in-august/) |
-| September | 19 | 38 | [September](/best-places-to-visit-in-september/) |
-| October | 8 | 38 | [October](/best-places-to-visit-in-october/) |
-| November | 3 | 38 | [November](/best-places-to-visit-in-november/) |
-| December | 0 | 38 | [December](/best-places-to-visit-in-december/) |
+| January | 0 | 40 | [January](/best-places-to-visit-in-january/) |
+| February | 0 | 40 | [February](/best-places-to-visit-in-february/) |
+| March | 1 | 39 | [March](/best-places-to-visit-in-march/) |
+| April | 6 | 40 | [April](/best-places-to-visit-in-april/) |
+| May | 22 | 39 | [May](/best-places-to-visit-in-may/) |
+| June | 28 | 40 | [June](/best-places-to-visit-in-june/) |
+| July | 24 | 39 | [July](/best-places-to-visit-in-july/) |
+| August | 21 | 40 | [August](/best-places-to-visit-in-august/) |
+| September | 20 | 40 | [September](/best-places-to-visit-in-september/) |
+| October | 9 | 40 | [October](/best-places-to-visit-in-october/) |
+| November | 4 | 40 | [November](/best-places-to-visit-in-november/) |
+| December | 0 | 40 | [December](/best-places-to-visit-in-december/) |
 
 The curve is lopsided. Europe's good-weather season, by this rule, is a five-month block from May to September, peaking in June.
 
 *Updated 22 November 2026.* The counts now include six stations added since the story first ran: [Oslo](/norway/) (Blindern), [Stockholm](/sweden/) (Observatoriekullen), [Helsinki](/finland/) (Kaisaniemi), [Brussels](/belgium/) (Uccle), [Podgorica](/montenegro/) and [Ljubljana](/slovenia/) (Bežigrad). Oslo, Stockholm and Uccle pass in June, which takes June from 24 to 27. Oslo, Helsinki, Stockholm and Uccle add four passes in July (20 to 24); Helsinki, Stockholm and Uccle add three in August (18 to 21). Podgorica adds one in May (19 to 20). September, October and November do not change: none of the six passes in those months.
+
+*Updated 25 November 2026.* Two more stations are in the counts: [Bucharest](/romania/) (Bucuresti Baneasa) and [Larnaka](/cyprus/) on the south coast of Cyprus. Baneasa passes in May, June and September, which takes June from 27 to 28 and September from 19 to 20. Larnaka passes in April, May, October and November, which takes April from 5 to 6, October from 8 to 9 and November from 3 to 4. Together they take May from 20 to 22. Neither passes in July or August, both on heat.
 
 ## Why June wins
 
@@ -112,7 +119,7 @@ Those are averages of the daily high, so many afternoons run hotter. If your tri
 
 September is the month we would pick for the Mediterranean. The heat breaks but the rain has not yet arrived. Rome drops to 26.43 °C with 59.79 mm. Madrid drops to 26.9 °C with 23.6 mm. Athens drops to 28.3 °C with 12.3 mm. [Barcelona](/spain/barcelona/) averages 26.7 °C, though its September rain (86.1 mm) is its wettest month of the year.
 
-October is where the coastline turns. [Nice](/france/nice/) jumps from 81.0 mm in September to 127.9 mm in October and 138.4 mm in November. Lisbon goes from 38.6 mm in September to 110.6 mm in October. Florence passes 100 mm in October too (105.10 mm). Only eight stations still pass in October, and all of them are in Spain, Italy or Greece.
+October is where the coastline turns. [Nice](/france/nice/) jumps from 81.0 mm in September to 127.9 mm in October and 138.4 mm in November. Lisbon goes from 38.6 mm in September to 110.6 mm in October. Florence passes 100 mm in October too (105.10 mm). Only nine stations still pass in October: eight in Spain, Italy or Greece, and Larnaka in Cyprus.
 
 ## Scandinavia and the Low Countries: a short summer window
 
@@ -131,6 +138,16 @@ Two of the newest sheets show how far apart two neighbours can be. [Podgorica](/
 
 [Ljubljana](/slovenia/) never passes at all. It is warm enough from May to September (21.8 °C to 27.9 °C), but every one of those months has more than 110 mm, with September the wettest at 159.5 mm. The station is in the capital at 299 m, not at Lake Bled or on the coast.
 
+## The east: Bucharest in spring, Cyprus in spring and autumn
+
+The two newest European sheets sit at opposite ends of the eastern side of the map, and they pull in opposite directions.
+
+[Bucharest](/romania/) behaves like a central European capital with hotter summers. Its Baneasa table passes in May (24.1 °C, 70.4 mm), June (28.1 °C, 82.7 mm) and September (25.0 °C, 60.5 mm). July and August miss on heat, at 30.4 °C and 30.6 °C, by less than a degree. Winter is cold: the January high is 3.0 °C and the January low -5.0 °C. Every month is under 100 mm, so in Bucharest the months turn on temperature, not rain.
+
+[Cyprus](/cyprus/) is the opposite. Larnaka is too hot from June to September (30.6 °C to 33.3 °C), and almost rainless then too: those four months together get 8.4 mm. It passes in April (23.0 °C), May (27.0 °C), October (28.3 °C) and November (23.3 °C). That makes it one of only nine stations that still pass in October and one of four in November. Larnaka is on the coast at 2 m; the sheet notes that inland Nicosia (the Athalassa file) averages 37.5 °C in July and is not this table.
+
+If you are building a trip around the shoulder seasons, these two are a pair: Bucharest for May and June, Cyprus for April and October.
+
 ## The north never quite gets there, and that is fine
 
 Some places never pass the rule at all, and it is worth knowing which ones before you plan around warm weather:
@@ -145,7 +162,7 @@ That is not a reason to skip them. It is a reason to pack a layer for Scotland a
 
 ## Winter: chase the Spanish coast, not the sun
 
-No European station on our sheets passes the rule from December to February, so be honest about what a winter trip is. If you want the mildest January, the tables point to Spain and Portugal. [Valencia](/spain/valencia/) averages 16.7 °C, [Mallorca](/spain/mallorca/) 16.5 °C, Seville 16.2 °C and Lisbon 15.1 °C. Lisbon is also wet in winter (103.8 mm in January). Valencia is drier, at 38.6 mm. For December alone, with sunshine hours and rain days, see [the warmest places in Europe in December](/journal/warmest-places-in-europe-in-december/).
+No European station on our sheets passes the rule from December to February, so be honest about what a winter trip is. If you want the mildest January, the tables point to Cyprus, Spain and Portugal. [Larnaka](/cyprus/) averages 17.1 °C, the warmest January high on our European sheets, but with 83.2 mm of rain. [Valencia](/spain/valencia/) averages 16.7 °C, [Mallorca](/spain/mallorca/) 16.5 °C, Seville 16.2 °C and Lisbon 15.1 °C. Lisbon is also wet in winter (103.8 mm in January). Valencia is drier, at 38.6 mm. For December alone, with sunshine hours and rain days, see [the warmest places in Europe in December](/journal/warmest-places-in-europe-in-december/).
 
 At the other end, [Warsaw](/poland/) averages 1.0 °C in January, Kraków 1.6 °C and Prague 2.7 °C. [Helsinki](/finland/) averages -0.7 °C in January and -1.3 °C in February, and [Oslo](/norway/) 0.1 °C in January. Those are highs, not lows.
 
@@ -154,14 +171,15 @@ The one early-spring exception is Seville, the only European station that passes
 ## Our picks, month by month
 
 - **Best overall:** June.
-- **Best for the Mediterranean:** September, then late May.
+- **Best for the Mediterranean:** September, then late May. Our [best time to visit the Mediterranean](/journal/best-time-to-visit-the-mediterranean/) story runs the rule on nine coastal stations alone.
 - **Best for the UK, Ireland and Scandinavia:** July.
-- **Best winter escape:** the Valencia and Mallorca coast.
+- **Best winter escape:** Larnaka for the warmest days, the Valencia and Mallorca coast for drier ones.
+- **Best for the shoulder seasons:** Cyprus in April and October, Bucharest in May and September.
 - **Month to avoid for southern cities:** July and August, on heat alone.
 
 ## Before you go
 
-Most of the countries in this story use the euro, but not all of them. Czechia, Hungary, Poland, Switzerland, Iceland, Norway, Sweden and the United Kingdom keep their own currencies; Finland, Belgium, Slovenia and Montenegro use the euro. Our story [on which countries use the euro](/journal/countries-that-use-the-euro/) lists them. Plugs differ too. The [UK](/united-kingdom/#plugs) and [Ireland](/ireland/#plugs) use Type G, [Switzerland](/switzerland/#plugs) lists Type C and J, and [Italy](/italy/#plugs) lists C, F and L.
+Most of the countries in this story use the euro, but not all of them. Czechia, Hungary, Poland, Switzerland, Iceland, Norway, Sweden and the United Kingdom keep their own currencies; Finland, Belgium, Slovenia, Montenegro and Cyprus use the euro, and Romania uses the leu (RON). Our story [on which countries use the euro](/journal/countries-that-use-the-euro/) lists them. Plugs differ too. The [UK](/united-kingdom/#plugs), [Ireland](/ireland/#plugs) and [Cyprus](/cyprus/#plugs) use Type G (Cyprus at 240 V), [Switzerland](/switzerland/#plugs) lists Type C and J, and [Italy](/italy/#plugs) lists C, F and L.
 
 ## What this does not cover
 

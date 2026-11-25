@@ -1,0 +1,271 @@
+{
+  "order": 134,
+  "id": "cyprus",
+  "kind": "country",
+  "name": "Cyprus",
+  "countrySlug": "cyprus",
+  "countryName": "Cyprus",
+  "path": "/cyprus/",
+  "dek": "Larnaka Airport, WMO 17609, on the south coast. Drive on the left. Hot, almost rainless summers; every month under 100 mm.",
+  "paragraphs": [
+    "The reference station is Larnaka Airport, WMO 17609, height 2 m, on the south coast. The NOAA NCEI 1991–2020 collection has three Cyprus files: Larnaka Airport, Pafos Airport (WMO 17600) on the west coast, and Athalassa (WMO 17607), a radiosonde station near Nicosia at 162 m. None was averaged with Larnaka, so inland Nicosia, which the Athalassa file puts at a 37.5 °C average high in July, and the Troodos mountains are not this table.",
+    "The highest average high in the table is 33.3 °C, in August. The lowest average low is 7.6 °C, in February. The wettest month by the precipitation column is December, at 95.4 mm, and the driest is August, at 0.4 mm. No month reaches 100 mm; the file prints an annual total of 350.1 mm, and June to September together get 8.4 mm. The average high passes 30 °C from June to September and stays above 17 °C in every month. The Deputy Ministry of Tourism describes long dry summers from mid-May to mid-October and mild winters from December to February."
+  ],
+  "season": [],
+  "climate": {
+    "caption": "Reference station: Larnaka Airport, WMO 17609, at 2 m on the south coast. Pafos Airport (WMO 17600) on the west coast and Athalassa (WMO 17607) near Nicosia are the other two Cyprus files in the same collection and were not averaged with it.",
+    "stationName": "Larnaka Airport",
+    "stationId": "WMO 17609",
+    "period": "1991-2020",
+    "elevation": "2 m",
+    "latitude": "34|52|25|N",
+    "longitude": "33|37|03|E",
+    "columnRain": "Precipitation (mm)",
+    "months": [
+      {
+        "month": "January",
+        "high": "17.1",
+        "low": "7.8",
+        "rain": "83.2",
+        "precip": null
+      },
+      {
+        "month": "February",
+        "high": "17.5",
+        "low": "7.6",
+        "rain": "47.4",
+        "precip": null
+      },
+      {
+        "month": "March",
+        "high": "19.9",
+        "low": "9.1",
+        "rain": "30.3",
+        "precip": null
+      },
+      {
+        "month": "April",
+        "high": "23.0",
+        "low": "12.1",
+        "rain": "15.8",
+        "precip": null
+      },
+      {
+        "month": "May",
+        "high": "27.0",
+        "low": "16.4",
+        "rain": "11.5",
+        "precip": null
+      },
+      {
+        "month": "June",
+        "high": "30.6",
+        "low": "20.1",
+        "rain": "2.1",
+        "precip": null
+      },
+      {
+        "month": "July",
+        "high": "33.0",
+        "low": "22.6",
+        "rain": "0.7",
+        "precip": null
+      },
+      {
+        "month": "August",
+        "high": "33.3",
+        "low": "23.0",
+        "rain": "0.4",
+        "precip": null
+      },
+      {
+        "month": "September",
+        "high": "31.4",
+        "low": "20.6",
+        "rain": "5.2",
+        "precip": null
+      },
+      {
+        "month": "October",
+        "high": "28.3",
+        "low": "17.5",
+        "rain": "16.0",
+        "precip": null
+      },
+      {
+        "month": "November",
+        "high": "23.3",
+        "low": "13.2",
+        "rain": "42.0",
+        "precip": null
+      },
+      {
+        "month": "December",
+        "high": "18.9",
+        "low": "9.7",
+        "rain": "95.4",
+        "precip": null
+      }
+    ],
+    "note": "World Meteorological Organization 1991–2020 climatological standard normals, distributed by NOAA NCEI. Monthly values are copied as printed, with leading spaces removed; a value printed with no leading zero, such as -.3, is shown as -0.3. Whole-number values such as 15 are shown as 15.0.",
+    "sourceTitle": "WMO climate normals 1991-2020, Larnaka Airport (17609)",
+    "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Cyprus/CSV/LarnakaAirport_17609.csv",
+    "asOf": "2026-11-25"
+  },
+  "plugs": {
+    "label": "Plugs and voltage",
+    "value": "Type G, 240 V, 50 Hz",
+    "detail": "The IEC world-plugs list, in the copy archived on 16 August 2026, shows Cyprus at 240 V and 50 Hz with plug type G, the three-rectangular-pin plug the list also names for the UK, Ireland and Malta.",
+    "asOf": "2026-11-25",
+    "sourceTitle": "IEC World Plugs (archived 16 August 2026)",
+    "sourceUrl": "https://web.archive.org/web/20260816170935/https://www.iec.ch/world-plugs"
+  },
+  "driving": {
+    "label": "Driving side",
+    "value": "Left",
+    "detail": "The Deputy Ministry of Tourism's transportation page says: \"Traffic moves on the LEFT hand-side of the road, NOT on the right.\" The same page says road signs are placed on the left-hand side, that the motorway speed limit is 100 km/h with a lower limit of 65 km/h, that the general limit on other roads is 80 km/h, and that built-up areas are generally 50 km/h. No Road Traffic Law text was opened.",
+    "asOf": "2026-11-25",
+    "sourceTitle": "Deputy Ministry of Tourism of Cyprus, Transportation",
+    "sourceUrl": "https://www.visitcyprus.com/useful-info/transportation/"
+  },
+  "tipping": {
+    "label": "Tipping",
+    "value": "At your discretion",
+    "detail": "The Deputy Ministry of Tourism's money page says tipping is at the discretion of the customer and is a gesture appreciated by hotel and catering staff, and that taxi drivers, porters and hairdressers always appreciate a small tip. It gives no percentage.",
+    "asOf": "2026-11-25",
+    "sourceTitle": "Deputy Ministry of Tourism of Cyprus, Money & Currency",
+    "sourceUrl": "https://www.visitcyprus.com/useful-info/money-currency/"
+  },
+  "water": {
+    "label": "Tap water",
+    "value": "Cyprus says safe; CDC gives no yes-or-no line",
+    "detail": "CDC's traveler page for Cyprus, last reviewed August 25, 2026, does not say whether tap water is safe or unsafe. It says food and water standards around the world vary based on the destination, that standards may also differ within a country, and that risk may change depending on the activity. The Deputy Ministry of Tourism's health and safety page says food and drinking water quality is monitored by the Ministry of Health's health inspectors and local authorities, and that \"Food and drinking water are of high quality, absolutely safe\". The two are printed side by side and not merged; this page does not turn either into medical advice.",
+    "asOf": "2026-11-25",
+    "sources": [
+      {
+        "sourceTitle": "CDC Travelers' Health, Cyprus",
+        "sourceUrl": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/cyprus",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "Deputy Ministry of Tourism of Cyprus, Health & Safety",
+        "sourceUrl": "https://www.visitcyprus.com/useful-info/health-safety/",
+        "asOf": "2026-11-25"
+      }
+    ]
+  },
+  "currency": {
+    "label": "Currency",
+    "value": "Euro (EUR)",
+    "detail": "ISO 4217, in the list published 17 September 2026, gives Cyprus the currency name Euro and the code EUR, with 2 decimal places. The Deputy Ministry of Tourism says the Republic of Cyprus adopted the euro on 1 January 2008, replacing the Cyprus pound.",
+    "asOf": "2026-11-25",
+    "sources": [
+      {
+        "sourceTitle": "ISO 4217 currency list (SIX)",
+        "sourceUrl": "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "Deputy Ministry of Tourism of Cyprus, Money & Currency",
+        "sourceUrl": "https://www.visitcyprus.com/useful-info/money-currency/",
+        "asOf": "2026-11-25"
+      }
+    ]
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "value": "Asia/Nicosia",
+    "detail": "IANA's zone.tab and zone1970.tab each give Cyprus two rows: Asia/Nicosia, commented \"most of Cyprus\", and Asia/Famagusta, commented \"Northern Cyprus\". The sheet prints Asia/Nicosia. The Deputy Ministry of Tourism says Cyprus time is GMT +2 hours, with daylight saving time from the last Sunday of March to the last Sunday of October.",
+    "asOf": "2026-11-25",
+    "sources": [
+      {
+        "sourceTitle": "IANA tzdb zone1970.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone1970.tab",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "IANA tzdb zone.tab",
+        "sourceUrl": "https://data.iana.org/time-zones/tzdb/zone.tab",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "Deputy Ministry of Tourism of Cyprus, Time, Working Hours & Holidays",
+        "sourceUrl": "https://www.visitcyprus.com/useful-info/time-working-hours-holidays/",
+        "asOf": "2026-11-25"
+      }
+    ]
+  },
+  "entry": {
+    "label": "Official entry requirements",
+    "publisher": "Government of the Republic of Cyprus (gov.cy)",
+    "url": "https://www.gov.cy/en/information/visas/",
+    "note": "The gov.cy visas page, which explains who needs a short-stay visa and how to apply. The Deputy Ministry of Tourism adds that entry regulations apply only to the areas controlled by the Government of the Republic of Cyprus. We do not restate a visa rule.",
+    "asOf": "2026-11-25"
+  },
+  "bestTime": {
+    "intro": "Month by month for the Larnaka coast, from the Larnaka Airport table above (1991–2020, 2 m). Every month is under 100 mm, so the months turn on temperature. The rule line is our month-list test, not a recommendation: it rewards an average high of 20–30 °C and under 100 mm, and at Larnaka April, May, October and November clear both. June to September miss it on heat; December to March are just under 20 °C. The Deputy Ministry of Tourism calls summers long and dry, from mid-May to mid-October, and winters mild, from December to February, with rain and snow on the Troodos mountains. Inland Nicosia and the mountains are not this table.",
+    "months": [
+      {
+        "month": "January",
+        "note": "Average high 17.1 °C, low 7.8 °C, 83.2 mm. The lowest average high in the Larnaka Airport table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "February",
+        "note": "Average high 17.5 °C, low 7.6 °C, 47.4 mm. The lowest average low in the Larnaka Airport table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "March",
+        "note": "Average high 19.9 °C, low 9.1 °C, 30.3 mm. Fails our month-list rule on temperature: the average high is below 20 °C."
+      },
+      {
+        "month": "April",
+        "note": "Average high 23.0 °C, low 12.1 °C, 15.8 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "May",
+        "note": "Average high 27.0 °C, low 16.4 °C, 11.5 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "June",
+        "note": "Average high 30.6 °C, low 20.1 °C, 2.1 mm. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "July",
+        "note": "Average high 33.0 °C, low 22.6 °C, 0.7 mm. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "August",
+        "note": "Average high 33.3 °C, low 23.0 °C, 0.4 mm. The highest average high, the highest average low, and the driest month in the Larnaka Airport table. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "September",
+        "note": "Average high 31.4 °C, low 20.6 °C, 5.2 mm. Fails our month-list rule on heat: the average high is above 30 °C."
+      },
+      {
+        "month": "October",
+        "note": "Average high 28.3 °C, low 17.5 °C, 16.0 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "November",
+        "note": "Average high 23.3 °C, low 13.2 °C, 42.0 mm. Passes our month-list rule (average high 20–30 °C, under 100 mm)."
+      },
+      {
+        "month": "December",
+        "note": "Average high 18.9 °C, low 9.7 °C, 95.4 mm. The wettest month in the Larnaka Airport table. Fails our month-list rule on temperature: the average high is below 20 °C."
+      }
+    ],
+    "sources": [
+      {
+        "sourceTitle": "WMO climate normals 1991-2020, Larnaka Airport (17609)",
+        "sourceUrl": "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/6.6/data/0-data/Region-6-WMO-Normals-9120/Cyprus/CSV/LarnakaAirport_17609.csv",
+        "asOf": "2026-11-25"
+      },
+      {
+        "sourceTitle": "Deputy Ministry of Tourism of Cyprus, Climate & weather",
+        "sourceUrl": "https://www.visitcyprus.com/useful-info/climate-weather/",
+        "asOf": "2026-11-25"
+      }
+    ],
+    "asOf": "2026-11-25"
+  }
+}

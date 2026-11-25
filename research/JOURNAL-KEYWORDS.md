@@ -480,3 +480,21 @@ Rejected: warm places to visit in december (5,400, KD 0) — global intent, over
 Country picks: Romania (romania currency 9,900, best time 260, weather by month 140, plug type 70) and Uruguay (uruguay currency 6,600, best time 390, weather by month 390). Both have complete NCEI 1991–2020 files (Bucuresti Baneasa 15420; Carrasco 86580). Skipped this time: Cyprus (currency 1,900, weather by month 260, best time 210, plug type 90; Larnaka/Pafos/Athalassa files) and Grenada (currency 1,000, best time 590, weather by month 110; Maurice Bishop 78958) — next in line.
 
 Site unit: the Caribbean hurricane-season story now targets best time to visit the caribbean (1,600, KD 0) and best time to go to the caribbean (1,600, KD 0): new title, 13 stations instead of 8 (Cayman Islands, Barbados, Curaçao, US Virgin Islands, Antigua added), a month-by-month count table, and five new advisory rows. Same URL.
+
+## 25 November 2026
+
+No new DataForSEO pull. The DATAFORSEO_LOGIN / DATAFORSEO_PASSWORD environment variables were not set on the box this morning, so no call was made ($0.00). Picks use the 24 November pull above (and the 21 November pull for the Mediterranean variants), both still current to within a day.
+
+### Pick, 25 November 2026
+
+13. **best time to visit the mediterranean** — 320, KD 0, informational (24 November pull; 390 in the 21 November pull). Variants in the same cluster: best time to visit mediterranean (320, KD 0), mediterranean weather by month (210, KD 5). URL: /journal/best-time-to-visit-the-mediterranean/.
+
+Why: with the new Cyprus sheet the site has nine Mediterranean coastal stations (Barcelona, Valencia, Palma, Nice, Roma Fiumicino, Napoli Capodichino, Venezia Tessera, Athens Elliniko, Larnaka), enough for a sea-wide answer that no single page gives: May, June and September each pass at eight, October at seven, August at three, and the east (Larnaka, Athens) peaks in May and October rather than June. Links to all nine sheets, all 12 month lists, the plug and drive-on-the-left lists, and the Europe, December, euro, 112 and tipping stories.
+
+No cannibalization: the 21 November note rejected this keyword as overlapping the Europe story. It no longer does: the Europe story counts 40 stations across the whole continent (including Oslo, Helsinki, Reykjavík and inland capitals) and answers "June"; the Mediterranean story uses only the nine coastal stations, answers "May, June or September, and October in the east", and the Europe story's one-line "best for the Mediterranean" pick is consistent with it. No sheet or list targets the Mediterranean as a region. Red team: Athens is a 1955–2010 HNMS table and is flagged; Naples (May, July) and Venice (March) have blank months and are not rated in them; Venice is Adriatic and is labelled so; no Turkey, Israel, Egypt, Tunisia, Malta, Crete or Dalmatian coastal table, and the story says so; no sea temperatures, crowds, prices or cruise schedules, so "mediterranean cruise best time of year" (480) is not targeted.
+
+Rejected: do i need a voltage converter for europe (390, KD 0) — still a good candidate, answerable from the plug list and the IEC voltages, but it sits closer to the "no converters" line and needs a sourced statement on dual-voltage chargers; best time to visit the greek islands (210, KD 4) — only Athens and an empty Santorini sheet, no island table; best time to visit scandinavia (720) — still no Denmark sheet; best time to visit southeast asia (720) — Vietnam and Bali still have no climate table.
+
+Country picks: Cyprus (cyprus currency 1,900, weather by month 260, best time 210, plug type 90, does cyprus drive on the left 50; Larnaka Airport 17609) and Grenada (grenada currency 1,000, best time 590, weather by month 110; Maurice Bishop 78958). Both have complete NCEI 1991–2020 files.
+
+Site unit: Romania and Cyprus added to the Europe best-time story (40 rated stations; May 20→22, June 27→28, September 19→20, April, October and November each +1, and a new section on Bucharest and Cyprus), and Cyprus added to the warmest-places-in-Europe-in-December ranking, where Larnaka (18.9 °C) goes to first place (39 stations).

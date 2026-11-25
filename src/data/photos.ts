@@ -1072,4 +1072,20 @@ export const photos: Record<string, PhotoCredit> = {
     licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
     page: "https://commons.wikimedia.org/wiki/File:Colonia_del_Sacramento3_-_Uruguay.jpg",
   },
+  "cyprus": {
+    src: "/photos/cyprus.jpg",
+    alt: "Fishing boats and yachts in Paphos harbour, Cyprus",
+    artist: "Anatoliy Smaga",
+    license: "CC BY-SA 4.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Boats_in_Paphos_harbour_1.JPG",
+  },
+  "grenada": {
+    src: "/photos/grenada.jpg",
+    alt: "The Carenage harbour at dusk, St. George's, Grenada",
+    artist: "Ramakrishna Reddy Yekulla",
+    license: "CC BY-SA 3.0",
+    licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+    page: "https://commons.wikimedia.org/wiki/File:The_Carenage,_St_George%27s,_Grenada.jpg",
+  },
 };
